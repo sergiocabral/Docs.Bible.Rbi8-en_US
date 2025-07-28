@@ -1,0 +1,244 @@
+include::./index.adoc[]
+
+[[v42-6-0]]
+=== According to Luke, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v42-6-1]]
+
+^<<v42-6-1,1>>^ Now on a sabbath he happened to be passing through grainfields, and his disciples were plucking and eating the heads of grain, rubbing them with their hands.
+
+[[v42-6-2]]
+
+^<<v42-6-2,2>>^ At this some of the Pharisees said: “Why are YOU doing what is not lawful on the sabbath?”
+
+[[v42-6-3]]
+
+^<<v42-6-3,3>>^ But Jesus said in reply to them: “Have YOU never read the very thing David did when he and the men with him got hungry?
+
+[[v42-6-4]]
+
+^<<v42-6-4,4>>^ How he entered into the house of God and received the loaves of presentation^&#42;1^ and ate and gave some to the men with him, which it is lawful for no one to eat but for the priests only?”
+
+[NOTE]
+====
+. Or, “the showbread.”
+====
+
+[[v42-6-5]]
+
+^<<v42-6-5,5>>^ And he went on to say to them: “Lord of the sabbath is what the Son of man is.”
+
+[[v42-6-6]]
+
+^<<v42-6-6,6>>^ In the course of another sabbath he entered into the synagogue and began teaching. And there was a man present whose right hand was withered.
+
+[[v42-6-7]]
+
+^<<v42-6-7,7>>^ The scribes and the Pharisees were now watching him closely to see whether he would cure on the sabbath, in order to find some way to accuse him.
+
+[[v42-6-8]]
+
+^<<v42-6-8,8>>^ He, however, knew their reasonings, yet he said to the man with the withered hand: “Get up and stand in the center.” And he rose and took his stand.
+
+[[v42-6-9]]
+
+^<<v42-6-9,9>>^ Then Jesus said to them: “I ask YOU men, Is it lawful on the sabbath to do good or to do injury, to save or to destroy a soul?”^&#42;1^
+
+[NOTE]
+====
+. Or, “a life.” Gr., psy·khenʹ; J17,​18,​22(Heb.), neʹphesh. See App 4A.
+====
+
+[[v42-6-10]]
+
+^<<v42-6-10,10>>^ And after looking around at them all, he said to the man:^&#42;1^ “Stretch out your hand.” He did so, and his hand was restored.
+
+[NOTE]
+====
+. Lit., “to him.”
+====
+
+[[v42-6-11]]
+
+^<<v42-6-11,11>>^ But they became filled with madness, and they began to talk over with one another what they might do to Jesus.
+
+[[v42-6-12]]
+
+^<<v42-6-12,12>>^ In the progress of these days he went out into the mountain to pray, and he continued the whole night in prayer to God.
+
+[[v42-6-13]]
+
+^<<v42-6-13,13>>^ But when it became day he called his disciples to him and chose from among them twelve, whom he also named apostles:
+
+[[v42-6-14]]
+
+^<<v42-6-14,14>>^ Simon, whom he also named Peter, and Andrew his brother, and James and John, and Philip and Bar·tholʹo·mew,
+
+[[v42-6-15]]
+
+^<<v42-6-15,15>>^ and Matthew and Thomas, and James &#91;the son&#93; of Al·phaeʹus, and Simon who is called “the zealous one,”^&#42;1^
+
+[NOTE]
+====
+. “Zealous one.” Or, “Zealot; Enthusiast.” Gr., Ze·lo·tenʹ.
+====
+
+[[v42-6-16]]
+
+^<<v42-6-16,16>>^ and Judas &#91;the son&#93; of James, and Judas Is·carʹi·ot, who turned traitor.
+
+[[v42-6-17]]
+
+^<<v42-6-17,17>>^ And he came down with them and took his station on a level place, and there was a great crowd of his disciples, and a great multitude of people from all of Ju·deʹa and Jerusalem and the maritime country of Tyre and Siʹdon, who came to hear him and be healed of their sicknesses.
+
+[[v42-6-18]]
+
+^<<v42-6-18,18>>^ Even those troubled with unclean spirits were cured.
+
+[[v42-6-19]]
+
+^<<v42-6-19,19>>^ And all the crowd were seeking to touch him, because power was going out of him and healing them all.
+
+[[v42-6-20]]
+
+^<<v42-6-20,20>>^ And he lifted up his eyes upon his disciples and began to say:
+“Happy^&#42;1^ are YOU poor, because YOURS is the kingdom of God.
+
+[NOTE]
+====
+. “Happy.” Gr., Ma·kaʹri·oi; Lat., be·aʹti, the basis for the term “beatitudes.”
+====
+
+[[v42-6-21]]
+
+^<<v42-6-21,21>>^ “Happy are YOU who hunger now, because YOU will be filled.
+“Happy are YOU who weep now, because YOU will laugh.
+
+[[v42-6-22]]
+
+^<<v42-6-22,22>>^ “Happy are YOU whenever men hate YOU, and whenever they exclude YOU and reproach YOU and cast out YOUR name as wicked for the sake of the Son of man.
+
+[[v42-6-23]]
+
+^<<v42-6-23,23>>^ Rejoice in that day and leap, for, look! YOUR reward is great in heaven, for those are the same things their forefathers used to do to the prophets.
+
+[[v42-6-24]]
+
+^<<v42-6-24,24>>^ “But woe to YOU rich persons, because YOU are having YOUR consolation in full.
+
+[[v42-6-25]]
+
+^<<v42-6-25,25>>^ “Woe to YOU who are filled up now, because YOU will go hungry.
+“Woe, YOU who are laughing now, because YOU will mourn and weep.
+
+[[v42-6-26]]
+
+^<<v42-6-26,26>>^ “Woe, whenever all men speak well of YOU, for things like these are what their forefathers did to the false prophets.
+
+[[v42-6-27]]
+
+^<<v42-6-27,27>>^ “But I say to YOU who are listening, Continue to love YOUR enemies, to do good to those hating YOU,
+
+[[v42-6-28]]
+
+^<<v42-6-28,28>>^ to bless those cursing YOU, to pray for those who are insulting YOU.
+
+[[v42-6-29]]
+
+^<<v42-6-29,29>>^ To him that strikes you on the one cheek, offer the other also; and from him that takes away your outer garment, do not withhold even the undergarment.
+
+[[v42-6-30]]
+
+^<<v42-6-30,30>>^ Give to everyone asking you, and from the one taking your things away do not ask &#91;them&#93; back.
+
+[[v42-6-31]]
+
+^<<v42-6-31,31>>^ “Also, just as YOU want^&#42;1^ men to do to YOU, do^&#42;2^ the same way to them.
+
+[NOTE]
+====
+. Lit., “you are willing.”
+. Lit., “be you doing.”
+====
+
+[[v42-6-32]]
+
+^<<v42-6-32,32>>^ “And if YOU love those loving YOU, of what credit is it to YOU? For even the sinners love those loving them.
+
+[[v42-6-33]]
+
+^<<v42-6-33,33>>^ And if YOU do good to those doing good to YOU, really of what credit is it to YOU? Even the sinners do the same.
+
+[[v42-6-34]]
+
+^<<v42-6-34,34>>^ Also, if YOU lend &#91;without interest&#93; to those from whom YOU hope to receive, of what credit is it to YOU? Even sinners lend &#91;without interest&#93; to sinners that they may get back as much.
+
+[[v42-6-35]]
+
+^<<v42-6-35,35>>^ To the contrary, continue to love YOUR enemies and to do good and to lend &#91;without interest&#93;, not hoping for anything back; and YOUR reward will be great, and YOU will be sons of the Most High, because he is kind toward the unthankful and wicked.
+
+[[v42-6-36]]
+
+^<<v42-6-36,36>>^ Continue becoming merciful, just as YOUR Father is merciful.
+
+[[v42-6-37]]
+
+^<<v42-6-37,37>>^ “Moreover, stop judging, and YOU will by no means be judged; and stop condemning, and YOU will by no means be condemned. Keep on releasing, and YOU will be released.
+
+[[v42-6-38]]
+
+^<<v42-6-38,38>>^ Practice giving, and people will give to YOU. They will pour into YOUR laps^&#42;1^ a fine measure, pressed down, shaken together and overflowing. For with the measure that YOU are measuring out, they will measure out to YOU in return.”
+
+[NOTE]
+====
+. Or, “bosoms.”
+====
+
+[[v42-6-39]]
+
+^<<v42-6-39,39>>^ Then he also spoke an illustration to them: “A blind man cannot guide a blind man, can he? Both will tumble into a pit, will they not?
+
+[[v42-6-40]]
+
+^<<v42-6-40,40>>^ A pupil is not above his teacher, but everyone that is perfectly instructed will be like his teacher.
+
+[[v42-6-41]]
+
+^<<v42-6-41,41>>^ Why, then, do you look at the straw that is in your brother’s eye, but do not observe the rafter that is in your own eye?
+
+[[v42-6-42]]
+
+^<<v42-6-42,42>>^ How can you say to your brother, ‘Brother, allow me to extract the straw that is in your eye,’ while you yourself are not looking at the rafter in that eye of yours? Hypocrite! First extract the rafter from your own eye, and then you will see clearly how to extract the straw that is in your brother’s eye.
+
+[[v42-6-43]]
+
+^<<v42-6-43,43>>^ “For there is not a fine tree producing rotten fruit; again there is not a rotten tree producing fine fruit.
+
+[[v42-6-44]]
+
+^<<v42-6-44,44>>^ For each tree is known by its own fruit. For example, people do not gather figs from thorns, nor do they cut grapes off a thornbush.
+
+[[v42-6-45]]
+
+^<<v42-6-45,45>>^ A good man brings forth good out of the good treasure of his heart, but a wicked man brings forth what is wicked out of his wicked &#91;treasure&#93;; for out of the heart’s abundance his mouth speaks.
+
+[[v42-6-46]]
+
+^<<v42-6-46,46>>^ “Why, then, do YOU call me ‘Lord! Lord!’ but do not do the things I say?
+
+[[v42-6-47]]
+
+^<<v42-6-47,47>>^ Everyone that comes to me and hears my words and does them, I will show YOU whom he is like:
+
+[[v42-6-48]]
+
+^<<v42-6-48,48>>^ He is like a man building a house, who dug and went down deep and laid a foundation upon the rock-mass. Consequently, when a flood arose, the river dashed against that house, but was not strong enough to shake it, because of its being well built.
+
+[[v42-6-49]]
+
+^<<v42-6-49,49>>^ On the other hand, he who hears and does not do, is like a man who built a house upon the ground without a foundation. Against it the river dashed, and immediately it collapsed, and the ruin of that house became great.”
+
+'''
+
+xref:042-luke/042-luke-005.adoc#v42-5-0[&#60; Capítulo Anterior] | <<v42-6-0,Topo>> | xref:042-luke/042-luke-007.adoc#v42-7-0[Próximo Capítulo &#62;]

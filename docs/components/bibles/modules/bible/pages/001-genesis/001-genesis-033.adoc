@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v1-33-0]]
+=== Genesis, 33
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-33-1]]
+
+^<<v1-33-1,1>>^ In time Jacob raised his eyes and looked, and here Eʹsau was coming and with him four hundred men. Consequently he divided off the children to Leʹah and to Rachel and to the two maidservants,
+
+[[v1-33-2]]
+
+^<<v1-33-2,2>>^ and he put the maidservants and their children foremost and Leʹah and her children after them and Rachel and Joseph to the rear of them.
+
+[[v1-33-3]]
+
+^<<v1-33-3,3>>^ And he himself passed on ahead of them and proceeded to bow down to the earth seven times until he got near to his brother.
+
+[[v1-33-4]]
+
+^<<v1-33-4,4>>^ And Eʹsau went running to meet him, and he began to embrace him and fall upon his neck and kiss him,^&#42;1^ and they burst into tears.
+
+[NOTE]
+====
+. “And kiss him,” MSamLXXBagsterVg. In M this expression is marked with extraordinary points by the Sopherim, evidently to show that the Sopherim thought the words should be omitted. The ftns of BHK and BHS suggest that they were likely added to the text. See App 2A.
+====
+
+[[v1-33-5]]
+
+^<<v1-33-5,5>>^ Then he raised his eyes and saw the women and the children and said: “Who are these with you?” to which he said: “The children with whom God has favored your servant.”
+
+[[v1-33-6]]
+
+^<<v1-33-6,6>>^ At that the maidservants came forward, they and their children, and bowed down;
+
+[[v1-33-7]]
+
+^<<v1-33-7,7>>^ and Leʹah too came forward, and her children, and they bowed down, and afterward Joseph came forward, and Rachel, and they bowed down.
+
+[[v1-33-8]]
+
+^<<v1-33-8,8>>^ He now said: “What do you mean by all^&#42;1^ this camp of travelers that I have met?” To this he said: “In order to find favor in the eyes of my lord.”
+
+[NOTE]
+====
+. Lit., “Who to you is all?”
+====
+
+[[v1-33-9]]
+
+^<<v1-33-9,9>>^ Then Eʹsau said: “I have a great many, my brother. Let continue yours what is yours.”
+
+[[v1-33-10]]
+
+^<<v1-33-10,10>>^ However, Jacob said: “No, please. If, now, I have found favor in your eyes, then you must take my gift at my hand, because in harmony with its purpose I have seen your face as though seeing God’s face in that you received me with pleasure.
+
+[[v1-33-11]]
+
+^<<v1-33-11,11>>^ Take, please, the gift conveying my blessing which was brought to you, because God has favored me and because I have everything.” And he continued to urge him, so that he took it.
+
+[[v1-33-12]]
+
+^<<v1-33-12,12>>^ Later on he said: “Let us pull out and go, and let me go in advance of you.”
+
+[[v1-33-13]]
+
+^<<v1-33-13,13>>^ But he said to him: “My lord is aware that the children are delicate and sheep and cattle that are giving suck are in my charge, and should they drive them too quickly for one day, then the whole flock will certainly die.
+
+[[v1-33-14]]
+
+^<<v1-33-14,14>>^ Let my lord, please, pass on ahead of his servant, but may I myself continue the journey at my leisure according to the pace of the livestock that is before me and according to the pace of the children until I shall come to my lord at Seʹir.”
+
+[[v1-33-15]]
+
+^<<v1-33-15,15>>^ Then Eʹsau said: “Let me, please, put at your disposal some of the people who are with me.” To this he said: “Why this? Let me find favor in the eyes of my lord.”
+
+[[v1-33-16]]
+
+^<<v1-33-16,16>>^ So on that day Eʹsau turned back on his way to Seʹir.
+
+[[v1-33-17]]
+
+^<<v1-33-17,17>>^ And Jacob pulled out for Sucʹcoth,^&#42;1^ and he proceeded to build himself a house and for his herd he made booths. That was why he called the name of the place Sucʹcoth.
+
+[NOTE]
+====
+. Meaning “Booths; Covered Stalls.”
+====
+
+[[v1-33-18]]
+
+^<<v1-33-18,18>>^ In time Jacob came safe and sound to the city of Sheʹchem, which is in the land of Caʹnaan, while he was coming from Padʹdan-aʹram; and he pitched camp in front of the city.
+
+[[v1-33-19]]
+
+^<<v1-33-19,19>>^ Then he acquired a tract of the field where he pitched his tent at the hand of the sons of Haʹmor the father of Sheʹchem, for a hundred pieces of money.^&#42;1^
+
+[NOTE]
+====
+. Lit., “a hundred qesi·tahʹ.” A money unit of unknown value.
+====
+
+[[v1-33-20]]
+
+^<<v1-33-20,20>>^ After that he set up there an altar and called it God the God of Israel.^&#42;1^
+
+[NOTE]
+====
+. “God the God of Israel.” Or, “God is the God of Israel.” Heb., ʼEl ʼElo·hehʹ Yis·ra·ʼelʹ.
+====
+
+'''
+
+xref:001-genesis/001-genesis-032.adoc#v1-32-0[&#60; Capítulo Anterior] | <<v1-33-0,Topo>> | xref:001-genesis/001-genesis-034.adoc#v1-34-0[Próximo Capítulo &#62;]

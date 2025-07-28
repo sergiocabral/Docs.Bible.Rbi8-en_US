@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v11-4-0]]
+=== The First of Kings, 4
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v11-4-1]]
+
+^<<v11-4-1,1>>^ And King Solʹo·mon continued king over all Israel.
+
+[[v11-4-2]]
+
+^<<v11-4-2,2>>^ And these are the princes^&#42;1^ that he had: Az·a·riʹah^&#42;2^ the son of Zaʹdok, the priest;
+
+[NOTE]
+====
+. “The princes.” Heb., has·sa·rimʹ; Lat., prinʹci·pes.
+. Heb., ʽAzar·yaʹhu.
+====
+
+[[v11-4-3]]
+
+^<<v11-4-3,3>>^ El·i·horʹeph and A·hiʹjah, the sons of Shiʹsha, secretaries; Je·hoshʹa·phat the son of A·hiʹlud, the recorder;^&#42;1^
+
+[NOTE]
+====
+. Or, “remembrancer.”
+====
+
+[[v11-4-4]]
+
+^<<v11-4-4,4>>^ and Be·naiʹah the son of Je·hoiʹa·da was over the army, and Zaʹdok and A·biʹa·thar were priests;
+
+[[v11-4-5]]
+
+^<<v11-4-5,5>>^ and Az·a·riʹah the son of Nathan was over the deputies, and Zaʹbud the son of Nathan was a priest, the friend of the king;
+
+[[v11-4-6]]
+
+^<<v11-4-6,6>>^ and A·hiʹshar was over the household, and Ad·o·niʹram the son of Abʹda, over those conscripted for forced labor.
+
+[[v11-4-7]]
+
+^<<v11-4-7,7>>^ And Solʹo·mon had twelve deputies over all Israel, and they provided the king and his household with food. It would devolve upon each one to provide the food one month in the year.
+
+[[v11-4-8]]
+
+^<<v11-4-8,8>>^ And these were their names: The son of Hur, in the mountainous region of Eʹphra·im;
+
+[[v11-4-9]]
+
+^<<v11-4-9,9>>^ the son of Deʹker, in Maʹkaz and in Sha·alʹbim and Beth-sheʹmesh and Eʹlon-beth-haʹnan;
+
+[[v11-4-10]]
+
+^<<v11-4-10,10>>^ the son of Heʹsed, in A·rubʹboth (he had Soʹcoh and all the land of Heʹpher);
+
+[[v11-4-11]]
+
+^<<v11-4-11,11>>^ the son of A·binʹa·dab, all the mountain ridge of Dor (Taʹphath, Solʹo·mon’s daughter, herself became his wife);
+
+[[v11-4-12]]
+
+^<<v11-4-12,12>>^ Baʹa·na the son of A·hiʹlud, in Taʹa·nach and Me·gidʹdo and all Beth-sheʹan, which is beside Zarʹe·than below Jezʹre·el, from Beth-sheʹan to Aʹbel-me·hoʹlah to the region of Jokʹme·am;
+
+[[v11-4-13]]
+
+^<<v11-4-13,13>>^ the son of Geʹber, in Raʹmoth-gilʹe·ad (he had the tent villages of Jaʹir^&#42;1^ the son of Ma·nasʹseh, which are in Gilʹe·ad; he had the region of Arʹgob, which is in Baʹshan: sixty large cities with wall and copper bar);
+
+[NOTE]
+====
+. Or, “he had Havvoth-jair.”
+====
+
+[[v11-4-14]]
+
+^<<v11-4-14,14>>^ A·hinʹa·dab the son of Idʹdo, in Ma·ha·naʹim;
+
+[[v11-4-15]]
+
+^<<v11-4-15,15>>^ A·himʹa·az, in Naphʹta·li (he, too, took Basʹe·math, Solʹo·mon’s daughter, as a wife);
+
+[[v11-4-16]]
+
+^<<v11-4-16,16>>^ Baʹa·na the son of Huʹshai, in Ashʹer and Be·aʹloth;
+
+[[v11-4-17]]
+
+^<<v11-4-17,17>>^ Je·hoshʹa·phat the son of Pa·ruʹah, in Isʹsa·char;
+
+[[v11-4-18]]
+
+^<<v11-4-18,18>>^ Shimʹe·i the son of Eʹla, in Benjamin;
+
+[[v11-4-19]]
+
+^<<v11-4-19,19>>^ Geʹber the son of Uʹri, in the land of Gilʹe·ad, the land of Siʹhon the king of the Amʹor·ites, and of Og the king of Baʹshan, and there was one deputy &#91;over all the other deputies&#93; that were in the land.
+
+[[v11-4-20]]
+
+^<<v11-4-20,20>>^ Judah and Israel were many, like the grains of sand that are by the sea for multitude, eating and drinking and rejoicing.^&#42;1^
+
+[NOTE]
+====
+. M ends chapter 4 here.
+====
+
+[[v11-4-21]]
+
+^<<v11-4-21,21>>^ As for Solʹo·mon, he proved to be ruler over all the kingdoms from the River^&#42;1^ to the land of the Phi·lisʹtines and to the boundary of Egypt. They were bringing gifts and serving Solʹo·mon all the days of his life.
+
+[NOTE]
+====
+. That is, the Euphrates.
+====
+
+[[v11-4-22]]
+
+^<<v11-4-22,22>>^ And Solʹo·mon’s food for each day^&#42;1^ regularly proved to be thirty cor^&#42;2^ measures of fine flour and sixty cor measures of flour,
+
+[NOTE]
+====
+. Lit., “Solomon’s bread for one day.”
+. A cor equaled 220 L (200 dry qt). See Eze 45:14.
+====
+
+[[v11-4-23]]
+
+^<<v11-4-23,23>>^ ten fat cattle and twenty pastured cattle and a hundred sheep, besides some stags and gazelles and roebucks and fattened cuckoos.
+
+[[v11-4-24]]
+
+^<<v11-4-24,24>>^ For he was holding in subjection everything this side of the River, from Tiphʹsah to Gaʹza, even all the kings this side of the River; and peace itself became his in every region of his, all around.^&#42;1^
+
+[NOTE]
+====
+. “And peace itself became his at the instance of all his servants all around,” many Heb. mss and editions.
+====
+
+[[v11-4-25]]
+
+^<<v11-4-25,25>>^ And Judah and Israel continued to dwell in security, everyone under his own vine and under his own fig tree, from Dan to Beʹer-sheʹba, all the days of Solʹo·mon.
+
+[[v11-4-26]]
+
+^<<v11-4-26,26>>^ And Solʹo·mon came to have forty thousand stalls of horses for his chariots and twelve thousand horsemen.
+
+[[v11-4-27]]
+
+^<<v11-4-27,27>>^ And these deputies supplied food to King Solʹo·mon and everyone approaching the table of King Solʹo·mon, each one in his month. They left nothing lacking.
+
+[[v11-4-28]]
+
+^<<v11-4-28,28>>^ And the barley and the straw for the horses and for the teams of horses they kept bringing to wherever the place might prove to be, each one according to his commission.
+
+[[v11-4-29]]
+
+^<<v11-4-29,29>>^ And God^&#42;1^ continued giving Solʹo·mon wisdom and understanding^&#42;2^ in very great measure and a broadness of heart, like the sand that is upon the seashore.
+
+[NOTE]
+====
+. “God,” MSyVg; TLXXSyHexapla, “Jehovah.”
+. Or, “discernment.”
+====
+
+[[v11-4-30]]
+
+^<<v11-4-30,30>>^ And Solʹo·mon’s wisdom was vaster than the wisdom of all the Orientals^&#42;1^ and than all the wisdom of Egypt.
+
+[NOTE]
+====
+. Lit., “all the sons of the East.”
+====
+
+[[v11-4-31]]
+
+^<<v11-4-31,31>>^ And he was wiser than any other man,^&#42;1^ than Eʹthan the Ezʹra·hite and Heʹman and Calʹcol and Darʹda the sons of Maʹhol; and his fame^&#42;2^ came to be in all the nations all around.
+
+[NOTE]
+====
+. Or, “mankind.” Lit., “the earthling man.” Heb., ha·ʼa·dhamʹ.
+. Lit., “name.”
+====
+
+[[v11-4-32]]
+
+^<<v11-4-32,32>>^ And he could speak three thousand proverbs, and his songs came to be a thousand and five.^&#42;1^
+
+[NOTE]
+====
+. “A thousand and five,” MSyVg; LXXVg12 mss, “five thousand.”
+====
+
+[[v11-4-33]]
+
+^<<v11-4-33,33>>^ And he would speak about the trees, from the cedar that is in Lebʹa·non to the hyssop that is coming forth on the wall; and he would speak about the beasts and about the flying creatures and about the moving things and about the fishes.
+
+[[v11-4-34]]
+
+^<<v11-4-34,34>>^ And they kept coming from all the peoples to hear Solʹo·mon’s wisdom, even from all the kings of the earth who had heard of his wisdom.
+
+'''
+
+xref:011-1-kings/011-1-kings-003.adoc#v11-3-0[&#60; Capítulo Anterior] | <<v11-4-0,Topo>> | xref:011-1-kings/011-1-kings-005.adoc#v11-5-0[Próximo Capítulo &#62;]

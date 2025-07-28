@@ -1,0 +1,66 @@
+include::./index.adoc[]
+
+[[v19-126-0]]
+=== Psalms, 126
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents._
+
+[[v19-126-1]]
+
+^<<v19-126-1,1>>^ When Jehovah gathered back the captive ones^&#42;1^ of Zion,
+We became like those who were dreaming.
+
+[NOTE]
+====
+. Or, “the captivity; the body of captives.”
+====
+
+[[v19-126-2]]
+
+^<<v19-126-2,2>>^ At that time our mouth came to be filled with laughter,
+And our tongue with a joyful cry.
+At that time they proceeded to say among the nations:
+“Jehovah has done a great thing in what he has done with them.”^&#42;1^
+
+[NOTE]
+====
+. Or, “Jehovah has done great things for them.”
+====
+
+[[v19-126-3]]
+
+^<<v19-126-3,3>>^ Jehovah has done a great thing in what he has done with us.^&#42;1^
+We have become joyful.
+
+[NOTE]
+====
+. See vs 2 ftn.
+====
+
+[[v19-126-4]]
+
+^<<v19-126-4,4>>^ Do gather back, O Jehovah, our company of captives,^&#42;1^
+Like streambeds in the Negʹeb.^&#42;2^
+
+[NOTE]
+====
+. Or, “our captivity.”
+. Or, “the south.”
+====
+
+[[v19-126-5]]
+
+^<<v19-126-5,5>>^ Those sowing seed with tears
+Will reap even with a joyful cry.
+
+[[v19-126-6]]
+
+^<<v19-126-6,6>>^ The one that without fail goes forth, even weeping,
+Carrying along a bagful of seed,
+Will without fail come in with a joyful cry,
+Carrying along his sheaves.
+
+'''
+
+xref:019-psalm/019-psalm-125.adoc#v19-125-0[&#60; Capítulo Anterior] | <<v19-126-0,Topo>> | xref:019-psalm/019-psalm-127.adoc#v19-127-0[Próximo Capítulo &#62;]

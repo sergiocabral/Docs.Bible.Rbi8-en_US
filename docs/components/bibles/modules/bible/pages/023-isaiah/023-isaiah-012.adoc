@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v23-12-0]]
+=== Isaiah, 12
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-12-1]]
+
+^<<v23-12-1,1>>^ And in that day you will be sure to say: “I shall thank you, O Jehovah, for &#91;although&#93; you got incensed at me, your anger gradually turned back, and you proceeded to comfort me.
+
+[[v23-12-2]]
+
+^<<v23-12-2,2>>^ Look! God^&#42;1^ is my salvation. I shall trust and be in no dread; for Jah^&#42;2^ Jehovah^&#42;3^ is my strength and &#91;my&#93;^&#42;4^ might,^&#42;5^ and he came to be the salvation of me.”
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+. “Jah.” Heb., Yah. See Ex 15:2 ftn, “Jah”; Ps 68:4 ftn.
+. “Jah Jehovah.” Heb., Yah Yehwahʹ. This combination occurs only here and in 26:4.
+. “My,” 1QIsaLXXSyVg and two Heb. mss.
+. Or, “melody.” LXXVg, “praise.” See Ex 15:2 ftn, “Might.”
+====
+
+[[v23-12-3]]
+
+^<<v23-12-3,3>>^ With exultation YOU people will be certain to draw water out of the springs of salvation.
+
+[[v23-12-4]]
+
+^<<v23-12-4,4>>^ And in that day YOU will certainly say: “Give thanks to Jehovah, YOU people! Call upon his name. Make known among the peoples his dealings. Make mention that his name is put on high.
+
+[[v23-12-5]]
+
+^<<v23-12-5,5>>^ Make melody to Jehovah, for he has done surpassingly. This is made known in all the earth.^&#42;1^
+
+[NOTE]
+====
+. Or, “the land.” Heb., ha·ʼaʹrets.
+====
+
+[[v23-12-6]]
+
+^<<v23-12-6,6>>^ “Cry out shrilly and shout for joy, O you inhabitress^&#42;1^ of Zion, for great in the midst of you^&#42;2^ is the Holy One of Israel.”
+
+[NOTE]
+====
+. Or, “population,” fem. sing., considered collectively as a woman.
+. “You,” fem., that is, “inhabitress of Zion.”
+====
+
+'''
+
+xref:023-isaiah/023-isaiah-011.adoc#v23-11-0[&#60; Capítulo Anterior] | <<v23-12-0,Topo>> | xref:023-isaiah/023-isaiah-013.adoc#v23-13-0[Próximo Capítulo &#62;]

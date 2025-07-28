@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v1-10-0]]
+=== Genesis, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-10-1]]
+
+^<<v1-10-1,1>>^ And this is the history of Noah’s sons, Shem, Ham and Jaʹpheth.
+Now sons began to be born to them after the deluge.
+
+[[v1-10-2]]
+
+^<<v1-10-2,2>>^ The sons of Jaʹpheth were Goʹmer and Maʹgog and Maʹda·i and Jaʹvan and Tuʹbal and Meʹshech and Tiʹras.
+
+[[v1-10-3]]
+
+^<<v1-10-3,3>>^ And the sons of Goʹmer were Ashʹke·naz and Riʹphath and To·garʹmah.
+
+[[v1-10-4]]
+
+^<<v1-10-4,4>>^ And the sons of Jaʹvan were E·liʹshah and Tarʹshish, Kitʹtim and Doʹda·nim.^&#42;1^
+
+[NOTE]
+====
+. “Rodanim,” SamLXX. See 1Ch 1:7 ftn, “Rodanim.”
+====
+
+[[v1-10-5]]
+
+^<<v1-10-5,5>>^ From these the population of the isles^&#42;1^ of the nations was spread about in their lands, each according to its tongue, according to their families, by their nations.
+
+[NOTE]
+====
+. Lit., “From these the isles (coastlands).”
+====
+
+[[v1-10-6]]
+
+^<<v1-10-6,6>>^ And the sons of Ham were Cush and Mizʹra·im and Put and Caʹnaan.
+
+[[v1-10-7]]
+
+^<<v1-10-7,7>>^ And the sons of Cush were Seʹba and Havʹi·lah and Sabʹtah and Raʹa·mah and Sabʹte·ca.
+And the sons of Raʹa·mah were Sheʹba and Deʹdan.
+
+[[v1-10-8]]
+
+^<<v1-10-8,8>>^ And Cush became father to Nimʹrod. He made the start in becoming a mighty one^&#42;1^ in the earth.
+
+[NOTE]
+====
+. “A mighty one.” Heb., gib·borʹ. This word occurs first in 6:4, next in this vs, then twice in vs 9.
+====
+
+[[v1-10-9]]
+
+^<<v1-10-9,9>>^ He displayed himself a mighty hunter^&#42;1^ in opposition to^&#42;2^ Jehovah. That is why there is a saying: “Just like Nimʹrod a mighty hunter in opposition to Jehovah.”
+
+[NOTE]
+====
+. Lit., “mighty one in hunting.”
+. Lit., “in front of,” but in the sense of defiance of and opposition to, as in the case of the same expression in Nu 16:2; Jos 7:12, 13; 1Ch 14:8; 2Ch 14:10; Job 23:4. Heb., liph·nehʹ; Gr., e·nan·tiʹon, generally “against.”
+====
+
+[[v1-10-10]]
+
+^<<v1-10-10,10>>^ And the beginning of his kingdom came to be Baʹbel^&#42;1^ and Eʹrech and Acʹcad and Calʹneh, in the land of Shiʹnar.
+
+[NOTE]
+====
+. “Babel,” MSamSy; LXXVg, “Babylon.”
+====
+
+[[v1-10-11]]
+
+^<<v1-10-11,11>>^ Out of that land he went forth into As·syrʹi·a and set himself to building Ninʹe·veh and Re·hoʹboth-Ir and Caʹlah
+
+[[v1-10-12]]
+
+^<<v1-10-12,12>>^ and Reʹsen between Ninʹe·veh and Caʹlah: this is the great city.
+
+[[v1-10-13]]
+
+^<<v1-10-13,13>>^ And Mizʹra·im became father to Luʹdim and Anʹa·mim and Le·haʹbim and Naph·tuʹhim
+
+[[v1-10-14]]
+
+^<<v1-10-14,14>>^ and Path·ruʹsim and Cas·luʹhim (from among whom the Phi·lisʹtines went forth) and Caphʹto·rim.
+
+[[v1-10-15]]
+
+^<<v1-10-15,15>>^ And Caʹnaan became father to Siʹdon his firstborn and Heth
+
+[[v1-10-16]]
+
+^<<v1-10-16,16>>^ and the Jebʹu·site and the Amʹor·ite and the Girʹga·shite
+
+[[v1-10-17]]
+
+^<<v1-10-17,17>>^ and the Hiʹvite and the Arkʹite and the Siʹnite
+
+[[v1-10-18]]
+
+^<<v1-10-18,18>>^ and the Arʹvad·ite and the Zemʹa·rite and the Haʹmath·ite; and afterward the families of the Caʹnaan·ite were scattered.
+
+[[v1-10-19]]
+
+^<<v1-10-19,19>>^ So the boundary of the Caʹnaan·ite came to be from Siʹdon as far as Geʹrar, near Gaʹza, as far as Sodʹom and Go·morʹrah and Adʹmah and Ze·boiʹim, near Laʹsha.^&#42;1^
+
+[NOTE]
+====
+. “Lasha,” traditionally identified with Callirrhoe, on the eastern shore of the Dead Sea.
+====
+
+[[v1-10-20]]
+
+^<<v1-10-20,20>>^ These were the sons of Ham according to their families, according to their tongues, in their lands, by their nations.
+
+[[v1-10-21]]
+
+^<<v1-10-21,21>>^ And to Shem, the forefather of all the sons of Eʹber, the brother of Jaʹpheth the oldest, there was also progeny born.
+
+[[v1-10-22]]
+
+^<<v1-10-22,22>>^ The sons of Shem were Eʹlam and Asʹshur and Ar·pachʹshad and Lud and Aʹram.
+
+[[v1-10-23]]
+
+^<<v1-10-23,23>>^ And the sons of Aʹram were Uz and Hul and Geʹther and Mash.
+
+[[v1-10-24]]
+
+^<<v1-10-24,24>>^ And Ar·pachʹshad became father to Sheʹlah, and Sheʹlah became father to Eʹber.
+
+[[v1-10-25]]
+
+^<<v1-10-25,25>>^ And to Eʹber there were two sons born. The name of the one was Peʹleg,^&#42;1^ because in his days the earth^&#42;2^ was divided; and the name of his brother was Jokʹtan.
+
+[NOTE]
+====
+. Meaning “Division; Stream.”
+. Or, “earth’s population.”
+====
+
+[[v1-10-26]]
+
+^<<v1-10-26,26>>^ And Jokʹtan became father to Al·moʹdad and Sheʹleph and Ha·zar·maʹveth and Jeʹrah
+
+[[v1-10-27]]
+
+^<<v1-10-27,27>>^ and Ha·doʹram and Uʹzal and Dikʹlah
+
+[[v1-10-28]]
+
+^<<v1-10-28,28>>^ and Oʹbal and A·bimʹa·el and Sheʹba
+
+[[v1-10-29]]
+
+^<<v1-10-29,29>>^ and Oʹphir and Havʹi·lah and Joʹbab; all these were the sons of Jokʹtan.
+
+[[v1-10-30]]
+
+^<<v1-10-30,30>>^ And their place of dwelling came to extend from Meʹsha as far as Seʹphar, the mountainous region of the East.
+
+[[v1-10-31]]
+
+^<<v1-10-31,31>>^ These were the sons of Shem according to their families, according to their tongues, in their lands, according to their nations.
+
+[[v1-10-32]]
+
+^<<v1-10-32,32>>^ These were the families of the sons of Noah according to their family descents, by their nations, and from these the nations were spread about in the earth after the deluge.
+
+'''
+
+xref:001-genesis/001-genesis-009.adoc#v1-9-0[&#60; Capítulo Anterior] | <<v1-10-0,Topo>> | xref:001-genesis/001-genesis-011.adoc#v1-11-0[Próximo Capítulo &#62;]

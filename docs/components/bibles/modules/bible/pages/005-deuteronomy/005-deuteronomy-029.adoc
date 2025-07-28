@@ -1,0 +1,168 @@
+include::./index.adoc[]
+
+[[v5-29-0]]
+=== Deuteronomy, 29
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-29-1]]
+
+^<<v5-29-1,1>>^ These are the words of the covenant that Jehovah commanded Moses to conclude with the sons of Israel in the land of Moʹab aside from the covenant that he had concluded with them in Hoʹreb.^&#42;1^
+
+[NOTE]
+====
+. MSamLXX end chapter 28 here, with this as vs 69.
+====
+
+[[v5-29-2]]
+
+^<<v5-29-2,2>>^ And Moses proceeded to call all Israel and to say to them: “YOU were the ones seeing all that Jehovah did before YOUR eyes in the land of Egypt to Pharʹaoh and all his servants and all his land,
+
+[[v5-29-3]]
+
+^<<v5-29-3,3>>^ the great provings that your eyes saw, those great signs and miracles.
+
+[[v5-29-4]]
+
+^<<v5-29-4,4>>^ And yet Jehovah^&#42;1^ has not given YOU a heart^&#42;2^ to know and eyes to see and ears to hear down to this day.
+
+[NOTE]
+====
+. See App 1C §1.
+. Or, “mind.”
+====
+
+[[v5-29-5]]
+
+^<<v5-29-5,5>>^ ‘While I kept guiding YOU forty years in the wilderness, YOUR garments did not wear out upon YOU, and your sandal did not wear out upon your foot.
+
+[[v5-29-6]]
+
+^<<v5-29-6,6>>^ Bread YOU did not eat, and wine and intoxicating liquor YOU did not drink, in order that YOU might know that I am Jehovah YOUR God.’
+
+[[v5-29-7]]
+
+^<<v5-29-7,7>>^ Eventually YOU came to this place, and Siʹhon the king of Heshʹbon and Og the king of Baʹshan proceeded to come out to meet us in battle, but we defeated them.
+
+[[v5-29-8]]
+
+^<<v5-29-8,8>>^ After that we took their land and gave it as an inheritance to the Reuʹben·ites and the Gadʹites and half the tribe of the Ma·nasʹsites.
+
+[[v5-29-9]]
+
+^<<v5-29-9,9>>^ So YOU must keep the words of this covenant and do them, in order that YOU may make everything YOU will do turn out well.
+
+[[v5-29-10]]
+
+^<<v5-29-10,10>>^ “YOU are all of YOU stationed today before Jehovah^&#42;1^ YOUR God, the heads of YOUR tribes,^&#42;2^ YOUR older men and YOUR officers, every man of Israel,
+
+[NOTE]
+====
+. See App 1C §1.
+. According to LXXSy; MSam, “your heads, your tribes”; Vg, “your princes and tribes.”
+====
+
+[[v5-29-11]]
+
+^<<v5-29-11,11>>^ YOUR little ones, YOUR wives, and your alien resident who is in the midst of your camp, from the gatherer^&#42;1^ of your wood to the drawer of your water,
+
+[NOTE]
+====
+. Or, “cutter.”
+====
+
+[[v5-29-12]]
+
+^<<v5-29-12,12>>^ in order for you to enter into the covenant of Jehovah your God and his oath, which Jehovah your God is concluding with you today;
+
+[[v5-29-13]]
+
+^<<v5-29-13,13>>^ for the purpose of establishing you today as his people and that he may prove himself your God, just as he has promised you and just as he has sworn to your forefathers Abraham, Isaac and Jacob.
+
+[[v5-29-14]]
+
+^<<v5-29-14,14>>^ “Now it is not with YOU alone that I am concluding this covenant and this oath,^&#42;1^
+
+[NOTE]
+====
+. See Ge 24:41 ftn.
+====
+
+[[v5-29-15]]
+
+^<<v5-29-15,15>>^ but it is with him who is here standing with us today before Jehovah our God and with those who are not here with us today;
+
+[[v5-29-16]]
+
+^<<v5-29-16,16>>^ (for YOU yourselves well know how we dwelt in the land of Egypt and how we passed through the midst of the nations through whom YOU passed.
+
+[[v5-29-17]]
+
+^<<v5-29-17,17>>^ And YOU used to see their disgusting things and their dungy idols, wood and stone, silver and gold, that were with them;)
+
+[[v5-29-18]]
+
+^<<v5-29-18,18>>^ that there may not be among YOU a man or a woman or a family or a tribe whose heart is turning today away from Jehovah our God to go and serve the gods of those nations; that there may not be among YOU a root bearing the fruit of a poisonous plant and wormwood.
+
+[[v5-29-19]]
+
+^<<v5-29-19,19>>^ “And it must occur that when someone has heard the words of this oath, and he has blessed himself in his heart, saying, ‘I shall come to have peace, although I shall walk in the stubbornness of my heart,’ with the intention of sweeping away the well-watered one along with the thirsty ones,
+
+[[v5-29-20]]
+
+^<<v5-29-20,20>>^ Jehovah will not want to forgive him, but then Jehovah’s^&#42;1^ anger and his ardor will smoke against that man, and all the oath written in this book will certainly settle down on him, and Jehovah will indeed wipe out his name from under the heavens.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-29-21]]
+
+^<<v5-29-21,21>>^ So Jehovah will have to separate him for calamity from all the tribes of Israel in accord with all the oath^&#42;1^ of the covenant that is written in this book of the law.
+
+[NOTE]
+====
+. Or, “oath-bound curse,” because the Heb. modifier “written” is sing. Lit., “(oath-bound) curses.” See vs 20.
+====
+
+[[v5-29-22]]
+
+^<<v5-29-22,22>>^ “And the future generation, YOUR sons who will rise up after YOU, will be bound to say, also the foreigner who will come from a distant land, even &#91;when&#93; they have seen the plagues of that land and its maladies with which Jehovah has sickened it,
+
+[[v5-29-23]]
+
+^<<v5-29-23,23>>^ sulphur and salt and burning, so that its whole land will not be sown, nor sprout, nor will any vegetation spring up in it, like the overthrow of Sodʹom and Go·morʹrah, Adʹmah and Ze·boiʹim, which Jehovah overthrew in his anger and in his wrath;
+
+[[v5-29-24]]
+
+^<<v5-29-24,24>>^ yes, all the nations will be bound to say, ‘Why did Jehovah do like this to this land? Why the heat of this great anger?’
+
+[[v5-29-25]]
+
+^<<v5-29-25,25>>^ Then they will have to say, ‘It was because they abandoned the covenant of Jehovah the God of their forefathers, which he concluded with them when he brought them out of the land of Egypt.
+
+[[v5-29-26]]
+
+^<<v5-29-26,26>>^ And they proceeded to go and serve other gods and to bow down to them, gods that they had not known and he had not apportioned to them.
+
+[[v5-29-27]]
+
+^<<v5-29-27,27>>^ Then Jehovah’s anger blazed against that land by bringing upon it the whole malediction written in this book.
+
+[[v5-29-28]]
+
+^<<v5-29-28,28>>^ Hence Jehovah uprooted them from off their soil in anger and rage and great indignation and threw them into another land as at this day.’
+
+[[v5-29-29]]
+
+^<<v5-29-29,29>>^ “The things concealed belong to Jehovah^&#42;1^ our God, but the things revealed belong to us and to our sons^&#42;2^ to time indefinite, that we may carry out all the words of this law.
+
+[NOTE]
+====
+. See App 1C §1.
+. Or, “The things concealed belong to Jehovah our God, and the things revealed. To us and to our sons it belongs for time indefinite to carry out all the words of this law.” In Al and Leningrad B 19A the words “to us and to our sons,” and in Al the first consonant of the following Heb. preposition “to,” have extraordinary points over them. This is understood by some to mean that these words should either be omitted or not be emphasized. However, these words were written in LXXP. Fouad Inv. 266 of the first cent. B.C.E. One of the 15 cases of extraordinary points. See App 2A.
+====
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-028.adoc#v5-28-0[&#60; Capítulo Anterior] | <<v5-29-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-030.adoc#v5-30-0[Próximo Capítulo &#62;]

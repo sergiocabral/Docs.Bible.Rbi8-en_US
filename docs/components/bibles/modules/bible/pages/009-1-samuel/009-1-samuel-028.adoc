@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v9-28-0]]
+=== The First of Samuel, 28
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-28-1]]
+
+^<<v9-28-1,1>>^ And it came about in those days that the Phi·lisʹtines began to collect their camps for the army to make war against Israel. So Aʹchish said to David: “You undoubtedly know that it is with me that you should go out into the camp, you and your men.”
+
+[[v9-28-2]]
+
+^<<v9-28-2,2>>^ At that David said to Aʹchish: “That is why you yourself^&#42;1^ know what your servant is to do.” Accordingly Aʹchish said to David: “That is why guardian of my head I shall appoint you always.”
+
+[NOTE]
+====
+. “Yourself,” MSy; LXXVg, “now.”
+====
+
+[[v9-28-3]]
+
+^<<v9-28-3,3>>^ Now Samuel himself had died, and all Israel had proceeded to bewail him and bury him in Raʹmah his own city. As for Saul, he had removed the spirit mediums^&#42;1^ and the professional foretellers of events from the land.
+
+[NOTE]
+====
+. “Spirit mediums.” Human agents used as a vessel for a demon of divination. LXX, “ventriloquists”; Lat., maʹgos, “astrologers.” See Ac 16:16.
+====
+
+[[v9-28-4]]
+
+^<<v9-28-4,4>>^ Subsequently the Phi·lisʹtines collected together and came and pitched camp in Shuʹnem. So Saul collected all Israel together and they pitched camp in Gil·boʹa.
+
+[[v9-28-5]]
+
+^<<v9-28-5,5>>^ When Saul got to see the camp of the Phi·lisʹtines he became afraid, and his heart began to tremble very much.
+
+[[v9-28-6]]
+
+^<<v9-28-6,6>>^ Although Saul would inquire of Jehovah, Jehovah never answered him, either by dreams or by the Uʹrim or by the prophets.
+
+[[v9-28-7]]
+
+^<<v9-28-7,7>>^ Finally Saul said to his servants: “Seek for me a woman who is a mistress of spirit mediumship, and I will go to her and consult her.” Then his servants said to him: “Look! There is a woman who is a mistress of spirit mediumship in En-dor.”
+
+[[v9-28-8]]
+
+^<<v9-28-8,8>>^ So Saul disguised himself and clothed himself with other garments and went, he and two men with him; and they came to the woman by night. He now said: “Employ divination, please, for me by spirit mediumship and bring up for me the one whom I shall designate to you.”
+
+[[v9-28-9]]
+
+^<<v9-28-9,9>>^ However, the woman said to him: “Here you yourself well know what Saul did, how he cut off the spirit mediums and the professional foretellers of events from the land. Why, then, are you acting like a trapper against my soul to have me put to death?”
+
+[[v9-28-10]]
+
+^<<v9-28-10,10>>^ Immediately Saul swore to her by Jehovah, saying: “As Jehovah is alive, guilt for error will not befall you in this matter!”
+
+[[v9-28-11]]
+
+^<<v9-28-11,11>>^ At this the woman said: “Whom shall I bring up for you?” To this he said: “Bring up Samuel for me.”
+
+[[v9-28-12]]
+
+^<<v9-28-12,12>>^ When the woman saw “Samuel” she began crying out at the top of her voice;^&#42;1^ and the woman went on to say to Saul: “Why did you trick me, when you yourself are Saul?”
+
+[NOTE]
+====
+. Lit., “with a great voice.”
+====
+
+[[v9-28-13]]
+
+^<<v9-28-13,13>>^ But the king said to her: “Do not be afraid, but what did you see?” And the woman went on to say to Saul: “A god^&#42;1^ I saw coming up out of the earth.”
+
+[NOTE]
+====
+. “A god.” Heb., ʼelo·himʹ, pl., evidently to denote excellence and applying to an individual even though the verb “coming” is pl., for the woman saw only the form of an old man come up. See 5:7 ftn.
+====
+
+[[v9-28-14]]
+
+^<<v9-28-14,14>>^ At once he said to her: “What is his form?” to which she said: “It is an old^&#42;1^ man coming up, and he has himself covered with a sleeveless coat.” At that Saul recognized that it was “Samuel,” and he proceeded to bow low with his face to the earth and to prostrate himself.
+
+[NOTE]
+====
+. “Old,” MSyVg; LXXItLegionensis(margin), “erect.”
+====
+
+[[v9-28-15]]
+
+^<<v9-28-15,15>>^ And “Samuel” began to say to Saul: “Why have you disturbed me by having me brought up?” To this Saul said: “I am in very sore straits, as the Phi·lisʹtines are fighting against me, and God^&#42;1^ himself has departed from me and has answered me no more, either by means of the prophets or by dreams; so that I am calling you to let me know what I shall do.”
+
+[NOTE]
+====
+. “And God.” Heb., wEʼ·lo·himʹ, pl. to denote excellence, with the sing. verb “has departed.”
+====
+
+[[v9-28-16]]
+
+^<<v9-28-16,16>>^ And “Samuel” went on to say: “Why, then, do you inquire of me, when Jehovah himself has departed from you and proves to be your adversary?^&#42;1^
+
+[NOTE]
+====
+. “Your adversary,” MVg; LXXSy, “with your fellowman (neighbor).”
+====
+
+[[v9-28-17]]
+
+^<<v9-28-17,17>>^ And Jehovah will do for himself^&#42;1^ just as he spoke by means of me, and Jehovah will rip the kingdom away from your hand and give it to your fellowman David.
+
+[NOTE]
+====
+. “For himself,” M; LXXVg and five Heb. mss, “to you.”
+====
+
+[[v9-28-18]]
+
+^<<v9-28-18,18>>^ As you did not obey the voice of Jehovah, and you did not execute his burning anger against Amʹa·lek, that is why this is the thing that Jehovah will certainly do to you this day.
+
+[[v9-28-19]]
+
+^<<v9-28-19,19>>^ And Jehovah will also give Israel with you into the hand of the Phi·lisʹtines, and tomorrow you and your sons will be with me.^&#42;1^ Even the camp of Israel Jehovah will give into the hand of the Phi·lisʹtines.”
+
+[NOTE]
+====
+. According to MSyVg; LXX, “tomorrow you and your sons with you will fall.”
+====
+
+[[v9-28-20]]
+
+^<<v9-28-20,20>>^ At that Saul quickly fell down his full length to the earth and became very much afraid because of “Samuel’s” words. Also, there happened to be no power in him, because he had not eaten food the whole day and the whole night.
+
+[[v9-28-21]]
+
+^<<v9-28-21,21>>^ The woman now came to Saul and saw that he had been greatly disturbed. So she said to him: “Here your maidservant has obeyed your voice, and I proceeded to put my soul in my palm and obey the words that you spoke to me.
+
+[[v9-28-22]]
+
+^<<v9-28-22,22>>^ And now, please, you, in turn, obey the voice of your maidservant; and let me set before you a piece of bread, and you eat, that power may come to be in you, because you will go on your way.”
+
+[[v9-28-23]]
+
+^<<v9-28-23,23>>^ But he refused and said: “I am not going to eat.” However, his servants and also the woman kept urging him. Finally he obeyed their voice and rose up from the earth and sat on the couch.
+
+[[v9-28-24]]
+
+^<<v9-28-24,24>>^ Now the woman had a fattened calf in the house. So she quickly sacrificed^&#42;1^ it and took flour and kneaded dough and baked it into unfermented cakes.
+
+[NOTE]
+====
+. “Sacrificed,” MLXX.
+====
+
+[[v9-28-25]]
+
+^<<v9-28-25,25>>^ Then she served them to Saul and his servants, and they ate. After that they rose up and went away during that night.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-027.adoc#v9-27-0[&#60; Capítulo Anterior] | <<v9-28-0,Topo>> | xref:009-1-samuel/009-1-samuel-029.adoc#v9-29-0[Próximo Capítulo &#62;]

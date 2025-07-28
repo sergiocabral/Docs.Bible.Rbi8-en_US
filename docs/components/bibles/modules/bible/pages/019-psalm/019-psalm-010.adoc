@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v19-10-0]]
+=== Psalms, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_ל &#91;Laʹmedh&#93;^&#42;1^_
+
+[[v19-10-1]]
+
+^<<v19-10-1,1>>^ Why, O Jehovah, do you keep standing afar off?
+&#91;Why&#93; do you keep yourself hid^&#42;1^ in times of distress?
+
+[NOTE]
+====
+. “Keep yourself hid,” in agreement with T.
+====
+
+[[v19-10-2]]
+
+^<<v19-10-2,2>>^ In his haughtiness the wicked one hotly pursues the afflicted one;
+They get caught by the ideas that they have thought up.
+
+[[v19-10-3]]
+
+^<<v19-10-3,3>>^ For the wicked has praised himself over the selfish longing of his soul,
+And the one making undue profit has blessed himself;
+
+_נ &#91;Nun&#93;_
+
+He has disrespected Jehovah.
+
+[[v19-10-4]]
+
+^<<v19-10-4,4>>^ The wicked one according to his superciliousness^&#42;1^ makes no search;
+All his ideas are: “There is no God.”^&#42;2^
+
+[NOTE]
+====
+. Lit., “according to the height of his nose.”
+. “God.” Heb., ʼElo·himʹ.
+====
+
+[[v19-10-5]]
+
+^<<v19-10-5,5>>^ His ways keep prospering^&#42;1^ all the time.
+Your judicial decisions are high up out of his range;
+As for all those showing hostility to him, he puffs at them.
+
+[NOTE]
+====
+. “Prospering,” by a correction; M, “enduring.”
+====
+
+[[v19-10-6]]
+
+^<<v19-10-6,6>>^ He has said in his heart: “I shall not be made to totter;
+For generation after generation &#91;I shall be&#93; one who is in no calamity.”
+
+_פ &#91;Peʼ&#93;_
+
+[[v19-10-7]]
+
+^<<v19-10-7,7>>^ His mouth is full of oaths and of deceptions and of oppression.
+Under his tongue are trouble and what is hurtful.
+
+[[v19-10-8]]
+
+^<<v19-10-8,8>>^ He sits in an ambush of settlements;^&#42;1^
+From concealed places he will kill someone innocent.
+
+[NOTE]
+====
+. “Settlements,” M; by a slight change of vowel pointing, “green grass.”
+. “Someone unfortunate.” The meaning in M is uncertain. Some read this as “your military forces,” but this does not suit the context.
+====
+
+_ע &#91;ʽAʹyin&#93;_
+
+His eyes are on the lookout for someone unfortunate.^&#42;1^
+
+[NOTE]
+====
+. “Settlements,” M; by a slight change of vowel pointing, “green grass.”
+. “Someone unfortunate.” The meaning in M is uncertain. Some read this as “your military forces,” but this does not suit the context.
+====
+
+[[v19-10-9]]
+
+^<<v19-10-9,9>>^ He keeps lying in wait in the concealed place like a lion in his covert.
+He keeps lying in wait to carry off some afflicted one by force.
+He carries off the afflicted one by force when he draws his net shut.
+
+[[v19-10-10]]
+
+^<<v19-10-10,10>>^ He is crushed, he bows down,
+And the army of dejected ones^&#42;1^ has to fall into his strong &#91;claws&#93;.
+
+[NOTE]
+====
+. “The army of dejected ones.” The meaning in M is uncertain.
+====
+
+[[v19-10-11]]
+
+^<<v19-10-11,11>>^ He has said in his heart: “God has forgotten.
+He has concealed his face.
+He will certainly never see &#91;it&#93;.”
+
+_ק &#91;Qohph&#93;_
+
+[[v19-10-12]]
+
+^<<v19-10-12,12>>^ Do arise, O Jehovah. O God,^&#42;1^ lift up your hand.
+Do not forget the afflicted ones.
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+[[v19-10-13]]
+
+^<<v19-10-13,13>>^ Why is it that the wicked one has disrespected God?^&#42;1^
+He has said in his heart: “You will not require an accounting.”
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ, pl. of ʼElohʹah.
+====
+
+_ר &#91;Rehsh&#93;_
+
+[[v19-10-14]]
+
+^<<v19-10-14,14>>^ For you yourself have seen trouble and vexation.
+You keep looking on, to get &#91;them&#93; into your hand.
+To you the unfortunate one, the fatherless boy, commits &#91;himself&#93;.
+You yourself have become &#91;his&#93; helper.
+
+_ש &#91;Shin&#93;_
+
+[[v19-10-15]]
+
+^<<v19-10-15,15>>^ Break the arm of the wicked and bad one.
+May you search after his wickedness &#91;until&#93; you find no more.
+
+[[v19-10-16]]
+
+^<<v19-10-16,16>>^ Jehovah is King to time indefinite, even forever.
+The nations have perished out of his earth.
+
+_ת &#91;Taw&#93;_
+
+[[v19-10-17]]
+
+^<<v19-10-17,17>>^ The desire of the meek ones you will certainly hear, O Jehovah.
+You will prepare their heart.
+You will pay attention with your ear,
+
+[[v19-10-18]]
+
+^<<v19-10-18,18>>^ To judge the fatherless boy and the crushed one,
+That mortal man who is of the earth may no more cause trembling.^&#42;1^
+
+[NOTE]
+====
+. Or, “that mortal man may no more continue to move tremblingly out of the earth.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-009.adoc#v19-9-0[&#60; Capítulo Anterior] | <<v19-10-0,Topo>> | xref:019-psalm/019-psalm-011.adoc#v19-11-0[Próximo Capítulo &#62;]

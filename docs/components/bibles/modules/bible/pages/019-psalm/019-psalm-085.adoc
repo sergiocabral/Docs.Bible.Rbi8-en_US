@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v19-85-0]]
+=== Psalms, 85
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_For the director. Of the sons of Koʹrah. A melody._
+
+[[v19-85-1]]
+
+^<<v19-85-1,1>>^ You have taken pleasure, O Jehovah, in your land;
+You have brought back^&#42;1^ the ones taken captive of Jacob.
+
+[NOTE]
+====
+. To agree with TLXXSyVg; M, “you have returned to (with).”
+====
+
+[[v19-85-2]]
+
+^<<v19-85-2,2>>^ You have pardoned the error of your people;
+You have covered all their sin. Seʹlah.
+
+[[v19-85-3]]
+
+^<<v19-85-3,3>>^ You have controlled^&#42;1^ all your fury;
+You have turned back from the heat of your anger.
+
+[NOTE]
+====
+. Lit., “gathered in.”
+====
+
+[[v19-85-4]]
+
+^<<v19-85-4,4>>^ Gather us back,^&#42;1^ O God of our salvation,
+And break off your vexation with us.
+
+[NOTE]
+====
+. Or, “Return to us,” MT; LXXSyVg, “Bring us back.”
+====
+
+[[v19-85-5]]
+
+^<<v19-85-5,5>>^ Is it to time indefinite that you will be incensed at us?
+Will you draw out your anger to generation after generation?
+
+[[v19-85-6]]
+
+^<<v19-85-6,6>>^ Will you yourself not enliven us again,
+That your people themselves may rejoice in you?
+
+[[v19-85-7]]
+
+^<<v19-85-7,7>>^ Show us, O Jehovah, your loving-kindness,^&#42;1^
+And your salvation may you give to us.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v19-85-8]]
+
+^<<v19-85-8,8>>^ I will hear what the &#91;true&#93; God Jehovah will speak,
+For he will speak peace to his people and to his loyal ones,
+But let them not return to self-confidence.
+
+[[v19-85-9]]
+
+^<<v19-85-9,9>>^ Surely his salvation is near to those fearing him,
+For glory to reside in our land.
+
+[[v19-85-10]]
+
+^<<v19-85-10,10>>^ As for loving-kindness and trueness,^&#42;1^ they have met each other;
+Righteousness and peace—they have kissed each other.
+
+[NOTE]
+====
+. Or, “and truth.” Heb., we·ʼemethʹ.
+====
+
+[[v19-85-11]]
+
+^<<v19-85-11,11>>^ Trueness itself will sprout out of the very earth,
+And righteousness itself will look down from the very heavens.
+
+[[v19-85-12]]
+
+^<<v19-85-12,12>>^ Also, Jehovah, for his part, will give what is good,
+And our own land will give its yield.
+
+[[v19-85-13]]
+
+^<<v19-85-13,13>>^ Before him righteousness itself will walk,
+And it will make a way by his steppings.
+
+'''
+
+xref:019-psalm/019-psalm-084.adoc#v19-84-0[&#60; Capítulo Anterior] | <<v19-85-0,Topo>> | xref:019-psalm/019-psalm-086.adoc#v19-86-0[Próximo Capítulo &#62;]

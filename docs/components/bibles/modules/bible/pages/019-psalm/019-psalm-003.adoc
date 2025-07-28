@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v19-3-0]]
+=== Psalms, 3
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody of David when he was running away on account of Abʹsa·lom his son.^&#42;1^_
+
+[[v19-3-1]]
+
+^<<v19-3-1,1>>^ O Jehovah, why have my adversaries become many?
+Why are many rising up against me?
+
+[[v19-3-2]]
+
+^<<v19-3-2,2>>^ Many are saying of my soul:
+“There is no salvation for him by God.”^&#42;1^ Seʹlah.^&#42;2^
+
+[NOTE]
+====
+. “By God.” Heb., vEʼ·lo·himʹ, pl. to denote excellence or majesty. See Ge 1:1 ftn, “God.”
+. “Selah.” A Heb. technical term used in music or recitation. The meaning is uncertain.
+====
+
+[[v19-3-3]]
+
+^<<v19-3-3,3>>^ And yet you, O Jehovah, are a shield about me,
+My glory and the One lifting up my head.
+
+[[v19-3-4]]
+
+^<<v19-3-4,4>>^ With my voice I shall call to Jehovah himself,
+And he will answer me from his holy mountain.^&#42;1^ Seʹlah.
+
+[NOTE]
+====
+. See 2:6 ftn.
+====
+
+[[v19-3-5]]
+
+^<<v19-3-5,5>>^ As for me, I will lie down that I may sleep;
+I shall certainly awake, for Jehovah himself keeps supporting me.
+
+[[v19-3-6]]
+
+^<<v19-3-6,6>>^ I shall not be afraid of ten thousands of people
+Who have set themselves in array against me round about.
+
+[[v19-3-7]]
+
+^<<v19-3-7,7>>^ Do arise, O Jehovah! Save me, O my God!
+For you will have to strike all my enemies on the jaw.
+The teeth of wicked ones you will have to break.
+
+[[v19-3-8]]
+
+^<<v19-3-8,8>>^ Salvation belongs to Jehovah.
+Your blessing is upon your people. Seʹlah.
+
+'''
+
+xref:019-psalm/019-psalm-002.adoc#v19-2-0[&#60; Capítulo Anterior] | <<v19-3-0,Topo>> | xref:019-psalm/019-psalm-004.adoc#v19-4-0[Próximo Capítulo &#62;]

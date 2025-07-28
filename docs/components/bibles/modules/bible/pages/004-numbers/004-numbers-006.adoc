@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v4-6-0]]
+=== Numbers, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-6-1]]
+
+^<<v4-6-1,1>>^ And Jehovah spoke further to Moses, saying:
+
+[[v4-6-2]]
+
+^<<v4-6-2,2>>^ “Speak to the sons of Israel and you must say to them, ‘In case a man or a woman takes a special vow to live as a Nazʹi·rite^&#42;1^ to Jehovah,
+
+[NOTE]
+====
+. Heb., na·zirʹ. Compare Ge 49:26 ftn, “Singled out.”
+====
+
+[[v4-6-3]]
+
+^<<v4-6-3,3>>^ he should keep away from wine and intoxicating liquor. He should not drink the vinegar of wine or the vinegar of intoxicating liquor, nor drink any liquid made from grapes, nor eat grapes either fresh or dried.
+
+[[v4-6-4]]
+
+^<<v4-6-4,4>>^ All the days of his Naziriteship he should not eat anything at all that is made from the wine vine, from the unripe grapes to the skins.^&#42;1^
+
+[NOTE]
+====
+. Or, “tendrils.”
+====
+
+[[v4-6-5]]
+
+^<<v4-6-5,5>>^ “‘All the days of the vow of his Naziriteship no razor should pass over his head; until the days that he should be separated to Jehovah come to the full, he should prove holy by letting the locks of the hair of his head grow.
+
+[[v4-6-6]]
+
+^<<v4-6-6,6>>^ All the days of his keeping separate to Jehovah he may not come toward any dead soul.^&#42;1^
+
+[NOTE]
+====
+. Or, “soul of someone dead.” Heb., neʹphesh meth; LXX, “deceased soul”; Sy, “soul of the dead”; Lat., morʹtu·um, “someone dead.” Compare Le 21:11 ftn; App 4A.
+====
+
+[[v4-6-7]]
+
+^<<v4-6-7,7>>^ Not even for his father or his mother or his brother or his sister may he defile himself when they die, because the sign of his Naziriteship to his God is upon his head.
+
+[[v4-6-8]]
+
+^<<v4-6-8,8>>^ “‘All the days of his Naziriteship he is holy to Jehovah.
+
+[[v4-6-9]]
+
+^<<v4-6-9,9>>^ But in case anyone dying should die quite suddenly alongside him so that he has defiled the head of his Naziriteship, he must then shave his head in the day of establishing his purification. On the seventh day he should shave it.
+
+[[v4-6-10]]
+
+^<<v4-6-10,10>>^ And on the eighth day he should bring two turtledoves or two young pigeons^&#42;1^ to the priest to the entrance of the tent of meeting.
+
+[NOTE]
+====
+. Lit., “sons of a pigeon.”
+====
+
+[[v4-6-11]]
+
+^<<v4-6-11,11>>^ And the priest must handle one as a sin offering and the other as a burnt offering and make atonement for him, since he has sinned because of the &#91;dead&#93; soul.^&#42;1^ Then he must sanctify his head on that day.
+
+[NOTE]
+====
+. Lit., “the soul,” that is, the dead soul in vs 9. Heb., han·naʹphesh; Gr., psy·khesʹ; Vg, “dead one.”
+====
+
+[[v4-6-12]]
+
+^<<v4-6-12,12>>^ And he must live as a Nazʹi·rite to Jehovah for the days of his Naziriteship, and he must bring a young ram in its first year as a guilt offering; and the former days will go uncounted because he defiled his Naziriteship.^&#42;1^
+
+[NOTE]
+====
+. Lit., “his Naziriteship has become unclean.”
+====
+
+[[v4-6-13]]
+
+^<<v4-6-13,13>>^ “‘Now this is the law about the Nazʹi·rite: On the day that the days of his Naziriteship come to the full, he will be brought^&#42;1^ to the entrance of the tent of meeting.
+
+[NOTE]
+====
+. Lit., “he will bring it,” that is, his unshorn head of his Naziriteship.
+====
+
+[[v4-6-14]]
+
+^<<v4-6-14,14>>^ And he must present as his offering to Jehovah one sound young ram in its first year as a burnt offering and one sound female lamb in its first year as a sin offering and one sound ram as a communion sacrifice,
+
+[[v4-6-15]]
+
+^<<v4-6-15,15>>^ and a basket of unfermented ring-shaped cakes of fine flour, moistened with oil, and unfermented wafers smeared with oil, and their grain offering and their drink offerings.
+
+[[v4-6-16]]
+
+^<<v4-6-16,16>>^ And the priest must present them before Jehovah and render up his sin offering and his burnt offering.
+
+[[v4-6-17]]
+
+^<<v4-6-17,17>>^ And he will render up the ram as a communion sacrifice to Jehovah along with the basket of unfermented cakes; and the priest must render up its grain offering and its drink offering.
+
+[[v4-6-18]]
+
+^<<v4-6-18,18>>^ “‘And the Nazʹi·rite must shave the head of his Naziriteship at the entrance of the tent of meeting, and he must take the hair of the head of his Naziriteship and put it upon the fire that is under the communion sacrifice.
+
+[[v4-6-19]]
+
+^<<v4-6-19,19>>^ And the priest must take a boiled shoulder from the ram and one unfermented ring-shaped cake out of the basket, and one unfermented wafer, and put them upon the palms of the Nazʹi·rite after he has had the sign of his Naziriteship shaved off.
+
+[[v4-6-20]]
+
+^<<v4-6-20,20>>^ And the priest must wave them to and fro as a wave offering before Jehovah. It is something holy for the priest, along with the breast of the wave offering and the leg of the contribution. And afterward the Nazʹi·rite may drink wine.
+
+[[v4-6-21]]
+
+^<<v4-6-21,21>>^ “‘This is the law about the Nazʹi·rite who vows—his offering to Jehovah over his Naziriteship, besides that which he can afford. According to his vow that he may make, so he should do because of the law of his Naziriteship.’”
+
+[[v4-6-22]]
+
+^<<v4-6-22,22>>^ Then Jehovah spoke to Moses, saying:
+
+[[v4-6-23]]
+
+^<<v4-6-23,23>>^ “Speak to Aaron and his sons, saying, ‘This is the way YOU should bless the sons of Israel, saying^&#42;1^ to them:
+
+[NOTE]
+====
+. “Saying.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v4-6-24]]
+
+^<<v4-6-24,24>>^ “May Jehovah bless you and keep you.
+
+[[v4-6-25]]
+
+^<<v4-6-25,25>>^ May Jehovah make his face shine toward you, and may he favor you.
+
+[[v4-6-26]]
+
+^<<v4-6-26,26>>^ May Jehovah lift up his face toward you and assign peace to you.”’
+
+[[v4-6-27]]
+
+^<<v4-6-27,27>>^ And they must place my name upon the sons of Israel, that I myself may bless them.”
+
+'''
+
+xref:004-numbers/004-numbers-005.adoc#v4-5-0[&#60; Capítulo Anterior] | <<v4-6-0,Topo>> | xref:004-numbers/004-numbers-007.adoc#v4-7-0[Próximo Capítulo &#62;]

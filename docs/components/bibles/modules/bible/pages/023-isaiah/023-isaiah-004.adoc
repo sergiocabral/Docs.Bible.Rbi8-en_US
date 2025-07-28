@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v23-4-0]]
+=== Isaiah, 4
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-4-1]]
+
+^<<v23-4-1,1>>^ And seven women will actually grab hold of one man in that day, saying: “We shall eat our own bread and wear our own mantles; only may we be called by your name^&#42;1^ to take away our reproach.”
+
+[NOTE]
+====
+. Lit., “may your name be called upon us.”
+====
+
+[[v23-4-2]]
+
+^<<v23-4-2,2>>^ In that day what Jehovah makes sprout^&#42;1^ will come to be for decoration and for glory, and the fruitage of the land^&#42;2^ will be something to be proud of and something beautiful for those of Israel who have escaped.^&#42;3^
+
+[NOTE]
+====
+. Or, “the sprouting (sprout) of Jehovah.” T, “the Messiah (Christ) of Jehovah.”
+. Or, “the earth.” Heb., ha·ʼaʹrets.
+. Lit., “what has escaped of Israel,” that is, the escaped ones.
+====
+
+[[v23-4-3]]
+
+^<<v23-4-3,3>>^ And it must occur that the ones remaining^&#42;1^ in Zion and the ones left over^&#42;2^ in Jerusalem will be said to be holy to him, everyone written down for life in Jerusalem.
+
+[NOTE]
+====
+. Lit., “what remains,” that is, the remnant.
+. Lit., “what is left over.”
+====
+
+[[v23-4-4]]
+
+^<<v23-4-4,4>>^ When Jehovah^&#42;1^ will have washed away the excrement of the daughters of Zion and he will rinse away even the bloodshed^&#42;2^ of Jerusalem from within her by the spirit of judgment and by the spirit of burning down,
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+. Or, “bloodguilt; bloody deeds.” Lit., “bloods.”
+====
+
+[[v23-4-5]]
+
+^<<v23-4-5,5>>^ Jehovah will also certainly create over every established place of Mount Zion and over her convention place a cloud by day and a smoke, and the brightness of a flaming fire by night; because over all the glory there will be a shelter.
+
+[[v23-4-6]]
+
+^<<v23-4-6,6>>^ And there will come to be a booth for a shade by day from the dry heat, and for a refuge and for a hiding place from the rainstorm and from the precipitation.
+
+'''
+
+xref:023-isaiah/023-isaiah-003.adoc#v23-3-0[&#60; Capítulo Anterior] | <<v23-4-0,Topo>> | xref:023-isaiah/023-isaiah-005.adoc#v23-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v3-3-0]]
+=== Leviticus, 3
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-3-1]]
+
+^<<v3-3-1,1>>^ “‘And if his offering is a communion sacrifice,^&#42;1^ if he is presenting it from the herd, whether a male or a female, a sound one is what he will present before Jehovah.
+
+[NOTE]
+====
+. Or, “a sacrifice of peace offerings.”
+====
+
+[[v3-3-2]]
+
+^<<v3-3-2,2>>^ And he must lay his hand upon the head of his offering, and it must be slaughtered^&#42;1^ at the entrance of the tent of meeting; and Aaron’s sons, the priests, must sprinkle the blood round about upon the altar.
+
+[NOTE]
+====
+. “He must slaughter it,” LXX.
+====
+
+[[v3-3-3]]
+
+^<<v3-3-3,3>>^ And he must present some of the communion sacrifice as an offering made by fire to Jehovah, namely, the fat that covers the intestines, even all the fat that is over the intestines,
+
+[[v3-3-4]]
+
+^<<v3-3-4,4>>^ and the two kidneys and the fat that is upon them, the same as that upon the loins. And as for the appendage upon the liver, he will remove it along with the kidneys.
+
+[[v3-3-5]]
+
+^<<v3-3-5,5>>^ And Aaron’s sons must make it smoke on the altar, upon the burnt offering that is over the wood that is on the fire, as an offering made by fire of a restful odor to Jehovah.
+
+[[v3-3-6]]
+
+^<<v3-3-6,6>>^ “‘And if his offering is from the flock for a communion sacrifice to Jehovah, a male or a female, a sound one is what he will present.
+
+[[v3-3-7]]
+
+^<<v3-3-7,7>>^ If he is presenting a young ram as his offering, then he must present it before Jehovah.
+
+[[v3-3-8]]
+
+^<<v3-3-8,8>>^ And he must lay his hand upon the head of his offering, and it must be slaughtered before the tent of meeting; and Aaron’s sons must sprinkle its blood round about upon the altar.
+
+[[v3-3-9]]
+
+^<<v3-3-9,9>>^ And from the communion sacrifice he must present its fat as an offering made by fire to Jehovah. The entire fatty tail is what he will remove near the backbone, and the fat that covers the intestines, even all the fat that is upon the intestines,
+
+[[v3-3-10]]
+
+^<<v3-3-10,10>>^ and the two kidneys and the fat that is upon them, the same as that upon the loins. And as for the appendage upon the liver, he will remove it along with the kidneys.
+
+[[v3-3-11]]
+
+^<<v3-3-11,11>>^ And the priest must make it smoke on the altar as food,^&#42;1^ an offering made by fire to Jehovah.
+
+[NOTE]
+====
+. Lit., “bread.” Heb., leʹchem.
+====
+
+[[v3-3-12]]
+
+^<<v3-3-12,12>>^ “‘And if his offering is a goat, then he must present it before Jehovah.^&#42;1^
+
+[NOTE]
+====
+. “Jehovah.” Heb., Yehwahʹ; the first-century B.C.E. papyrus 4Q LXX Levb has a Gr. transliteration of the divine name. This papyrus also reads the same in 4:27. See App 1C §5.
+====
+
+[[v3-3-13]]
+
+^<<v3-3-13,13>>^ And he must lay his hand upon its head, and it must be slaughtered before the tent of meeting; and Aaron’s sons must sprinkle its blood round about upon the altar.
+
+[[v3-3-14]]
+
+^<<v3-3-14,14>>^ And from it he must present as his offering, as an offering made by fire to Jehovah, the fat that covers the intestines, even all the fat that is upon the intestines,
+
+[[v3-3-15]]
+
+^<<v3-3-15,15>>^ and the two kidneys and the fat that is upon them, the same as that upon the loins. And as for the appendage upon the liver, he will remove it along with the kidneys.
+
+[[v3-3-16]]
+
+^<<v3-3-16,16>>^ And the priest must make them smoke upon the altar as food, an offering made by fire for a restful odor. All the fat belongs to Jehovah.
+
+[[v3-3-17]]
+
+^<<v3-3-17,17>>^ “‘It is a statute to time indefinite for YOUR generations, in all YOUR dwelling places: YOU must not eat any fat or any blood at all.’”
+
+'''
+
+xref:003-leviticus/003-leviticus-002.adoc#v3-2-0[&#60; Capítulo Anterior] | <<v3-3-0,Topo>> | xref:003-leviticus/003-leviticus-004.adoc#v3-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v6-17-0]]
+=== Joshua, 17
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v6-17-1]]
+
+^<<v6-17-1,1>>^ And the lot came to be for the tribe of Ma·nasʹseh, because he was Joseph’s firstborn, for Maʹchir the firstborn of Ma·nasʹseh, the father of Gilʹe·ad, because he was one who proved to be a man of war; and Gilʹe·ad and Baʹshan came to belong to him.
+
+[[v6-17-2]]
+
+^<<v6-17-2,2>>^ And there came to be &#91;a lot&#93;^&#42;1^ for the sons of Ma·nasʹseh who were left over according to their families, for the sons of Abi-eʹzer and the sons of Heʹlek and the sons of Asʹri·el and the sons of Sheʹchem and the sons of Heʹpher and the sons of She·miʹda. These were the sons of Ma·nasʹseh the son of Joseph, the males according to their families.
+
+[NOTE]
+====
+. “A lot,” inserted for sense. Lit., “it,” referring to “the lot” in vs 1.
+====
+
+[[v6-17-3]]
+
+^<<v6-17-3,3>>^ As for Ze·loʹphe·had the son of Heʹpher, the son of Gilʹe·ad, the son of Maʹchir, the son of Ma·nasʹseh, he proved to have, not sons, but daughters, and these were the names of his daughters: Mahʹlah and Noah, Hogʹlah, Milʹcah and Tirʹzah.
+
+[[v6-17-4]]
+
+^<<v6-17-4,4>>^ So they presented themselves before El·e·aʹzar the priest and Joshua the son of Nun and the chieftains, saying: “Jehovah it was who commanded Moses to give us an inheritance in the midst of our brothers.” Accordingly he gave them, at the order of Jehovah, an inheritance in the midst of the brothers of their father.
+
+[[v6-17-5]]
+
+^<<v6-17-5,5>>^ And there were ten allotments falling to Ma·nasʹseh apart from the land of Gilʹe·ad and Baʹshan, which were on the other side of the Jordan;
+
+[[v6-17-6]]
+
+^<<v6-17-6,6>>^ for the daughters of Ma·nasʹseh came into an inheritance in the midst of his sons; and the land of Gilʹe·ad became the property of the sons of Ma·nasʹseh who were left over.
+
+[[v6-17-7]]
+
+^<<v6-17-7,7>>^ And the boundary of Ma·nasʹseh came to be from Ashʹer to Mich·meʹthath, which is in front of Sheʹchem, and the boundary moved to the right to the inhabitants of En-Tapʹpu·ah.
+
+[[v6-17-8]]
+
+^<<v6-17-8,8>>^ The land of Tapʹpu·ah became Ma·nasʹseh’s, but Tapʹpu·ah at the boundary of Ma·nasʹseh belonged to the sons of Eʹphra·im.
+
+[[v6-17-9]]
+
+^<<v6-17-9,9>>^ And the boundary went down to the torrent valley of Kaʹnah, southward to the torrent valley of these cities of Eʹphra·im in the midst of the cities of Ma·nasʹseh, and the boundary of Ma·nasʹseh was on the north of the torrent valley, and its termination came to be at the sea.
+
+[[v6-17-10]]
+
+^<<v6-17-10,10>>^ To the south it was Eʹphra·im’s and to the north, Ma·nasʹseh’s, and the sea came to be his^&#42;1^ boundary; and on the north they reach to Ashʹer and on the east, to Isʹsa·char.
+
+[NOTE]
+====
+. “His,” M; LXXSy, “their.”
+====
+
+[[v6-17-11]]
+
+^<<v6-17-11,11>>^ And there came to belong to Ma·nasʹseh in Isʹsa·char and in Ashʹer Beth-sheʹan and its dependent towns and Ibʹle·am and its dependent towns and the inhabitants of Dor and its dependent towns and the inhabitants of En-dor and its dependent towns and the inhabitants of Taʹa·nach and its dependent towns and the inhabitants of Me·gidʹdo and its dependent towns, three of the heights.
+
+[[v6-17-12]]
+
+^<<v6-17-12,12>>^ And the sons of Ma·nasʹseh did not prove able to take possession of these cities, but the Caʹnaan·ites persisted in dwelling in this land.
+
+[[v6-17-13]]
+
+^<<v6-17-13,13>>^ And it turned out that when the sons of Israel had grown strong, they went putting the Caʹnaan·ites at forced labor, and they did not dispossess them entirely.
+
+[[v6-17-14]]
+
+^<<v6-17-14,14>>^ And the sons of Joseph proceeded to speak with Joshua, saying: “Why is it that you have given me as an inheritance one lot and one allotment, whereas I am a numerous people for the reason that Jehovah has blessed me until now?”
+
+[[v6-17-15]]
+
+^<<v6-17-15,15>>^ At this Joshua said to them: “If you are a numerous people, go your way up to the forest, and you must cut it down for yourself there in the land of the Perʹiz·zites and the Rephʹa·im, because the mountainous region of Eʹphra·im has become too narrow for you.”
+
+[[v6-17-16]]
+
+^<<v6-17-16,16>>^ Then the sons of Joseph said: “The mountainous region is not enough for us, and there are war chariots with iron scythes among all the Caʹnaan·ites dwelling in the land of the low plain, both those who are in Beth-sheʹan and its dependent towns and those who are in the low plain of Jezʹre·el.”
+
+[[v6-17-17]]
+
+^<<v6-17-17,17>>^ So Joshua said this to the house of Joseph, to Eʹphra·im and Ma·nasʹseh: “A numerous people you are, and great power is yours. You ought not to get one lot,
+
+[[v6-17-18]]
+
+^<<v6-17-18,18>>^ but the mountainous region should become yours. Because it is a forest, you must cut it down, and it must become the termination point for you. For you should drive away the Caʹnaan·ites, although they have war chariots with iron scythes^&#42;1^ and they are strong.”
+
+[NOTE]
+====
+. Lit., “war chariots of iron.”
+====
+
+'''
+
+xref:006-joshua/006-joshua-016.adoc#v6-16-0[&#60; Capítulo Anterior] | <<v6-17-0,Topo>> | xref:006-joshua/006-joshua-018.adoc#v6-18-0[Próximo Capítulo &#62;]

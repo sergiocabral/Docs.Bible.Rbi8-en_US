@@ -1,0 +1,221 @@
+include::./index.adoc[]
+
+[[v20-3-0]]
+=== Proverbs, 3
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-3-1]]
+
+^<<v20-3-1,1>>^ My son, my law do not forget, and my commandments may your heart observe,
+
+[[v20-3-2]]
+
+^<<v20-3-2,2>>^ because length of days and years of life and peace will be added^&#42;1^ to you.
+
+[NOTE]
+====
+. Lit., “they will add.” The Heb. verb is third person masc. pl. (not fem. like “law” and “commandments” in vs 1), referring to an indefinite subject.
+====
+
+[[v20-3-3]]
+
+^<<v20-3-3,3>>^ May loving-kindness^&#42;1^ and trueness^&#42;2^ themselves not leave you. Tie them about your throat. Write them upon the tablet of your heart,
+
+[NOTE]
+====
+. Or, “loyal love.”
+. Or, “and truth.” Heb., we·ʼemethʹ.
+====
+
+[[v20-3-4]]
+
+^<<v20-3-4,4>>^ and so find favor and good insight in the eyes of God^&#42;1^ and of earthling man.^&#42;2^
+
+[NOTE]
+====
+. “In the eyes of God.” Heb., beʽeh·nehʹ ʼElo·himʹ.
+. “And of earthling man.” Heb., weʼa·dhamʹ.
+====
+
+[[v20-3-5]]
+
+^<<v20-3-5,5>>^ Trust in Jehovah with all your heart and do not lean upon your own understanding.
+
+[[v20-3-6]]
+
+^<<v20-3-6,6>>^ In all your ways take notice of him, and he himself will make your paths straight.
+
+[[v20-3-7]]
+
+^<<v20-3-7,7>>^ Do not become wise in your own eyes. Fear Jehovah and turn away from bad.
+
+[[v20-3-8]]
+
+^<<v20-3-8,8>>^ May it become a healing to your navel and a refreshment^&#42;1^ to your bones.
+
+[NOTE]
+====
+. Or, “moistening.” In Ps 102:9, “drink.”
+====
+
+[[v20-3-9]]
+
+^<<v20-3-9,9>>^ Honor Jehovah with your valuable things and with the firstfruits of all your produce.
+
+[[v20-3-10]]
+
+^<<v20-3-10,10>>^ Then your stores of supply will be filled with plenty; and with new wine your own press vats will overflow.^&#42;1^
+
+[NOTE]
+====
+. Lit., “break forth.”
+====
+
+[[v20-3-11]]
+
+^<<v20-3-11,11>>^ The discipline of Jehovah, O my son, do not reject; and do not abhor his reproof,
+
+[[v20-3-12]]
+
+^<<v20-3-12,12>>^ because the one whom Jehovah loves he reproves, even as a father does a son in whom he finds pleasure.
+
+[[v20-3-13]]
+
+^<<v20-3-13,13>>^ Happy is the man that has found wisdom, and the man that gets discernment,
+
+[[v20-3-14]]
+
+^<<v20-3-14,14>>^ for having it as gain is better than having silver as gain and having it as produce than gold^&#42;1^ itself.
+
+[NOTE]
+====
+. “And . . . than gold.” Heb., u·me·cha·rutsʹ.
+====
+
+[[v20-3-15]]
+
+^<<v20-3-15,15>>^ It^&#42;1^ is more precious than corals, and all other delights of yours cannot be made equal to it.
+
+[NOTE]
+====
+. Or, “She,” referring to “wisdom” in vs 13.
+====
+
+[[v20-3-16]]
+
+^<<v20-3-16,16>>^ Length of days is in its right hand; in its left hand there are riches and glory.^&#42;1^
+
+[NOTE]
+====
+. Or, “honor.”
+====
+
+[[v20-3-17]]
+
+^<<v20-3-17,17>>^ Its ways are ways of pleasantness, and all its roadways are peace.
+
+[[v20-3-18]]
+
+^<<v20-3-18,18>>^ It is a tree of life to those taking hold of it, and those keeping fast hold of it are to be called happy.
+
+[[v20-3-19]]
+
+^<<v20-3-19,19>>^ Jehovah himself in wisdom founded the earth. He solidly fixed the heavens in discernment.
+
+[[v20-3-20]]
+
+^<<v20-3-20,20>>^ By his knowledge the watery deeps^&#42;1^ themselves were split apart, and the cloudy skies keep dripping down light rain.
+
+[NOTE]
+====
+. Or, “surging waters.” Heb., tehoh·mohthʹ. Compare Ps 33:7 ftn, “Waters”; Ps 42:7 ftn, “Deep.”
+====
+
+[[v20-3-21]]
+
+^<<v20-3-21,21>>^ My son, may they not get away from your eyes. Safeguard practical wisdom and thinking ability,
+
+[[v20-3-22]]
+
+^<<v20-3-22,22>>^ and they will prove to be life to your soul and charm to your throat.
+
+[[v20-3-23]]
+
+^<<v20-3-23,23>>^ In that case you will walk in security on your way, and even your foot will not strike against anything.
+
+[[v20-3-24]]
+
+^<<v20-3-24,24>>^ Whenever you lie down you will feel no dread; and you will certainly lie down, and your sleep must be pleasurable.
+
+[[v20-3-25]]
+
+^<<v20-3-25,25>>^ You will not need to be afraid of any sudden dreadful thing, nor of the storm upon the wicked ones, because it is coming.
+
+[[v20-3-26]]
+
+^<<v20-3-26,26>>^ For Jehovah himself will prove to be, in effect, your confidence,^&#42;1^ and he will certainly keep your foot against capture.
+
+[NOTE]
+====
+. Lit., “will prove to be in your confidence,” M; LXX, “will be on all your ways.”
+====
+
+[[v20-3-27]]
+
+^<<v20-3-27,27>>^ Do not hold back good from those to whom it is owing,^&#42;1^ when it happens to be in the power of your hand to do &#91;it&#93;.
+
+[NOTE]
+====
+. Lit., “from its owners.” Heb., mib·beʽa·lavʹ, pl. of baʹʽal.
+====
+
+[[v20-3-28]]
+
+^<<v20-3-28,28>>^ Do not say to your fellowman: “Go, and come back and tomorrow I shall give,” when there is something with you.
+
+[[v20-3-29]]
+
+^<<v20-3-29,29>>^ Do not fabricate against your fellowman anything bad, when he is dwelling in a sense of security with you.
+
+[[v20-3-30]]
+
+^<<v20-3-30,30>>^ Do not quarrel with a man^&#42;1^ without cause, if he has rendered no bad to you.
+
+[NOTE]
+====
+. Or, “an earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v20-3-31]]
+
+^<<v20-3-31,31>>^ Do not become envious of the man^&#42;1^ of violence, nor choose any of his ways.
+
+[NOTE]
+====
+. “Of the man of.” Heb., beʼishʹ.
+====
+
+[[v20-3-32]]
+
+^<<v20-3-32,32>>^ For the devious person is a detestable thing to Jehovah, but His intimacy is with the upright ones.
+
+[[v20-3-33]]
+
+^<<v20-3-33,33>>^ The curse of Jehovah is on the house of the wicked one, but the abiding place of the righteous ones he blesses.
+
+[[v20-3-34]]
+
+^<<v20-3-34,34>>^ If it has to do with ridiculers, he himself will deride; but to the meek ones he will show favor.
+
+[[v20-3-35]]
+
+^<<v20-3-35,35>>^ Honor^&#42;1^ is what the wise ones will come to possess, but the stupid ones are exalting dishonor.
+
+[NOTE]
+====
+. Or, “Glory.”
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-002.adoc#v20-2-0[&#60; Capítulo Anterior] | <<v20-3-0,Topo>> | xref:020-proverbs/020-proverbs-004.adoc#v20-4-0[Próximo Capítulo &#62;]

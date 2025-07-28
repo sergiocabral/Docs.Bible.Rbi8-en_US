@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v2-2-0]]
+=== Exodus, 2
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-2-1]]
+
+^<<v2-2-1,1>>^ Meantime, a certain man of the house of Leʹvi went ahead and took a daughter of Leʹvi.
+
+[[v2-2-2]]
+
+^<<v2-2-2,2>>^ And the woman became pregnant and brought a son to birth. When she saw how good-looking he was, she kept him concealed for three lunar months.
+
+[[v2-2-3]]
+
+^<<v2-2-3,3>>^ When she was no longer able to conceal him, she then took for him an ark^&#42;1^ of papyrus and coated it with bitumen and pitch and put the child in it and put it among the reeds by the bank of the river Nile.
+
+[NOTE]
+====
+. Or, “chest.” Heb., teʹvath.
+====
+
+[[v2-2-4]]
+
+^<<v2-2-4,4>>^ Further, his sister stationed herself at a distance to find out what would be done with him.
+
+[[v2-2-5]]
+
+^<<v2-2-5,5>>^ After a while Pharʹaoh’s daughter came down to bathe in the Nile River, and her female attendants were walking by the side of the Nile River. And she caught sight of the ark in the middle of the reeds. Immediately she sent her slave girl that she might get it.
+
+[[v2-2-6]]
+
+^<<v2-2-6,6>>^ When she opened it she got to see the child, and here the boy was weeping. At that she felt compassion for him, although she said: “This is one of the children of the Hebrews.”
+
+[[v2-2-7]]
+
+^<<v2-2-7,7>>^ Then his sister said to Pharʹaoh’s daughter: “Shall I go and specially call for you a nursing woman from the Hebrew women that she may nurse the child for you?”
+
+[[v2-2-8]]
+
+^<<v2-2-8,8>>^ So Pharʹaoh’s daughter said to her: “Go!” At once the maiden went and called the child’s mother.
+
+[[v2-2-9]]
+
+^<<v2-2-9,9>>^ Pharʹaoh’s daughter then said to her: “Take this child with you and nurse him for me, and I myself shall give you your wages.” Accordingly the woman took the child and nursed him.
+
+[[v2-2-10]]
+
+^<<v2-2-10,10>>^ And the child grew up. Then she brought him to Pharʹaoh’s daughter, so that he became a son to her; and she proceeded to call his name Moses^&#42;1^ and to say: “It is because I have drawn him out of the water.”
+
+[NOTE]
+====
+. Meaning “Drawn Out; Saved Out of Water.” See Josephus’ Jewish Antiquities, Book II, chapter 9, ¶6.
+====
+
+[[v2-2-11]]
+
+^<<v2-2-11,11>>^ Now it came about in those days, as Moses was becoming strong, that he went out to his brothers that he might look at the burdens they were bearing; and he caught sight of a certain Egyptian striking a certain Hebrew of his brothers.
+
+[[v2-2-12]]
+
+^<<v2-2-12,12>>^ So he turned this way and that and saw there was nobody in sight. Then he struck the Egyptian down and hid him in the sand.
+
+[[v2-2-13]]
+
+^<<v2-2-13,13>>^ However, he went out on the following day and here there were two Hebrew men struggling with each other. So he said to the one in the wrong: “Why should you strike your companion?”
+
+[[v2-2-14]]
+
+^<<v2-2-14,14>>^ At this he said: “Who appointed you as a prince and judge over us? Are you intending to kill me^&#42;1^ just as you killed the Egyptian?”^&#42;2^ Moses now got afraid and said: “Surely the thing has become known!”
+
+[NOTE]
+====
+. Lit., “Are you talking so as to kill me?” Heb., hal·hor·gheʹni ʼat·tahʹ ʼo·merʹ?
+. LXX and Ac 7:28 add “yesterday.”
+====
+
+[[v2-2-15]]
+
+^<<v2-2-15,15>>^ Subsequently Pharʹaoh got to hear of this thing, and he attempted to kill Moses; but Moses ran away from Pharʹaoh that he might dwell in^&#42;1^ the land of Midʹi·an; and he took a seat by a well.
+
+[NOTE]
+====
+. “That he might dwell in,” M; Sy, “and he departed for.”
+====
+
+[[v2-2-16]]
+
+^<<v2-2-16,16>>^ Now the priest of Midʹi·an had seven daughters, and as usual they came and drew water and filled the gutters to water their father’s flock.
+
+[[v2-2-17]]
+
+^<<v2-2-17,17>>^ And as usual the shepherds came and drove them away. At this Moses got up and helped the women out^&#42;1^ and watered their flock.
+
+[NOTE]
+====
+. Or, “and saved the women.” Lit., “and saved them [fem.].” Heb., wai·yoh·shi·ʽanʹ; the first occurrence of this verb, here referring to Moses.
+====
+
+[[v2-2-18]]
+
+^<<v2-2-18,18>>^ So when they came home to Reuʹel their father he exclaimed: “How is it YOU have come home so quickly today?”
+
+[[v2-2-19]]
+
+^<<v2-2-19,19>>^ To this they said: “A certain Egyptian delivered us out of the hand of the shepherds and, besides, he actually drew water for us that he might water the flock.”
+
+[[v2-2-20]]
+
+^<<v2-2-20,20>>^ Then he said to his daughters: “But where is he? Why is it that YOU have left the man behind? Call him, that he may eat bread.”
+
+[[v2-2-21]]
+
+^<<v2-2-21,21>>^ After that Moses showed willingness to dwell with the man, and he gave Zip·poʹrah his daughter to Moses.
+
+[[v2-2-22]]
+
+^<<v2-2-22,22>>^ Later she bore a son and he called his name Gerʹshom,^&#42;1^ because, he said: “An alien resident I have come to be in a foreign land.”
+
+[NOTE]
+====
+. Meaning “An Alien Resident There.”
+====
+
+[[v2-2-23]]
+
+^<<v2-2-23,23>>^ And it came about during those many days that the king of Egypt finally died, but the sons of Israel continued to sigh because of the slavery^&#42;1^ and to cry out in complaint, and their cry for help kept going up to the &#91;true&#93; God because of the slavery.
+
+[NOTE]
+====
+. Or, “servitude.”
+====
+
+[[v2-2-24]]
+
+^<<v2-2-24,24>>^ In time God heard their groaning and God remembered his covenant with Abraham, Isaac and Jacob.
+
+[[v2-2-25]]
+
+^<<v2-2-25,25>>^ So God looked on the sons of Israel and God took notice.^&#42;1^
+
+[NOTE]
+====
+. “God took notice,” M; Vg, “he took notice of them”; LXX, “he became known to them.”
+====
+
+'''
+
+xref:002-exodus/002-exodus-001.adoc#v2-1-0[&#60; Capítulo Anterior] | <<v2-2-0,Topo>> | xref:002-exodus/002-exodus-003.adoc#v2-3-0[Próximo Capítulo &#62;]

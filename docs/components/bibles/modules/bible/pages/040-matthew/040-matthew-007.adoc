@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v40-7-0]]
+=== According to Matthew, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v40-7-1]]
+
+^<<v40-7-1,1>>^ “Stop judging that YOU may not be judged;
+
+[[v40-7-2]]
+
+^<<v40-7-2,2>>^ for with what judgment YOU are judging, YOU will be judged; and with the measure that YOU are measuring out, they will measure out to YOU.
+
+[[v40-7-3]]
+
+^<<v40-7-3,3>>^ Why, then, do you look at the straw in your brother’s eye, but do not consider the rafter in your own eye?
+
+[[v40-7-4]]
+
+^<<v40-7-4,4>>^ Or how can you say to your brother, ‘Allow me to extract the straw from your eye’; when, look! a rafter is in your own eye?
+
+[[v40-7-5]]
+
+^<<v40-7-5,5>>^ Hypocrite! First extract the rafter from your own eye, and then you will see clearly how to extract the straw from your brother’s eye.
+
+[[v40-7-6]]
+
+^<<v40-7-6,6>>^ “Do not give what is holy to dogs, neither throw YOUR pearls before swine, that they may never trample them under their feet and turn around and rip YOU open.
+
+[[v40-7-7]]
+
+^<<v40-7-7,7>>^ “Keep on asking, and it will be given YOU; keep on seeking, and YOU will find; keep on knocking, and it will be opened to YOU.
+
+[[v40-7-8]]
+
+^<<v40-7-8,8>>^ For everyone asking receives, and everyone seeking finds, and to everyone knocking it will be opened.
+
+[[v40-7-9]]
+
+^<<v40-7-9,9>>^ Indeed, who is the man among YOU whom his son asks for bread—he will not hand him a stone, will he?
+
+[[v40-7-10]]
+
+^<<v40-7-10,10>>^ Or, perhaps, he will ask for a fish—he will not hand him a serpent, will he?
+
+[[v40-7-11]]
+
+^<<v40-7-11,11>>^ Therefore, if YOU, although being wicked, know how to give good gifts to YOUR children, how much more so will YOUR Father who is in the heavens give good things to those asking him?
+
+[[v40-7-12]]
+
+^<<v40-7-12,12>>^ “All things, therefore, that YOU want men to do to YOU, YOU also must likewise do to them; this, in fact, is what the Law and the Prophets mean.
+
+[[v40-7-13]]
+
+^<<v40-7-13,13>>^ “Go in through the narrow gate; because broad and spacious is the road leading off into destruction,^&#42;1^ and many are the ones going in through it;
+
+[NOTE]
+====
+. Or, “annihilation.” Gr., a·poʹlei·an.
+====
+
+[[v40-7-14]]
+
+^<<v40-7-14,14>>^ whereas narrow is the gate and cramped the road leading off into life, and few are the ones finding it.
+
+[[v40-7-15]]
+
+^<<v40-7-15,15>>^ “Be on the watch for the false prophets that come to YOU in sheep’s covering, but inside they are ravenous wolves.
+
+[[v40-7-16]]
+
+^<<v40-7-16,16>>^ By their fruits YOU will recognize them. Never do people gather grapes from thorns or figs from thistles, do they?
+
+[[v40-7-17]]
+
+^<<v40-7-17,17>>^ Likewise every good tree produces fine fruit, but every rotten tree produces worthless fruit;
+
+[[v40-7-18]]
+
+^<<v40-7-18,18>>^ a good tree cannot bear worthless fruit, neither can a rotten tree produce fine fruit.
+
+[[v40-7-19]]
+
+^<<v40-7-19,19>>^ Every tree not producing fine fruit gets cut down and thrown into the fire.
+
+[[v40-7-20]]
+
+^<<v40-7-20,20>>^ Really, then, by their fruits YOU will recognize those &#91;men&#93;.
+
+[[v40-7-21]]
+
+^<<v40-7-21,21>>^ “Not everyone saying to me, ‘Lord, Lord,’ will enter into the kingdom of the heavens, but the one doing the will of my Father who is in the heavens will.
+
+[[v40-7-22]]
+
+^<<v40-7-22,22>>^ Many will say to me in that day, ‘Lord, Lord, did we not prophesy in your name, and expel demons in your name, and perform many powerful works^&#42;1^ in your name?’
+
+[NOTE]
+====
+. Or, “many miracles.”
+====
+
+[[v40-7-23]]
+
+^<<v40-7-23,23>>^ And yet then I will confess to them: I never knew YOU! Get away from me, YOU workers of lawlessness.
+
+[[v40-7-24]]
+
+^<<v40-7-24,24>>^ “Therefore everyone that hears these sayings of mine and does them will be likened to a discreet man, who built his house upon the rock-mass.
+
+[[v40-7-25]]
+
+^<<v40-7-25,25>>^ And the rain poured down and the floods came and the winds blew and lashed against that house, but it did not cave in, for it had been founded upon the rock-mass.
+
+[[v40-7-26]]
+
+^<<v40-7-26,26>>^ Furthermore, everyone hearing these sayings of mine and not doing them will be likened to a foolish man, who built his house upon the sand.
+
+[[v40-7-27]]
+
+^<<v40-7-27,27>>^ And the rain poured down and the floods came and the winds blew and struck against that house and it caved in, and its collapse was great.”
+
+[[v40-7-28]]
+
+^<<v40-7-28,28>>^ Now when Jesus finished these sayings, the effect was that the crowds were astounded at his way of teaching;
+
+[[v40-7-29]]
+
+^<<v40-7-29,29>>^ for he was teaching them as a person having authority, and not as their scribes.
+
+'''
+
+xref:040-matthew/040-matthew-006.adoc#v40-6-0[&#60; Capítulo Anterior] | <<v40-7-0,Topo>> | xref:040-matthew/040-matthew-008.adoc#v40-8-0[Próximo Capítulo &#62;]

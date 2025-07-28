@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v10-9-0]]
+=== The Second of Samuel, 9
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v10-9-1]]
+
+^<<v10-9-1,1>>^ And David proceeded to say: “Is there yet anyone that is left over of the house of Saul, that I may exercise loving-kindness toward him for the sake of Jonʹa·than?”
+
+[[v10-9-2]]
+
+^<<v10-9-2,2>>^ Now the house of Saul had a servant whose name was Ziʹba. So they called him to David, and the king then said to him: “Are you Ziʹba?” to which he said: “I am your servant.”
+
+[[v10-9-3]]
+
+^<<v10-9-3,3>>^ And the king went on to say: “Is there nobody of the house of Saul anymore, that I may exercise toward him the loving-kindness of God?” At this Ziʹba said to the king: “There is yet a son of Jonʹa·than, lame in the feet.”
+
+[[v10-9-4]]
+
+^<<v10-9-4,4>>^ Then the king said to him: “Where is he?” So Ziʹba said to the king: “Look! He is in the house of Maʹchir the son of Amʹmi·el at Lo-deʹbar.”
+
+[[v10-9-5]]
+
+^<<v10-9-5,5>>^ Immediately King David sent and took him from the house of Maʹchir the son of Amʹmi·el at Lo-deʹbar.
+
+[[v10-9-6]]
+
+^<<v10-9-6,6>>^ When Me·phibʹo·sheth the son of Jonʹa·than the son of Saul came in to David, he at once fell upon his face and prostrated himself. Then David said: “Me·phibʹo·sheth!” to which he said: “Here is your servant.”
+
+[[v10-9-7]]
+
+^<<v10-9-7,7>>^ And David went on to say to him: “Do not be afraid, for without fail I shall exercise loving-kindness toward you for the sake of Jonʹa·than your father; and I must return to you all the field of Saul your grandfather,^&#42;1^ and you yourself will eat bread at my table constantly.”
+
+[NOTE]
+====
+. Or, “father.”
+====
+
+[[v10-9-8]]
+
+^<<v10-9-8,8>>^ At that he prostrated himself and said: “What is your servant, that you have turned your face to the dead dog such as I am?”
+
+[[v10-9-9]]
+
+^<<v10-9-9,9>>^ The king now called Ziʹba, Saul’s attendant, and said to him: “Everything that had come to belong to Saul and to all his house I do give to the grandson^&#42;1^ of your master.
+
+[NOTE]
+====
+. Or, “son.”
+====
+
+[[v10-9-10]]
+
+^<<v10-9-10,10>>^ And you must cultivate the ground for him, you and your sons and your servants, and you must do the gathering in, and it must serve as food^&#42;1^ for &#91;those belonging to&#93; the grandson^&#42;2^ of your master,^&#42;3^ and they must eat; but Me·phibʹo·sheth himself, the grandson of your master, will eat bread at my table constantly.”
+Now Ziʹba had fifteen sons and twenty servants.
+
+[NOTE]
+====
+. Lit., “bread.”
+. “For the household,” LXXL.
+. “Your master.” Heb., ʼadho·neyʹkha, pl. of ʼa·dhohnʹ, to denote excellence.
+====
+
+[[v10-9-11]]
+
+^<<v10-9-11,11>>^ So Ziʹba said to the king: “In accord with all that my lord the king commands for his servant is the way that your servant will do; but Me·phibʹo·sheth is eating at my table^&#42;1^ like one of the sons of the king.”
+
+[NOTE]
+====
+. “My table,” MVgc; LXX, “David’s table”; Sy, “table of the king.”
+====
+
+[[v10-9-12]]
+
+^<<v10-9-12,12>>^ Now Me·phibʹo·sheth had a young son^&#42;1^ whose name was Miʹca, and all those dwelling in the house of Ziʹba were servants to Me·phibʹo·sheth.
+
+[NOTE]
+====
+. Lit., “a little (small) son.”
+====
+
+[[v10-9-13]]
+
+^<<v10-9-13,13>>^ And Me·phibʹo·sheth himself was dwelling in Jerusalem, for it was constantly at the table of the king that he was eating; and he was lame in both of his feet.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-008.adoc#v10-8-0[&#60; Capítulo Anterior] | <<v10-9-0,Topo>> | xref:010-2-samuel/010-2-samuel-010.adoc#v10-10-0[Próximo Capítulo &#62;]

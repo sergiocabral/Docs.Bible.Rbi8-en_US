@@ -1,0 +1,237 @@
+include::./index.adoc[]
+
+[[v5-1-0]]
+=== Deuteronomy, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-1-1]]
+
+^<<v5-1-1,1>>^ These are the words^&#42;1^ that Moses spoke to all Israel in the region of the Jordan in the wilderness, on the desert plains^&#42;2^ in front of Suph,^&#42;3^ between Paʹran and Toʹphel and Laʹban and Ha·zeʹroth and Diʹza·hab,
+
+[NOTE]
+====
+. “These are the words (things).” Heb., ʼElʹleh had·deva·rimʹ. In Heb. this fifth book of Moses is named after these opening words. LXXVg name this book “Deuteronomy” (Gr., Deu·te·ro·noʹmi·on, meaning “Second Law,” that is, an explanation of the Law [see vs 5]; Lat., Deu·te·ro·noʹmi·um). Compare 17:18 ftn.
+. Or, “the Arabah.” The part of the rift valley that runs south to the Gulf of ‘Aqaba at the Red Sea.
+. “Suph,” MSamSy; LXXVg, “the Red Sea.” Evidently LXXVg thought yam, “sea,” had been separated from Suph, so that it originally read Yam Suph, “Red Sea,” and if so, the reference would be to that part of the Sea known as the Gulf of ‘Aqaba.
+====
+
+[[v5-1-2]]
+
+^<<v5-1-2,2>>^ it being eleven days from Hoʹreb by the way of Mount Seʹir to Kaʹdesh-barʹne·a.
+
+[[v5-1-3]]
+
+^<<v5-1-3,3>>^ And it came about that in the fortieth year, in the eleventh month, on the first of the month, Moses spoke to the sons of Israel according to all that Jehovah had commanded him for them,
+
+[[v5-1-4]]
+
+^<<v5-1-4,4>>^ after his defeating Siʹhon the king of the Amʹor·ites, who was dwelling in Heshʹbon, and Og the king of Baʹshan, who was dwelling in Ashʹta·roth, in Edʹre·i.
+
+[[v5-1-5]]
+
+^<<v5-1-5,5>>^ In the region of the Jordan in the land of Moʹab Moses undertook to explain this law, saying:
+
+[[v5-1-6]]
+
+^<<v5-1-6,6>>^ “Jehovah our God spoke to us in Hoʹreb, saying, ‘YOU have dwelt long enough in this mountainous region.
+
+[[v5-1-7]]
+
+^<<v5-1-7,7>>^ Turn and set out on YOUR way and go into the mountainous region of the Amʹor·ites and to all their neighbors in the Arʹa·bah,^&#42;1^ the mountainous region and the She·pheʹlah^&#42;2^ and the Negʹeb^&#42;3^ and the seacoast, the land of the Caʹnaan·ites, and Lebʹa·non, up to the great river, the river Eu·phraʹtes.
+
+[NOTE]
+====
+. Or, “the desert plains.”
+. Or, “the lowland.”
+. Or, “the South,” that is, the southern part of the Promised Land.
+====
+
+[[v5-1-8]]
+
+^<<v5-1-8,8>>^ See, I do put the land before YOU people. Go in and take possession of the land about which Jehovah swore to YOUR fathers, to Abraham, Isaac and Jacob, to give it to them and their seed^&#42;1^ after them.’
+
+[NOTE]
+====
+. Or, “offspring.”
+====
+
+[[v5-1-9]]
+
+^<<v5-1-9,9>>^ “And I proceeded to say this to YOU at that particular time, ‘I am not able by myself to carry YOU.
+
+[[v5-1-10]]
+
+^<<v5-1-10,10>>^ Jehovah YOUR God has multiplied YOU, and here YOU are today like the stars of the heavens for multitude.
+
+[[v5-1-11]]
+
+^<<v5-1-11,11>>^ May Jehovah the God of YOUR forefathers increase YOU a thousand times as many as YOU are, and may he bless YOU just as he has promised YOU.
+
+[[v5-1-12]]
+
+^<<v5-1-12,12>>^ How can I carry by myself the burden of YOU and the load of YOU and YOUR quarreling?
+
+[[v5-1-13]]
+
+^<<v5-1-13,13>>^ Get wise and discreet and experienced men of YOUR tribes, that I may set them as heads over YOU.’
+
+[[v5-1-14]]
+
+^<<v5-1-14,14>>^ At that YOU answered me and said, ‘The thing you have spoken for us to do is good.’
+
+[[v5-1-15]]
+
+^<<v5-1-15,15>>^ So I took the heads of YOUR tribes, men wise and experienced, and put them as heads over YOU, chiefs^&#42;1^ of thousands and chiefs of hundreds and chiefs of fifties and chiefs of tens and officers of YOUR tribes.
+
+[NOTE]
+====
+. “Chiefs of.” Heb., sa·rehʹ.
+====
+
+[[v5-1-16]]
+
+^<<v5-1-16,16>>^ “And I went on to command YOUR judges at that particular time, saying, ‘When having a hearing^&#42;1^ between YOUR brothers, YOU must judge with righteousness between a man and his brother or his alien resident.
+
+[NOTE]
+====
+. “When having a hearing.” In Heb. this is a verb in the infinitive absolute, indefinite as to time.
+====
+
+[[v5-1-17]]
+
+^<<v5-1-17,17>>^ YOU must not be partial^&#42;1^ in judgment. YOU should hear the little one the same as the great one. YOU must not become frightened because of a man, for the judgment belongs to God; and the case that is too hard for YOU, YOU should present to me, and I must hear it.’
+
+[NOTE]
+====
+. Lit., “not discern faces,” that is, not show favoritism.
+====
+
+[[v5-1-18]]
+
+^<<v5-1-18,18>>^ And I proceeded to command YOU at that particular time all the things that YOU should do.
+
+[[v5-1-19]]
+
+^<<v5-1-19,19>>^ “Then we pulled away from Hoʹreb and went marching through all that great and fear-inspiring wilderness, which YOU have seen, by the way of the mountainous region of the Amʹor·ites, just as Jehovah our God had commanded us; and we eventually came to Kaʹdesh-barʹne·a.
+
+[[v5-1-20]]
+
+^<<v5-1-20,20>>^ I now said to YOU, ‘YOU have come to the mountainous region of the Amʹor·ites, which Jehovah our God is giving to us.
+
+[[v5-1-21]]
+
+^<<v5-1-21,21>>^ See, Jehovah your God has abandoned the land to you. Go up, take possession, just as Jehovah the God of your forefathers has spoken to you. Do not be afraid, nor be terrified.’
+
+[[v5-1-22]]
+
+^<<v5-1-22,22>>^ “However, all of YOU came near to me and said, ‘Do let us send men ahead of us that they may search out the land for us and bring us back word concerning the way by which we should go up and the cities to which we will come.’
+
+[[v5-1-23]]
+
+^<<v5-1-23,23>>^ Well, the thing proved to be good in my eyes, so that I took twelve men of YOURS, one for each tribe.
+
+[[v5-1-24]]
+
+^<<v5-1-24,24>>^ Then they turned and went up into the mountainous region and got as far as the torrent valley of Eshʹcol and went spying on it.
+
+[[v5-1-25]]
+
+^<<v5-1-25,25>>^ And they proceeded to take some of the fruitage of the land in their hand and to bring it down to us, and they came bringing us back word and saying, ‘The land that Jehovah our God is giving us is good.’
+
+[[v5-1-26]]
+
+^<<v5-1-26,26>>^ But YOU did not wish to go up, and YOU began to behave rebelliously against the order of Jehovah YOUR God.
+
+[[v5-1-27]]
+
+^<<v5-1-27,27>>^ And YOU kept grumbling in YOUR tents and saying, ‘It was because Jehovah hated us that he brought us out of the land of Egypt to give us into the hand of the Amʹor·ites, to annihilate us.
+
+[[v5-1-28]]
+
+^<<v5-1-28,28>>^ Where are we going up? Our brothers have caused our heart to melt, saying: “A people greater and taller than we are, cities great and fortified to the heavens and also the sons of the Anʹa·kim we saw there.”’
+
+[[v5-1-29]]
+
+^<<v5-1-29,29>>^ “So I said to YOU, ‘YOU must not suffer a shock or be afraid because of them.
+
+[[v5-1-30]]
+
+^<<v5-1-30,30>>^ Jehovah YOUR God is the one going before YOU. He will fight for YOU according to all that he did with YOU in Egypt under YOUR own eyes,
+
+[[v5-1-31]]
+
+^<<v5-1-31,31>>^ and in the wilderness, where you saw how Jehovah your God carried you just as a man carries his son, in all the way that YOU walked until YOUR coming to this place.’
+
+[[v5-1-32]]
+
+^<<v5-1-32,32>>^ But despite this word YOU were not putting faith in Jehovah YOUR God,
+
+[[v5-1-33]]
+
+^<<v5-1-33,33>>^ who was going before YOU in the way to spy out for YOU a place for YOU to camp, by fire at night for YOU to see by what way YOU should walk and by a cloud in daytime.
+
+[[v5-1-34]]
+
+^<<v5-1-34,34>>^ “All the while Jehovah heard the voice of YOUR words. So he became indignant and swore, saying,
+
+[[v5-1-35]]
+
+^<<v5-1-35,35>>^ ‘Not one among these men of this evil generation will see the good land that I swore to give to YOUR fathers,
+
+[[v5-1-36]]
+
+^<<v5-1-36,36>>^ except Caʹleb the son of Je·phunʹneh. He will see it, and to him and to his sons I shall give the land upon which he trod, by reason of the fact that he has followed Jehovah fully.
+
+[[v5-1-37]]
+
+^<<v5-1-37,37>>^ (Even against me Jehovah got incensed on YOUR account, saying, ‘You too will not go in there.
+
+[[v5-1-38]]
+
+^<<v5-1-38,38>>^ Joshua^&#42;1^ the son of Nun, who is standing before you, is the one who will go in there.’ Him he has made strong, because he will cause Israel to inherit it.)
+
+[NOTE]
+====
+. Lit., “Jehoshua,” MSam; Gr., Ἰησοῦς (Jesus); Syr., Ye·shuaʽ. See Ge 49:18 ftn, “You.”
+====
+
+[[v5-1-39]]
+
+^<<v5-1-39,39>>^ As for YOUR little ones of whom YOU said: “Plunder they will become!” and YOUR sons who today do not know good or bad, these will go in there, and to them I shall give it, and they will take possession of it.
+
+[[v5-1-40]]
+
+^<<v5-1-40,40>>^ As for YOU yourselves, change your direction and pull away for the wilderness by the way of the Red Sea.’
+
+[[v5-1-41]]
+
+^<<v5-1-41,41>>^ “At this YOU answered and said to me, ‘We have sinned against Jehovah. We—we shall go up and fight in accord with all that Jehovah our God has commanded us!’ So YOU girded on, each one, his weapons of war and regarded it as easy to go up into the mountain.
+
+[[v5-1-42]]
+
+^<<v5-1-42,42>>^ But Jehovah said to me, ‘Say to them: “YOU must not go up and fight, because I am not in YOUR midst; that YOU may not be defeated before YOUR enemies.”’
+
+[[v5-1-43]]
+
+^<<v5-1-43,43>>^ So I spoke to YOU, and YOU did not listen but began to behave rebelliously against Jehovah’s order and to get all heated up, and you tried to go up into the mountain.
+
+[[v5-1-44]]
+
+^<<v5-1-44,44>>^ Then the Amʹor·ites who were dwelling in that mountain came out to meet YOU and went chasing YOU, just as bees do, and scattering YOU in Seʹir^&#42;1^ as far as Horʹmah.
+
+[NOTE]
+====
+. “In Seir,” MSam; LXXSyVg, “from Seir.”
+====
+
+[[v5-1-45]]
+
+^<<v5-1-45,45>>^ After that YOU returned and began to weep before Jehovah, but Jehovah did not listen to YOUR voice, neither did he give ear to YOU.
+
+[[v5-1-46]]
+
+^<<v5-1-46,46>>^ So YOU kept dwelling in Kaʹdesh many days, as many days as YOU did dwell there.
+
+'''
+
+xref:004-numbers/004-numbers-036.adoc#v4-36-0[&#60; Capítulo Anterior] | <<v5-1-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-002.adoc#v5-2-0[Próximo Capítulo &#62;]

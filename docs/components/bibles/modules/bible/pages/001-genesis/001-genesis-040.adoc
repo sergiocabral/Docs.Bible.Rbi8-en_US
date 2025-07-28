@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v1-40-0]]
+=== Genesis, 40
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-40-1]]
+
+^<<v1-40-1,1>>^ Now after these things it came about that the cupbearer of the king of Egypt and the baker sinned against their lord^&#42;1^ the king of Egypt.
+
+[NOTE]
+====
+. “Against their lord.” Heb., la·ʼadho·neh·hemʹ, pl. of ʼa·dhohnʹ, to denote excellence. Compare 39:2 ftn.
+====
+
+[[v1-40-2]]
+
+^<<v1-40-2,2>>^ And Pharʹaoh grew indignant at his two officers, at the chief^&#42;1^ of the cupbearers and at the chief of the bakers.
+
+[NOTE]
+====
+. Heb., sar, translated “princes of” in 12:15 where it is pl.
+====
+
+[[v1-40-3]]
+
+^<<v1-40-3,3>>^ So he committed them to the jail of the house of the chief of the bodyguard, to the prison house, the place where Joseph was a prisoner.
+
+[[v1-40-4]]
+
+^<<v1-40-4,4>>^ Then the chief of the bodyguard assigned Joseph to be with them that he might wait upon them; and they continued in jail for some days.
+
+[[v1-40-5]]
+
+^<<v1-40-5,5>>^ And both of them proceeded to dream a dream, each one his own dream in the one night, each one his dream with its own interpretation, the cupbearer and the baker who belonged to the king of Egypt who were prisoners in the prison house.
+
+[[v1-40-6]]
+
+^<<v1-40-6,6>>^ When Joseph came in to them in the morning and saw them, why, here they were looking dejected.
+
+[[v1-40-7]]
+
+^<<v1-40-7,7>>^ And he began to inquire of the officers of Pharʹaoh who were with him in the jail of his master’s house, saying: “For what reason are YOUR faces gloomy today?”
+
+[[v1-40-8]]
+
+^<<v1-40-8,8>>^ At this they said to him: “We have dreamed a dream, and there is no interpreter with us.” So Joseph said to them: “Do not interpretations belong to God? Relate it to me, please.”
+
+[[v1-40-9]]
+
+^<<v1-40-9,9>>^ And the chief of the cupbearers went on to relate his dream to Joseph and to say to him: “In my dream, why, here there was a vine before me.
+
+[[v1-40-10]]
+
+^<<v1-40-10,10>>^ And on the vine there were three twigs, and it was apparently sprouting shoots. Its blossoms pushed forth. Its clusters ripened their grapes.
+
+[[v1-40-11]]
+
+^<<v1-40-11,11>>^ And Pharʹaoh’s cup was in my hand, and I proceeded to take the grapes and squeeze them out into Pharʹaoh’s cup. After that I gave the cup into Pharʹaoh’s hand.”
+
+[[v1-40-12]]
+
+^<<v1-40-12,12>>^ Then Joseph said to him: “This is its interpretation: The three twigs are three days.
+
+[[v1-40-13]]
+
+^<<v1-40-13,13>>^ In three days from now Pharʹaoh will lift up your head and he will certainly return you to your office; and you will certainly give Pharʹaoh’s cup into his hand, according to the former custom when you acted as his cupbearer.
+
+[[v1-40-14]]
+
+^<<v1-40-14,14>>^ Nevertheless, you must keep me in your remembrance as soon as it goes well with you, and you must, please, perform loving-kindness with me and mention me to Pharʹaoh, and you must get me out of this house.
+
+[[v1-40-15]]
+
+^<<v1-40-15,15>>^ For I was in fact kidnapped from the land of the Hebrews; and here also I have done nothing at all for which they should put me in the prison hole.”^&#42;1^
+
+[NOTE]
+====
+. Lit., “the cistern,” that is, a hole shaped like one and used for a prison.
+====
+
+[[v1-40-16]]
+
+^<<v1-40-16,16>>^ When the chief of the bakers saw that he had interpreted something good, he, in turn, said to Joseph: “I too was in my dream, and here there were three baskets of white bread upon my head,
+
+[[v1-40-17]]
+
+^<<v1-40-17,17>>^ and in the topmost basket there were all sorts of eatables for Pharʹaoh, the product of a baker, and there were fowls eating them out of the basket on top of my head.”
+
+[[v1-40-18]]
+
+^<<v1-40-18,18>>^ Then Joseph answered and said: “This is its interpretation: The three baskets are three days.
+
+[[v1-40-19]]
+
+^<<v1-40-19,19>>^ In three days from now Pharʹaoh will lift up your head from off you and will certainly hang you upon a stake;^&#42;1^ and the fowls will certainly eat your flesh from off you.”
+
+[NOTE]
+====
+. Or, “timber.” Lit., “wood.” Gr., xyʹlou; Lat., cruʹce (from crux). See 41:13 ftn.
+====
+
+[[v1-40-20]]
+
+^<<v1-40-20,20>>^ Now on the third day it turned out to be Pharʹaoh’s birthday, and he proceeded to make a feast for all his servants and to lift up the head of the chief of the cupbearers and the head of the chief of the bakers in the midst of his servants.
+
+[[v1-40-21]]
+
+^<<v1-40-21,21>>^ Accordingly he returned the chief of the cupbearers to his post of cupbearer, and he continued to give the cup into Pharʹaoh’s hand.
+
+[[v1-40-22]]
+
+^<<v1-40-22,22>>^ But the chief of the bakers he hung up, just as Joseph had given them the interpretation.
+
+[[v1-40-23]]
+
+^<<v1-40-23,23>>^ However, the chief of the cupbearers did not remember Joseph and went on forgetting him.
+
+'''
+
+xref:001-genesis/001-genesis-039.adoc#v1-39-0[&#60; Capítulo Anterior] | <<v1-40-0,Topo>> | xref:001-genesis/001-genesis-041.adoc#v1-41-0[Próximo Capítulo &#62;]

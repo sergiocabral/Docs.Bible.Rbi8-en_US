@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v21-3-0]]
+=== Ecclesiastes, 3
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v21-3-1]]
+
+^<<v21-3-1,1>>^ For everything there is an appointed time, even a time^&#42;1^ for every affair under the heavens:
+
+[NOTE]
+====
+. Or, “season; seasonable time.”
+====
+
+[[v21-3-2]]
+
+^<<v21-3-2,2>>^ a time for birth and a time to die; a time to plant and a time to uproot what was planted;
+
+[[v21-3-3]]
+
+^<<v21-3-3,3>>^ a time to kill and a time to heal; a time to break down and a time to build;
+
+[[v21-3-4]]
+
+^<<v21-3-4,4>>^ a time to weep and a time to laugh; a time to wail and a time to skip about;
+
+[[v21-3-5]]
+
+^<<v21-3-5,5>>^ a time to throw stones away and a time to bring stones together; a time to embrace and a time to keep away from embracing;
+
+[[v21-3-6]]
+
+^<<v21-3-6,6>>^ a time to seek and a time to give up as lost; a time to keep and a time to throw away;
+
+[[v21-3-7]]
+
+^<<v21-3-7,7>>^ a time to rip apart and a time to sew together; a time to keep quiet and a time to speak;
+
+[[v21-3-8]]
+
+^<<v21-3-8,8>>^ a time to love and a time to hate; a time for war and a time for peace.
+
+[[v21-3-9]]
+
+^<<v21-3-9,9>>^ What advantage is there for the doer in what he is working hard at?
+
+[[v21-3-10]]
+
+^<<v21-3-10,10>>^ I have seen the occupation that God has given to the sons of mankind in which to be occupied.
+
+[[v21-3-11]]
+
+^<<v21-3-11,11>>^ Everything he has made pretty in its time. Even time indefinite he has put in their heart, that mankind^&#42;1^ may never find out the work that the &#91;true&#93; God has made from the start^&#42;2^ to the finish.
+
+[NOTE]
+====
+. Lit., “the earthling man.” Heb., ha·ʼa·dhamʹ.
+. Lit., “head.”
+====
+
+[[v21-3-12]]
+
+^<<v21-3-12,12>>^ I have come to know that there is nothing better for them than to rejoice and to do good during one’s life;
+
+[[v21-3-13]]
+
+^<<v21-3-13,13>>^ and also that every man^&#42;1^ should eat and indeed drink and see good for all his hard work. It is the gift of God.
+
+[NOTE]
+====
+. Or, “every earthling man.” Heb., kol-ha·ʼa·dhamʹ.
+====
+
+[[v21-3-14]]
+
+^<<v21-3-14,14>>^ I have come to know that everything that the &#91;true&#93; God makes, it will prove to be to time indefinite. To it there is nothing to add and from it there is nothing to subtract; but the &#91;true&#93; God himself has made it, that people may be afraid on account of him.
+
+[[v21-3-15]]
+
+^<<v21-3-15,15>>^ What has happened to be, it had already been, and what is to come to be has already proved to be; and the &#91;true&#93; God himself keeps seeking that which is pursued.
+
+[[v21-3-16]]
+
+^<<v21-3-16,16>>^ And I have further seen under the sun the place of justice where there was wickedness and the place of righteousness where wickedness was.
+
+[[v21-3-17]]
+
+^<<v21-3-17,17>>^ I myself have said in my heart: “The &#91;true&#93; God will judge both the righteous one and the wicked one, for there is a time for every affair and concerning every work there.”
+
+[[v21-3-18]]
+
+^<<v21-3-18,18>>^ I, even I, have said in my heart with regard to the sons of mankind that the &#91;true&#93; God is going to select them, that they may see that they themselves are beasts.
+
+[[v21-3-19]]
+
+^<<v21-3-19,19>>^ For there is an eventuality^&#42;1^ as respects the sons of mankind and an eventuality as respects the beast, and they have the same eventuality. As the one dies,^&#42;2^ so the other dies; and they all have but one spirit,^&#42;3^ so that there is no superiority of the man over the beast, for everything is vanity.
+
+[NOTE]
+====
+. Or, “an event.” Heb., miq·rehʹ.
+. Lit., “As this [one] dies.” Heb., kemohthʹ zeh.
+. Or, “and . . . breath.” Heb., weruʹach; Gr., pneuʹma.
+====
+
+[[v21-3-20]]
+
+^<<v21-3-20,20>>^ All are going to one place. They have all come to be from the dust,^&#42;1^ and they are all returning to the dust.
+
+[NOTE]
+====
+. “From the dust.” Heb., min-he·ʽa·pharʹ. See Ge 2:7 ftn, “Dust.”
+====
+
+[[v21-3-21]]
+
+^<<v21-3-21,21>>^ Who is there knowing the spirit of the sons of mankind, whether it is ascending upward; and the spirit of the beast, whether it is descending downward to the earth?
+
+[[v21-3-22]]
+
+^<<v21-3-22,22>>^ And I have seen that there is nothing better than that the man should rejoice in his works, for that is his portion; because who will bring him in to look on what is going to be after him?
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-002.adoc#v21-2-0[&#60; Capítulo Anterior] | <<v21-3-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-004.adoc#v21-4-0[Próximo Capítulo &#62;]

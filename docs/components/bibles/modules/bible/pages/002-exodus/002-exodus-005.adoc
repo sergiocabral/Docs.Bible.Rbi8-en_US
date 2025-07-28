@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v2-5-0]]
+=== Exodus, 5
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-5-1]]
+
+^<<v2-5-1,1>>^ And afterward Moses and Aaron went in and proceeded to say to Pharʹaoh: “This is what Jehovah the God of Israel has said, ‘Send my people away that they may celebrate a festival to me in the wilderness.’”
+
+[[v2-5-2]]
+
+^<<v2-5-2,2>>^ But Pharʹaoh said: “Who is Jehovah, so that I should obey^&#42;1^ his voice to send Israel away? I do not know Jehovah at all and, what is more, I am not going to send Israel away.”
+
+[NOTE]
+====
+. Or, “listen to.”
+====
+
+[[v2-5-3]]
+
+^<<v2-5-3,3>>^ However, they went on to say: “The God of the Hebrews has come in touch with us. We want to go, please, a journey of three days into the wilderness and sacrifice to Jehovah our God; otherwise he may strike at us with pestilence^&#42;1^ or with sword.”
+
+[NOTE]
+====
+. Or, “(bubonic) plague.” LXX, “death (deadly plague).”
+====
+
+[[v2-5-4]]
+
+^<<v2-5-4,4>>^ At this the king of Egypt said to them: “Why is it, Moses and Aaron, that YOU cause^&#42;1^ the people to leave off from their works? Go bearing YOUR burdens!”
+
+[NOTE]
+====
+. Or, “Why, Moses and Aaron, should you cause?”
+====
+
+[[v2-5-5]]
+
+^<<v2-5-5,5>>^ And Pharʹaoh continued: “Look! The people of the land are now many, and YOU indeed make them desist^&#42;1^ from their bearing of burdens.”
+
+[NOTE]
+====
+. Or, “make them rest (keep a sabbath).”
+====
+
+[[v2-5-6]]
+
+^<<v2-5-6,6>>^ Immediately on that day Pharʹaoh commanded those who drove the people to work and their officers, saying:
+
+[[v2-5-7]]
+
+^<<v2-5-7,7>>^ “YOU must not gather straw to give to the people to make bricks as formerly. Let them themselves go and gather straw for themselves.
+
+[[v2-5-8]]
+
+^<<v2-5-8,8>>^ Moreover, the required amount of bricks that they were making formerly, YOU will further impose upon them. YOU must not make any reduction for them, because they are relaxing. That is why they are crying out, saying, ‘We want to go, we want to sacrifice to our God!’
+
+[[v2-5-9]]
+
+^<<v2-5-9,9>>^ Let the service be heavy upon the men and let them work at it, and let them not pay attention to false words.”
+
+[[v2-5-10]]
+
+^<<v2-5-10,10>>^ So those who drove the people to work and their officers went out and said to the people: “Here is what Pharʹaoh has said, ‘I am giving YOU no more straw.
+
+[[v2-5-11]]
+
+^<<v2-5-11,11>>^ YOU yourselves go, get straw for yourselves wherever YOU may find it, because there is to be no reducing of YOUR services one bit.’”
+
+[[v2-5-12]]
+
+^<<v2-5-12,12>>^ Consequently the people scattered about over all the land of Egypt to gather stubble for straw.
+
+[[v2-5-13]]
+
+^<<v2-5-13,13>>^ And those who drove them to work kept urging them, saying: “Finish YOUR works, each one his work, day for day, just as when straw was available.”
+
+[[v2-5-14]]
+
+^<<v2-5-14,14>>^ Later on the officers of the sons of Israel, whom Pharʹaoh’s taskmasters^&#42;1^ had set over them, were beaten, these saying: “Why is it YOU did not finish YOUR prescribed task in making bricks as formerly, both yesterday and today?”
+
+[NOTE]
+====
+. Or, “men who drove them to work.”
+====
+
+[[v2-5-15]]
+
+^<<v2-5-15,15>>^ Consequently the officers of the sons of Israel went in and began to cry out to Pharʹaoh, saying: “Why do you deal this way with your servants?
+
+[[v2-5-16]]
+
+^<<v2-5-16,16>>^ There is no straw given to your servants and yet they are saying to us, ‘Make bricks!’ and here your servants are beaten, whereas your own people are at fault.”
+
+[[v2-5-17]]
+
+^<<v2-5-17,17>>^ But he said: “YOU are relaxing, YOU are relaxing! That is why YOU are saying, ‘We want to go, we want to sacrifice to Jehovah.’
+
+[[v2-5-18]]
+
+^<<v2-5-18,18>>^ And now go, serve! Though no straw will be given to YOU, yet YOU are to give the fixed amount of bricks.”
+
+[[v2-5-19]]
+
+^<<v2-5-19,19>>^ Then the officers of the sons of Israel saw themselves in an evil plight at the saying: “YOU must not deduct from YOUR bricks one bit of anyone’s daily rate.”
+
+[[v2-5-20]]
+
+^<<v2-5-20,20>>^ After that they encountered Moses and Aaron, who were standing there to meet them as they came out from Pharʹaoh.
+
+[[v2-5-21]]
+
+^<<v2-5-21,21>>^ At once they said to them: “May Jehovah look upon YOU and judge, since YOU have made us smell offensive^&#42;1^ before Pharʹaoh and before his servants so as to put a sword in their hand to kill us.”
+
+[NOTE]
+====
+. Lit., “you have made our odor stink.”
+====
+
+[[v2-5-22]]
+
+^<<v2-5-22,22>>^ Then Moses turned to Jehovah and said: “Jehovah,^&#42;1^ why have you caused evil to this people? Why is it that you have sent me?
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v2-5-23]]
+
+^<<v2-5-23,23>>^ For from the time that I went in before Pharʹaoh to speak in your name, he has done evil to this people, and you have by no means delivered your people.”
+
+'''
+
+xref:002-exodus/002-exodus-004.adoc#v2-4-0[&#60; Capítulo Anterior] | <<v2-5-0,Topo>> | xref:002-exodus/002-exodus-006.adoc#v2-6-0[Próximo Capítulo &#62;]

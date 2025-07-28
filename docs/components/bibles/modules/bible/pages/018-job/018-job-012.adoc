@@ -1,0 +1,194 @@
+include::./index.adoc[]
+
+[[v18-12-0]]
+=== Job, 12
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-12-1]]
+
+^<<v18-12-1,1>>^ And Job proceeded to answer and say:
+
+[[v18-12-2]]
+
+^<<v18-12-2,2>>^ “For a fact YOU men are the people,
+And with YOU wisdom will die out!
+
+[[v18-12-3]]
+
+^<<v18-12-3,3>>^ I too have a heart as well as YOU.
+I am not inferior to YOU,^&#42;1^
+And with whom are there not things like these?
+
+[NOTE]
+====
+. Lit., “I am not falling behind you.”
+====
+
+[[v18-12-4]]
+
+^<<v18-12-4,4>>^ &#91;One who is&#93; a laughingstock to his fellowman I^&#42;1^ become,
+One calling to God^&#42;2^ that he should answer him.
+A laughingstock is the righteous, unblamable one.
+
+[NOTE]
+====
+. “I,” MVg; LXXSy, “he.”
+. “To God.” Heb., le·ʼElohʹah.
+====
+
+[[v18-12-5]]
+
+^<<v18-12-5,5>>^ In thought, the carefree one has contempt for extinction itself;
+It is made ready for those of wobbling feet.
+
+[[v18-12-6]]
+
+^<<v18-12-6,6>>^ The tents of the despoilers are unworried,
+And the ones enraging God^&#42;1^ have the safety
+Belonging to one who has brought a god^&#42;2^ in his hand.
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+. “A god.” Heb., ʼelohʹah.
+====
+
+[[v18-12-7]]
+
+^<<v18-12-7,7>>^ However, ask, please, the domestic animals, and they will instruct you;
+Also the winged creatures of the heavens, and they will tell you.
+
+[[v18-12-8]]
+
+^<<v18-12-8,8>>^ Or show your concern to the earth,^&#42;1^ and it will instruct you;
+And the fishes of the sea will declare it to you.
+
+[NOTE]
+====
+. Or, “Or speak thoughtfully to the earth.” By a correction, “Or the reptiles [or, wild beasts] of the earth.”
+====
+
+[[v18-12-9]]
+
+^<<v18-12-9,9>>^ Who among all these does not well know
+That the hand of Jehovah^&#42;1^ itself has done this,
+
+[NOTE]
+====
+. “Jehovah,” MLXXSyVg; T(Aram.), Yai.
+====
+
+[[v18-12-10]]
+
+^<<v18-12-10,10>>^ In whose hand is the soul of everyone alive
+And the spirit^&#42;1^ of all flesh of man?^&#42;2^
+
+[NOTE]
+====
+. “And the spirit (breath) of.” Heb., weruʹach; Gr., pneuʹma; Syr., weru·chaʼ; Lat., spiʹri·tus.
+. “Man.” Heb., ʼish.
+====
+
+[[v18-12-11]]
+
+^<<v18-12-11,11>>^ Does not the ear itself test out words
+As the palate tastes food?
+
+[[v18-12-12]]
+
+^<<v18-12-12,12>>^ Is there not wisdom among the aged
+And understanding &#91;in&#93; length of days?^&#42;1^
+
+[NOTE]
+====
+. Or, “and does not length of days mean understanding?”
+====
+
+[[v18-12-13]]
+
+^<<v18-12-13,13>>^ With him there are wisdom and mightiness;
+He has counsel and understanding.
+
+[[v18-12-14]]
+
+^<<v18-12-14,14>>^ Look! He tears down, that there may be no building up;
+He makes it shut to man, that it may not be opened up.
+
+[[v18-12-15]]
+
+^<<v18-12-15,15>>^ Look! He puts a restraint upon the waters and they dry up;
+And he sends them, and they change the earth.
+
+[[v18-12-16]]
+
+^<<v18-12-16,16>>^ With him there are strength and practical wisdom;
+To him belong the one making a mistake and the one leading astray;
+
+[[v18-12-17]]
+
+^<<v18-12-17,17>>^ He is making counselors go barefoot,^&#42;1^
+And he makes judges themselves go crazy.
+
+[NOTE]
+====
+. “The One leading counselors captive,” LXX; Vg, “he leads counselors on to a foolish end.”
+====
+
+[[v18-12-18]]
+
+^<<v18-12-18,18>>^ The bonds^&#42;1^ of kings he actually loosens,
+And he binds a belt upon their hips.
+
+[NOTE]
+====
+. By a change of vowel pointing. Lit., “discipline.”
+====
+
+[[v18-12-19]]
+
+^<<v18-12-19,19>>^ He is making priests walk barefoot,
+And permanently seated ones he subverts;^&#42;1^
+
+[NOTE]
+====
+. Or, “and overflowing rivers he causes to run dry.”
+====
+
+[[v18-12-20]]
+
+^<<v18-12-20,20>>^ He is removing speech^&#42;1^ from the faithful ones,
+And the sensibleness of old men he takes away;
+
+[NOTE]
+====
+. Lit., “lip.”
+====
+
+[[v18-12-21]]
+
+^<<v18-12-21,21>>^ He is pouring out contempt upon nobles,
+And the girdle of powerful ones he actually weakens;
+
+[[v18-12-22]]
+
+^<<v18-12-22,22>>^ He is uncovering deep things from the darkness,
+And he brings forth to the light deep shadow;
+
+[[v18-12-23]]
+
+^<<v18-12-23,23>>^ Making the nations grow great, that he may destroy them;
+Spreading out the nations, that he may lead them away;
+
+[[v18-12-24]]
+
+^<<v18-12-24,24>>^ Taking away the heart of the head ones of the people of the land,
+That he may make them wander about in an empty place, where there is no way.
+
+[[v18-12-25]]
+
+^<<v18-12-25,25>>^ They grope in darkness, where there is no light,
+That he may make them wander about like a drunken man.
+
+'''
+
+xref:018-job/018-job-011.adoc#v18-11-0[&#60; Capítulo Anterior] | <<v18-12-0,Topo>> | xref:018-job/018-job-013.adoc#v18-13-0[Próximo Capítulo &#62;]

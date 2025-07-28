@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v19-137-0]]
+=== Psalms, 137
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-137-1]]
+
+^<<v19-137-1,1>>^ By the rivers^&#42;1^ of Babylon^&#42;2^—there we sat down.
+We also wept when we remembered Zion.
+
+[NOTE]
+====
+. Or, “great river,” that is, the Euphrates, if pl. to denote grandeur.
+. “Babylon,” LXXVg; MTSy, “Babel.”
+====
+
+[[v19-137-2]]
+
+^<<v19-137-2,2>>^ Upon the poplar trees in the midst of her^&#42;1^
+We hung our harps.
+
+[NOTE]
+====
+. Or, “it,” fem., referring to “Babylon.”
+====
+
+[[v19-137-3]]
+
+^<<v19-137-3,3>>^ For there those holding us captive asked us for the words of a song,
+And those mocking^&#42;1^ us—for rejoicing:
+“SING for us one of the songs of Zion.”
+
+[NOTE]
+====
+. “Mocking.” The meaning of the Heb. word is uncertain.
+====
+
+[[v19-137-4]]
+
+^<<v19-137-4,4>>^ How can we sing the song of Jehovah
+Upon foreign ground?^&#42;1^
+
+[NOTE]
+====
+. Lit., “ground of a foreign (country).”
+====
+
+[[v19-137-5]]
+
+^<<v19-137-5,5>>^ If I should forget you, O Jerusalem,
+Let my right hand be forgetful.
+
+[[v19-137-6]]
+
+^<<v19-137-6,6>>^ Let my tongue stick to my palate,
+If I were not to remember you,
+If I were not to make Jerusalem ascend
+Above my chief cause for rejoicing.
+
+[[v19-137-7]]
+
+^<<v19-137-7,7>>^ Remember, O Jehovah, regarding the sons of Eʹdom the day of Jerusalem,
+Who were saying: “Lay &#91;it&#93; bare! Lay &#91;it&#93; bare to the foundation within it!”
+
+[[v19-137-8]]
+
+^<<v19-137-8,8>>^ O daughter of Babylon, who are to be despoiled,
+Happy will he be that rewards you
+With your own treatment with which you treated us.
+
+[[v19-137-9]]
+
+^<<v19-137-9,9>>^ Happy will he be that grabs ahold and does dash to pieces
+Your children against the crag.
+
+'''
+
+xref:019-psalm/019-psalm-136.adoc#v19-136-0[&#60; Capítulo Anterior] | <<v19-137-0,Topo>> | xref:019-psalm/019-psalm-138.adoc#v19-138-0[Próximo Capítulo &#62;]

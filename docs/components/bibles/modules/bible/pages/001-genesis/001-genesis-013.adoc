@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v1-13-0]]
+=== Genesis, 13
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-13-1]]
+
+^<<v1-13-1,1>>^ Following that Aʹbram went up out of Egypt, he and his wife and all that he had, and Lot with him, to the Negʹeb.
+
+[[v1-13-2]]
+
+^<<v1-13-2,2>>^ And Aʹbram was heavily stocked with herds and silver and gold.
+
+[[v1-13-3]]
+
+^<<v1-13-3,3>>^ And he made his way from encampment to encampment out of the Negʹeb and to Bethʹel, to the place where his tent had been at first between Bethʹel and Aʹi,
+
+[[v1-13-4]]
+
+^<<v1-13-4,4>>^ to the place of the altar that he had made there originally; and Aʹbram proceeded to call there on^&#42;1^ the name of Jehovah.
+
+[NOTE]
+====
+. Or, “proceeded to declare (preach) there.”
+====
+
+[[v1-13-5]]
+
+^<<v1-13-5,5>>^ Now Lot, who was going along with Aʹbram, also owned sheep and cattle and tents.
+
+[[v1-13-6]]
+
+^<<v1-13-6,6>>^ So the land did not allow for them to dwell all together, because their goods had become many and they were not able to dwell all together.
+
+[[v1-13-7]]
+
+^<<v1-13-7,7>>^ And a quarrel arose between the herders of Aʹbram’s livestock and the herders of Lot’s livestock; and at that time the Caʹnaan·ite and the Perʹiz·zite were dwelling in the land.
+
+[[v1-13-8]]
+
+^<<v1-13-8,8>>^ Hence Aʹbram said to Lot: “Please, do not let any quarreling continue between me and you and between my herdsmen and your herdsmen, for we men are brothers.
+
+[[v1-13-9]]
+
+^<<v1-13-9,9>>^ Is not the whole land available to^&#42;1^ you? Please, separate from me. If you go to the left, then I will go to the right; but if you go to the right, then I will go to the left.”
+
+[NOTE]
+====
+. Lit., “whole land before.”
+====
+
+[[v1-13-10]]
+
+^<<v1-13-10,10>>^ So Lot raised his eyes and saw the whole District^&#42;1^ of the Jordan, that all of it was a well-watered region before Jehovah brought Sodʹom and Go·morʹrah to ruin, like the garden^&#42;2^ of Jehovah, like the land of Egypt as far as Zoʹar.^&#42;3^
+
+[NOTE]
+====
+. Or, “Basin.” Heb., Kik·karʹ. The roughly circular territory of the lower Jordan Valley around Jericho.
+. “Paradise,” LXXSyVg.
+. “Zoan,” Sy.
+====
+
+[[v1-13-11]]
+
+^<<v1-13-11,11>>^ Then Lot chose for himself the whole District of the Jordan, and Lot moved his camp to the east. So they separated the one from the other.
+
+[[v1-13-12]]
+
+^<<v1-13-12,12>>^ Aʹbram dwelt in the land of Caʹnaan, but Lot dwelt among the cities of the District. Finally he pitched tent near Sodʹom.
+
+[[v1-13-13]]
+
+^<<v1-13-13,13>>^ And the men of Sodʹom were bad and were gross sinners against Jehovah.
+
+[[v1-13-14]]
+
+^<<v1-13-14,14>>^ And Jehovah said to Aʹbram after Lot had separated from him: “Raise your eyes, please, and look from the place where you are, northward and southward^&#42;1^ and eastward and westward,^&#42;2^
+
+[NOTE]
+====
+. Lit., “toward the Negeb.”
+. Lit., “toward the [Mediterranean] sea.”
+====
+
+[[v1-13-15]]
+
+^<<v1-13-15,15>>^ because all the land at which you are looking, to you and to your seed I am going to give it until time indefinite.
+
+[[v1-13-16]]
+
+^<<v1-13-16,16>>^ And I will constitute your seed like the dust particles of the earth, so that, if a man could be able to count the dust particles of the earth, then your seed could be numbered.
+
+[[v1-13-17]]
+
+^<<v1-13-17,17>>^ Get up, go about in the land through its length and through its breadth, because to you I am going to give it.”
+
+[[v1-13-18]]
+
+^<<v1-13-18,18>>^ So Aʹbram continued to live in tents.^&#42;1^ Later on he came and dwelt among the big trees of Mamʹre, which are in Heʹbron; and there he proceeded to build an altar to Jehovah.
+
+[NOTE]
+====
+. Or, “Abram went about pitching his tent.”
+====
+
+'''
+
+xref:001-genesis/001-genesis-012.adoc#v1-12-0[&#60; Capítulo Anterior] | <<v1-13-0,Topo>> | xref:001-genesis/001-genesis-014.adoc#v1-14-0[Próximo Capítulo &#62;]

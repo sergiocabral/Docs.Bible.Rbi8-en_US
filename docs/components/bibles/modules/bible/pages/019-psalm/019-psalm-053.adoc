@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v19-53-0]]
+=== Psalms, 53
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director over Maʹha·lath.^&#42;1^ Masʹkil.^&#42;2^ Of David._
+
+[[v19-53-1]]
+
+^<<v19-53-1,1>>^ The senseless one has said in his heart:
+“There is no Jehovah.”^&#42;1^
+They have acted ruinously and have acted detestably in unrighteousness;
+There is no one doing good.
+
+[NOTE]
+====
+. One of eight scribal changes from YHWH to ʼElo·himʹ. See App 1B.
+====
+
+[[v19-53-2]]
+
+^<<v19-53-2,2>>^ As for God,^&#42;1^ he has looked down from heaven itself upon the sons of men,
+To see whether there exists anyone having insight,^&#42;2^ anyone seeking Jehovah.^&#42;3^
+
+[NOTE]
+====
+. “God,” MTVg; in the parallel text in 14:2, “Jehovah.”
+. “Having insight.” Or, “acting with discretion.” Heb., mas·kilʹ. Compare 32:Sup ftn.
+. One of eight scribal changes from YHWH to ʼElo·himʹ; T and 14:2, “Jehovah”; MLXXVg, “God.” See App 1B.
+====
+
+[[v19-53-3]]
+
+^<<v19-53-3,3>>^ They have all of them turned back, they are &#91;all&#93; alike corrupt;
+There is no one doing good,
+Not even one.
+
+[[v19-53-4]]
+
+^<<v19-53-4,4>>^ Have none of the practicers of what is hurtful got knowledge,
+Eating up my people as they have eaten bread?
+They have not called even upon Jehovah.^&#42;1^
+
+[NOTE]
+====
+. One of eight scribal changes from YHWH to ʼElo·himʹ; T, some Heb. mss and 14:4, “Jehovah”; MLXXSyVg, “God.” See App 1B.
+====
+
+[[v19-53-5]]
+
+^<<v19-53-5,5>>^ There they were filled with a great dread,^&#42;1^
+Where there had proved to be no dread;
+For God^&#42;2^ himself will certainly scatter the bones of anyone camping against you.
+You will certainly put &#91;them&#93; to shame, for Jehovah^&#42;3^ himself has rejected them.
+
+[NOTE]
+====
+. Lit., “they dreaded a dread.”
+. “God,” MLXXVg; two Heb. mss, “Jehovah.”
+. One of eight scribal changes from YHWH to ʼElo·himʹ; T, “Jehovah.” See App 1B.
+====
+
+[[v19-53-6]]
+
+^<<v19-53-6,6>>^ O that out of Zion there were the grand salvation of Israel!
+When Jehovah^&#42;1^ gathers back^&#42;2^ the captive ones of his people,
+Let Jacob be joyful, let Israel rejoice.
+
+[NOTE]
+====
+. One of eight scribal changes from YHWH to ʼElo·himʹ; TLXXSy, many Heb. mss and 14:7, “Jehovah.” See App 1B.
+. Or, “returns with.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-052.adoc#v19-52-0[&#60; Capítulo Anterior] | <<v19-53-0,Topo>> | xref:019-psalm/019-psalm-054.adoc#v19-54-0[Próximo Capítulo &#62;]

@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v19-83-0]]
+=== Psalms, 83
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A song. A melody of Aʹsaph._
+
+[[v19-83-1]]
+
+^<<v19-83-1,1>>^ O God, let there be no silence on your part;
+Do not keep speechless, and do not stay quiet, O Divine One.^&#42;1^
+
+[NOTE]
+====
+. Or, “O God.” Heb., ʼEl.
+====
+
+[[v19-83-2]]
+
+^<<v19-83-2,2>>^ For, look! your very enemies are in an uproar;
+And the very ones intensely hating you have raised &#91;their&#93; head.
+
+[[v19-83-3]]
+
+^<<v19-83-3,3>>^ Against your people they cunningly carry on their confidential talk;
+And they conspire against your concealed ones.
+
+[[v19-83-4]]
+
+^<<v19-83-4,4>>^ They have said: “Come and let us efface them from being a nation,
+That the name of Israel may be remembered no more.”
+
+[[v19-83-5]]
+
+^<<v19-83-5,5>>^ For with the heart they have unitedly exchanged counsel;
+Against you they proceeded to conclude even a covenant,^&#42;1^
+
+[NOTE]
+====
+. “Covenant.” Heb., berithʹ; Gr., di·a·theʹken; Vg(Lat.), te·sta·menʹtum. See App 7E.
+====
+
+[[v19-83-6]]
+
+^<<v19-83-6,6>>^ The tents of Eʹdom and the Ishʹma·el·ites, Moʹab and the Hagʹrites,
+
+[[v19-83-7]]
+
+^<<v19-83-7,7>>^ Geʹbal and Amʹmon and Amʹa·lek,
+Phi·lisʹti·a together with the inhabitants of Tyre.
+
+[[v19-83-8]]
+
+^<<v19-83-8,8>>^ Also, As·syrʹi·a^&#42;1^ itself has become joined with them;
+They have become an arm to the sons of Lot.^&#42;2^ Seʹlah.
+
+[NOTE]
+====
+. Or, “Asshur,” M; LXXVg, “Assur.”
+. “Sons of Lot,” referring to the Moabites and the Ammonites in vss 6, 7.
+====
+
+[[v19-83-9]]
+
+^<<v19-83-9,9>>^ Do to them as to Midʹi·an, as to Sisʹe·ra,
+As to Jaʹbin at the torrent valley of Kiʹshon.
+
+[[v19-83-10]]
+
+^<<v19-83-10,10>>^ They were annihilated at En-dor;
+They became manure for the ground.
+
+[[v19-83-11]]
+
+^<<v19-83-11,11>>^ As for their nobles, make these like Oʹreb and like Zeʹeb,
+And like Zeʹbah and like Zal·munʹna all their dukes,
+
+[[v19-83-12]]
+
+^<<v19-83-12,12>>^ Who have said: “Let us take possession of the abiding places of God for ourselves.”
+
+[[v19-83-13]]
+
+^<<v19-83-13,13>>^ O my God, make them like a thistle whirl,
+Like stubble before a wind.^&#42;1^
+
+[NOTE]
+====
+. “Wind.” Heb., ruʹach; Gr., a·neʹmou; Lat., venʹti. Compare Ge 1:2 ftn, “Force.”
+====
+
+[[v19-83-14]]
+
+^<<v19-83-14,14>>^ Like a fire that burns up the forest
+And like a flame that scorches the mountains,
+
+[[v19-83-15]]
+
+^<<v19-83-15,15>>^ In just that way may you pursue them with your tempest
+And may you disturb them with your own storm wind.
+
+[[v19-83-16]]
+
+^<<v19-83-16,16>>^ Fill their faces with dishonor,
+That people^&#42;1^ may search for your name, O Jehovah.
+
+[NOTE]
+====
+. Or, “they.”
+====
+
+[[v19-83-17]]
+
+^<<v19-83-17,17>>^ O may they be ashamed and be disturbed for all times,
+And may they become abashed and perish;
+
+[[v19-83-18]]
+
+^<<v19-83-18,18>>^ That people may know that you, whose name is Jehovah,
+You alone are the Most High over all the earth.
+
+'''
+
+xref:019-psalm/019-psalm-082.adoc#v19-82-0[&#60; Capítulo Anterior] | <<v19-83-0,Topo>> | xref:019-psalm/019-psalm-084.adoc#v19-84-0[Próximo Capítulo &#62;]

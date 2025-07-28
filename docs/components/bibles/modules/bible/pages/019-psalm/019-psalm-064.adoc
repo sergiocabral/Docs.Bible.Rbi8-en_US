@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v19-64-0]]
+=== Psalms, 64
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. A melody of David._
+
+[[v19-64-1]]
+
+^<<v19-64-1,1>>^ Hear, O God, my voice in my concern.
+From the dreadfulness of the enemy may you safeguard my life.
+
+[[v19-64-2]]
+
+^<<v19-64-2,2>>^ May you conceal me from the confidential talk of evildoers,
+From the tumult of practicers of hurtfulness,
+
+[[v19-64-3]]
+
+^<<v19-64-3,3>>^ Who have sharpened their tongue just like a sword,
+Who have aimed their arrow, bitter speech,
+
+[[v19-64-4]]
+
+^<<v19-64-4,4>>^ To shoot from concealed places at someone blameless.
+All of a sudden they shoot at him and do not fear.
+
+[[v19-64-5]]
+
+^<<v19-64-5,5>>^ They hold themselves down to bad speech;
+They make statements about hiding traps.
+They have said: “Who sees them?”^&#42;1^
+
+[NOTE]
+====
+. “Them,” MTLXXVg; Sy, “us.”
+====
+
+[[v19-64-6]]
+
+^<<v19-64-6,6>>^ They keep searching out unrighteous things;
+They have hidden a shrewd device well searched out,
+And the inward part of each one, even &#91;his&#93; heart, is deep.
+
+[[v19-64-7]]
+
+^<<v19-64-7,7>>^ But God will shoot at them with an arrow suddenly.
+Wounds have resulted to them,
+
+[[v19-64-8]]
+
+^<<v19-64-8,8>>^ And they cause one to stumble.
+&#91;But&#93; their tongue is against their own selves.
+All those looking upon them will shake their head,
+
+[[v19-64-9]]
+
+^<<v19-64-9,9>>^ And all earthling men will become afraid;
+And they will tell of the activity of God,
+And they will certainly have insight into his work.
+
+[[v19-64-10]]
+
+^<<v19-64-10,10>>^ And the righteous one will rejoice in Jehovah and will indeed take refuge in him;
+And all the upright in heart will boast.
+
+'''
+
+xref:019-psalm/019-psalm-063.adoc#v19-63-0[&#60; Capítulo Anterior] | <<v19-64-0,Topo>> | xref:019-psalm/019-psalm-065.adoc#v19-65-0[Próximo Capítulo &#62;]

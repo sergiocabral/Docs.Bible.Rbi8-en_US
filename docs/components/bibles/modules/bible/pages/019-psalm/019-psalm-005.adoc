@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v19-5-0]]
+=== Psalms, 5
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director for Neʹhi·loth.^&#42;1^ A melody of David._
+
+[[v19-5-1]]
+
+^<<v19-5-1,1>>^ To my sayings do give ear, O Jehovah;
+Do understand my sighing.
+
+[[v19-5-2]]
+
+^<<v19-5-2,2>>^ Do pay attention to the sound of my cry for help,
+O my King and my God, because to you I pray.
+
+[[v19-5-3]]
+
+^<<v19-5-3,3>>^ O Jehovah, in the morning you will hear my voice;
+In the morning I shall address myself to you and be on the watch.
+
+[[v19-5-4]]
+
+^<<v19-5-4,4>>^ For you are not a God taking delight in wickedness;
+No one bad^&#42;1^ may reside for any time with you.
+
+[NOTE]
+====
+. Or, “nothing bad.”
+====
+
+[[v19-5-5]]
+
+^<<v19-5-5,5>>^ No boasters may take their stand in front of your eyes.
+You do hate all those practicing what is hurtful;
+
+[[v19-5-6]]
+
+^<<v19-5-6,6>>^ You will destroy those speaking a lie.
+A man of bloodshed^&#42;1^ and deception Jehovah detests.
+
+[NOTE]
+====
+. Lit., “A man of bloods.” Heb., ʼish-da·mimʹ, pl.
+====
+
+[[v19-5-7]]
+
+^<<v19-5-7,7>>^ As for me, in the abundance of your loving-kindness^&#42;1^
+I shall come into your house,
+I shall bow down toward your holy temple^&#42;2^ in fear of you.
+
+[NOTE]
+====
+. Or, “loyal love.”
+. “Your holy temple.” Heb., heh·khal-qodh·shekhaʹ; Gr., na·onʹ haʹgi·onʹ; Lat., temʹplum sancʹtum. Compare 2Ki 20:18 ftn. See Mt 23:16 ftn.
+====
+
+[[v19-5-8]]
+
+^<<v19-5-8,8>>^ O Jehovah, lead me in your righteousness by reason of my foes;
+Make your way smooth before me.
+
+[[v19-5-9]]
+
+^<<v19-5-9,9>>^ For in their^&#42;1^ mouth there is nothing trustworthy;
+Their inward part is adversity indeed.
+Their throat is an opened burial place;
+A smooth tongue they use.^&#42;2^
+
+[NOTE]
+====
+. “Their,” LXXSyVg; M, “his.”
+. Lit., “they make their tongue smooth.”
+====
+
+[[v19-5-10]]
+
+^<<v19-5-10,10>>^ God will certainly hold them guilty;
+They will fall due to their own counsels.
+In the multitude of their transgressions let there be a dispersing^&#42;1^ of them,
+Because they have rebelled against you.
+
+[NOTE]
+====
+. “Let there be a dispersing.” In Heb. this is a verb in the infinitive construct, indefinite as to time and impersonal.
+====
+
+[[v19-5-11]]
+
+^<<v19-5-11,11>>^ But all those taking refuge in you will rejoice;
+To time indefinite^&#42;1^ they will cry out joyfully.
+And you will block approach to them,
+And those loving your name will exult in you.
+
+[NOTE]
+====
+. “To time indefinite.” Heb., leʽoh·lamʹ.
+====
+
+[[v19-5-12]]
+
+^<<v19-5-12,12>>^ For you yourself will bless anyone righteous, O Jehovah;
+As with a large shield, with approval you will surround them.
+
+'''
+
+xref:019-psalm/019-psalm-004.adoc#v19-4-0[&#60; Capítulo Anterior] | <<v19-5-0,Topo>> | xref:019-psalm/019-psalm-006.adoc#v19-6-0[Próximo Capítulo &#62;]

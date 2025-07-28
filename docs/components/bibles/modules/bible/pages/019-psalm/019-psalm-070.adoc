@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v19-70-0]]
+=== Psalms, 70
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. Of David, to bring to remembrance._
+
+[[v19-70-1]]
+
+^<<v19-70-1,1>>^ O God, to deliver me,
+O Jehovah, to my assistance do make haste.
+
+[[v19-70-2]]
+
+^<<v19-70-2,2>>^ May those be ashamed and abashed who are seeking my soul.^&#42;1^
+May those turn back and be humiliated who are taking delight in my calamity.
+
+[NOTE]
+====
+. “My soul (life).” Heb., naph·shiʹ.
+====
+
+[[v19-70-3]]
+
+^<<v19-70-3,3>>^ May those go back by reason of their shame who are saying: “Aha, aha!”
+
+[[v19-70-4]]
+
+^<<v19-70-4,4>>^ May those exult and rejoice in you, all of whom are seeking you,
+And may they say constantly: “God^&#42;1^ be magnified!”—those loving your salvation.
+
+[NOTE]
+====
+. “God,” M(Heb., ʼElo·himʹ)LXXSy; Vgc and many Heb. mss, “Jehovah”; T, “The glory of Jehovah.”
+====
+
+[[v19-70-5]]
+
+^<<v19-70-5,5>>^ But I am afflicted and poor.
+O God, do act quickly for me.
+You are my help and the Provider of escape for me.
+O Jehovah, do not be too late.
+
+'''
+
+xref:019-psalm/019-psalm-069.adoc#v19-69-0[&#60; Capítulo Anterior] | <<v19-70-0,Topo>> | xref:019-psalm/019-psalm-071.adoc#v19-71-0[Próximo Capítulo &#62;]

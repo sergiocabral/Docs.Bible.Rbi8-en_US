@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v19-7-0]]
+=== Psalms, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A dirge^&#42;1^ of David that he sang to Jehovah concerning the words of Cush the Benʹja·min·ite.^&#42;2^_
+
+[[v19-7-1]]
+
+^<<v19-7-1,1>>^ O Jehovah my God, in you I have taken refuge.
+Save me from all those persecuting me and deliver me,
+
+[[v19-7-2]]
+
+^<<v19-7-2,2>>^ That no one may tear my soul^&#42;1^ to pieces as a lion does,
+Snatching &#91;me&#93; away when there is no deliverer.
+
+[NOTE]
+====
+. “My soul.” Heb., naph·shiʹ; Gr., psy·khenʹ; Lat., aʹni·mam. See App 4A.
+====
+
+[[v19-7-3]]
+
+^<<v19-7-3,3>>^ O Jehovah my God, if I have done this,
+If there exists any injustice in my hands,
+
+[[v19-7-4]]
+
+^<<v19-7-4,4>>^ If I have repaid the one rewarding me with what is bad,
+Or &#91;if&#93; I have despoiled anyone showing hostility to me without success,
+
+[[v19-7-5]]
+
+^<<v19-7-5,5>>^ Let an enemy pursue my soul
+And let him overtake and trample my life down to the very earth
+And cause my own glory to reside in the dust itself. Seʹlah.
+
+[[v19-7-6]]
+
+^<<v19-7-6,6>>^ Do arise, O Jehovah, in your anger;
+Lift yourself up at the outbursts of fury of those showing hostility to me,
+And do awake for me,^&#42;1^ &#91;since&#93; you have given command for judgment itself.
+
+[NOTE]
+====
+. “For me,” M; LXXVg, “O Jehovah my God.”
+====
+
+[[v19-7-7]]
+
+^<<v19-7-7,7>>^ And let the very assembly of national groups^&#42;1^ surround you,
+And against it do you return on high.
+
+[NOTE]
+====
+. “National groups.” Heb., leʼum·mimʹ. Possibly this should read ʼelo·himʹ, making the phrase read, “let the very assembly of gods.” Compare 82:1.
+====
+
+[[v19-7-8]]
+
+^<<v19-7-8,8>>^ Jehovah himself will pass sentence on the peoples.
+Judge me, O Jehovah, according to my righteousness
+And according to my integrity in me.
+
+[[v19-7-9]]
+
+^<<v19-7-9,9>>^ Please, may the badness of wicked ones come to an end,
+And may you establish the righteous one;
+And God as righteous^&#42;1^ is testing out heart and kidneys.^&#42;2^
+
+[NOTE]
+====
+. “God as righteous.” Heb., ʼElo·himʹ tsad·diqʹ. The title ʼElo·himʹ is pl., and the adjective tsad·diqʹ is sing.
+. Or, “and the deepest emotions.” Heb., u·khela·yohthʹ.
+====
+
+[[v19-7-10]]
+
+^<<v19-7-10,10>>^ The shield for me is upon God, a Savior of those upright in heart.
+
+[[v19-7-11]]
+
+^<<v19-7-11,11>>^ God^&#42;1^ is a righteous Judge,
+And God^&#42;2^ is hurling denunciations^&#42;3^ every day.
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ, followed by a sing. adjective. See vs 9 ftn, “Righteous.”
+. “And God.” Heb., weʼElʹ.
+. Or, “God is denouncing.” LXXVg, “he is not getting angry.”
+====
+
+[[v19-7-12]]
+
+^<<v19-7-12,12>>^ If anyone will not return, His sword he will sharpen,
+His bow he will certainly bend,^&#42;1^ and he will make it ready &#91;for shooting&#93;.
+
+[NOTE]
+====
+. Lit., “tread,” often by firmly planting the foot against the middle of the bow.
+====
+
+[[v19-7-13]]
+
+^<<v19-7-13,13>>^ And for himself he must prepare the instruments of death;
+His arrows he will make flaming ones.
+
+[[v19-7-14]]
+
+^<<v19-7-14,14>>^ Look! There is one that is pregnant with what is hurtful,
+And he has conceived trouble and is bound to give birth to falsehood.
+
+[[v19-7-15]]
+
+^<<v19-7-15,15>>^ A pit he has excavated, and he proceeded to dig it;
+But he will fall into the hole &#91;that&#93; he went making.
+
+[[v19-7-16]]
+
+^<<v19-7-16,16>>^ His trouble will return upon his own head,
+And upon the crown of his head his own violence will descend.
+
+[[v19-7-17]]
+
+^<<v19-7-17,17>>^ I shall laud Jehovah according to his righteousness,
+And I will make melody to the name of Jehovah the Most High.
+
+'''
+
+xref:019-psalm/019-psalm-006.adoc#v19-6-0[&#60; Capítulo Anterior] | <<v19-7-0,Topo>> | xref:019-psalm/019-psalm-008.adoc#v19-8-0[Próximo Capítulo &#62;]

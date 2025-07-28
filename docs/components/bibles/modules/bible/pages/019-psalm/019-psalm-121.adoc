@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-121-0]]
+=== Psalms, 121
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song for the Ascents._
+
+[[v19-121-1]]
+
+^<<v19-121-1,1>>^ I shall raise my eyes to the mountains.
+From where will my help come?
+
+[[v19-121-2]]
+
+^<<v19-121-2,2>>^ My help is from Jehovah,
+The Maker of heaven and earth.
+
+[[v19-121-3]]
+
+^<<v19-121-3,3>>^ He cannot possibly allow your foot to totter.
+The One guarding you cannot possibly be drowsy.
+
+[[v19-121-4]]
+
+^<<v19-121-4,4>>^ Look! He will not be drowsy nor go to sleep,
+He that is guarding Israel.
+
+[[v19-121-5]]
+
+^<<v19-121-5,5>>^ Jehovah is guarding you.
+Jehovah is your shade on your right hand.
+
+[[v19-121-6]]
+
+^<<v19-121-6,6>>^ By day the sun itself will not strike you,
+Nor the moon by night.
+
+[[v19-121-7]]
+
+^<<v19-121-7,7>>^ Jehovah himself will guard you against all calamity.
+He will guard your soul.
+
+[[v19-121-8]]
+
+^<<v19-121-8,8>>^ Jehovah himself will guard your going out and your coming in
+From now on and to time indefinite.
+
+'''
+
+xref:019-psalm/019-psalm-120.adoc#v19-120-0[&#60; Capítulo Anterior] | <<v19-121-0,Topo>> | xref:019-psalm/019-psalm-122.adoc#v19-122-0[Próximo Capítulo &#62;]

@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v39-4-0]]
+=== Malachi, 4
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v39-4-1]]
+
+^<<v39-4-1,1>>^ ^&#42;1^ “For, look! the day is coming that is burning like the furnace, and all the presumptuous ones and all those doing wickedness must become as stubble. And the day that is coming will certainly devour them,” Jehovah of armies has said, “so that it will not leave to them either root or bough.
+
+[NOTE]
+====
+. TSyVg begin chap. 4 here; in MLXX this is 3:19, and chap. 3 continues to the end of the book.
+====
+
+[[v39-4-2]]
+
+^<<v39-4-2,2>>^ And to YOU who are in fear of my name the sun of righteousness will certainly shine forth, with healing in its wings; and YOU will actually go forth and paw the ground like fattened calves.”
+
+[[v39-4-3]]
+
+^<<v39-4-3,3>>^ “And YOU people will certainly tread down &#91;the&#93; wicked ones, for they will become as powder under the soles of YOUR feet in the day on which I am acting,” Jehovah of armies has said.
+
+[[v39-4-4]]
+
+^<<v39-4-4,4>>^ “Remember, YOU people, the law of Moses my servant with which I commanded him in Hoʹreb concerning all Israel, even regulations and judicial decisions.^&#42;1^
+
+[NOTE]
+====
+. LXX moves vs 4 to follow vs 6, thus making the prophecy end on a hopeful note.
+====
+
+[[v39-4-5]]
+
+^<<v39-4-5,5>>^ “Look! I am sending to YOU people E·liʹjah^&#42;1^ the prophet before the coming of the great and fear-inspiring day of Jehovah.
+
+[NOTE]
+====
+. “Elijah.” Heb., ʼE·li·yahʹ; LXXVg, “Elias.”
+====
+
+[[v39-4-6]]
+
+^<<v39-4-6,6>>^ And he must turn the heart of fathers back toward sons, and the heart of sons back toward fathers; in order that I may not come and actually strike the earth^&#42;1^ with a devoting &#91;of it&#93; to destruction.”^&#42;2^
+
+[NOTE]
+====
+. Or, “the land.” Heb., ha·ʼaʹrets; Lat., terʹram.
+. Or, “with a ban.” Heb., cheʹrem. Because of this stern ending to this prophecy the Jews have a custom to repeat the reading of vs 5, which has a happy tone. Similar repetitions have been made at the end of other books such as Ecclesiastes, Isaiah and Lamentations.
+====
+
+_(End of the translation of the Hebrew-Aramaic Scriptures, to be followed by that of the Christian Greek Scriptures)_
+
+'''
+
+xref:039-malachi/039-malachi-003.adoc#v39-3-0[&#60; Capítulo Anterior] | <<v39-4-0,Topo>> | xref:040-matthew/040-matthew-001.adoc#v40-1-0[Próximo Capítulo &#62;]

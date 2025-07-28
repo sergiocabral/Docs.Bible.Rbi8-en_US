@@ -1,0 +1,43 @@
+include::./index.adoc[]
+
+[[v19-93-0]]
+=== Psalms, 93
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-93-1]]
+
+^<<v19-93-1,1>>^ ^&#42;1^ Jehovah himself has become king!
+With eminence he is clothed;
+Jehovah is clothed—with strength he has girded himself.
+The productive land^&#42;2^ also becomes firmly established so that it cannot be made to totter.
+
+[NOTE]
+====
+. LXX has the superscription: “For the day before the sabbath, when the earth was settled (peopled). The praise of a song by David”; Vg is similar.
+. “The productive land.” Heb., te·velʹ; LXX, “The inhabited earth”; Lat., orʹbem terʹrae, “The circle of the earth.”
+====
+
+[[v19-93-2]]
+
+^<<v19-93-2,2>>^ Your throne is firmly established from long ago;
+You are from time indefinite.
+
+[[v19-93-3]]
+
+^<<v19-93-3,3>>^ The rivers have raised, O Jehovah,
+The rivers have raised their sound;
+The rivers keep raising their pounding.
+
+[[v19-93-4]]
+
+^<<v19-93-4,4>>^ Above the sounds of vast waters, the majestic breaking waves of the sea,
+Jehovah is majestic in the height.
+
+[[v19-93-5]]
+
+^<<v19-93-5,5>>^ Your own reminders have proved very trustworthy.
+Holiness is befitting to your own house, O Jehovah, for length of days.
+
+'''
+
+xref:019-psalm/019-psalm-092.adoc#v19-92-0[&#60; Capítulo Anterior] | <<v19-93-0,Topo>> | xref:019-psalm/019-psalm-094.adoc#v19-94-0[Próximo Capítulo &#62;]

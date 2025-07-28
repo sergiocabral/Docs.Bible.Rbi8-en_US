@@ -1,0 +1,170 @@
+include::./index.adoc[]
+
+[[v19-55-0]]
+=== Psalms, 55
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director on stringed instruments. Masʹkil.^&#42;1^ Of David._
+
+[[v19-55-1]]
+
+^<<v19-55-1,1>>^ Do give ear, O God, to my prayer;
+And do not hide yourself from my request for favor.
+
+[[v19-55-2]]
+
+^<<v19-55-2,2>>^ Do pay attention to me and answer me.
+I am driven restlessly about by my concern,
+And I cannot but show disquietude,
+
+[[v19-55-3]]
+
+^<<v19-55-3,3>>^ Due to the voice of the enemy, because of the pressure of the wicked one.
+For they keep dropping upon me what is hurtful,
+And in anger they harbor animosity against me.
+
+[[v19-55-4]]
+
+^<<v19-55-4,4>>^ My very heart is in severe pain within me,
+And the frights of death itself have fallen upon me.
+
+[[v19-55-5]]
+
+^<<v19-55-5,5>>^ Fear, yes, trembling itself enters into me,
+And shuddering covers me.
+
+[[v19-55-6]]
+
+^<<v19-55-6,6>>^ And I keep saying: “O that I had wings as a dove has!
+I would fly away and reside.
+
+[[v19-55-7]]
+
+^<<v19-55-7,7>>^ Look! I would go far away in flight;
+I would lodge in the wilderness.—Seʹlah—
+
+[[v19-55-8]]
+
+^<<v19-55-8,8>>^ I would hasten to a place of escape for me
+From the rushing^&#42;1^ wind, from the tempest.”
+
+[NOTE]
+====
+. “Calumniating,” according to another derivation of the participle.
+====
+
+[[v19-55-9]]
+
+^<<v19-55-9,9>>^ Confuse, O Jehovah,^&#42;1^ divide their tongue,
+For I have seen violence and disputing in the city.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-55-10]]
+
+^<<v19-55-10,10>>^ Day and night they go round about it upon its walls;
+And hurtfulness and trouble are within it.
+
+[[v19-55-11]]
+
+^<<v19-55-11,11>>^ Adversities are within it;
+And from its public square oppression and deception have not moved away.
+
+[[v19-55-12]]
+
+^<<v19-55-12,12>>^ For it was not an enemy that proceeded to reproach me;
+Otherwise I could put up with it.
+It was not an intense hater of me that assumed great airs against me;
+Otherwise I could conceal myself from him.
+
+[[v19-55-13]]
+
+^<<v19-55-13,13>>^ But it was you, a mortal man who was as my equal,
+One familiar to me and my acquaintance,
+
+[[v19-55-14]]
+
+^<<v19-55-14,14>>^ Because we used to enjoy sweet intimacy together;
+Into the house of God we used to walk with the throng.
+
+[[v19-55-15]]
+
+^<<v19-55-15,15>>^ Desolations &#91;be&#93; upon them!
+Let them go down into Sheʹol alive;
+For during their alien residence bad things have been within them.
+
+[[v19-55-16]]
+
+^<<v19-55-16,16>>^ As for me, to God I shall call out;
+And Jehovah himself will save me.
+
+[[v19-55-17]]
+
+^<<v19-55-17,17>>^ Evening and morning and noontime I cannot but show concern and I moan,
+And he hears my voice.
+
+[[v19-55-18]]
+
+^<<v19-55-18,18>>^ He will certainly redeem &#91;and put&#93; my soul in peace from the fight that is against me,
+For in multitudes they have come to be against me.
+
+[[v19-55-19]]
+
+^<<v19-55-19,19>>^ God^&#42;1^ will hear and answer them,
+Even He that is sitting &#91;enthroned&#93; as in the past—Seʹlah—
+Those with whom there are no changings^&#42;2^
+And who have not feared God.
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+. Or, “vicissitudes”; or, “mutual liabilities.”
+====
+
+[[v19-55-20]]
+
+^<<v19-55-20,20>>^ He has thrust out his hands against those at peace with him;
+He has profaned his covenant.
+
+[[v19-55-21]]
+
+^<<v19-55-21,21>>^ Smoother than butter^&#42;1^ are &#91;the words of&#93; his mouth,
+But his heart is disposed to fight.^&#42;2^
+His words are softer than oil,
+But they are drawn swords.
+
+[NOTE]
+====
+. By a correction of M.
+. Lit., “is fight (war).”
+====
+
+[[v19-55-22]]
+
+^<<v19-55-22,22>>^ Throw your burden^&#42;1^ upon Jehovah himself,
+And he himself will sustain you.
+Never will he allow the righteous one to totter.
+
+[NOTE]
+====
+. Or, “lot” (that which is given).
+====
+
+[[v19-55-23]]
+
+^<<v19-55-23,23>>^ But you yourself, O God, will bring them down to the lowest pit.
+As for bloodguilty and deceitful men,^&#42;1^ they will not live out half^&#42;2^ their days.
+But as for me, I shall trust in you.
+
+[NOTE]
+====
+. Lit., “men of bloods and deception.”
+. Lit., “will not halve.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-054.adoc#v19-54-0[&#60; Capítulo Anterior] | <<v19-55-0,Topo>> | xref:019-psalm/019-psalm-056.adoc#v19-56-0[Próximo Capítulo &#62;]

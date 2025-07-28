@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v13-10-0]]
+=== The First of Chronicles, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v13-10-1]]
+
+^<<v13-10-1,1>>^ And the Phi·lisʹtines, for their part, made war upon Israel; and the men of Israel went fleeing from before the Phi·lisʹtines and kept falling slain in Mount Gil·boʹa.
+
+[[v13-10-2]]
+
+^<<v13-10-2,2>>^ And the Phi·lisʹtines kept in close range of Saul and his sons; and the Phi·lisʹtines got to strike down Jonʹa·than and A·binʹa·dab and Malʹchi-shuʹa, sons of Saul.
+
+[[v13-10-3]]
+
+^<<v13-10-3,3>>^ And the fighting became heavy against Saul; and those shooting with the bow finally found him, and he got wounded by the shooters.
+
+[[v13-10-4]]
+
+^<<v13-10-4,4>>^ Then Saul said to his armor-bearer: “Draw your sword and run me through with it, that these uncircumcised men may not come and certainly deal abusively with me.” And his armor-bearer was unwilling, because he was very much afraid. So Saul took the sword and fell upon it.
+
+[[v13-10-5]]
+
+^<<v13-10-5,5>>^ When his armor-bearer saw that Saul had died, then he too fell upon the sword and died.
+
+[[v13-10-6]]
+
+^<<v13-10-6,6>>^ Thus Saul and three sons of his died, and all those of his house died together.
+
+[[v13-10-7]]
+
+^<<v13-10-7,7>>^ When all the men of Israel that were in the low plain saw that they had fled and that Saul and his sons had died, then they began to leave their cities and flee; after which the Phi·lisʹtines came on in and took up dwelling in them.
+
+[[v13-10-8]]
+
+^<<v13-10-8,8>>^ And it came about the next day that, when the Phi·lisʹtines came to strip the slain, they got to find Saul and his sons fallen upon Mount Gil·boʹa.
+
+[[v13-10-9]]
+
+^<<v13-10-9,9>>^ And they proceeded to strip him and take off his head and his armor and send into the land of the Phi·lisʹtines all around to inform their idols and the people.
+
+[[v13-10-10]]
+
+^<<v13-10-10,10>>^ Finally they put his armor in the house of their god,^&#42;1^ and his skull they fastened to the house of Daʹgon.
+
+[NOTE]
+====
+. “Their god.” Or, “their gods.” Heb., ʼelo·heh·hemʹ, pl. of ʼelohʹah, to denote excellence of the Philistine god Dagon; Gr., the·ouʹ; Lat., deʹi. Compare Jg 16:23 ftn.
+====
+
+[[v13-10-11]]
+
+^<<v13-10-11,11>>^ And all those of Jaʹbesh in Gilʹe·ad got to hear of all that the Phi·lisʹtines had done to Saul.
+
+[[v13-10-12]]
+
+^<<v13-10-12,12>>^ So all the valiant men rose up and carried off the corpse of Saul and the corpses of his sons and brought them to Jaʹbesh and buried their bones under the big tree in Jaʹbesh; and they went fasting for seven days.
+
+[[v13-10-13]]
+
+^<<v13-10-13,13>>^ Thus Saul died for his unfaithfulness with which he had acted faithlessly against Jehovah concerning the word of Jehovah that he had not kept and also for asking of a spirit medium to make inquiry.
+
+[[v13-10-14]]
+
+^<<v13-10-14,14>>^ And he did not inquire of Jehovah. Consequently he put him to death and turned the kingship over to David the son of Jesʹse.
+
+'''
+
+xref:013-1-chronicles/013-1-chronicles-009.adoc#v13-9-0[&#60; Capítulo Anterior] | <<v13-10-0,Topo>> | xref:013-1-chronicles/013-1-chronicles-011.adoc#v13-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v20-13-0]]
+=== Proverbs, 13
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-13-1]]
+
+^<<v20-13-1,1>>^ A son is wise where there is a father’s discipline, but the ridiculer is one that has not heard rebuke.
+
+[[v20-13-2]]
+
+^<<v20-13-2,2>>^ From the fruitage of his mouth a man will eat good, but the very soul^&#42;1^ of those dealing treacherously is violence.
+
+[NOTE]
+====
+. “But the very soul (soulful desire) of.” Heb., weneʹphesh; Gr., psy·khaiʹ; Lat., aʹni·ma.
+====
+
+[[v20-13-3]]
+
+^<<v20-13-3,3>>^ The one guarding his mouth is keeping his soul. The one opening wide his lips—he will have ruin.
+
+[[v20-13-4]]
+
+^<<v20-13-4,4>>^ The lazy one is showing himself desirous, but his soul &#91;has&#93; nothing. However, the very soul of the diligent ones will be made fat.
+
+[[v20-13-5]]
+
+^<<v20-13-5,5>>^ A false word is what the righteous hates, but the wicked ones act shamefully and cause disgrace for themselves.
+
+[[v20-13-6]]
+
+^<<v20-13-6,6>>^ Righteousness itself safeguards the one who is harmless in his way, but wickedness is what subverts the sinner.^&#42;1^
+
+[NOTE]
+====
+. By a slight correction; M appears to read, “wickedness is what distorts a sin offering.”
+====
+
+[[v20-13-7]]
+
+^<<v20-13-7,7>>^ There exists the one that is pretending to be rich and yet he has nothing at all; there is the one that is pretending to be of little means and yet &#91;he has&#93; many valuable things.
+
+[[v20-13-8]]
+
+^<<v20-13-8,8>>^ The ransom for a man’s soul is his riches, but the one of little means has not heard rebuke.
+
+[[v20-13-9]]
+
+^<<v20-13-9,9>>^ The very light of the righteous ones will rejoice; but the lamp of the wicked ones—it will be extinguished.
+
+[[v20-13-10]]
+
+^<<v20-13-10,10>>^ By presumptuousness one only causes a struggle, but with those consulting together there is wisdom.
+
+[[v20-13-11]]
+
+^<<v20-13-11,11>>^ Valuable things resulting from vanity become fewer, but the one collecting by the hand is the one that makes increase.
+
+[[v20-13-12]]
+
+^<<v20-13-12,12>>^ Expectation postponed is making the heart sick, but the thing desired is a tree of life when it does come.
+
+[[v20-13-13]]
+
+^<<v20-13-13,13>>^ He that has despised the word, from him a &#91;debtor’s&#93; pledge will be seized; but the one fearing the commandment is the one that will be rewarded.
+
+[[v20-13-14]]
+
+^<<v20-13-14,14>>^ The law of the wise one is a source^&#42;1^ of life, to turn one away from the snares of death.
+
+[NOTE]
+====
+. Or, “well.” Heb., meqohrʹ.
+====
+
+[[v20-13-15]]
+
+^<<v20-13-15,15>>^ Good insight itself gives favor, but the way of those dealing treacherously is rugged.^&#42;1^
+
+[NOTE]
+====
+. “Rugged,” according to the suggestion offered by BDB, p. 451; by a correction of M, “their disaster.”
+====
+
+[[v20-13-16]]
+
+^<<v20-13-16,16>>^ Everyone shrewd will act with knowledge, but the one that is stupid will spread abroad foolishness.
+
+[[v20-13-17]]
+
+^<<v20-13-17,17>>^ A messenger that is wicked will fall into bad, but a faithful envoy is a healing.
+
+[[v20-13-18]]
+
+^<<v20-13-18,18>>^ The one neglecting discipline &#91;comes to&#93; poverty and dishonor, but the one keeping a reproof is the one that is glorified.
+
+[[v20-13-19]]
+
+^<<v20-13-19,19>>^ Desire when realized is pleasurable to the soul; but it is something detestable to the stupid ones to turn away from bad.
+
+[[v20-13-20]]
+
+^<<v20-13-20,20>>^ He that is walking with wise persons will become wise, but he that is having dealings with the stupid ones will fare badly.
+
+[[v20-13-21]]
+
+^<<v20-13-21,21>>^ Sinners are the ones whom calamity pursues, but the righteous are the ones whom good rewards.
+
+[[v20-13-22]]
+
+^<<v20-13-22,22>>^ One who is good will leave an inheritance to sons of sons, and the wealth of the sinner is something treasured up for the righteous one.
+
+[[v20-13-23]]
+
+^<<v20-13-23,23>>^ Plowed ground of persons of little means &#91;yields&#93; a great deal of food, but there exists the one that is swept away for lack of judgment.
+
+[[v20-13-24]]
+
+^<<v20-13-24,24>>^ The one holding back his rod is hating his son, but the one loving him is he that does look for him with discipline.
+
+[[v20-13-25]]
+
+^<<v20-13-25,25>>^ The righteous is eating to the satisfaction of his soul, but the belly of the wicked ones will be empty.
+
+'''
+
+xref:020-proverbs/020-proverbs-012.adoc#v20-12-0[&#60; Capítulo Anterior] | <<v20-13-0,Topo>> | xref:020-proverbs/020-proverbs-014.adoc#v20-14-0[Próximo Capítulo &#62;]

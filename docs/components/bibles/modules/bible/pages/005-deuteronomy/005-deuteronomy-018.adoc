@@ -1,0 +1,138 @@
+include::./index.adoc[]
+
+[[v5-18-0]]
+=== Deuteronomy, 18
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-18-1]]
+
+^<<v5-18-1,1>>^ “No share or inheritance with Israel should come to belong to the priests, the Levites, the entire tribe of Leʹvi. The offerings made by fire of Jehovah, even his^&#42;1^ inheritance, they should eat.
+
+[NOTE]
+====
+. “His,” MSyVg; LXX, “their.”
+====
+
+[[v5-18-2]]
+
+^<<v5-18-2,2>>^ So no inheritance should come to belong to him in the midst of his brothers. Jehovah is his inheritance, just as he has spoken to him.
+
+[[v5-18-3]]
+
+^<<v5-18-3,3>>^ “Now this should continue as the due right of the priests from the people, from the ones who sacrifice a victim, whether a bull or a sheep: One must give to the priest the shoulder blade and the jaws and the stomach.
+
+[[v5-18-4]]
+
+^<<v5-18-4,4>>^ The first of your grain, your new wine and your oil and the first of the shorn wool of your flock you should give him.
+
+[[v5-18-5]]
+
+^<<v5-18-5,5>>^ For he is the one whom Jehovah^&#42;1^ your God has chosen out of all your tribes to stand to minister in the name of Jehovah,^&#42;2^ he and his sons, always.
+
+[NOTE]
+====
+. “Jehovah.” Heb., Yehwahʹ. In the first-century B.C.E. papyrus fragment LXXP. Fouad Inv. 266 the Tetragrammaton appears in square Heb. characters in the Gr. text. See App 1C §1.
+. See App 1C §1.
+====
+
+[[v5-18-6]]
+
+^<<v5-18-6,6>>^ “And in case the Levite goes out of one of your cities of all Israel, where he had resided for a while, and he does come because of any craving of his soul to the place that Jehovah will choose,
+
+[[v5-18-7]]
+
+^<<v5-18-7,7>>^ he must also minister in the name of Jehovah^&#42;1^ his God the same as all his brothers, the Levites, who are standing there before Jehovah.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-18-8]]
+
+^<<v5-18-8,8>>^ An equal share he should eat, besides what he gets from things he sells of his ancestral goods.^&#42;1^
+
+[NOTE]
+====
+. Lit., “besides the things he sells according to the forefathers.”
+====
+
+[[v5-18-9]]
+
+^<<v5-18-9,9>>^ “When you are entered into the land that Jehovah your God is giving you, you must not learn to do according to the detestable things of those nations.
+
+[[v5-18-10]]
+
+^<<v5-18-10,10>>^ There should not be found in you anyone who makes his son or his daughter pass through the fire, anyone who employs divination, a practicer of magic or anyone who looks for omens or a sorcerer,
+
+[[v5-18-11]]
+
+^<<v5-18-11,11>>^ or one who binds others with a spell or anyone who consults a spirit medium^&#42;1^ or a professional foreteller of events or anyone who inquires of the dead.
+
+[NOTE]
+====
+. See Le 19:31 ftn.
+====
+
+[[v5-18-12]]
+
+^<<v5-18-12,12>>^ For everybody doing these things is something detestable to Jehovah, and on account of these detestable things Jehovah your God is driving them away from before you.
+
+[[v5-18-13]]
+
+^<<v5-18-13,13>>^ You should prove yourself faultless with Jehovah your God.
+
+[[v5-18-14]]
+
+^<<v5-18-14,14>>^ “For these nations whom you are dispossessing used to listen to those practicing magic and to those who divine; but as for you, Jehovah your God has not given^&#42;1^ you anything like this.
+
+[NOTE]
+====
+. Or, “allowed.”
+====
+
+[[v5-18-15]]
+
+^<<v5-18-15,15>>^ A prophet from your own midst, from your brothers, like me, is what Jehovah^&#42;1^ your God will raise up for you—to him YOU people should listen—
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-18-16]]
+
+^<<v5-18-16,16>>^ in response to all that you asked of Jehovah^&#42;1^ your God in Hoʹreb on the day of the congregation, saying, ‘Do not let me hear again the voice of Jehovah my God, and this great fire do not let me see anymore, that I may not die.’
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-18-17]]
+
+^<<v5-18-17,17>>^ At that Jehovah said to me, ‘They have done well in speaking what they did.
+
+[[v5-18-18]]
+
+^<<v5-18-18,18>>^ A prophet I shall raise up for them from the midst of their brothers, like you; and I shall indeed put my words in his mouth, and he will certainly speak to them all that I shall command him.
+
+[[v5-18-19]]
+
+^<<v5-18-19,19>>^ And it must occur that the man who will not listen to my words that he will speak in my name, I shall myself require an account from him.
+
+[[v5-18-20]]
+
+^<<v5-18-20,20>>^ “‘However, the prophet who presumes to speak in my name a word that I have not commanded him to speak or who speaks in the name of other gods, that prophet must die.
+
+[[v5-18-21]]
+
+^<<v5-18-21,21>>^ And in case you should say in your heart: “How shall we know the word that Jehovah has not spoken?”
+
+[[v5-18-22]]
+
+^<<v5-18-22,22>>^ when the prophet speaks in the name of Jehovah and the word does not occur or come true, that is the word that Jehovah did not speak. With presumptuousness the prophet spoke it. You must not get frightened at him.’
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-017.adoc#v5-17-0[&#60; Capítulo Anterior] | <<v5-18-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-019.adoc#v5-19-0[Próximo Capítulo &#62;]

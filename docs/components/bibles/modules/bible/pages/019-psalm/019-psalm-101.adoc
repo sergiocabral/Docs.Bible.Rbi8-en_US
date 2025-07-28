@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-101-0]]
+=== Psalms, 101
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David. A melody._
+
+[[v19-101-1]]
+
+^<<v19-101-1,1>>^ About loving-kindness and judgment I will sing.
+To you, O Jehovah, I will make melody.
+
+[[v19-101-2]]
+
+^<<v19-101-2,2>>^ I will act with discretion in a faultless way.
+When will you come to me?
+I shall walk about in the integrity of my heart inside my house.
+
+[[v19-101-3]]
+
+^<<v19-101-3,3>>^ I shall not set in front of my eyes any good-for-nothing thing.^&#42;1^
+The doing of those who fall away I have hated;
+It does not cling to me.
+
+[NOTE]
+====
+. Lit., “a thing of belial (worthlessness).”
+====
+
+[[v19-101-4]]
+
+^<<v19-101-4,4>>^ A crooked heart departs from me;
+Nothing bad do I know.
+
+[[v19-101-5]]
+
+^<<v19-101-5,5>>^ Anyone slandering his companion in secrecy,
+Him I silence.
+Anyone of haughty eyes and of arrogant heart,^&#42;1^
+Him I cannot endure.
+
+[NOTE]
+====
+. Lit., “Anyone high of eyes and broad of heart.”
+====
+
+[[v19-101-6]]
+
+^<<v19-101-6,6>>^ My eyes are upon the faithful ones of the earth,
+That they may dwell with me.
+The one walking in a faultless way,
+He it is who will minister to me.
+
+[[v19-101-7]]
+
+^<<v19-101-7,7>>^ There will dwell inside my house no worker of trickiness.
+As for anyone speaking falsehoods, he will not be firmly established
+In front of my eyes.
+
+[[v19-101-8]]
+
+^<<v19-101-8,8>>^ Every morning^&#42;1^ I shall silence all the wicked ones of the earth,
+To cut off from the city of Jehovah all the practicers of what is hurtful.
+
+[NOTE]
+====
+. Lit., “For the mornings.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-100.adoc#v19-100-0[&#60; Capítulo Anterior] | <<v19-101-0,Topo>> | xref:019-psalm/019-psalm-102.adoc#v19-102-0[Próximo Capítulo &#62;]

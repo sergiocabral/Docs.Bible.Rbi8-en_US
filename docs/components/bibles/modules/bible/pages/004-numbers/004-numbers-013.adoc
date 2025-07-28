@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v4-13-0]]
+=== Numbers, 13
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-13-1]]
+
+^<<v4-13-1,1>>^ Jehovah now spoke to Moses, saying:
+
+[[v4-13-2]]
+
+^<<v4-13-2,2>>^ “Send out for yourself men that they may spy out the land of Caʹnaan, which I am giving to the sons of Israel. YOU will send out one man for each tribe of his fathers, each one a chieftain among them.”
+
+[[v4-13-3]]
+
+^<<v4-13-3,3>>^ So Moses sent them out from the wilderness of Paʹran at the order of Jehovah. All the men were heads of the sons of Israel.
+
+[[v4-13-4]]
+
+^<<v4-13-4,4>>^ And these are their names: Of the tribe of Reuʹben, Sham·muʹa the son of Zacʹcur;
+
+[[v4-13-5]]
+
+^<<v4-13-5,5>>^ of the tribe of Simʹe·on, Shaʹphat the son of Hoʹri;
+
+[[v4-13-6]]
+
+^<<v4-13-6,6>>^ of the tribe of Judah, Caʹleb the son of Je·phunʹneh;
+
+[[v4-13-7]]
+
+^<<v4-13-7,7>>^ of the tribe of Isʹsa·char, Iʹgal the son of Joseph;
+
+[[v4-13-8]]
+
+^<<v4-13-8,8>>^ of the tribe of Eʹphra·im, Ho·sheʹa^&#42;1^ the son of Nun;
+
+[NOTE]
+====
+. Meaning “Salvation; Deliverance.” Heb., Hoh·sheʹaʽ; Sam, “Jehoshua.”
+====
+
+[[v4-13-9]]
+
+^<<v4-13-9,9>>^ of the tribe of Benjamin, Palʹti the son of Raʹphu;
+
+[[v4-13-10]]
+
+^<<v4-13-10,10>>^ of the tribe of Zebʹu·lun, Gadʹdi·el the son of Soʹdi;
+
+[[v4-13-11]]
+
+^<<v4-13-11,11>>^ of the tribe of Joseph, for the tribe of Ma·nasʹseh, Gadʹdi the son of Suʹsi;
+
+[[v4-13-12]]
+
+^<<v4-13-12,12>>^ of the tribe of Dan, Amʹmi·el the son of Ge·malʹli;
+
+[[v4-13-13]]
+
+^<<v4-13-13,13>>^ of the tribe of Ashʹer, Seʹthur the son of Miʹcha·el;
+
+[[v4-13-14]]
+
+^<<v4-13-14,14>>^ of the tribe of Naphʹta·li, Nahʹbi the son of Vophʹsi;
+
+[[v4-13-15]]
+
+^<<v4-13-15,15>>^ of the tribe of Gad, Geuʹel the son of Maʹchi.
+
+[[v4-13-16]]
+
+^<<v4-13-16,16>>^ These are the names of the men whom Moses sent to spy out the land. And Moses continued to call Ho·sheʹa the son of Nun Je·hoshʹu·a.^&#42;1^
+
+[NOTE]
+====
+. Meaning “Jehovah Is Salvation.” Heb., Yehoh·shuʹaʽ; Gr., Ἰησοῦν (I·e·sounʹ, “Jesus”).
+====
+
+[[v4-13-17]]
+
+^<<v4-13-17,17>>^ When Moses was sending them to spy out the land of Caʹnaan, he proceeded to say to them: “Go up here into the Negʹeb,^&#42;1^ and YOU must go up into the mountainous region.
+
+[NOTE]
+====
+. Or, “the south,” that is, the southern part of the Promised Land.
+====
+
+[[v4-13-18]]
+
+^<<v4-13-18,18>>^ And YOU must see what the land is and the people who are dwelling on it, whether they are strong or weak, whether they are few or many;
+
+[[v4-13-19]]
+
+^<<v4-13-19,19>>^ and what the land is in which they are dwelling, whether it is good or bad, and what the cities are in which they are dwelling, whether it is in encampments or in fortifications;
+
+[[v4-13-20]]
+
+^<<v4-13-20,20>>^ and what the land is, whether it is fat or lean, whether there are trees in it or not. And YOU must show yourselves courageous and take some of the fruitage of the land.” Now the days were the days of the first ripe fruits of the grapes.
+
+[[v4-13-21]]
+
+^<<v4-13-21,21>>^ So they went up and spied out the land from the wilderness of Zin to Reʹhob to the entering in of Haʹmath.
+
+[[v4-13-22]]
+
+^<<v4-13-22,22>>^ When they went up into the Negʹeb, they then came to Heʹbron. Now A·hiʹman, Sheʹshai and Talʹmai, those born of Aʹnak,^&#42;1^ were there. Incidentally, Heʹbron had been built seven years before Zoʹan of Egypt.
+
+[NOTE]
+====
+. Or, “the giant.” Heb., ha·ʽanaqʹ, with the definite article as in vs 28. “Anak” means “Long-necked,” hence, of tall stature.
+====
+
+[[v4-13-23]]
+
+^<<v4-13-23,23>>^ When they came to the torrent valley of Eshʹcol, they then proceeded to cut down from there a shoot with one cluster of grapes. And they went carrying it with a bar on two of the men, and also some of the pomegranates and some of the figs.
+
+[[v4-13-24]]
+
+^<<v4-13-24,24>>^ They^&#42;1^ called that place the torrent valley of Eshʹcol,^&#42;2^ on account of the cluster that the sons of Israel cut down from there.
+
+[NOTE]
+====
+. “They,” SamTJLXXSy; M, “He.”
+. Meaning “Cluster [of Grapes].”
+====
+
+[[v4-13-25]]
+
+^<<v4-13-25,25>>^ Finally at the end of forty days they returned from spying out the land.
+
+[[v4-13-26]]
+
+^<<v4-13-26,26>>^ So they walked and came to Moses and Aaron and all the assembly of the sons of Israel in the wilderness of Paʹran, at Kaʹdesh. And they came bringing back word to them and all the assembly and showing them the fruitage of the land.
+
+[[v4-13-27]]
+
+^<<v4-13-27,27>>^ And they went on to report to him and say: “We entered into the land to which you sent us out, and it is indeed flowing with milk and honey, and this is its fruitage.
+
+[[v4-13-28]]
+
+^<<v4-13-28,28>>^ Nevertheless, the facts are that the people who dwell in the land are strong, and the fortified cities are very great; and, too, those born of Aʹnak we saw there.
+
+[[v4-13-29]]
+
+^<<v4-13-29,29>>^ The A·malʹek·ites are dwelling in the land of the Negʹeb, and the Hitʹtites and the Jebʹu·sites and the Amʹor·ites are dwelling in the mountainous region, and the Caʹnaan·ites are dwelling by the sea and by the side of the Jordan.”
+
+[[v4-13-30]]
+
+^<<v4-13-30,30>>^ Then Caʹleb tried to still the people toward Moses and went on to say: “Let us go up directly, and we are bound to take possession of it, because we can surely prevail over it.”
+
+[[v4-13-31]]
+
+^<<v4-13-31,31>>^ But the men who went up with him said: “We are not able to go up against the people, because they are stronger than we are.”
+
+[[v4-13-32]]
+
+^<<v4-13-32,32>>^ And they kept on bringing forth to the sons of Israel a bad report of the land that they had spied out, saying: “The land, which we passed through to spy it out, is a land that eats up its inhabitants; and all the people whom we saw in the midst of it are men of extraordinary size.
+
+[[v4-13-33]]
+
+^<<v4-13-33,33>>^ And there we saw the Nephʹi·lim, the sons of Aʹnak, who are from the Nephʹi·lim; so that we became in our own eyes like grasshoppers, and the same way we became in their eyes.”
+
+'''
+
+xref:004-numbers/004-numbers-012.adoc#v4-12-0[&#60; Capítulo Anterior] | <<v4-13-0,Topo>> | xref:004-numbers/004-numbers-014.adoc#v4-14-0[Próximo Capítulo &#62;]

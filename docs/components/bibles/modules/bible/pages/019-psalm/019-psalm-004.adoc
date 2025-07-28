@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v19-4-0]]
+=== Psalms, 4
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director on stringed instruments. A melody of David._
+
+[[v19-4-1]]
+
+^<<v19-4-1,1>>^ When I call, answer me, O my righteous God.
+In the distress you must make broad space for me.
+Show me favor and hear my prayer.
+
+[[v19-4-2]]
+
+^<<v19-4-2,2>>^ YOU sons of men,^&#42;1^ how long must my glory be for insult,
+&#91;While&#93; YOU keep loving empty things,
+&#91;While&#93; YOU keep seeking to find a lie? Seʹlah.
+
+[NOTE]
+====
+. “Men.” Heb., ʼish, evidently in a collective sense.
+====
+
+[[v19-4-3]]
+
+^<<v19-4-3,3>>^ So take knowledge that Jehovah will certainly distinguish his loyal one;^&#42;1^
+Jehovah himself will hear when I call to him.
+
+[NOTE]
+====
+. “Jehovah has made his man of loving-kindness [Vg, “his holy one”] wonderful,” LXX.
+====
+
+[[v19-4-4]]
+
+^<<v19-4-4,4>>^ BE agitated, but do not sin.
+Have YOUR say in YOUR heart, upon YOUR bed, and keep silent. Seʹlah.
+
+[[v19-4-5]]
+
+^<<v19-4-5,5>>^ Sacrifice the sacrifices of righteousness,
+And trust in Jehovah.
+
+[[v19-4-6]]
+
+^<<v19-4-6,6>>^ There are many saying: “Who will show us good?”
+Lift up the light of your face upon us, O Jehovah.
+
+[[v19-4-7]]
+
+^<<v19-4-7,7>>^ You will certainly give a rejoicing in my heart
+Greater than in the time when their grain and their new wine have abounded.
+
+[[v19-4-8]]
+
+^<<v19-4-8,8>>^ In peace I will both lie down and sleep,
+For you yourself alone, O Jehovah, make me dwell in security.
+
+'''
+
+xref:019-psalm/019-psalm-003.adoc#v19-3-0[&#60; Capítulo Anterior] | <<v19-4-0,Topo>> | xref:019-psalm/019-psalm-005.adoc#v19-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,221 @@
+include::./index.adoc[]
+
+[[v5-5-0]]
+=== Deuteronomy, 5
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-5-1]]
+
+^<<v5-5-1,1>>^ And Moses proceeded to call all Israel and to say to them: “Hear, O Israel, the regulations and the judicial decisions that I am speaking in YOUR ears today, and YOU must learn them and be careful to do them.
+
+[[v5-5-2]]
+
+^<<v5-5-2,2>>^ Jehovah our God concluded a covenant with us in Hoʹreb.
+
+[[v5-5-3]]
+
+^<<v5-5-3,3>>^ It was not with our forefathers that Jehovah concluded this covenant, but with us, all those of us alive here today.
+
+[[v5-5-4]]
+
+^<<v5-5-4,4>>^ Face to face Jehovah spoke with YOU in the mountain out of the middle of the fire.
+
+[[v5-5-5]]
+
+^<<v5-5-5,5>>^ I was standing between Jehovah and YOU at that particular time to tell YOU the word^&#42;1^ of Jehovah, (for YOU were afraid because of the fire and did not go up into the mountain,) saying,
+
+[NOTE]
+====
+. “Word,” M; SamLXXSyVg, “words.”
+====
+
+[[v5-5-6]]
+
+^<<v5-5-6,6>>^ “‘I am Jehovah your God, who brought you out of the land of Egypt, out of the house of slaves.
+
+[[v5-5-7]]
+
+^<<v5-5-7,7>>^ You must never have any other gods against my face.^&#42;1^
+
+[NOTE]
+====
+. Or, “gods in defiance of me.”
+====
+
+[[v5-5-8]]
+
+^<<v5-5-8,8>>^ “‘You must not make for yourself a carved image, any form^&#42;1^ like anything that is in the heavens above or that is on the earth underneath or that is in the waters under the earth.
+
+[NOTE]
+====
+. “Any form,” M; SamTJLXXSyVg, 61 Heb. mss and Ex 20:4, “or a form.”
+====
+
+[[v5-5-9]]
+
+^<<v5-5-9,9>>^ You must not bow down to them or be led to serve^&#42;1^ them, because I Jehovah your God am a God exacting exclusive devotion,^&#42;2^ bringing punishment for the error of fathers upon sons^&#42;3^ and^&#42;4^ upon the third generation and upon the fourth generation,^&#42;5^ in the case of those who hate me;
+
+[NOTE]
+====
+. Or, “be led to worship; be led to render sacred service to.” Heb., tho·ʽov·dhemʹ; Gr., la·treuʹseis.
+. Or, “a God who is jealous (zealous); a God not tolerating rivalry.” See 4:24 ftn.
+. Or, “children.”
+. “And,” M; SamTJLXXSyVg, 57 Heb. mss and Ex 20:5 omit.
+. Lit., “down to the third and fourth [generated] ones.” See Ge 50:23 ftn.
+====
+
+[[v5-5-10]]
+
+^<<v5-5-10,10>>^ but exercising loving-kindness^&#42;1^ toward the thousandth generation in the case of those who love me and keep my commandments.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v5-5-11]]
+
+^<<v5-5-11,11>>^ “‘You must not take up^&#42;1^ the name of Jehovah your God in a worthless way,^&#42;2^ for Jehovah will not leave anyone unpunished who takes up his name in a worthless way.
+
+[NOTE]
+====
+. Or, “not pronounce”; or, “not lift up (carry).”
+. Or, “to a falsehood,” as in vs 20. Or, “in vain.”
+====
+
+[[v5-5-12]]
+
+^<<v5-5-12,12>>^ “‘Keeping^&#42;1^ the sabbath day to hold it sacred, just as Jehovah your God commanded you,
+
+[NOTE]
+====
+. “Keeping.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and not in the imperative mood.
+====
+
+[[v5-5-13]]
+
+^<<v5-5-13,13>>^ you are to render service^&#42;1^ and you must do all your work six days.
+
+[NOTE]
+====
+. Or, “you are to labor.” Gr., er·gaiʹ.
+====
+
+[[v5-5-14]]
+
+^<<v5-5-14,14>>^ But the seventh day is a sabbath to Jehovah your God. You must not do any work, you nor your son nor your daughter nor your slave man nor your slave girl nor your bull nor your ass nor any domestic animal of yours nor your alien resident who is inside your gates, in order that your slave man and your slave girl may rest the same as you.
+
+[[v5-5-15]]
+
+^<<v5-5-15,15>>^ And you must remember that you became a slave in the land of Egypt and Jehovah your God proceeded to bring you out from there with a strong hand and an outstretched arm. That is why Jehovah your God commanded you to carry on the sabbath day.
+
+[[v5-5-16]]
+
+^<<v5-5-16,16>>^ “‘Honor your father and your mother, just as Jehovah your God has commanded you; in order that your days may prove long and it may go well with you on the ground that Jehovah your God is giving you.
+
+[[v5-5-17]]
+
+^<<v5-5-17,17>>^ “‘You must not murder.
+
+[[v5-5-18]]
+
+^<<v5-5-18,18>>^ “‘Neither must you^&#42;1^ commit adultery.
+
+[NOTE]
+====
+. “Neither must you,” MVg; SamLXXSy and Ex 20:14-17, “You must not.”
+====
+
+[[v5-5-19]]
+
+^<<v5-5-19,19>>^ “‘Neither must you steal.
+
+[[v5-5-20]]
+
+^<<v5-5-20,20>>^ “‘Neither must you testify to a falsehood against your fellowman.^&#42;1^
+
+[NOTE]
+====
+. Or, “your companion.” LXXVg, “your neighbor.”
+====
+
+[[v5-5-21]]
+
+^<<v5-5-21,21>>^ “‘Neither must you desire your fellowman’s wife. Neither must you selfishly crave^&#42;1^ your fellowman’s house, his field or his slave man or his slave girl, his bull or his ass or anything that belongs to your fellowman.’
+
+[NOTE]
+====
+. “You desire [Heb., thach·modhʹ] . . . you selfishly crave [Heb., thith·ʼaw·wehʹ].” Two different Heb. verbs are used in this tenth commandment but only the first one is used in Ex 20:17. Augustine depended upon these different verbs to make two commandments here, thus making up for combining the first two commandments. See Ex 20:17 ftns.
+====
+
+[[v5-5-22]]
+
+^<<v5-5-22,22>>^ “These Words^&#42;1^ Jehovah spoke to all YOUR congregation in the mountain out of the middle of the fire, the cloud and the thick gloom, with a loud voice, and he added nothing; after which he wrote them upon two tablets of stone and gave me them.
+
+[NOTE]
+====
+. “Words,” that is, words of command, commandments. See 4:13; 10:4.
+====
+
+[[v5-5-23]]
+
+^<<v5-5-23,23>>^ “And it came about that as soon as YOU had heard the voice out of the middle of the darkness, while the mountain was burning with fire, YOU proceeded to come near to me, all the heads of YOUR tribes and YOUR older men.^&#42;1^
+
+[NOTE]
+====
+. Or, “elders.”
+====
+
+[[v5-5-24]]
+
+^<<v5-5-24,24>>^ Then YOU said, ‘Here Jehovah our God has shown us his glory and his greatness, and we have heard his voice out of the middle of the fire. This day we have seen that God may speak with man and he may actually keep living.
+
+[[v5-5-25]]
+
+^<<v5-5-25,25>>^ And now why should we die, for this great fire may consume us? If we are again hearing the voice of Jehovah our God any further, we are also certain to die.
+
+[[v5-5-26]]
+
+^<<v5-5-26,26>>^ For who is there of all flesh that has heard the voice of the living God^&#42;1^ speaking out of the middle of the fire as we did and yet goes on living?
+
+[NOTE]
+====
+. “Living God.” Heb., ʼElo·himʹ, followed by the pl. adjective chai·yimʹ, “living”; in 2Ki 19:4, 16 and Isa 37:4, 17, “God,” followed by the sing. adjective, chai. This is the first occurrence of this title.
+====
+
+[[v5-5-27]]
+
+^<<v5-5-27,27>>^ You yourself go near and hear all that Jehovah our God will say; and you will be the one to speak to us all that Jehovah our God will speak to you, and we shall certainly listen and do.’
+
+[[v5-5-28]]
+
+^<<v5-5-28,28>>^ “So Jehovah heard the voice of YOUR words when YOU spoke to me, and Jehovah went on to say to me, ‘I have heard the voice of the words of this people, which they have spoken to you. They have done well in all they have spoken.
+
+[[v5-5-29]]
+
+^<<v5-5-29,29>>^ If only^&#42;1^ they would develop this heart of theirs to fear me and to keep all my commandments always, in order that it might go well with them and their sons to time indefinite!
+
+[NOTE]
+====
+. Lit., “Who will give and . . . ?”
+====
+
+[[v5-5-30]]
+
+^<<v5-5-30,30>>^ Go say to them: “Return home to YOUR tents.”
+
+[[v5-5-31]]
+
+^<<v5-5-31,31>>^ And you stand here with me, and let me speak to you all the commandment and the regulations and the judicial decisions that you should teach to them and that they must do in the land that I am giving them to take possession of it.’
+
+[[v5-5-32]]
+
+^<<v5-5-32,32>>^ And YOU people must take care to do just as Jehovah YOUR God has commanded YOU. YOU must not turn to the right or to the left.
+
+[[v5-5-33]]
+
+^<<v5-5-33,33>>^ In all the way that Jehovah YOUR God has commanded YOU, YOU should walk, in order that YOU may live and it may be well with YOU and YOU may indeed lengthen YOUR days in the land of which YOU will take possession.
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-004.adoc#v5-4-0[&#60; Capítulo Anterior] | <<v5-5-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-006.adoc#v5-6-0[Próximo Capítulo &#62;]

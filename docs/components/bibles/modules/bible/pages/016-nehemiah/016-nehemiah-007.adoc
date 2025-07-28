@@ -1,0 +1,393 @@
+include::./index.adoc[]
+
+[[v16-7-0]]
+=== Nehemiah, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v16-7-1]]
+
+^<<v16-7-1,1>>^ And it came about that, as soon as the wall had been rebuilt, I at once set up the doors. Then there were appointed the gatekeepers and the singers and the Levites.
+
+[[v16-7-2]]
+
+^<<v16-7-2,2>>^ And I went on to put in command of Jerusalem Ha·naʹni my brother and Han·a·niʹah the prince of the Castle, for he was such a trustworthy man^&#42;1^ and feared the &#91;true&#93; God more than many others.
+
+[NOTE]
+====
+. Or, “a man of truth.”
+====
+
+[[v16-7-3]]
+
+^<<v16-7-3,3>>^ So I^&#42;1^ said to them: “The gates of Jerusalem should not be opened until the sun gets hot; and while they are standing by they should shut the doors and bolt &#91;them&#93;. And station^&#42;2^ guards of the inhabitants of Jerusalem, each one at his own guardpost and each one in front of his own house.”
+
+[NOTE]
+====
+. “I,” MmarginLXXSyVg; M, “he.” Compare 5:9 ftn.
+. “Station,” MLXX; Vg and one Heb. ms, “I stationed.”
+====
+
+[[v16-7-4]]
+
+^<<v16-7-4,4>>^ Now the city was wide^&#42;1^ and great, and there were few people inside it, and there were no houses built.
+
+[NOTE]
+====
+. Lit., “wide on both sides,” that is, spacious.
+====
+
+[[v16-7-5]]
+
+^<<v16-7-5,5>>^ But my God put &#91;it&#93; into my heart that I should collect together the nobles and the deputy rulers and the people to get themselves enrolled genealogically. Then I found the book of genealogical enrollment of those who came up at the first, and found written in it:
+
+[[v16-7-6]]
+
+^<<v16-7-6,6>>^ These are the sons of the jurisdictional district^&#42;1^ who came up out of the captivity of the exiled people whom Neb·u·chad·nezʹzar the king of Babylon^&#42;2^ had taken into exile and who later returned to Jerusalem and to Judah, each to his own city;
+
+[NOTE]
+====
+. “Jurisdictional district.” Lat., pro·vinʹci·ae.
+. “Babylon,” LXXVg; MSy, “Babel.”
+====
+
+[[v16-7-7]]
+
+^<<v16-7-7,7>>^ those who came in with Ze·rubʹba·bel, Jeshʹu·a,^&#42;1^ Ne·he·miʹah, Az·a·riʹah,^&#42;2^ Ra·a·miʹah,^&#42;3^ Na·hamʹa·ni, Morʹde·cai, Bilʹshan, Misʹpe·reth,^&#42;4^ Bigʹvai, Neʹhum,^&#42;5^ Baʹa·nah.
+The number of the men of the people of Israel:
+
+[NOTE]
+====
+. “Jesus,” LXX.
+. “Seraiah” in Ezr 2:2.
+. “Reelaiah” in Ezr 2:2.
+. “Mispar” in Ezr 2:2.
+. “Rehum” in Ezr 2:2.
+====
+
+[[v16-7-8]]
+
+^<<v16-7-8,8>>^ The sons of Paʹrosh, two thousand one hundred and seventy-two;
+
+[[v16-7-9]]
+
+^<<v16-7-9,9>>^ the sons of Sheph·a·tiʹah, three hundred and seventy-two;
+
+[[v16-7-10]]
+
+^<<v16-7-10,10>>^ the sons of Aʹrah, six hundred and fifty-two;
+
+[[v16-7-11]]
+
+^<<v16-7-11,11>>^ the sons of Paʹhath-moʹab, of the sons of Jeshʹu·a and Joʹab, two thousand eight hundred and eighteen;
+
+[[v16-7-12]]
+
+^<<v16-7-12,12>>^ the sons of Eʹlam, a thousand two hundred and fifty-four;
+
+[[v16-7-13]]
+
+^<<v16-7-13,13>>^ the sons of Zatʹtu, eight hundred and forty-five;
+
+[[v16-7-14]]
+
+^<<v16-7-14,14>>^ the sons of Zacʹcai, seven hundred and sixty;
+
+[[v16-7-15]]
+
+^<<v16-7-15,15>>^ the sons of Binʹnu·i, six hundred and forty-eight;
+
+[[v16-7-16]]
+
+^<<v16-7-16,16>>^ the sons of Beʹbai, six hundred and twenty-eight;
+
+[[v16-7-17]]
+
+^<<v16-7-17,17>>^ the sons of Azʹgad, two thousand three hundred and twenty-two;
+
+[[v16-7-18]]
+
+^<<v16-7-18,18>>^ the sons of Ad·o·niʹkam, six hundred and sixty-seven;
+
+[[v16-7-19]]
+
+^<<v16-7-19,19>>^ the sons of Bigʹvai, two thousand and sixty-seven;
+
+[[v16-7-20]]
+
+^<<v16-7-20,20>>^ the sons of Aʹdin, six hundred and fifty-five;
+
+[[v16-7-21]]
+
+^<<v16-7-21,21>>^ the sons of Aʹter, of Hez·e·kiʹah, ninety-eight;
+
+[[v16-7-22]]
+
+^<<v16-7-22,22>>^ the sons of Haʹshum, three hundred and twenty-eight;
+
+[[v16-7-23]]
+
+^<<v16-7-23,23>>^ the sons of Beʹzai, three hundred and twenty-four;
+
+[[v16-7-24]]
+
+^<<v16-7-24,24>>^ the sons of Haʹriph, a hundred and twelve;
+
+[[v16-7-25]]
+
+^<<v16-7-25,25>>^ the sons of Gibʹe·on, ninety-five;
+
+[[v16-7-26]]
+
+^<<v16-7-26,26>>^ the men of Bethʹle·hem and Ne·toʹphah, a hundred and eighty-eight;
+
+[[v16-7-27]]
+
+^<<v16-7-27,27>>^ the men of Anʹa·thoth, a hundred and twenty-eight;
+
+[[v16-7-28]]
+
+^<<v16-7-28,28>>^ the men of Beth-azʹma·veth, forty-two;
+
+[[v16-7-29]]
+
+^<<v16-7-29,29>>^ the men of Kirʹi·ath-jeʹa·rim, Che·phiʹrah and Be·erʹoth, seven hundred and forty-three;
+
+[[v16-7-30]]
+
+^<<v16-7-30,30>>^ the men of Raʹmah and Geʹba, six hundred and twenty-one;
+
+[[v16-7-31]]
+
+^<<v16-7-31,31>>^ the men of Michʹmas, a hundred and twenty-two;
+
+[[v16-7-32]]
+
+^<<v16-7-32,32>>^ the men of Bethʹel and Aʹi, a hundred and twenty-three;
+
+[[v16-7-33]]
+
+^<<v16-7-33,33>>^ the men of the other Neʹbo, fifty-two;
+
+[[v16-7-34]]
+
+^<<v16-7-34,34>>^ the sons of the other Eʹlam, a thousand two hundred and fifty-four;
+
+[[v16-7-35]]
+
+^<<v16-7-35,35>>^ the sons of Haʹrim, three hundred and twenty;
+
+[[v16-7-36]]
+
+^<<v16-7-36,36>>^ the sons of Jerʹi·cho, three hundred and forty-five;
+
+[[v16-7-37]]
+
+^<<v16-7-37,37>>^ the sons of Lod, Haʹdid and Oʹno, seven hundred and twenty-one;
+
+[[v16-7-38]]
+
+^<<v16-7-38,38>>^ the sons of Se·naʹah, three thousand nine hundred and thirty.
+
+[[v16-7-39]]
+
+^<<v16-7-39,39>>^ The priests: The sons of Je·daʹiah of the house of Jeshʹu·a, nine hundred and seventy-three;
+
+[[v16-7-40]]
+
+^<<v16-7-40,40>>^ the sons of Imʹmer, a thousand and fifty-two;
+
+[[v16-7-41]]
+
+^<<v16-7-41,41>>^ the sons of Pashʹhur, a thousand two hundred and forty-seven;
+
+[[v16-7-42]]
+
+^<<v16-7-42,42>>^ the sons of Haʹrim, a thousand and seventeen.
+
+[[v16-7-43]]
+
+^<<v16-7-43,43>>^ The Levites: The sons of Jeshʹu·a, of Kadʹmi·el, of the sons of Hoʹde·vah, seventy-four.
+
+[[v16-7-44]]
+
+^<<v16-7-44,44>>^ The singers, the sons of Aʹsaph, a hundred and forty-eight.
+
+[[v16-7-45]]
+
+^<<v16-7-45,45>>^ The gatekeepers, the sons of Shalʹlum, the sons of Aʹter, the sons of Talʹmon, the sons of Akʹkub, the sons of Ha·tiʹta, the sons of Shoʹbai, a hundred and thirty-eight.
+
+[[v16-7-46]]
+
+^<<v16-7-46,46>>^ The Nethʹi·nim:^&#42;1^ The sons of Ziʹha, the sons of Ha·suʹpha, the sons of Tab·baʹoth,
+
+[NOTE]
+====
+. Or, “The temple slaves.” Lit., “The given ones.” Compare Nu 3:9 ftn.
+====
+
+[[v16-7-47]]
+
+^<<v16-7-47,47>>^ the sons of Keʹros, the sons of Siʹa,^&#42;1^ the sons of Paʹdon,
+
+[NOTE]
+====
+. “Siaha” in Ezr 2:44.
+====
+
+[[v16-7-48]]
+
+^<<v16-7-48,48>>^ the sons of Le·baʹnah, the sons of Hagʹa·bah, the sons of Salʹmai,
+
+[[v16-7-49]]
+
+^<<v16-7-49,49>>^ the sons of Haʹnan, the sons of Gidʹdel, the sons of Gaʹhar,
+
+[[v16-7-50]]
+
+^<<v16-7-50,50>>^ the sons of Re·aʹiah, the sons of Reʹzin, the sons of Ne·koʹda,
+
+[[v16-7-51]]
+
+^<<v16-7-51,51>>^ the sons of Gazʹzam, the sons of Uzʹza, the sons of Pa·seʹah,
+
+[[v16-7-52]]
+
+^<<v16-7-52,52>>^ the sons of Beʹsai, the sons of Me·uʹnim, the sons of Ne·phushʹe·sim,^&#42;1^
+
+[NOTE]
+====
+. “Nephusim” in Ezr 2:50.
+====
+
+[[v16-7-53]]
+
+^<<v16-7-53,53>>^ the sons of Bakʹbuk, the sons of Ha·kuʹpha, the sons of Harʹhur,
+
+[[v16-7-54]]
+
+^<<v16-7-54,54>>^ the sons of Bazʹlith,^&#42;1^ the sons of Me·hiʹda, the sons of Harʹsha,
+
+[NOTE]
+====
+. “Bazluth” in Ezr 2:52.
+====
+
+[[v16-7-55]]
+
+^<<v16-7-55,55>>^ the sons of Barʹkos, the sons of Sisʹe·ra, the sons of Teʹmah,
+
+[[v16-7-56]]
+
+^<<v16-7-56,56>>^ the sons of Ne·ziʹah, the sons of Ha·tiʹpha.
+
+[[v16-7-57]]
+
+^<<v16-7-57,57>>^ The sons of the servants of Solʹo·mon: The sons of Soʹtai, the sons of So·pheʹreth, the sons of Pe·riʹda,^&#42;1^
+
+[NOTE]
+====
+. “Peruda” in Ezr 2:55.
+====
+
+[[v16-7-58]]
+
+^<<v16-7-58,58>>^ the sons of Jaʹa·la, the sons of Darʹkon, the sons of Gidʹdel,
+
+[[v16-7-59]]
+
+^<<v16-7-59,59>>^ the sons of Sheph·a·tiʹah, the sons of Hatʹtil, the sons of Poʹche·reth-haz·ze·baʹim, the sons of Aʹmon.^&#42;1^
+
+[NOTE]
+====
+. “Ami” in Ezr 2:57.
+====
+
+[[v16-7-60]]
+
+^<<v16-7-60,60>>^ All the Nethʹi·nim and the sons of the servants of Solʹo·mon were three hundred and ninety-two.
+
+[[v16-7-61]]
+
+^<<v16-7-61,61>>^ And these were the ones going up from Tel-meʹlah, Tel-harʹsha, Cheʹrub, Adʹdon and Imʹmer, and they were not able to tell the house of their fathers and their origin,^&#42;1^ whether they were of Israel:
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v16-7-62]]
+
+^<<v16-7-62,62>>^ the sons of De·laʹiah, the sons of To·biʹah, the sons of Ne·koʹda, six hundred and forty-two.
+
+[[v16-7-63]]
+
+^<<v16-7-63,63>>^ And of the priests: the sons of Ha·baiʹah, the sons of Hakʹkoz, the sons of Bar·zilʹlai, who took a wife from the daughters of Bar·zilʹlai the Gilʹe·ad·ite and came to be called by their name.
+
+[[v16-7-64]]
+
+^<<v16-7-64,64>>^ These were the ones that looked for their register, to establish their genealogy publicly, and it was not found, so that they were barred as polluted from the priesthood.
+
+[[v16-7-65]]
+
+^<<v16-7-65,65>>^ Consequently the Tir·shaʹtha^&#42;1^ said to them that they should not eat from the most holy things until the priest with Uʹrim and Thumʹmim stood up.
+
+[NOTE]
+====
+. The Persian title for a governor of a jurisdictional district.
+====
+
+[[v16-7-66]]
+
+^<<v16-7-66,66>>^ The entire congregation as one group was forty-two thousand three hundred and sixty,
+
+[[v16-7-67]]
+
+^<<v16-7-67,67>>^ apart from their men slaves and their slave girls, these being seven thousand three hundred and thirty-seven; and they had two hundred and forty-five^&#42;1^ male singers and female singers. &#91;
+
+[NOTE]
+====
+. “Two hundred” in Ezr 2:65.
+====
+
+[[v16-7-68]]
+
+^<<v16-7-68,68>>^ Their horses were seven hundred and thirty-six, their mules two hundred and forty-five.&#93;^&#42;1^
+
+[NOTE]
+====
+. LXXVgc and some Heb. mss add the bracketed portion in agreement with Ezr 2:66.
+====
+
+[[v16-7-69]]
+
+^<<v16-7-69,69>>^ The camels were four hundred and thirty-five. The asses were six thousand seven hundred and twenty.
+
+[[v16-7-70]]
+
+^<<v16-7-70,70>>^ And there was a part of the heads of the paternal houses that gave to the work. The Tir·shaʹtha himself gave to the treasure a thousand gold drachmas,^&#42;1^ fifty bowls, five hundred and thirty priests’ robes.
+
+[NOTE]
+====
+. A drachma was generally equated with the Persian gold daric that weighed 8.4 g (0.27 oz t). Not the drachma of the Greek Scriptures. See App 8A.
+====
+
+[[v16-7-71]]
+
+^<<v16-7-71,71>>^ And there were some of the heads of the paternal houses that gave to the treasure for the work twenty thousand gold drachmas and two thousand two hundred silver miʹnas.^&#42;1^
+
+[NOTE]
+====
+. A mina weighed 570 g (18.35 oz t). Not the mina of the Greek Scriptures.
+====
+
+[[v16-7-72]]
+
+^<<v16-7-72,72>>^ And what the rest of the people gave was twenty thousand gold drachmas and two thousand silver miʹnas and sixty-seven priests’ robes.
+
+[[v16-7-73]]
+
+^<<v16-7-73,73>>^ And the priests and the Levites and the gatekeepers and the singers and some of the people and the Nethʹi·nim and all Israel took up dwelling in their cities. When the seventh month arrived, the sons of Israel were then in their cities.
+
+'''
+
+xref:016-nehemiah/016-nehemiah-006.adoc#v16-6-0[&#60; Capítulo Anterior] | <<v16-7-0,Topo>> | xref:016-nehemiah/016-nehemiah-008.adoc#v16-8-0[Próximo Capítulo &#62;]

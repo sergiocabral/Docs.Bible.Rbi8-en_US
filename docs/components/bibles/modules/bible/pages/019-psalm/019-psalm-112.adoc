@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v19-112-0]]
+=== Psalms, 112
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-112-1]]
+
+^<<v19-112-1,1>>^ ^&#42;1^ Praise Jah, YOU people!^&#42;2^
+
+[NOTE]
+====
+. This psalm is arranged in acrostic, or Heb. alphabetic, order.
+. See 104:35 ftns.
+. See 109:16 ftn.
+====
+
+_א &#91;ʼAʹleph&#93;_
+
+Happy is the man^&#42;1^ in fear of Jehovah,
+
+[NOTE]
+====
+. This psalm is arranged in acrostic, or Heb. alphabetic, order.
+. See 104:35 ftns.
+. See 109:16 ftn.
+====
+
+_ב &#91;Behth&#93;_
+
+In whose commandments he has taken very much delight.
+
+[NOTE]
+====
+. This psalm is arranged in acrostic, or Heb. alphabetic, order.
+. See 104:35 ftns.
+. See 109:16 ftn.
+====
+
+_ג &#91;Giʹmel&#93;_
+
+[[v19-112-2]]
+
+^<<v19-112-2,2>>^ Mighty in the earth his offspring will become.
+
+_ד &#91;Daʹleth&#93;_
+
+As for the generation of the upright ones, it will be blessed.
+
+_ה &#91;Heʼ&#93;_
+
+[[v19-112-3]]
+
+^<<v19-112-3,3>>^ Valuable things and riches are in his house;
+
+_ו &#91;Waw&#93;_
+
+And his righteousness is standing forever.
+
+_ז &#91;Zaʹyin&#93;_
+
+[[v19-112-4]]
+
+^<<v19-112-4,4>>^ He has flashed up in the darkness as a light to the upright ones.^&#42;1^
+
+[NOTE]
+====
+. Or, “In the darkness light has shone forth for the upright ones.”
+====
+
+_ח &#91;Chehth&#93;_
+
+He is gracious and merciful and righteous.
+
+[NOTE]
+====
+. Or, “In the darkness light has shone forth for the upright ones.”
+====
+
+_ט &#91;Tehth&#93;_
+
+[[v19-112-5]]
+
+^<<v19-112-5,5>>^ The man is good who is gracious and is lending.
+
+[NOTE]
+====
+. Or, “in judgment.”
+====
+
+_י &#91;Yohdh&#93;_
+
+He sustains his affairs with justice.^&#42;1^
+
+[NOTE]
+====
+. Or, “in judgment.”
+====
+
+_כ &#91;Kaph&#93;_
+
+[[v19-112-6]]
+
+^<<v19-112-6,6>>^ For at no time will he be made to totter.
+
+_ל &#91;Laʹmedh&#93;_
+
+The righteous one will prove to be for remembrance to time indefinite.
+
+_מ &#91;Mem&#93;_
+
+[[v19-112-7]]
+
+^<<v19-112-7,7>>^ He will not be afraid even of bad news.
+
+_נ &#91;Nun&#93;_
+
+His heart is steadfast, made reliant upon Jehovah.
+
+_ס &#91;Saʹmekh&#93;_
+
+[[v19-112-8]]
+
+^<<v19-112-8,8>>^ His heart is unshakable; he will not be afraid,
+
+_ע &#91;ʽAʹyin&#93;_
+
+Until he looks on his adversaries.
+
+_פ &#91;Peʼ&#93;_
+
+[[v19-112-9]]
+
+^<<v19-112-9,9>>^ He has distributed widely;^&#42;1^ he has given to the poor ones.
+
+[NOTE]
+====
+. Or, “He has scattered abroad.”
+====
+
+_צ &#91;Tsa·dhehʹ&#93;_
+
+His righteousness is standing forever.
+
+[NOTE]
+====
+. Or, “He has scattered abroad.”
+====
+
+_ק &#91;Qohph&#93;_
+
+His own horn will be exalted with glory.
+
+[NOTE]
+====
+. Or, “He has scattered abroad.”
+====
+
+_ר &#91;Rehsh&#93;_
+
+[[v19-112-10]]
+
+^<<v19-112-10,10>>^ The wicked one himself will see and certainly become vexed.
+
+_ש &#91;Shin&#93;_
+
+He will grind his very teeth and actually melt away.
+
+_ת &#91;Taw&#93;_
+
+The desire of the wicked ones will perish.
+
+'''
+
+xref:019-psalm/019-psalm-111.adoc#v19-111-0[&#60; Capítulo Anterior] | <<v19-112-0,Topo>> | xref:019-psalm/019-psalm-113.adoc#v19-113-0[Próximo Capítulo &#62;]

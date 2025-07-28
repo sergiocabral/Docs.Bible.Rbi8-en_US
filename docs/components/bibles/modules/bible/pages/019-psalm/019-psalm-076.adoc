@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-76-0]]
+=== Psalms, 76
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director on stringed instruments. A melody. Of Aʹsaph. A song._
+
+[[v19-76-1]]
+
+^<<v19-76-1,1>>^ God is known in Judah;
+In Israel his name is great.
+
+[[v19-76-2]]
+
+^<<v19-76-2,2>>^ And his covert proves to be in Saʹlem itself,
+And his dwelling place in Zion.
+
+[[v19-76-3]]
+
+^<<v19-76-3,3>>^ There he broke the flaming shafts of the bow,
+The shield and the sword and the battle. Seʹlah.
+
+[[v19-76-4]]
+
+^<<v19-76-4,4>>^ You are enveloped with light, more majestic than the mountains of prey.
+
+[[v19-76-5]]
+
+^<<v19-76-5,5>>^ The ones powerful in heart have been despoiled,
+They have drowsed away to their sleep,
+And none of all the valiant men have found their hands.
+
+[[v19-76-6]]
+
+^<<v19-76-6,6>>^ From your rebuke, O God of Jacob, both the charioteer and the horse have fallen fast asleep.
+
+[[v19-76-7]]
+
+^<<v19-76-7,7>>^ You—fear-inspiring you are,
+And who can stand before you because of the strength of your anger?
+
+[[v19-76-8]]
+
+^<<v19-76-8,8>>^ From heaven you caused the legal contest to be heard;
+The earth itself feared and kept quiet
+
+[[v19-76-9]]
+
+^<<v19-76-9,9>>^ When God rose up to judgment,
+To save all the meek of the earth. Seʹlah.
+
+[[v19-76-10]]
+
+^<<v19-76-10,10>>^ For the very rage of man^&#42;1^ will laud you;
+The remainder of raging you will gird upon yourself.^&#42;2^
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+. “You will gird upon yourself,” M; LXXVg, “will keep festival (celebrate) to you.”
+====
+
+[[v19-76-11]]
+
+^<<v19-76-11,11>>^ Vow and pay to Jehovah YOUR God, all YOU who are round about him.
+Let them bring a gift in fear.
+
+[[v19-76-12]]
+
+^<<v19-76-12,12>>^ He will humble^&#42;1^ the spirit of leaders;
+Fear-inspiring he is to the kings of the earth.
+
+[NOTE]
+====
+. Or, “cut off.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-075.adoc#v19-75-0[&#60; Capítulo Anterior] | <<v19-76-0,Topo>> | xref:019-psalm/019-psalm-077.adoc#v19-77-0[Próximo Capítulo &#62;]

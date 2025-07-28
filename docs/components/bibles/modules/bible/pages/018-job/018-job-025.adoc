@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v18-25-0]]
+=== Job, 25
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-25-1]]
+
+^<<v18-25-1,1>>^ And Bilʹdad the Shuʹhite proceeded to answer and say:
+
+[[v18-25-2]]
+
+^<<v18-25-2,2>>^ “Rulership and dreadfulness are with him;
+He is making peace on his heights.
+
+[[v18-25-3]]
+
+^<<v18-25-3,3>>^ Is there any number to his troops?
+And upon whom does his light not rise?
+
+[[v18-25-4]]
+
+^<<v18-25-4,4>>^ So how can mortal man^&#42;1^ be in the right before God,^&#42;2^
+Or how can one born of a woman be clean?
+
+[NOTE]
+====
+. “Mortal man.” Heb., ʼenohshʹ.
+. “God.” Heb., ʼEl.
+====
+
+[[v18-25-5]]
+
+^<<v18-25-5,5>>^ Look! There is even the moon, and it is not bright;
+And the stars themselves have not proved clean in his eyes.
+
+[[v18-25-6]]
+
+^<<v18-25-6,6>>^ How much less so mortal man, who is a maggot,
+And a son of man,^&#42;1^ who is a worm!”
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+'''
+
+xref:018-job/018-job-024.adoc#v18-24-0[&#60; Capítulo Anterior] | <<v18-25-0,Topo>> | xref:018-job/018-job-026.adoc#v18-26-0[Próximo Capítulo &#62;]

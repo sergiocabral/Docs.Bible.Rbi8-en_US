@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v19-92-0]]
+=== Psalms, 92
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody, a song, for the sabbath day._
+
+[[v19-92-1]]
+
+^<<v19-92-1,1>>^ It is good to give thanks to Jehovah^&#42;1^
+And to make melody to your name, O Most High;
+
+[NOTE]
+====
+. See App 1C §8.
+====
+
+[[v19-92-2]]
+
+^<<v19-92-2,2>>^ To tell in the morning about your loving-kindness
+And about your faithfulness during the nights,
+
+[[v19-92-3]]
+
+^<<v19-92-3,3>>^ Upon a ten-stringed instrument and upon the lute,
+By resounding music on the harp.
+
+[[v19-92-4]]
+
+^<<v19-92-4,4>>^ For you have made me rejoice, O Jehovah,^&#42;1^ because of your activity;
+Because of the works of your hands I cry out joyfully.
+
+[NOTE]
+====
+. See App 1C §8.
+====
+
+[[v19-92-5]]
+
+^<<v19-92-5,5>>^ How great your works are, O Jehovah!^&#42;1^
+Very deep your thoughts are.
+
+[NOTE]
+====
+. See App 1C §8.
+====
+
+[[v19-92-6]]
+
+^<<v19-92-6,6>>^ No unreasoning man himself can know &#91;them&#93;,
+And no one stupid can understand this.
+
+[[v19-92-7]]
+
+^<<v19-92-7,7>>^ When the wicked ones sprout as the vegetation
+And all the practicers of what is hurtful blossom forth,
+It is that they may be annihilated forever.
+
+[[v19-92-8]]
+
+^<<v19-92-8,8>>^ But you are on high to time indefinite, O Jehovah.^&#42;1^
+
+[NOTE]
+====
+. See App 1C §8.
+====
+
+[[v19-92-9]]
+
+^<<v19-92-9,9>>^ For, look! your enemies, O Jehovah,^&#42;1^
+For, look! your own enemies will perish;
+All the practicers of what is hurtful will be separated from one another.
+
+[NOTE]
+====
+. See App 1C §8.
+====
+
+[[v19-92-10]]
+
+^<<v19-92-10,10>>^ But you will exalt my horn like that of a wild bull;^&#42;1^
+I shall moisten &#91;myself&#93;^&#42;2^ with fresh oil.
+
+[NOTE]
+====
+. Or, “like that of a buffalo.” Heb., kir·ʼehmʹ; Gr., mo·no·keʹro·tos, “unicorn”; Lat., u·ni·corʹnis, “unicorn.” Vg also renders this Heb. word as “rhinoceros.” See Nu 23:22 ftn, “Bull.”
+. “You have moistened me,” TSy.
+====
+
+[[v19-92-11]]
+
+^<<v19-92-11,11>>^ And my eye will look on my foes;^&#42;1^
+My ears will hear about the very ones who rise up against me, the evildoers.
+
+[NOTE]
+====
+. “Foes,” LXXSyVg; M, “walls.”
+====
+
+[[v19-92-12]]
+
+^<<v19-92-12,12>>^ The righteous himself will blossom forth as a palm tree does;
+As a cedar in Lebʹa·non does, he will grow big.
+
+[[v19-92-13]]
+
+^<<v19-92-13,13>>^ Those who are planted in the house of Jehovah,
+In the courtyards of our God, they will blossom forth.
+
+[[v19-92-14]]
+
+^<<v19-92-14,14>>^ They will still keep on thriving during gray-headedness,
+Fat and fresh they will continue to be,
+
+[[v19-92-15]]
+
+^<<v19-92-15,15>>^ To tell that Jehovah is upright.
+&#91;He is&#93; my Rock, in whom there is no unrighteousness.
+
+'''
+
+xref:019-psalm/019-psalm-091.adoc#v19-91-0[&#60; Capítulo Anterior] | <<v19-92-0,Topo>> | xref:019-psalm/019-psalm-093.adoc#v19-93-0[Próximo Capítulo &#62;]

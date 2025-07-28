@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v9-31-0]]
+=== The First of Samuel, 31
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-31-1]]
+
+^<<v9-31-1,1>>^ Now the Phi·lisʹtines were fighting against Israel, and the men of Israel took to flight from before the Phi·lisʹtines, and they kept falling down slain in Mount Gil·boʹa.
+
+[[v9-31-2]]
+
+^<<v9-31-2,2>>^ And the Phi·lisʹtines kept in close range of Saul and his sons; and the Phi·lisʹtines at last struck down Jonʹa·than and A·binʹa·dab and Malʹchi-shuʹa, Saul’s sons.
+
+[[v9-31-3]]
+
+^<<v9-31-3,3>>^ And the fighting became heavy against Saul, and the shooters, the bowmen, finally found him, and he got severely wounded by the shooters.^&#42;1^
+
+[NOTE]
+====
+. “And he got severely wounded by the shooters,” to agree with LXX. Lit., “and he was in much anguish from the shooters.”
+====
+
+[[v9-31-4]]
+
+^<<v9-31-4,4>>^ Then Saul said to his armor-bearer: “Draw your sword and run me through with it, that these uncircumcised men may not come and certainly run me through and deal abusively with me.” And his armor-bearer was unwilling, because he was very much afraid. So Saul took the sword and fell upon it.
+
+[[v9-31-5]]
+
+^<<v9-31-5,5>>^ When his armor-bearer saw that Saul had died, then he too fell upon his own sword and died with him.
+
+[[v9-31-6]]
+
+^<<v9-31-6,6>>^ Thus Saul and his three sons and his armor-bearer, even all his men, came to die together on that day.
+
+[[v9-31-7]]
+
+^<<v9-31-7,7>>^ When the men of Israel that were in the region of the low plain and that were in the region of the Jordan saw that the men of Israel had fled, and that Saul and his sons had died, then they began to leave the cities and flee, after which the Phi·lisʹtines came on in and took up dwelling in them.
+
+[[v9-31-8]]
+
+^<<v9-31-8,8>>^ And it came about the next day that, when the Phi·lisʹtines came to strip the slain, they got to find Saul and his three sons fallen upon Mount Gil·boʹa.
+
+[[v9-31-9]]
+
+^<<v9-31-9,9>>^ And they proceeded to cut off his head and strip off his armor and send into the land of the Phi·lisʹtines all around to inform the houses of their idols and the people.
+
+[[v9-31-10]]
+
+^<<v9-31-10,10>>^ Finally they put his armor in the house of the Ashʹto·reth images, and his corpse they fastened on the wall of Beth-shan.
+
+[[v9-31-11]]
+
+^<<v9-31-11,11>>^ And as regards him, the inhabitants of Jaʹbesh-gilʹe·ad got to hear what the Phi·lisʹtines had done to Saul.
+
+[[v9-31-12]]
+
+^<<v9-31-12,12>>^ Immediately all the valiant men rose up and went all night long and took the corpse of Saul and the corpses of his sons off the wall of Beth-shan and came^&#42;1^ to Jaʹbesh and burned them there.
+
+[NOTE]
+====
+. “And came,” MVg; LXXSy, “and brought them.” Compare 1Ch 10:12.
+====
+
+[[v9-31-13]]
+
+^<<v9-31-13,13>>^ Then they took their bones and buried them under the tamarisk tree in Jaʹbesh, and they went fasting for seven days.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-030.adoc#v9-30-0[&#60; Capítulo Anterior] | <<v9-31-0,Topo>> | xref:010-2-samuel/010-2-samuel-001.adoc#v10-1-0[Próximo Capítulo &#62;]

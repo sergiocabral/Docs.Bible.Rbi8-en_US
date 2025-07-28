@@ -1,0 +1,58 @@
+include::./index.adoc[]
+
+[[v19-150-0]]
+=== Psalms, 150
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-150-1]]
+
+^<<v19-150-1,1>>^ Praise Jah, YOU people!^&#42;1^
+Praise God^&#42;2^ in his holy place.
+Praise him in the expanse of his strength.
+
+[NOTE]
+====
+. See 104:35 ftns.
+. Lit., “Praise God, you people.” Heb., ha·lelu-ʼElʹ.
+====
+
+[[v19-150-2]]
+
+^<<v19-150-2,2>>^ Praise him for his works of mightiness.
+Praise him according to the abundance of his greatness.
+
+[[v19-150-3]]
+
+^<<v19-150-3,3>>^ Praise him with the blowing of the horn.^&#42;1^
+Praise him with the stringed instrument and the harp.
+
+[NOTE]
+====
+. Or, “shofar.”
+====
+
+[[v19-150-4]]
+
+^<<v19-150-4,4>>^ Praise him with the tambourine and the circle dance.
+Praise him with strings and the pipe.
+
+[[v19-150-5]]
+
+^<<v19-150-5,5>>^ Praise him with the cymbals of melodious sound.
+Praise him with the clashing cymbals.
+
+[[v19-150-6]]
+
+^<<v19-150-6,6>>^ Every breathing thing^&#42;1^—let it praise Jah.^&#42;2^
+Praise Jah, YOU people!^&#42;3^
+
+[NOTE]
+====
+. Lit., “All the breath.” Compare Ge 2:7.
+. “Jah.” Heb., Yah. See 41:13 ftn; 68:4 ftn.
+. Thirteen times this 150th Psalm calls for praise to be given to Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-149.adoc#v19-149-0[&#60; Capítulo Anterior] | <<v19-150-0,Topo>> | xref:020-proverbs/020-proverbs-001.adoc#v20-1-0[Próximo Capítulo &#62;]

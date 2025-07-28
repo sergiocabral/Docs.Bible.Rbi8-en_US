@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v19-19-0]]
+=== Psalms, 19
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. A melody of David._
+
+[[v19-19-1]]
+
+^<<v19-19-1,1>>^ The heavens are declaring the glory of God;^&#42;1^
+And of the work of his hands the expanse is telling.
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+[[v19-19-2]]
+
+^<<v19-19-2,2>>^ One day after another day causes speech to bubble forth,
+And one night after another night shows forth knowledge.
+
+[[v19-19-3]]
+
+^<<v19-19-3,3>>^ There is no speech, and there are no words;
+No voice on their part is being heard.
+
+[[v19-19-4]]
+
+^<<v19-19-4,4>>^ Into all the earth their measuring line^&#42;1^ has gone out,
+And to the extremity of the productive land^&#42;2^ their utterances.
+In them he has set a tent for the sun,
+
+[NOTE]
+====
+. “Their measuring line.” Heb., qaw·wamʹ; LXXVg, “sound”; Sy, “tidings.”
+. “Productive land.” Heb., the·velʹ; LXX, “inhabited earth”; Lat., orʹbis terʹrae, “circle of the earth.”
+====
+
+[[v19-19-5]]
+
+^<<v19-19-5,5>>^ And it is like a bridegroom when coming out of his nuptial chamber;
+It exults as a mighty man does to run in a path.
+
+[[v19-19-6]]
+
+^<<v19-19-6,6>>^ From one extremity of the heavens is its going forth,
+And its &#91;finished&#93; circuit is to their &#91;other&#93; extremities;
+And there is nothing concealed from its heat.
+
+[[v19-19-7]]
+
+^<<v19-19-7,7>>^ The law of Jehovah is perfect, bringing back the soul.
+The reminder of Jehovah is trustworthy, making the inexperienced one wise.
+
+[[v19-19-8]]
+
+^<<v19-19-8,8>>^ The orders from Jehovah are upright, causing the heart to rejoice;
+The commandment of Jehovah is clean, making the eyes shine.
+
+[[v19-19-9]]
+
+^<<v19-19-9,9>>^ The fear of Jehovah is pure, standing forever.
+The judicial decisions of Jehovah are true;^&#42;1^ they have proved altogether righteous.
+
+[NOTE]
+====
+. Lit., “truth.”
+====
+
+[[v19-19-10]]
+
+^<<v19-19-10,10>>^ They are more to be desired than gold,^&#42;1^ yes, than much refined gold;^&#42;2^
+And sweeter than honey and the flowing honey of the combs.
+
+[NOTE]
+====
+. “Than gold.” Heb., miz·za·havʹ.
+. “Yes, than . . . refined gold.” Heb., u·mip·pazʹ.
+====
+
+[[v19-19-11]]
+
+^<<v19-19-11,11>>^ Also, your own servant has been warned by them;
+In the keeping of them there is a large reward.
+
+[[v19-19-12]]
+
+^<<v19-19-12,12>>^ Mistakes—who can discern?
+From concealed sins pronounce me innocent.
+
+[[v19-19-13]]
+
+^<<v19-19-13,13>>^ Also from presumptuous acts^&#42;1^ hold your servant back;
+Do not let them dominate me.
+In that case I shall be complete,
+And I shall have remained innocent from much transgression.
+
+[NOTE]
+====
+. Or, “men; ones [masc.].”
+====
+
+[[v19-19-14]]
+
+^<<v19-19-14,14>>^ Let the sayings of my mouth and the meditation of my heart
+Become pleasurable before you, O Jehovah my Rock and my Redeemer.^&#42;1^
+
+[NOTE]
+====
+. “And my Redeemer (Repurchaser).” By extension of thought, “and my Avenger (Vindicator).” Heb., wegho·ʼaliʹ; Lat., re·demʹptor. See Job 19:25; Pr 23:11.
+====
+
+'''
+
+xref:019-psalm/019-psalm-018.adoc#v19-18-0[&#60; Capítulo Anterior] | <<v19-19-0,Topo>> | xref:019-psalm/019-psalm-020.adoc#v19-20-0[Próximo Capítulo &#62;]

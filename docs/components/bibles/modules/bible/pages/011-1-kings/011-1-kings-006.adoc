@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v11-6-0]]
+=== The First of Kings, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v11-6-1]]
+
+^<<v11-6-1,1>>^ And it came about in the four hundred and eightieth year^&#42;1^ after the sons of Israel came out from the land of Egypt, in the fourth year, in the month of Ziv, that is, the second month, after Solʹo·mon became king over Israel, that he proceeded to build the house to Jehovah.
+
+[NOTE]
+====
+. “Four hundred and eightieth year,” MSyVg; LXX, “four hundred and fortieth year.”
+====
+
+[[v11-6-2]]
+
+^<<v11-6-2,2>>^ And the house that King Solʹo·mon built to Jehovah was sixty cubits^&#42;1^ in its length, and twenty in its width, and thirty cubits in its height.
+
+[NOTE]
+====
+. See App 8A.
+====
+
+[[v11-6-3]]
+
+^<<v11-6-3,3>>^ And the porch in front of the temple^&#42;1^ of the house was twenty cubits in its length, in front of the width of the house. Ten cubits it was in its depth, in front of the house.
+
+[NOTE]
+====
+. “Temple of.” Heb., heh·khalʹ; Gr., na·ouʹ; Lat., temʹplum. Compare 2Ki 20:18 ftn. See Mt 23:16 ftn.
+====
+
+[[v11-6-4]]
+
+^<<v11-6-4,4>>^ And for the house he went on to make windows of narrowing frames.
+
+[[v11-6-5]]
+
+^<<v11-6-5,5>>^ Further, he built against the wall of the house a side structure all around, &#91;against&#93; the walls of the house all around the temple and the innermost room,^&#42;1^ and made side chambers all around.
+
+[NOTE]
+====
+. Or, “and to the hindmost chamber.” Heb., welad·devirʹ; Gr., da·birʹ; Sy, “house of the propitiatory cover,” that is, the Most Holy; Lat., o·raʹcu·li, “the oracle,” based on the incorrect theory that the Heb. noun devirʹ was derived from the verb da·varʹ, “to speak.” Compare Coptic ta·bir, “the innermost”; also Arabic dub(u)r, “back.”
+====
+
+[[v11-6-6]]
+
+^<<v11-6-6,6>>^ The lowest side chamber^&#42;1^ was five cubits in its width, and the middle one was six cubits in its width, and the third one was seven cubits in its width; for there were cutbacks that he gave to the house all around outside, that it might not have a hold in the walls of the house.
+
+[NOTE]
+====
+. “Side chamber,” LXX; M, “side structure.”
+====
+
+[[v11-6-7]]
+
+^<<v11-6-7,7>>^ As for the house, while it was being built, it was of quarry stone already completed that it was built; and as for hammers and axes or any tools of iron, they were not heard in the house while it was being built.
+
+[[v11-6-8]]
+
+^<<v11-6-8,8>>^ The entrance of the lowest^&#42;1^ side chamber was on the right^&#42;2^ side of the house, and by a winding staircase they would go up to the middle one, and from the middle one up to the third one.
+
+[NOTE]
+====
+. “Lowest,” TLXX; MSyVg, “middle.”
+. “Right,” that is, south, when one faces east.
+====
+
+[[v11-6-9]]
+
+^<<v11-6-9,9>>^ Further, he continued building the house that he might finish it, and covered in the house with beams and rows in cedarwood.
+
+[[v11-6-10]]
+
+^<<v11-6-10,10>>^ Moreover, he built the side chambers against the whole house five cubits in their height, and they had a hold on the house by timbers of cedar trees.
+
+[[v11-6-11]]
+
+^<<v11-6-11,11>>^ Meantime, the word of Jehovah came to Solʹo·mon, saying:
+
+[[v11-6-12]]
+
+^<<v11-6-12,12>>^ “As regards this house that you are building, if you will walk in my statutes and perform my judicial decisions and actually keep all my commandments by walking in them, I also shall certainly carry out my word with you that I spoke to David your father;
+
+[[v11-6-13]]
+
+^<<v11-6-13,13>>^ and I shall indeed reside in the middle of the sons of Israel, and I shall not leave my people Israel.”
+
+[[v11-6-14]]
+
+^<<v11-6-14,14>>^ And Solʹo·mon continued building the house that he might finish it.
+
+[[v11-6-15]]
+
+^<<v11-6-15,15>>^ And he proceeded to build the walls of the house inside it with boards of cedar. From the floor of the house up to the rafters^&#42;1^ of the ceiling he overlaid it with timber inside; and he went on to overlay the floor of the house with boards of juniper.
+
+[NOTE]
+====
+. “Rafters,” by a slight correction; M, “walls.”
+====
+
+[[v11-6-16]]
+
+^<<v11-6-16,16>>^ Further, he built twenty cubits at the rear sides of the house with boards of cedar, from the floor up to the rafters, and built for it inside the innermost room, the Most Holy.
+
+[[v11-6-17]]
+
+^<<v11-6-17,17>>^ And it was forty cubits that the house proved to be, that is, the temple in front of it.^&#42;1^
+
+[NOTE]
+====
+. “The temple in front of the doors of the oracle (innermost room),” Vg.
+====
+
+[[v11-6-18]]
+
+^<<v11-6-18,18>>^ And &#91;the&#93; cedarwood on the house inside was with carvings of gourd-shaped ornaments and garlands of blossoms. All of it was cedarwood; there was no stone to be seen.
+
+[[v11-6-19]]
+
+^<<v11-6-19,19>>^ And the innermost room in the interior of the house he prepared inside, to put there the ark of the covenant of Jehovah.
+
+[[v11-6-20]]
+
+^<<v11-6-20,20>>^ And the innermost room was twenty cubits in length, and twenty cubits in width, and twenty cubits in its height; and he proceeded to overlay it with pure gold, and to overlay the altar with cedarwood.
+
+[[v11-6-21]]
+
+^<<v11-6-21,21>>^ And Solʹo·mon went on to overlay the house inside with pure gold, and to make chainwork of gold pass across in front of the innermost room, and to overlay it with gold.
+
+[[v11-6-22]]
+
+^<<v11-6-22,22>>^ And the whole house he overlaid with gold, until all the house was completed; and all the altar that was toward the innermost room he overlaid with gold.
+
+[[v11-6-23]]
+
+^<<v11-6-23,23>>^ Further, he made in the innermost room two cherubs of oil-tree wood, ten cubits being the height of each one.
+
+[[v11-6-24]]
+
+^<<v11-6-24,24>>^ And five cubits was the one wing of the cherub, and five cubits was the other wing of the cherub. Ten cubits it was from the tip of his wing to the tip of his wing.
+
+[[v11-6-25]]
+
+^<<v11-6-25,25>>^ And the second cherub was ten cubits. The two cherubs had the same measure and the same shape.
+
+[[v11-6-26]]
+
+^<<v11-6-26,26>>^ The height of the one cherub was ten cubits, and that was so of the other cherub.
+
+[[v11-6-27]]
+
+^<<v11-6-27,27>>^ Then he put the cherubs inside the inner house, so that they spread out the wings of the cherubs. Thus the wing of the one reached to the wall and the wing of the other cherub was reaching to the other wall; and their wings were toward the middle of the house, reaching wing to wing.
+
+[[v11-6-28]]
+
+^<<v11-6-28,28>>^ Moreover, he overlaid the cherubs with gold.
+
+[[v11-6-29]]
+
+^<<v11-6-29,29>>^ And all the walls of the house round about he carved with engraved carvings of cherubs and palm-tree figures and engravings of blossoms, inside and outside;
+
+[[v11-6-30]]
+
+^<<v11-6-30,30>>^ and the floor of the house he overlaid with gold, inside and outside.
+
+[[v11-6-31]]
+
+^<<v11-6-31,31>>^ And the entrance of the innermost room he made with doors of oil-tree wood: side pillars, doorposts &#91;and&#93; a fifth.
+
+[[v11-6-32]]
+
+^<<v11-6-32,32>>^ And the two doors were of oil-tree wood, and he carved upon them carvings of cherubs and palm-tree figures and the engravings of blossoms, and he overlaid them with gold; and he proceeded to beat the gold down upon the cherubs and the palm-tree figures.
+
+[[v11-6-33]]
+
+^<<v11-6-33,33>>^ And that was the way he made for the entrance of the temple, the doorposts of oil-tree wood, foursquare.
+
+[[v11-6-34]]
+
+^<<v11-6-34,34>>^ And the two doors were of juniper wood. The two leaves of the one door turned on pivots, and the two leaves of the other door turned on pivots.
+
+[[v11-6-35]]
+
+^<<v11-6-35,35>>^ And he carved cherubs and palm-tree figures and engravings of blossoms, and overlaid gold foil upon the representations.
+
+[[v11-6-36]]
+
+^<<v11-6-36,36>>^ And he went on to build the inner courtyard with three rows of hewn stone and a row of beams of cedarwood.
+
+[[v11-6-37]]
+
+^<<v11-6-37,37>>^ In the fourth year the house of Jehovah had its foundation laid, in the lunar month of Ziv;
+
+[[v11-6-38]]
+
+^<<v11-6-38,38>>^ and in the eleventh year, in the lunar month of Bul,^&#42;1^ that is, the eighth month, the house was finished as regards all its details and all its plan; so that he was seven years at building it.
+
+[NOTE]
+====
+. See App 8B.
+====
+
+'''
+
+xref:011-1-kings/011-1-kings-005.adoc#v11-5-0[&#60; Capítulo Anterior] | <<v11-6-0,Topo>> | xref:011-1-kings/011-1-kings-007.adoc#v11-7-0[Próximo Capítulo &#62;]

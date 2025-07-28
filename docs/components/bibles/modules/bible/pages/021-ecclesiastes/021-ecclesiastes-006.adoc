@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v21-6-0]]
+=== Ecclesiastes, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v21-6-1]]
+
+^<<v21-6-1,1>>^ There exists a calamity that I have seen under the sun, and it is frequent among mankind:
+
+[[v21-6-2]]
+
+^<<v21-6-2,2>>^ a man^&#42;1^ to whom the &#91;true&#93; God gives riches and material possessions and glory and who, for his soul, is in no need of anything that he shows himself longing for, and yet the &#91;true&#93; God does not enable him to eat from it, although a mere foreigner may eat it. This is vanity and it is a bad sickness.
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+====
+
+[[v21-6-3]]
+
+^<<v21-6-3,3>>^ If a man should become a father a hundred times, and he should live many years, so that numerous the days of his years should become, yet his own soul is not satisfied with good things and even the grave has not become his, I must say that one prematurely born is better off than he is.
+
+[[v21-6-4]]
+
+^<<v21-6-4,4>>^ For in vain has this one come and in darkness he goes away, and with darkness his own name will be covered.
+
+[[v21-6-5]]
+
+^<<v21-6-5,5>>^ Even the sun itself he has not seen, neither known. This one has rest rather than the former one.
+
+[[v21-6-6]]
+
+^<<v21-6-6,6>>^ Even supposing that he has lived a thousand years twice over and yet he has not seen what is good, is it not to just one place that everyone is going?
+
+[[v21-6-7]]
+
+^<<v21-6-7,7>>^ All the hard work of mankind^&#42;1^ is for their mouth, but even their own soul does not get filled.
+
+[NOTE]
+====
+. Lit., “the earthling man.” Heb., ha·ʼa·dhamʹ.
+====
+
+[[v21-6-8]]
+
+^<<v21-6-8,8>>^ For what advantage does the wise have over the stupid one? What does the afflicted one have in knowing how to walk in front of the living ones?
+
+[[v21-6-9]]
+
+^<<v21-6-9,9>>^ Better is the seeing by the eyes than the walking about of the soul.^&#42;1^ This too is vanity and a striving after the wind.
+
+[NOTE]
+====
+. Or, “soulful desire.”
+====
+
+[[v21-6-10]]
+
+^<<v21-6-10,10>>^ Whatever has come to be, its name has already been pronounced, and it has become known what man^&#42;1^ is; and he is not able to plead his cause with one that is more powerful than he is.
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v21-6-11]]
+
+^<<v21-6-11,11>>^ Because there exist many things that are causing much vanity, what advantage does a man have?
+
+[[v21-6-12]]
+
+^<<v21-6-12,12>>^ For who is there knowing what good a man has in life for the number of the days of his vain life, when he spends them like a shadow? For who can tell man what will happen after him under the sun?
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-005.adoc#v21-5-0[&#60; Capítulo Anterior] | <<v21-6-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-007.adoc#v21-7-0[Próximo Capítulo &#62;]

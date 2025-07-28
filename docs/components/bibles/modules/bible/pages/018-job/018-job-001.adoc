@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v18-1-0]]
+=== Job, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-1-1]]
+
+^<<v18-1-1,1>>^ There happened to be a man^&#42;1^ in the land of Uz whose name was Job;^&#42;2^ and that man proved to be blameless and upright, and fearing God and turning aside from bad.
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+. “Job.” Heb., ʼI·yohvʹ, meaning “Object of Hostility.” Not the same as weYohvʹ, “and Iob,” in Ge 46:13.
+====
+
+[[v18-1-2]]
+
+^<<v18-1-2,2>>^ And seven sons and three daughters came to be born to him.
+
+[[v18-1-3]]
+
+^<<v18-1-3,3>>^ And his livestock got to be seven thousand sheep^&#42;1^ and three thousand camels and five hundred spans of cattle and five hundred she-asses, along with a very large body of servants; and that man came to be the greatest of all the Orientals.^&#42;2^
+
+[NOTE]
+====
+. Or, “small cattle,” including sheep and goats.
+. Lit., “sons of the East.”
+====
+
+[[v18-1-4]]
+
+^<<v18-1-4,4>>^ And his sons went and held a banquet at the house of each one^&#42;1^ on his own day; and they sent and invited their three sisters to eat and drink with them.
+
+[NOTE]
+====
+. “Each one.” Heb., ʼish.
+====
+
+[[v18-1-5]]
+
+^<<v18-1-5,5>>^ And it would occur that when the banquet days had gone round the circuit, Job would send and sanctify them; and he got up early in the morning and offered up burnt sacrifices according to the number of all of them; for, said Job, “maybe my sons have sinned and have cursed^&#42;1^ God in their heart.” That is the way Job would do always.
+
+[NOTE]
+====
+. “Have cursed” was the original reading. The text was changed to read “have blessed.” LXX, “thought bad things against”; Sy, “reviled”; Vg, “blessed.” See App 2B.
+====
+
+[[v18-1-6]]
+
+^<<v18-1-6,6>>^ Now it came to be the day when the sons^&#42;1^ of the &#91;true&#93; God^&#42;2^ entered to take their station before Jehovah, and even Satan^&#42;3^ proceeded to enter right among them.
+
+[NOTE]
+====
+. “Sons of.” Heb., benehʹ; LXX, “angels.”
+. “The [true] God.” Heb., ha·ʼElo·himʹ, the definite article ha, “the,” preceding the title ʼElo·himʹ. See App 1F.
+. Heb., has·Sa·tanʹ, “the Resister.” Used throughout chapters 1 and 2. This is the first occurrence of has·Sa·tanʹ in M, although sa·tanʹ, “resister,” without the definite article ha, occurs nine times before this, beginning in Nu 22:22. Ge­se­ni­us’ Hebrew Grammar (GK), §126 d and e, states: “The article is, generally speaking, employed to determine a substantive wherever it is required by Greek and English; thus: . . . (d) When terms applying to whole classes are restricted (simply by usage) to particular individuals . . . or things, e.g. שָׂטָן adversary, הַשָּׂטָן the adversary, Satan . . . .”
+====
+
+[[v18-1-7]]
+
+^<<v18-1-7,7>>^ Then Jehovah said to Satan: “Where do you come from?” At that Satan answered Jehovah and said: “From roving about in the earth and from walking about in it.”
+
+[[v18-1-8]]
+
+^<<v18-1-8,8>>^ And Jehovah went on to say to Satan: “Have you set your heart upon my servant Job, that there is no one like him in the earth, a man blameless and upright, fearing God and turning aside from bad?”
+
+[[v18-1-9]]
+
+^<<v18-1-9,9>>^ At that Satan answered Jehovah and said: “Is it for nothing that Job has feared God?
+
+[[v18-1-10]]
+
+^<<v18-1-10,10>>^ Have not you yourself put up a hedge about him and about his house and about everything that he has all around? The work of his hands you have blessed, and his livestock itself has spread abroad in the earth.
+
+[[v18-1-11]]
+
+^<<v18-1-11,11>>^ But, for a change, thrust out your hand, please, and touch everything he has &#91;and see&#93; whether he will not curse^&#42;1^ you to your very face.”
+
+[NOTE]
+====
+. See vs 5 ftn.
+====
+
+[[v18-1-12]]
+
+^<<v18-1-12,12>>^ Accordingly Jehovah said to Satan: “Look! Everything that he has is in your hand. Only against him himself do not thrust out your hand!” So Satan went out away from the person^&#42;1^ of Jehovah.
+
+[NOTE]
+====
+. Lit., “face.” See 2Sa 17:11 ftn, “Person.”
+====
+
+[[v18-1-13]]
+
+^<<v18-1-13,13>>^ Now it came to be the day when his sons and his daughters were eating and drinking wine in the house of their brother the firstborn.
+
+[[v18-1-14]]
+
+^<<v18-1-14,14>>^ And there came a messenger to Job, and he proceeded to say: “The cattle themselves happened to be plowing and the she-asses were grazing at the side of them
+
+[[v18-1-15]]
+
+^<<v18-1-15,15>>^ when the Sa·beʹans^&#42;1^ came making a raid and taking them, and the attendants they struck down with the edge of the sword; and I got to escape, only I by myself, to tell you.”
+
+[NOTE]
+====
+. Lit., “Sheba.”
+====
+
+[[v18-1-16]]
+
+^<<v18-1-16,16>>^ While this one was yet speaking that one came and proceeded to say: “The very fire of God fell from the heavens and went blazing among the sheep and the attendants and eating them up; and I got to escape, only I by myself, to tell you.”
+
+[[v18-1-17]]
+
+^<<v18-1-17,17>>^ While that one was yet speaking another one came and proceeded to say: “The Chal·deʹans made up three bands and went dashing against the camels and taking them, and the attendants they struck down with the edge of the sword; and I got to escape, only I by myself, to tell you.”
+
+[[v18-1-18]]
+
+^<<v18-1-18,18>>^ While this other one was yet speaking, still another one came and proceeded to say: “Your sons and your daughters were eating and drinking wine in the house of their brother the firstborn.
+
+[[v18-1-19]]
+
+^<<v18-1-19,19>>^ And, look! there came a great wind^&#42;1^ from the region of the wilderness, and it went striking the four corners of the house, so that it fell upon the young people and they died. And I got to escape, only I by myself, to tell you.”
+
+[NOTE]
+====
+. “Wind.” Heb., ruʹach. See Ge 1:2 ftn, “Force.”
+====
+
+[[v18-1-20]]
+
+^<<v18-1-20,20>>^ And Job proceeded to get up and rip his sleeveless coat apart and cut the hair off his head and fall to the earth and bow down
+
+[[v18-1-21]]
+
+^<<v18-1-21,21>>^ and say:
+“Naked I came out of my mother’s belly,
+And naked shall I return there.
+Jehovah himself has given, and Jehovah himself has taken away.
+Let the name of Jehovah continue to be blessed.”
+
+[[v18-1-22]]
+
+^<<v18-1-22,22>>^ In all this Job did not sin or ascribe anything improper to God.
+
+'''
+
+xref:017-esther/017-esther-010.adoc#v17-10-0[&#60; Capítulo Anterior] | <<v18-1-0,Topo>> | xref:018-job/018-job-002.adoc#v18-2-0[Próximo Capítulo &#62;]

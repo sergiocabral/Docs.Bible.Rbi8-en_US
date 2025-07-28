@@ -1,0 +1,44 @@
+include::./index.adoc[]
+
+[[v19-15-0]]
+=== Psalms, 15
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody of David._
+
+[[v19-15-1]]
+
+^<<v19-15-1,1>>^ O Jehovah, who will be a guest in your tent?
+Who will reside in your holy mountain?
+
+[[v19-15-2]]
+
+^<<v19-15-2,2>>^ He who is walking faultlessly and practicing righteousness
+And speaking the truth in his heart.
+
+[[v19-15-3]]
+
+^<<v19-15-3,3>>^ He has not slandered with his tongue.
+To his companion he has done nothing bad,
+And no reproach has he taken up against his intimate acquaintance.
+
+[[v19-15-4]]
+
+^<<v19-15-4,4>>^ In his eyes anyone contemptible is certainly rejected,
+But those fearing Jehovah he honors.
+He has sworn to what is bad &#91;for himself&#93;,^&#42;1^ and yet he does not alter.
+
+[NOTE]
+====
+. “Sworn to his neighbor,” LXXSyVg.
+====
+
+[[v19-15-5]]
+
+^<<v19-15-5,5>>^ His money he has not given out on interest,
+And a bribe against the innocent one he has not taken.
+He that is doing these things will never be made to totter.
+
+'''
+
+xref:019-psalm/019-psalm-014.adoc#v19-14-0[&#60; Capítulo Anterior] | <<v19-15-0,Topo>> | xref:019-psalm/019-psalm-016.adoc#v19-16-0[Próximo Capítulo &#62;]

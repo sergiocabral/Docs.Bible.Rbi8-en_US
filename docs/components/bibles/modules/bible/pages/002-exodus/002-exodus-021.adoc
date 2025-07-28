@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v2-21-0]]
+=== Exodus, 21
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-21-1]]
+
+^<<v2-21-1,1>>^ “And these are the judicial decisions^&#42;1^ that you are to set before them:
+
+[NOTE]
+====
+. Or, “the prescriptions; the orders.”
+====
+
+[[v2-21-2]]
+
+^<<v2-21-2,2>>^ “In case you should buy a Hebrew slave, he will be a slave six years, but in the seventh he will go out as one set free without charge.
+
+[[v2-21-3]]
+
+^<<v2-21-3,3>>^ If he should come in by himself, by himself he will go out. If he is the owner of a wife, then his wife must go out with him.
+
+[[v2-21-4]]
+
+^<<v2-21-4,4>>^ If his master should give him a wife and she does bear him sons or daughters, the wife and her children will become her master’s^&#42;1^ and he will go out by himself.
+
+[NOTE]
+====
+. Lit., “to her masters.” Heb., laʼ·dho·neyʹha, pl. to denote excellence; God’s law designating the employer.
+====
+
+[[v2-21-5]]
+
+^<<v2-21-5,5>>^ But if the slave should insistently say, ‘I really love my master,^&#42;1^ my wife and my sons; I do not want to go out as one set free,’
+
+[NOTE]
+====
+. “My master.” Heb., ʼadho·niʹ, sing.; the servant designating his employer.
+====
+
+[[v2-21-6]]
+
+^<<v2-21-6,6>>^ then his master must bring him near to the &#91;true&#93; God and must bring him up against the door or the doorpost; and his master must pierce his ear through with an awl, and he must be his slave to time indefinite.
+
+[[v2-21-7]]
+
+^<<v2-21-7,7>>^ “And in case a man should sell his daughter as a slave girl, she will not go out in the way that the slave men go out.
+
+[[v2-21-8]]
+
+^<<v2-21-8,8>>^ If she is displeasing in the eyes of her master so that he does not designate her as a concubine but causes her to be redeemed, he will not be entitled to sell her to a foreign people in his treacherously dealing with her.
+
+[[v2-21-9]]
+
+^<<v2-21-9,9>>^ And if it should be to his son that he designates her, he is to do to her according to the due right of daughters.
+
+[[v2-21-10]]
+
+^<<v2-21-10,10>>^ If he should take another wife for himself, her sustenance, her clothing and her marriage due are not to be diminished.
+
+[[v2-21-11]]
+
+^<<v2-21-11,11>>^ If he will not render these three things to her, then she must go out for nothing, without money.
+
+[[v2-21-12]]
+
+^<<v2-21-12,12>>^ “One who strikes a man so that he actually dies is to be put to death without fail.
+
+[[v2-21-13]]
+
+^<<v2-21-13,13>>^ But where one does not lie in wait and the &#91;true&#93; God lets it occur at his hand,^&#42;1^ then I must fix for you a place where he can flee.
+
+[NOTE]
+====
+. Or, “the [true] God makes it occur at his hand.” LXXVg, “God delivered him into his hand(s).”
+====
+
+[[v2-21-14]]
+
+^<<v2-21-14,14>>^ And in case a man becomes heated against his fellow to the point of killing him with craftiness, you are to take him even from being at my altar to die.
+
+[[v2-21-15]]
+
+^<<v2-21-15,15>>^ And one who strikes his father and his mother is to be put to death without fail.
+
+[[v2-21-16]]
+
+^<<v2-21-16,16>>^ “And one who kidnaps a man and who actually sells him or in whose hand he has been found is to be put to death without fail.
+
+[[v2-21-17]]
+
+^<<v2-21-17,17>>^ “And one who calls down evil upon his father and his mother is to be put to death without fail.
+
+[[v2-21-18]]
+
+^<<v2-21-18,18>>^ “And in case men should get into a quarrel and one does strike his fellow with a stone or a hoe^&#42;1^ and he does not die but must keep to his bed;
+
+[NOTE]
+====
+. “Fist,” LXXVg.
+====
+
+[[v2-21-19]]
+
+^<<v2-21-19,19>>^ if he gets up and does walk about out of doors upon some support of his, then the one who struck him must be free from punishment; he will make compensation only for the time lost from that one’s work until he gets him completely healed.
+
+[[v2-21-20]]
+
+^<<v2-21-20,20>>^ “And in case a man strikes his slave man or his slave girl with a stick and that one actually dies under his hand, that one is to be avenged without fail.
+
+[[v2-21-21]]
+
+^<<v2-21-21,21>>^ However, if he lingers^&#42;1^ for a day or two days, he is not to be avenged, because he is his money.^&#42;2^
+
+[NOTE]
+====
+. Lit., “keeps standing.” Compare 9:16 ftn, “Existence.”
+. Or, “someone bought with his money.”
+====
+
+[[v2-21-22]]
+
+^<<v2-21-22,22>>^ “And in case men should struggle with each other and they really hurt a pregnant woman and her children do come out^&#42;1^ but no fatal accident occurs, he is to have damages imposed upon him without fail according to what the owner of the woman may lay upon him; and he must give it through the justices.
+
+[NOTE]
+====
+. “Come out,” that is, prematurely.
+====
+
+[[v2-21-23]]
+
+^<<v2-21-23,23>>^ But if a fatal accident should occur, then you must give soul^&#42;1^ for soul,
+
+[NOTE]
+====
+. Or, “life.” Heb., neʹphesh; Gr., psy·khenʹ; Lat., aʹni·mam.
+====
+
+[[v2-21-24]]
+
+^<<v2-21-24,24>>^ eye for eye, tooth for tooth, hand for hand, foot for foot,
+
+[[v2-21-25]]
+
+^<<v2-21-25,25>>^ branding for branding, wound for wound, blow for blow.
+
+[[v2-21-26]]
+
+^<<v2-21-26,26>>^ “And in case a man should strike the eye of his slave man or the eye of his slave girl and he really ruins it, he is to send him away as one set free in compensation for his eye.
+
+[[v2-21-27]]
+
+^<<v2-21-27,27>>^ And if it should be the tooth of his slave man or the tooth of his slave girl that he knocks out, he is to send him away as one set free in compensation for his tooth.
+
+[[v2-21-28]]
+
+^<<v2-21-28,28>>^ “And in case a bull should gore a man or a woman and that one actually dies, the bull is to be stoned without fail, but its flesh is not to be eaten; and the owner of the bull is free from punishment.
+
+[[v2-21-29]]
+
+^<<v2-21-29,29>>^ But if a bull was formerly in the habit of goring and warning was served on its owner but he would not keep it under guard, and it did put a man or a woman to death, the bull is to be stoned and also its owner is to be put to death.
+
+[[v2-21-30]]
+
+^<<v2-21-30,30>>^ If a ransom^&#42;1^ should be imposed upon him, then he must give the redemption price for his soul according to all that may be imposed upon him.
+
+[NOTE]
+====
+. Or, “reparation.” Lit., “covering.”
+====
+
+[[v2-21-31]]
+
+^<<v2-21-31,31>>^ Whether it gored a son or gored a daughter, it is to be done to him according to this judicial decision.
+
+[[v2-21-32]]
+
+^<<v2-21-32,32>>^ If it was a slave man or a slave girl that the bull gored, he will give the price of thirty shekels to that one’s master, and the bull will be stoned.
+
+[[v2-21-33]]
+
+^<<v2-21-33,33>>^ “And in case a man should open a pit, or in case a man should excavate a pit and should not cover it, and a bull or an ass does fall into it,
+
+[[v2-21-34]]
+
+^<<v2-21-34,34>>^ the owner of the pit is to make compensation. The price he is to return to its owner, and the dead animal will become his own.
+
+[[v2-21-35]]
+
+^<<v2-21-35,35>>^ And in case a man’s bull should hurt another’s bull and it does die, then they must sell the live bull and divide the price paid for it; and also the dead one they should divide.
+
+[[v2-21-36]]
+
+^<<v2-21-36,36>>^ Or if it was known that a bull was in the habit of goring formerly but its owner would not keep it under guard, he should without fail make compensation with bull for bull, and the dead one will become his own.
+
+'''
+
+xref:002-exodus/002-exodus-020.adoc#v2-20-0[&#60; Capítulo Anterior] | <<v2-21-0,Topo>> | xref:002-exodus/002-exodus-022.adoc#v2-22-0[Próximo Capítulo &#62;]

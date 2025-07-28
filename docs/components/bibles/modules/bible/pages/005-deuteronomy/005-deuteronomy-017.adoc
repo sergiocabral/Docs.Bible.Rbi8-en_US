@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v5-17-0]]
+=== Deuteronomy, 17
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-17-1]]
+
+^<<v5-17-1,1>>^ “You must not sacrifice to Jehovah your God a bull or a sheep in which there proves to be a defect, anything bad; because it is a thing detestable to Jehovah your God.
+
+[[v5-17-2]]
+
+^<<v5-17-2,2>>^ “In case there should be found in your midst in one of your cities that Jehovah your God is giving you a man or a woman who should practice what is bad in the eyes of Jehovah your God so as to overstep his covenant,
+
+[[v5-17-3]]
+
+^<<v5-17-3,3>>^ and he should go and worship other gods and bow down to them or to the sun or the moon or all the army^&#42;1^ of the heavens, a thing that I have not commanded,
+
+[NOTE]
+====
+. Or, “host.”
+====
+
+[[v5-17-4]]
+
+^<<v5-17-4,4>>^ and it has been told you and you have heard it and have searched thoroughly, and, look! the thing is established as the truth, this detestable thing has been done in Israel!
+
+[[v5-17-5]]
+
+^<<v5-17-5,5>>^ you must also bring that man or that woman who has done this bad thing out to your gates, yes, the man or the woman, and you must stone such one with stones, and such one must die.
+
+[[v5-17-6]]
+
+^<<v5-17-6,6>>^ At the mouth^&#42;1^ of two witnesses or of three witnesses the one dying should be put to death. He will not be put to death at the mouth of one witness.
+
+[NOTE]
+====
+. Or, “On the statement.”
+====
+
+[[v5-17-7]]
+
+^<<v5-17-7,7>>^ The hand of the witnesses first of all should come upon him to put him to death, and the hand of all the people afterward; and you must clear out what is bad from your midst.
+
+[[v5-17-8]]
+
+^<<v5-17-8,8>>^ “In case a matter for judicial decision should be too extraordinary for you, one in which blood has been shed, in which a legal claim has been raised, or a violent deed has been committed,^&#42;1^ matters of dispute, inside your gates, you must also rise and go up to the place that Jehovah your God will choose,
+
+[NOTE]
+====
+. Lit., “between blood and blood, between legal claim and legal claim, and between violent deed and violent deed.”
+====
+
+[[v5-17-9]]
+
+^<<v5-17-9,9>>^ and you must go to the priests, the Levites, and to the judge who will be acting in those days, and you must make inquiry, and they must hand down to you the word of the judicial decision.
+
+[[v5-17-10]]
+
+^<<v5-17-10,10>>^ Then you must do in accordance with the word that they will hand down to you from that place which Jehovah will choose; and you must be careful to do according to all that they instruct you.
+
+[[v5-17-11]]
+
+^<<v5-17-11,11>>^ In accordance with the law that they will point out to you, and according to the judicial decision that they will say to you, you should do. You must not turn aside from the word that they will hand down to you, to the right or to the left.
+
+[[v5-17-12]]
+
+^<<v5-17-12,12>>^ And the man who will behave with presumptuousness in not listening to the priest who is standing to minister there to Jehovah your God or to the judge, that man must die; and you must clear out what is bad from Israel.
+
+[[v5-17-13]]
+
+^<<v5-17-13,13>>^ And all the people will hear and become afraid, and they will not act presumptuously anymore.
+
+[[v5-17-14]]
+
+^<<v5-17-14,14>>^ “When you eventually come into the land that Jehovah your God is giving you, and you have taken possession of it and have dwelt in it, and you have said, ‘Let me set a king over myself like all the nations who are round about me’;
+
+[[v5-17-15]]
+
+^<<v5-17-15,15>>^ you should without fail set over yourself a king whom Jehovah your God will choose. From among your brothers you should set a king over yourself. You will not be allowed to put over yourself a foreigner who is not your brother.
+
+[[v5-17-16]]
+
+^<<v5-17-16,16>>^ Only he should not increase horses for himself, nor make the people go back to Egypt in order to increase horses; whereas Jehovah has said to YOU, ‘YOU must never go back again by this way.’
+
+[[v5-17-17]]
+
+^<<v5-17-17,17>>^ He should also not multiply wives for himself, that his heart may not turn aside; nor should he increase silver and gold for himself very much.
+
+[[v5-17-18]]
+
+^<<v5-17-18,18>>^ And it must occur that when he takes his seat on the throne of his kingdom, he must write in a book for himself a copy of this law from that which is in the charge of the priests, the Levites.^&#42;1^
+
+[NOTE]
+====
+. Lit., “a copy of this law from before the priests, the Levites,” M; LXX, “this deu·te·ro·noʹmi·on (second law) by means of (issuing from) the priests, the Levites”; Vg, “a deu·te·ro·noʹmi·um of this law, taking (accepting) an exemplar from the priests of the Levitic tribe.” Compare 1:1 ftn, “Words.”
+====
+
+[[v5-17-19]]
+
+^<<v5-17-19,19>>^ “And it must continue with him, and he must read in it all the days of his life, in order that he may learn to fear Jehovah his God so as to keep all the words of this law and these regulations by doing them;
+
+[[v5-17-20]]
+
+^<<v5-17-20,20>>^ that his heart may not exalt itself above his brothers and that he may not turn aside from the commandment to the right or to the left, in order that he may lengthen his days upon his kingdom, he and his sons in the midst of Israel.
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-016.adoc#v5-16-0[&#60; Capítulo Anterior] | <<v5-17-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-018.adoc#v5-18-0[Próximo Capítulo &#62;]

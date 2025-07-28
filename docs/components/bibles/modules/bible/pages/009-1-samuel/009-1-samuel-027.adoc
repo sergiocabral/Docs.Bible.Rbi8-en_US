@@ -1,0 +1,62 @@
+include::./index.adoc[]
+
+[[v9-27-0]]
+=== The First of Samuel, 27
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-27-1]]
+
+^<<v9-27-1,1>>^ However, David said in his heart: “Now I shall be swept away one day by Saul’s hand. There is nothing better for me than that I should escape without fail to the land of the Phi·lisʹtines; and Saul must despair of me in looking for me any longer in all the territory of Israel, and I shall certainly escape from his hand.”
+
+[[v9-27-2]]
+
+^<<v9-27-2,2>>^ So David rose up and he and six hundred men that were with him passed over to Aʹchish the son of Maʹoch, the king of Gath.
+
+[[v9-27-3]]
+
+^<<v9-27-3,3>>^ And David continued to dwell with Aʹchish in Gath, he and his men, each one with his household, David and his two wives, A·hinʹo·am the Jezʹre·el·i·tess and Abʹi·gail, Naʹbal’s wife, the Carʹmel·it·ess.
+
+[[v9-27-4]]
+
+^<<v9-27-4,4>>^ In time report was made to Saul that David had run away to Gath, and so he did not go looking for him still another time.
+
+[[v9-27-5]]
+
+^<<v9-27-5,5>>^ Then David said to Aʹchish: “If, now, I have found favor in your eyes, let them give me a place in one of the cities of the countryside, that I may dwell there; for why should your servant dwell in the royal city with you?”
+
+[[v9-27-6]]
+
+^<<v9-27-6,6>>^ Accordingly Aʹchish gave him Zikʹlag on that day. That is why Zikʹlag has come to belong to the kings of Judah down to this day.
+
+[[v9-27-7]]
+
+^<<v9-27-7,7>>^ And the number of the days that David dwelt in the countryside of the Phi·lisʹtines came to be a year and four months.
+
+[[v9-27-8]]
+
+^<<v9-27-8,8>>^ And David proceeded to go up with his men that they might raid the Geshʹur·ites and the Girʹzites and the A·malʹek·ites; for they were inhabiting the land that &#91;extended&#93; from Teʹlam^&#42;1^ as far as Shur and down to the land of Egypt.
+
+[NOTE]
+====
+. “From Tela(m),” LXX12 mss; Heb., me·ʽoh·lamʹ, “from long ago.” Compare 15:4; Jos 15:24.
+====
+
+[[v9-27-9]]
+
+^<<v9-27-9,9>>^ And David struck the land, but he preserved neither man nor woman alive; and he took flocks and herds and asses and camels and garments, after which he returned and came to Aʹchish.
+
+[[v9-27-10]]
+
+^<<v9-27-10,10>>^ Then Aʹchish said: “Where did YOU men make a raid today?” To this David said: “Upon the south of Judah and upon the south of the Je·rahʹme·el·ites and upon the south of the Kenʹites.”
+
+[[v9-27-11]]
+
+^<<v9-27-11,11>>^ As for man and woman, David was not preserving any alive to bring them to Gath, saying: “That they may not tell on us, saying, ‘This is the way David did.’” (And this way has been his procedure all the days that he dwelt in the countryside of the Phi·lisʹtines.)
+
+[[v9-27-12]]
+
+^<<v9-27-12,12>>^ Consequently Aʹchish believed David, saying to himself: “He has unquestionably become a stench among his people Israel; and he will have to become my servant to time indefinite.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[&#60; Capítulo Anterior] | <<v9-27-0,Topo>> | xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[Próximo Capítulo &#62;]

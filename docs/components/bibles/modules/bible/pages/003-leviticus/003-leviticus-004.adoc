@@ -1,0 +1,212 @@
+include::./index.adoc[]
+
+[[v3-4-0]]
+=== Leviticus, 4
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-4-1]]
+
+^<<v3-4-1,1>>^ And Jehovah went on to speak to Moses, saying:
+
+[[v3-4-2]]
+
+^<<v3-4-2,2>>^ “Speak to the sons of Israel, saying, ‘In case a soul sins by mistake^&#42;1^ in any of the things that Jehovah commands should not be done, and he actually does one of them:
+
+[NOTE]
+====
+. Or, “unintentionally.”
+====
+
+[[v3-4-3]]
+
+^<<v3-4-3,3>>^ “‘If the priest, the anointed one,^&#42;1^ sins so as to bring guiltiness upon the people, then he must present for his sin that he has committed a sound young bull^&#42;2^ to Jehovah as a sin offering.^&#42;3^
+
+[NOTE]
+====
+. “The anointed one.” Heb., ham·ma·shiʹach; Gr., ho ke·khri·smeʹnos.
+. Lit., “a bull, a son of the herd.”
+. “As a sin offering,” M; LXXSy, “concerning his sin.”
+====
+
+[[v3-4-4]]
+
+^<<v3-4-4,4>>^ And he must bring the bull to the entrance of the tent of meeting before Jehovah and must lay his hand upon the bull’s head, and he must slaughter the bull before Jehovah.
+
+[[v3-4-5]]
+
+^<<v3-4-5,5>>^ And the priest, the anointed one,^&#42;1^ must take some of the bull’s blood and bring it into the tent of meeting;
+
+[NOTE]
+====
+. “The anointed one.” Heb., ham·ma·shiʹach; Gr., ho khri·stosʹ. Both here and in vs 3 the high priest is called a messiah, or an anointed one.
+====
+
+[[v3-4-6]]
+
+^<<v3-4-6,6>>^ and the priest must dip^&#42;1^ his finger in the blood and spatter some of the blood seven times before Jehovah in front of the curtain of the holy place.
+
+[NOTE]
+====
+. Or, “immerse; baptize.” Gr., baʹpsei.
+====
+
+[[v3-4-7]]
+
+^<<v3-4-7,7>>^ And the priest must put some of the blood upon the horns of the altar of perfumed incense before Jehovah, which is in the tent of meeting, and all the rest of the bull’s blood he will pour at the base of the altar of burnt offering, which is at the entrance of the tent of meeting.
+
+[[v3-4-8]]
+
+^<<v3-4-8,8>>^ “‘As to all the fat of the bull of the sin offering, he will lift up from it the fat that covers over the intestines, even all the fat that is over the intestines,
+
+[[v3-4-9]]
+
+^<<v3-4-9,9>>^ and the two kidneys and the fat that is upon them, the same as that upon the loins. And as for the appendage upon the liver, he will remove it along with the kidneys.
+
+[[v3-4-10]]
+
+^<<v3-4-10,10>>^ It will be the same as what is lifted up of a bull of the communion sacrifice. And the priest must make them smoke upon the altar of burnt offering.
+
+[[v3-4-11]]
+
+^<<v3-4-11,11>>^ “‘But as for the skin of the bull and all its flesh along with its head and its shanks and its intestines and its dung,
+
+[[v3-4-12]]
+
+^<<v3-4-12,12>>^ he must have the entire bull taken out to the outskirts of the camp to a clean place where the fatty ashes are poured out, and he must burn it upon wood in the fire. Where the fatty ashes are poured out it should be burned.
+
+[[v3-4-13]]
+
+^<<v3-4-13,13>>^ “‘Now if the entire assembly of Israel makes a mistake and the matter has been hidden from the eyes of the congregation in that they have done one of all the things that Jehovah commands should not be done and so have become guilty,
+
+[[v3-4-14]]
+
+^<<v3-4-14,14>>^ and the sin that they have committed against it has become known, then the congregation must present a young bull for a sin offering and must bring it before the tent of meeting.
+
+[[v3-4-15]]
+
+^<<v3-4-15,15>>^ And the older men^&#42;1^ of the assembly must lay their hands upon the bull’s head before Jehovah, and the bull must be slaughtered^&#42;2^ before Jehovah.
+
+[NOTE]
+====
+. Or, “elders.”
+. “And they must slaughter the bull,” LXXSy; M, “and he must slaughter the bull,” indicating that only one of the older men would slaughter it.
+====
+
+[[v3-4-16]]
+
+^<<v3-4-16,16>>^ “‘Then the priest, the anointed one,^&#42;1^ must bring some of the bull’s blood into the tent of meeting.
+
+[NOTE]
+====
+. “The anointed one.” Heb., ham·ma·shiʹach; Gr., ho khri·stosʹ; Syr., dam·shich.
+====
+
+[[v3-4-17]]
+
+^<<v3-4-17,17>>^ And the priest must dip his finger into some of the blood and spatter it seven times before Jehovah in front of the curtain.^&#42;1^
+
+[NOTE]
+====
+. “Curtain of the holy place,” SamLXX and one Heb. ms.
+====
+
+[[v3-4-18]]
+
+^<<v3-4-18,18>>^ And he will put some of the blood upon the horns of the altar that is before Jehovah, which is in the tent of meeting; and all the rest of the blood he will pour at the base of the altar of burnt offering, which is at the entrance of the tent of meeting.
+
+[[v3-4-19]]
+
+^<<v3-4-19,19>>^ And he will lift up all its fat from it, and he must make it smoke on the altar.
+
+[[v3-4-20]]
+
+^<<v3-4-20,20>>^ And he must do to the bull just as he did to the other bull of the sin offering. That is the way he will do to it; and the priest must make an atonement for^&#42;1^ them, and so it must be forgiven them.
+
+[NOTE]
+====
+. Lit., “make a covering over.”
+====
+
+[[v3-4-21]]
+
+^<<v3-4-21,21>>^ And he must have the bull taken out to the outskirts of the camp and must burn it, just as he burned the first bull. It is a sin offering for the congregation.
+
+[[v3-4-22]]
+
+^<<v3-4-22,22>>^ “‘When a chieftain sins and he does commit unintentionally one of all the things that Jehovah his God commands should not be done, and so has become guilty,
+
+[[v3-4-23]]
+
+^<<v3-4-23,23>>^ or his sin that he has committed against the commandment^&#42;1^ has been made known to him, then he must bring as his offering a male kid of the goats, a sound one.
+
+[NOTE]
+====
+. Lit., “it,” fem., referring to the commandment.
+====
+
+[[v3-4-24]]
+
+^<<v3-4-24,24>>^ And he must lay his hand upon the head of the young goat^&#42;1^ and slaughter it in the place where the burnt offering is regularly slaughtered before Jehovah. It is a sin offering.
+
+[NOTE]
+====
+. Or, “the kid.”
+====
+
+[[v3-4-25]]
+
+^<<v3-4-25,25>>^ And the priest must take some of the blood of the sin offering with his finger and put it upon the horns of the altar of burnt offering, and he will pour the rest of its blood at the base of the altar of burnt offering.
+
+[[v3-4-26]]
+
+^<<v3-4-26,26>>^ And he will make all its fat smoke on the altar like the fat of the communion sacrifice; and the priest must make an atonement for him for his sin, and so it must be forgiven him.
+
+[[v3-4-27]]
+
+^<<v3-4-27,27>>^ “‘And if any soul of the people of the land sins unintentionally by his doing one of the things that Jehovah^&#42;1^ commands should not be done and he does become guilty,
+
+[NOTE]
+====
+. See 3:12 ftn; App 1C §5.
+====
+
+[[v3-4-28]]
+
+^<<v3-4-28,28>>^ or his sin that he has committed has been made known to him, then he must bring as his offering a female kid of the goats, a sound one, for his sin that he has committed.
+
+[[v3-4-29]]
+
+^<<v3-4-29,29>>^ And he must lay his hand upon the head of the sin offering and slaughter the sin offering in the same place as the burnt offering.
+
+[[v3-4-30]]
+
+^<<v3-4-30,30>>^ And the priest must take some of its blood with his finger and put it upon the horns of the altar of burnt offering, and he will pour all the rest of its blood at the base of the altar.
+
+[[v3-4-31]]
+
+^<<v3-4-31,31>>^ And he will remove all its fat, just as the fat was removed from off the communion sacrifice; and the priest must make it smoke on the altar as a restful odor to Jehovah; and the priest must make an atonement for him, and so it must be forgiven him.
+
+[[v3-4-32]]
+
+^<<v3-4-32,32>>^ “‘But if he would bring a lamb^&#42;1^ as his offering for a sin offering, a sound female lamb is what he should bring.
+
+[NOTE]
+====
+. “A lamb,” M; Sam, “a female lamb.”
+====
+
+[[v3-4-33]]
+
+^<<v3-4-33,33>>^ And he must lay his hand upon the head of the sin offering and slaughter it as a sin offering in the place where the burnt offering is regularly slaughtered.
+
+[[v3-4-34]]
+
+^<<v3-4-34,34>>^ And the priest must take some of the blood of the sin offering with his finger and put it upon the horns of the altar of burnt offering, and he will pour all the rest of its blood at the base of the altar.
+
+[[v3-4-35]]
+
+^<<v3-4-35,35>>^ And he will remove all its fat the same as the fat of the young ram of the communion sacrifice is regularly removed, and the priest must make them smoke on the altar upon Jehovah’s offerings made by fire; and the priest must make an atonement for him for his sin that he has committed, and so it must be forgiven him.
+
+'''
+
+xref:003-leviticus/003-leviticus-003.adoc#v3-3-0[&#60; Capítulo Anterior] | <<v3-4-0,Topo>> | xref:003-leviticus/003-leviticus-005.adoc#v3-5-0[Próximo Capítulo &#62;]

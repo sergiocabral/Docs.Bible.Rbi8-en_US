@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v5-16-0]]
+=== Deuteronomy, 16
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-16-1]]
+
+^<<v5-16-1,1>>^ “Let there be an observing^&#42;1^ of the month of Aʹbib, and you must celebrate the passover to Jehovah your God, because in the month of Aʹbib Jehovah your God brought you out of Egypt by night.
+
+[NOTE]
+====
+. “Let there be an observing.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v5-16-2]]
+
+^<<v5-16-2,2>>^ And you must sacrifice the passover to Jehovah your God, of the flock and of the herd, in the place that Jehovah will choose to have his name reside there.
+
+[[v5-16-3]]
+
+^<<v5-16-3,3>>^ You must eat nothing leavened along with it for seven days. You should eat along with it unfermented cakes, the bread of affliction, because it was in haste that you came out of the land of Egypt, that you may remember the day of your coming out of the land of Egypt all the days of your life.
+
+[[v5-16-4]]
+
+^<<v5-16-4,4>>^ And no sourdough^&#42;1^ should be seen with you in all your territory seven days, neither should any of the flesh, which you will sacrifice in the evening on the first day, stay all night until the morning.
+
+[NOTE]
+====
+. Or, “yeast.”
+====
+
+[[v5-16-5]]
+
+^<<v5-16-5,5>>^ You will not be allowed to sacrifice the passover in any one of your cities^&#42;1^ that Jehovah your God is giving you.
+
+[NOTE]
+====
+. “One of your cities,” LXXSyVg; M, “one of your gates.” By a figure of speech, synecdoche, the part (gates) is put for the whole (city).
+====
+
+[[v5-16-6]]
+
+^<<v5-16-6,6>>^ But at the place that Jehovah your God will choose to have his name reside there, you should sacrifice the passover in the evening as soon as the sun sets, at the appointed time of your coming out of Egypt.
+
+[[v5-16-7]]
+
+^<<v5-16-7,7>>^ And you must do the boiling and the eating in the place that Jehovah your God will choose, and in the morning you must turn around and go to your own tents.
+
+[[v5-16-8]]
+
+^<<v5-16-8,8>>^ Six days you should eat unfermented cakes; and on the seventh day there will be a solemn assembly^&#42;1^ to Jehovah your God. You must do no work.
+
+[NOTE]
+====
+. “A solemn assembly.” Gr., e·xoʹdi·on; a festival day to commemorate the Exodus from Egypt.
+====
+
+[[v5-16-9]]
+
+^<<v5-16-9,9>>^ “Seven weeks you should count for yourself. From when the sickle is first put to the standing grain you will start to count seven weeks.
+
+[[v5-16-10]]
+
+^<<v5-16-10,10>>^ Then you must celebrate the festival of weeks to Jehovah your God, according to the voluntary offering of your hand that you will give, just as Jehovah your God may bless you.
+
+[[v5-16-11]]
+
+^<<v5-16-11,11>>^ And you must rejoice before Jehovah your God, you and your son and your daughter and your man slave and your slave girl and the Levite who is inside your gates^&#42;1^ and the alien resident and the fatherless boy and the widow, who are in your midst, in the place that Jehovah your God will choose to have his name reside there.
+
+[NOTE]
+====
+. Or, “city.” Vg, “gates”; LXXSy, “cities.”
+====
+
+[[v5-16-12]]
+
+^<<v5-16-12,12>>^ And you must remember that you became a slave in Egypt, and you must observe and carry out these regulations.
+
+[[v5-16-13]]
+
+^<<v5-16-13,13>>^ “The festival of booths you should celebrate for yourself seven days when you make an ingathering from your threshing floor and your oil and winepress.
+
+[[v5-16-14]]
+
+^<<v5-16-14,14>>^ And you must rejoice during your festival, you and your son and your daughter and your man slave and your slave girl and the Levite and the alien resident and the fatherless boy and the widow, who are inside your gates.
+
+[[v5-16-15]]
+
+^<<v5-16-15,15>>^ Seven days you will celebrate the festival to Jehovah your God in the place that Jehovah will choose, because Jehovah your God will bless you in all your produce and in every deed of your hand, and you must become nothing but joyful.
+
+[[v5-16-16]]
+
+^<<v5-16-16,16>>^ “Three times in the year every male of yours should appear before Jehovah your God in the place that he will choose: in the festival of the unfermented cakes and in the festival of weeks and in the festival of booths, and none should appear before Jehovah empty-handed.
+
+[[v5-16-17]]
+
+^<<v5-16-17,17>>^ The gift of each one’s hand should be in proportion to the blessing of Jehovah your God that he has given you.
+
+[[v5-16-18]]
+
+^<<v5-16-18,18>>^ “You should set judges and officers for yourself inside all your gates that Jehovah your God is giving you by your tribes, and they must judge the people with righteous judgment.
+
+[[v5-16-19]]
+
+^<<v5-16-19,19>>^ You must not pervert judgment. You must not be partial or accept a bribe, for the bribe blinds the eyes of wise ones and distorts the words of righteous ones.
+
+[[v5-16-20]]
+
+^<<v5-16-20,20>>^ Justice—justice you should pursue, in order that you may keep alive and may indeed take possession of the land that Jehovah your God is giving you.
+
+[[v5-16-21]]
+
+^<<v5-16-21,21>>^ “You must not plant for yourself any sort of tree as a sacred pole^&#42;1^ near the altar of Jehovah your God that you will make for yourself.
+
+[NOTE]
+====
+. Or, “as an Asherah.”
+====
+
+[[v5-16-22]]
+
+^<<v5-16-22,22>>^ “Neither should you set up for yourself a sacred pillar, a thing Jehovah your God hates indeed.
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-015.adoc#v5-15-0[&#60; Capítulo Anterior] | <<v5-16-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-017.adoc#v5-17-0[Próximo Capítulo &#62;]

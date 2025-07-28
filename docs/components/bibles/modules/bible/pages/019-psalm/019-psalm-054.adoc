@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-54-0]]
+=== Psalms, 54
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director on stringed instruments. Masʹkil.^&#42;1^ Of David. When the Ziphʹites came in and proceeded to say to Saul: “Is not David concealing himself with us?”_
+
+[[v19-54-1]]
+
+^<<v19-54-1,1>>^ O God, by your name save me,
+And with your mightiness may you plead my cause.
+
+[[v19-54-2]]
+
+^<<v19-54-2,2>>^ O God, hear my prayer;
+Do give ear to the sayings of my mouth.
+
+[[v19-54-3]]
+
+^<<v19-54-3,3>>^ For there are strangers that have risen up against me,
+And tyrants that do seek my soul.
+They have not set God in front of them. Seʹlah.
+
+[[v19-54-4]]
+
+^<<v19-54-4,4>>^ Look! God is my helper;
+Jehovah^&#42;1^ is among those supporting my soul.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-54-5]]
+
+^<<v19-54-5,5>>^ He will repay the bad to my foes;
+In your trueness^&#42;1^ silence them.
+
+[NOTE]
+====
+. Or, “by your truth.”
+====
+
+[[v19-54-6]]
+
+^<<v19-54-6,6>>^ In willingness I will sacrifice to you.
+I shall laud your name, O Jehovah, for it is good.
+
+[[v19-54-7]]
+
+^<<v19-54-7,7>>^ For out of every distress he delivered me,
+And upon my enemies my eye has looked.
+
+'''
+
+xref:019-psalm/019-psalm-053.adoc#v19-53-0[&#60; Capítulo Anterior] | <<v19-54-0,Topo>> | xref:019-psalm/019-psalm-055.adoc#v19-55-0[Próximo Capítulo &#62;]

@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v5-6-0]]
+=== Deuteronomy, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-6-1]]
+
+^<<v5-6-1,1>>^ “Now these are the commandment, the regulations and the judicial decisions that Jehovah YOUR God has commanded to teach YOU, so as to do them in the land to which YOU are passing over there to take possession of it;
+
+[[v5-6-2]]
+
+^<<v5-6-2,2>>^ in order that you may fear Jehovah your God so as to keep all his statutes and his commandments that I am commanding you, you and your son and your grandson, all the days of your life, and in order that your days may prove long.
+
+[[v5-6-3]]
+
+^<<v5-6-3,3>>^ And you must listen, O Israel, and take care to do &#91;them&#93;, that it may go well with you and that YOU may become very many, just as Jehovah the God of your forefathers has promised you, as respects the land^&#42;1^ flowing with milk and honey.
+
+[NOTE]
+====
+. Lit., “to you, the land,” MSam; LXX, “to give to you a land”; Sy, “to you, that he would give you a land.”
+====
+
+[[v5-6-4]]
+
+^<<v5-6-4,4>>^ “Listen, O Israel: Jehovah our God is one Jehovah.^&#42;1^
+
+[NOTE]
+====
+. Or, “Jehovah is our God, Jehovah is one [or, there is one Jehovah].” Lit., “Jehovah our God [is] Jehovah one.” Heb., Yehwahʹ ʼElo·hehʹnu Yehwahʹ ʼe·chadhʹ.
+====
+
+[[v5-6-5]]
+
+^<<v5-6-5,5>>^ And you must love Jehovah your God with all your heart and all your soul and all your vital force.
+
+[[v5-6-6]]
+
+^<<v5-6-6,6>>^ And these words that I am commanding you today must prove to be on your heart;
+
+[[v5-6-7]]
+
+^<<v5-6-7,7>>^ and you must inculcate them in your son and speak of them when you sit in your house and when you walk on the road and when you lie down and when you get up.
+
+[[v5-6-8]]
+
+^<<v5-6-8,8>>^ And you must tie them as a sign upon your hand, and they must serve as a frontlet band between your eyes;
+
+[[v5-6-9]]
+
+^<<v5-6-9,9>>^ and you must write them upon the doorposts^&#42;1^ of your house and on your gates.
+
+[NOTE]
+====
+. “Doorposts of.” Heb., mezu·zothʹ, the basis for the modern Jewish term “mezu­zah.” See Ex 12:7 ftn, “Doorposts.”
+====
+
+[[v5-6-10]]
+
+^<<v5-6-10,10>>^ “And it must occur that when Jehovah your God will bring you into the land that he swore to your forefathers Abraham, Isaac and Jacob to give you, great and good-looking cities that you did not build,
+
+[[v5-6-11]]
+
+^<<v5-6-11,11>>^ and houses full of all good things and that you did not fill, and cisterns hewn out that you did not hew out, vineyards and olive trees that you did not plant, and you shall have eaten and become satisfied,
+
+[[v5-6-12]]
+
+^<<v5-6-12,12>>^ watch out for yourself that you may not forget Jehovah, who brought you out of the land of Egypt, out of the house of slaves.
+
+[[v5-6-13]]
+
+^<<v5-6-13,13>>^ Jehovah your God you should fear, and him you should serve,^&#42;1^ and by his name you should swear.
+
+[NOTE]
+====
+. “You should serve (worship).” Heb., tha·ʽavodhʹ; Gr., la·treuʹseis, “you will render sacred service.” See Ex 3:12 ftn.
+====
+
+[[v5-6-14]]
+
+^<<v5-6-14,14>>^ YOU must not walk after other gods, any gods of the peoples who are all around YOU,
+
+[[v5-6-15]]
+
+^<<v5-6-15,15>>^ (for Jehovah your God in your midst is a God exacting exclusive devotion,) for fear the anger of Jehovah your God may blaze against you and he must annihilate you from off the surface of the ground.
+
+[[v5-6-16]]
+
+^<<v5-6-16,16>>^ “YOU must not put Jehovah YOUR God to the test, the way YOU put him to the test at Masʹsah.^&#42;1^
+
+[NOTE]
+====
+. Meaning “Testing; Trial.”
+====
+
+[[v5-6-17]]
+
+^<<v5-6-17,17>>^ YOU should by all means keep the commandments of Jehovah YOUR God and his testimonies and his regulations that he has commanded you.
+
+[[v5-6-18]]
+
+^<<v5-6-18,18>>^ And you must do what is right and good in Jehovah’s eyes, in order that it may go well with you and you may indeed enter and take possession of the good land about which Jehovah has sworn to your forefathers,
+
+[[v5-6-19]]
+
+^<<v5-6-19,19>>^ by pushing away all your enemies from before you, just as Jehovah has promised.
+
+[[v5-6-20]]
+
+^<<v5-6-20,20>>^ “In case your son should ask you in a future day, saying, ‘What do the testimonies and the regulations and the judicial decisions mean that Jehovah our God has commanded YOU?’
+
+[[v5-6-21]]
+
+^<<v5-6-21,21>>^ then you must say to your son, ‘We became slaves to Pharʹaoh in Egypt, but Jehovah proceeded to bring us out of Egypt with a strong hand.
+
+[[v5-6-22]]
+
+^<<v5-6-22,22>>^ So Jehovah kept putting signs and miracles, great and calamitous, upon Egypt, upon Pharʹaoh and upon all his household before our eyes.
+
+[[v5-6-23]]
+
+^<<v5-6-23,23>>^ And he brought us out from there in order that he might bring us here to give us the land about which he had sworn to our forefathers.
+
+[[v5-6-24]]
+
+^<<v5-6-24,24>>^ Hence Jehovah commanded us to carry out all these regulations, to fear Jehovah our God for our good always, that we might keep alive as at this day.
+
+[[v5-6-25]]
+
+^<<v5-6-25,25>>^ And it will mean righteousness for us, that we take care to do all this commandment before Jehovah our God, just as he has commanded us.’
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-005.adoc#v5-5-0[&#60; Capítulo Anterior] | <<v5-6-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-007.adoc#v5-7-0[Próximo Capítulo &#62;]

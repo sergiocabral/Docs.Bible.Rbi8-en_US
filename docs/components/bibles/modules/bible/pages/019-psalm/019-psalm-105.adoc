@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v19-105-0]]
+=== Psalms, 105
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-105-1]]
+
+^<<v19-105-1,1>>^ GIVE thanks to Jehovah, call upon his name,
+Make known among the peoples his dealings.
+
+[[v19-105-2]]
+
+^<<v19-105-2,2>>^ Sing to him, make melody to him,
+Concern yourselves with all his wonderful works.
+
+[[v19-105-3]]
+
+^<<v19-105-3,3>>^ Make YOUR boast in his holy name.
+Let the heart of those seeking Jehovah rejoice.
+
+[[v19-105-4]]
+
+^<<v19-105-4,4>>^ Search for Jehovah and his strength.
+Seek his face constantly.
+
+[[v19-105-5]]
+
+^<<v19-105-5,5>>^ Remember his wonderful works that he has performed,
+His miracles and the judicial decisions of his mouth,
+
+[[v19-105-6]]
+
+^<<v19-105-6,6>>^ O YOU seed of Abraham his servant,
+YOU sons of Jacob, his chosen ones.
+
+[[v19-105-7]]
+
+^<<v19-105-7,7>>^ He is Jehovah our God.
+His judicial decisions are in all the earth.
+
+[[v19-105-8]]
+
+^<<v19-105-8,8>>^ He has remembered his covenant even to time indefinite,
+The word that he commanded, to a thousand generations,
+
+[[v19-105-9]]
+
+^<<v19-105-9,9>>^ Which &#91;covenant&#93; he concluded^&#42;1^ with Abraham,
+And his sworn statement to Isaac,
+
+[NOTE]
+====
+. Lit., “cut.”
+====
+
+[[v19-105-10]]
+
+^<<v19-105-10,10>>^ And which &#91;statement&#93;^&#42;1^ he kept standing as a regulation even to Jacob,
+As an indefinitely lasting covenant even to Israel,
+
+[NOTE]
+====
+. “Which [statement].” Heb., ha, a pronominal suffix to the fem. verb, referring to the fem. expression “sworn statement” in vs 9.
+====
+
+[[v19-105-11]]
+
+^<<v19-105-11,11>>^ Saying: “To you I shall give the land of Caʹnaan
+As the allotment of YOUR inheritance.”
+
+[[v19-105-12]]
+
+^<<v19-105-12,12>>^ &#91;This was&#93; when they^&#42;1^ happened to be few in number,
+Yes, very few, and alien residents in it.
+
+[NOTE]
+====
+. “They,” MLXXVg; TSy, many Heb. mss and 1Ch 16:19, “you,” pl.
+====
+
+[[v19-105-13]]
+
+^<<v19-105-13,13>>^ And they kept walking about from nation to nation,
+From one kingdom to another people.
+
+[[v19-105-14]]
+
+^<<v19-105-14,14>>^ He did not allow any human^&#42;1^ to defraud them,
+But on their account he reproved kings,
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-105-15]]
+
+^<<v19-105-15,15>>^ &#91;Saying:&#93; “Do not YOU men touch my anointed ones,^&#42;1^
+And to my prophets do nothing bad.”
+
+[NOTE]
+====
+. “My anointed ones.” Heb., vim·shi·chaiʹ, pl.; Gr., khri·stonʹ; Syr., lam·shi·chai, pl.; Lat., chriʹstos.
+====
+
+[[v19-105-16]]
+
+^<<v19-105-16,16>>^ And he proceeded to call for a famine upon the land;
+He broke every rod around which ring-shaped loaves were suspended.^&#42;1^
+
+[NOTE]
+====
+. Lit., “every rod of bread.”
+====
+
+[[v19-105-17]]
+
+^<<v19-105-17,17>>^ He sent ahead of them a man^&#42;1^
+Who was sold to be a slave, Joseph.
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+====
+
+[[v19-105-18]]
+
+^<<v19-105-18,18>>^ With fetters they afflicted his feet,
+Into irons his soul came;
+
+[[v19-105-19]]
+
+^<<v19-105-19,19>>^ Until the time that his word^&#42;1^ came,
+The saying^&#42;2^ of Jehovah itself refined him.
+
+[NOTE]
+====
+. “His word.” Or, “the word of One.” Heb., dheva·rohʹ.
+. “The saying of.” Heb., ʼim·rathʹ.
+====
+
+[[v19-105-20]]
+
+^<<v19-105-20,20>>^ The king sent that he might release him,
+The ruler of the peoples, that he might let him loose.
+
+[[v19-105-21]]
+
+^<<v19-105-21,21>>^ He set him as master to his household
+And as ruler over all his property,
+
+[[v19-105-22]]
+
+^<<v19-105-22,22>>^ To bind his princes agreeably to his soul^&#42;1^
+And that he might teach wisdom to even his elderly men.
+
+[NOTE]
+====
+. “Agreeably to his soul.” Lit., “in (by) his soul.” Heb., benaph·shohʹ.
+====
+
+[[v19-105-23]]
+
+^<<v19-105-23,23>>^ And Israel proceeded to come into Egypt,
+And Jacob himself resided as an alien in the land of Ham.
+
+[[v19-105-24]]
+
+^<<v19-105-24,24>>^ And he kept making his people very fruitful,
+And gradually made them mightier than their adversaries.
+
+[[v19-105-25]]
+
+^<<v19-105-25,25>>^ He let their heart change to hate his people,
+To behave cunningly against his servants.
+
+[[v19-105-26]]
+
+^<<v19-105-26,26>>^ He sent Moses his servant,
+Aaron whom he had chosen.
+
+[[v19-105-27]]
+
+^<<v19-105-27,27>>^ They^&#42;1^ set among them the matters of his signs,
+And the miracles in the land of Ham.
+
+[NOTE]
+====
+. “They,” MT; LXXSyVg, “He.”
+====
+
+[[v19-105-28]]
+
+^<<v19-105-28,28>>^ He sent darkness and so made it dark;
+And they did not rebel against his words.
+
+[[v19-105-29]]
+
+^<<v19-105-29,29>>^ He changed their waters into blood,
+And proceeded to put their fish to death.
+
+[[v19-105-30]]
+
+^<<v19-105-30,30>>^ Their land swarmed with frogs,
+In the interior rooms of their kings.
+
+[[v19-105-31]]
+
+^<<v19-105-31,31>>^ He said that the gadflies should come in,
+Gnats in all their territories.
+
+[[v19-105-32]]
+
+^<<v19-105-32,32>>^ He made their downpours hail,
+A flaming fire on their land.
+
+[[v19-105-33]]
+
+^<<v19-105-33,33>>^ And he proceeded to strike their vines and their fig trees
+And to break the trees of their territory.
+
+[[v19-105-34]]
+
+^<<v19-105-34,34>>^ He said that the locusts should come in,
+And a species of locust,^&#42;1^ even without number.
+
+[NOTE]
+====
+. “A species of locust.” Or, “the creeping, unwinged locust.” See Joe 1:4 ftn.
+====
+
+[[v19-105-35]]
+
+^<<v19-105-35,35>>^ And they went eating all the vegetation in their land;
+They also went eating the fruitage of their ground.
+
+[[v19-105-36]]
+
+^<<v19-105-36,36>>^ And he proceeded to strike down every firstborn in their land,
+The beginning of all their generative power.
+
+[[v19-105-37]]
+
+^<<v19-105-37,37>>^ And he began to bring them out with silver and gold;
+And among his tribes there was no one stumbling along.
+
+[[v19-105-38]]
+
+^<<v19-105-38,38>>^ Egypt rejoiced when they went out,
+For the dread of them had fallen upon them.
+
+[[v19-105-39]]
+
+^<<v19-105-39,39>>^ He spread out a cloud for a screen,
+And fire to give light by night.
+
+[[v19-105-40]]
+
+^<<v19-105-40,40>>^ They^&#42;1^ asked, and he proceeded to bring quails,
+And with bread from heaven he kept satisfying them.
+
+[NOTE]
+====
+. “They,” TLXXSyVg; M, “He,” collectively.
+====
+
+[[v19-105-41]]
+
+^<<v19-105-41,41>>^ He opened a rock, and waters began to flow out;
+These went through the waterless regions as a river.
+
+[[v19-105-42]]
+
+^<<v19-105-42,42>>^ For he remembered his holy word^&#42;1^ with Abraham his servant.
+
+[NOTE]
+====
+. Or, “promise.” Compare vs 8.
+====
+
+[[v19-105-43]]
+
+^<<v19-105-43,43>>^ So he brought out his people with exultation,
+His chosen ones even with a joyful cry.
+
+[[v19-105-44]]
+
+^<<v19-105-44,44>>^ And gradually he gave them the lands of the nations,
+And they kept taking possession of the product of the hard work of national groups,
+
+[[v19-105-45]]
+
+^<<v19-105-45,45>>^ To the end that they might keep his regulations
+And observe his own laws.
+Praise Jah, YOU people!
+
+'''
+
+xref:019-psalm/019-psalm-104.adoc#v19-104-0[&#60; Capítulo Anterior] | <<v19-105-0,Topo>> | xref:019-psalm/019-psalm-106.adoc#v19-106-0[Próximo Capítulo &#62;]

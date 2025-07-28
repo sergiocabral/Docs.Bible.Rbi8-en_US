@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v19-77-0]]
+=== Psalms, 77
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director on Je·duʹthun.^&#42;1^ Of Aʹsaph. A melody._
+
+[[v19-77-1]]
+
+^<<v19-77-1,1>>^ With my voice I will even cry out to God^&#42;1^ himself,
+With my voice to God, and he will certainly give ear to me.
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ; TLXXVg, “Jehovah.”
+====
+
+[[v19-77-2]]
+
+^<<v19-77-2,2>>^ In the day of my distress I have searched for Jehovah^&#42;1^ himself.
+At night my very hand has been stretched out^&#42;2^ and does not grow numb;
+My soul has refused to be comforted.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+. Lit., “poured out.”
+====
+
+[[v19-77-3]]
+
+^<<v19-77-3,3>>^ I will remember God and be boisterous;
+I will show concern, that my spirit may faint away. Seʹlah.
+
+[[v19-77-4]]
+
+^<<v19-77-4,4>>^ You have seized hold of my eyelids;
+I have become agitated, and I cannot speak.
+
+[[v19-77-5]]
+
+^<<v19-77-5,5>>^ I have thought upon the days of long ago,
+On the years in the indefinite past.
+
+[[v19-77-6]]
+
+^<<v19-77-6,6>>^ I will remember my string music in the night;
+With my heart I will show concern,
+And my spirit will carefully search.
+
+[[v19-77-7]]
+
+^<<v19-77-7,7>>^ Will it be to times indefinite that Jehovah^&#42;1^ keeps casting off,
+And will he no more be pleased again?
+
+[NOTE]
+====
+. See vs 2 ftn, “Jehovah.”
+====
+
+[[v19-77-8]]
+
+^<<v19-77-8,8>>^ Has his loving-kindness terminated forever?
+Has &#91;his&#93; saying come to nothing for generation after generation?
+
+[[v19-77-9]]
+
+^<<v19-77-9,9>>^ Has God^&#42;1^ forgotten to be favorable,
+Or has he shut off his mercies in anger? Seʹlah.
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+[[v19-77-10]]
+
+^<<v19-77-10,10>>^ And shall I keep saying: “This is what pierces me through,
+The changing of the right hand of the Most High”?
+
+[[v19-77-11]]
+
+^<<v19-77-11,11>>^ I shall remember the practices of Jah;^&#42;1^
+For I will remember your marvelous doing of long ago.
+
+[NOTE]
+====
+. See 68:4 ftn.
+====
+
+[[v19-77-12]]
+
+^<<v19-77-12,12>>^ And I shall certainly meditate on all your activity,
+And with your dealings I will concern myself.
+
+[[v19-77-13]]
+
+^<<v19-77-13,13>>^ O God,^&#42;1^ your way is in the holy place.
+Who is a great God^&#42;2^ like God?
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ.
+. “God.” Heb., ʼEl.
+====
+
+[[v19-77-14]]
+
+^<<v19-77-14,14>>^ You are the &#91;true&#93; God, doing marvelously.
+Among the peoples you have made your strength known.
+
+[[v19-77-15]]
+
+^<<v19-77-15,15>>^ With &#91;your&#93; arm you have recovered your people,
+The sons of Jacob and of Joseph. Seʹlah.
+
+[[v19-77-16]]
+
+^<<v19-77-16,16>>^ The waters have seen you, O God,
+The waters have seen you; they began to be in severe pains.
+Also, the watery deeps^&#42;1^ began to be agitated.
+
+[NOTE]
+====
+. See Ex 15:5 ftn.
+====
+
+[[v19-77-17]]
+
+^<<v19-77-17,17>>^ The clouds have thunderously poured down water;
+A sound the cloudy skies have given forth.
+Also, your own arrows proceeded to go here and there.
+
+[[v19-77-18]]
+
+^<<v19-77-18,18>>^ The sound of your thunder was like chariot wheels;
+Lightnings have lighted up the productive land;^&#42;1^
+The earth became agitated and began to rock.
+
+[NOTE]
+====
+. “The productive land.” Heb., te·velʹ; LXX, “the inhabited earth”; Lat., orʹbi terʹrae, “the terrestrial circle.”
+====
+
+[[v19-77-19]]
+
+^<<v19-77-19,19>>^ Through the sea your way was,
+And your path was through many waters;
+And your very footprints have not come to be known.
+
+[[v19-77-20]]
+
+^<<v19-77-20,20>>^ You have led your people just like a flock,
+By the hand of Moses and Aaron.
+
+'''
+
+xref:019-psalm/019-psalm-076.adoc#v19-76-0[&#60; Capítulo Anterior] | <<v19-77-0,Topo>> | xref:019-psalm/019-psalm-078.adoc#v19-78-0[Próximo Capítulo &#62;]

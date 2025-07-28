@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v19-96-0]]
+=== Psalms, 96
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-96-1]]
+
+^<<v19-96-1,1>>^ ^&#42;1^ Sing to Jehovah a new song.
+Sing to Jehovah, all &#91;YOU people of&#93; the earth.^&#42;2^
+
+[NOTE]
+====
+. LXX has the superscription: “When the house was built after the captivity: a song of David”; Vg is similar.
+. Lit., “all the earth,” but the verb “sing” is masc. pl. See 33:8 and 66:1 ftns, “Earth.”
+====
+
+[[v19-96-2]]
+
+^<<v19-96-2,2>>^ Sing to Jehovah, bless his name.
+From day to day tell the good news of salvation by him.
+
+[[v19-96-3]]
+
+^<<v19-96-3,3>>^ Declare among the nations his glory,
+Among all the peoples his wonderful works.
+
+[[v19-96-4]]
+
+^<<v19-96-4,4>>^ For Jehovah is great and very much to be praised.
+He is fear-inspiring above all &#91;other&#93; gods.
+
+[[v19-96-5]]
+
+^<<v19-96-5,5>>^ For all the gods^&#42;1^ of the peoples are valueless gods;^&#42;2^
+But as for Jehovah, he has made the very heavens.
+
+[NOTE]
+====
+. “Gods of.” Heb., ʼelo·hehʹ; Gr., the·oiʹ; Lat., diʹi.
+. Or, “worthless gods.” Heb., ʼeli·limʹ; LXXVg, “demons.”
+====
+
+[[v19-96-6]]
+
+^<<v19-96-6,6>>^ Dignity and splendor are before him;
+Strength and beauty are in his sanctuary.
+
+[[v19-96-7]]
+
+^<<v19-96-7,7>>^ Ascribe^&#42;1^ to Jehovah,^&#42;2^ O YOU families of the peoples,
+Ascribe to Jehovah^&#42;3^ glory and strength.
+
+[NOTE]
+====
+. Or, “Give,” pl., Heb., ha·vuʹ.
+. See App 1C §8.
+. See App 1C §8.
+====
+
+[[v19-96-8]]
+
+^<<v19-96-8,8>>^ Ascribe to Jehovah^&#42;1^ the glory belonging to his name;
+Carry a gift and come into his courtyards.
+
+[NOTE]
+====
+. See App 1C §8.
+====
+
+[[v19-96-9]]
+
+^<<v19-96-9,9>>^ Bow down to Jehovah^&#42;1^ in holy adornment;^&#42;2^
+Be in severe pains because of him, all &#91;YOU people of&#93; the earth.^&#42;3^
+
+[NOTE]
+====
+. See App 1C §8.
+. “In his holy courtyard,” LXXSyVg.
+. See vs 1 ftn, “Earth.”
+====
+
+[[v19-96-10]]
+
+^<<v19-96-10,10>>^ Say among the nations: “Jehovah^&#42;1^ himself has become king.
+The productive land^&#42;2^ also becomes firmly established so that it cannot be made to totter.
+He will plead the cause of the peoples in uprightness.”
+
+[NOTE]
+====
+. See App 1C §8.
+. “The productive land.” Heb., te·velʹ; LXX, “The inhabited earth”; Vgc(Lat.), orʹbem terʹrae, “The circle of the earth.”
+====
+
+[[v19-96-11]]
+
+^<<v19-96-11,11>>^ Let the heavens rejoice, and let the earth be joyful.^&#42;1^
+Let the sea thunder and that which fills it.
+
+[NOTE]
+====
+. In M the initial letters of the first four Heb. words in this vs, when read from right to left, form an acrostic of the Tetragrammaton, יהוה (YHWH), which is God’s exclusive name. When transliterated, the four words read: ­Yis·mechuʹ ­Hash·sha·maʹyim ­Wetha·ghelʹ Ha·ʼaʹrets. The Heb. Masorah, or collection of critical notes, calls attention to this Tetragrammaton acrostic.
+====
+
+[[v19-96-12]]
+
+^<<v19-96-12,12>>^ Let the open field exult and all that is in it.
+At the same time let all the trees of the forest break out joyfully
+
+[[v19-96-13]]
+
+^<<v19-96-13,13>>^ Before Jehovah.^&#42;1^ For he has come;
+For he has come to judge the earth.
+He will judge the productive land^&#42;2^ with righteousness
+And the peoples with his faithfulness.
+
+[NOTE]
+====
+. See App 1C §8.
+. See vs 10 ftn, “Land.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-095.adoc#v19-95-0[&#60; Capítulo Anterior] | <<v19-96-0,Topo>> | xref:019-psalm/019-psalm-097.adoc#v19-97-0[Próximo Capítulo &#62;]

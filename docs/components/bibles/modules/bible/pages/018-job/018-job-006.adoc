@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v18-6-0]]
+=== Job, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-6-1]]
+
+^<<v18-6-1,1>>^ And Job proceeded to answer and say:
+
+[[v18-6-2]]
+
+^<<v18-6-2,2>>^ “O that my vexation were altogether weighed,
+And that at the same time my adversity they would put on scales themselves!
+
+[[v18-6-3]]
+
+^<<v18-6-3,3>>^ For now it is heavier even than the sands of the seas.
+That is why my own words have been wild talk.
+
+[[v18-6-4]]
+
+^<<v18-6-4,4>>^ For the arrows of the Almighty^&#42;1^ are with me,
+The venom of which my spirit is drinking;
+The terrors from God^&#42;2^ range themselves up against me.^&#42;3^
+
+[NOTE]
+====
+. “Jehovah,” LXXVg.
+. “God.” Heb., ʼElohʹah.
+. “Cast me out from social intercourse,” by the transposition of two letters in M.
+====
+
+[[v18-6-5]]
+
+^<<v18-6-5,5>>^ Will a zebra^&#42;1^ cry out over grass,
+Or a bull low over its fodder?
+
+[NOTE]
+====
+. Or, “onager; wild ass.”
+====
+
+[[v18-6-6]]
+
+^<<v18-6-6,6>>^ Will tasteless things be eaten without salt,
+Or is there any taste in the slimy juice of marshmallow?
+
+[[v18-6-7]]
+
+^<<v18-6-7,7>>^ My soul has refused to touch &#91;anything&#93;.
+They are like disease in my food.
+
+[[v18-6-8]]
+
+^<<v18-6-8,8>>^ O that my request would come
+And that God^&#42;1^ would grant even my hope!
+
+[NOTE]
+====
+. “God.” Heb., ʼElohʹah.
+====
+
+[[v18-6-9]]
+
+^<<v18-6-9,9>>^ And that God would go ahead and crush me,
+That he would release his hand and cut me off!
+
+[[v18-6-10]]
+
+^<<v18-6-10,10>>^ Even it would still be my comfort;
+And I should leap &#91;for joy&#93; at &#91;my&#93; labor pains,
+&#91;Though&#93; he would have no compassion, for I have not hidden the sayings of the Holy One.
+
+[[v18-6-11]]
+
+^<<v18-6-11,11>>^ What is my power, that I should keep waiting?
+And what is my end, that I should keep prolonging my soul?^&#42;1^
+
+[NOTE]
+====
+. Or, “my life [as a soul].” Heb., naph·shiʹ; Gr., psy·kheʹ.
+====
+
+[[v18-6-12]]
+
+^<<v18-6-12,12>>^ Is my power the power of stones?
+Or is my flesh of copper?
+
+[[v18-6-13]]
+
+^<<v18-6-13,13>>^ Is it that self-assistance is not in me,
+And effectual working itself has been chased away from me?
+
+[[v18-6-14]]
+
+^<<v18-6-14,14>>^ As regards anyone who withholds loving-kindness^&#42;1^ from his own fellow,
+He will also leave off even the fear of the Almighty.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v18-6-15]]
+
+^<<v18-6-15,15>>^ My own brothers have dealt treacherously, like a winter torrent,
+Like the channel of winter torrents that keep passing away.
+
+[[v18-6-16]]
+
+^<<v18-6-16,16>>^ They are dark from ice,
+Upon them snow hides itself.
+
+[[v18-6-17]]
+
+^<<v18-6-17,17>>^ In due season they become waterless, they have been silenced;
+When it grows hot they are dried up from their place.
+
+[[v18-6-18]]
+
+^<<v18-6-18,18>>^ The paths of their way are turned aside;
+They go up into the empty place and perish.
+
+[[v18-6-19]]
+
+^<<v18-6-19,19>>^ The caravans of Teʹma have looked,
+The traveling company of Sa·beʹans^&#42;1^ have waited for them.
+
+[NOTE]
+====
+. Lit., “Sheba.”
+====
+
+[[v18-6-20]]
+
+^<<v18-6-20,20>>^ They certainly are ashamed because they had trusted;
+They have come clear to the place and they get disappointed.
+
+[[v18-6-21]]
+
+^<<v18-6-21,21>>^ For now YOU men have amounted to nothing;
+YOU see terror, and YOU become afraid.
+
+[[v18-6-22]]
+
+^<<v18-6-22,22>>^ Is it because I have said, ‘GIVE me &#91;something&#93;,
+Or from some of the power of YOU men make a present in my behalf;
+
+[[v18-6-23]]
+
+^<<v18-6-23,23>>^ And rescue me out of the hand of an adversary,
+And out of the hand of tyrants YOU men should redeem me’?
+
+[[v18-6-24]]
+
+^<<v18-6-24,24>>^ Instruct me, and I, for my part, shall be silent;
+And what mistake I have committed make me understand.
+
+[[v18-6-25]]
+
+^<<v18-6-25,25>>^ The sayings of uprightness have been—O not painful!
+But what does reproving^&#42;1^ on the part of YOU men reprove?
+
+[NOTE]
+====
+. “Reproving.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v18-6-26]]
+
+^<<v18-6-26,26>>^ Is it to reprove words that YOU men scheme,
+When the sayings of one in despair are for mere wind?
+
+[[v18-6-27]]
+
+^<<v18-6-27,27>>^ How much more will YOU cast lots even over someone fatherless,
+And barter over YOUR companion!
+
+[[v18-6-28]]
+
+^<<v18-6-28,28>>^ And now GO ahead, pay attention to me,
+&#91;And see&#93; whether I shall lie to YOUR very faces.
+
+[[v18-6-29]]
+
+^<<v18-6-29,29>>^ Return, please—let no unrighteousness arise—
+Yes, return—my righteousness is yet in it.
+
+[[v18-6-30]]
+
+^<<v18-6-30,30>>^ Is there unrighteousness on my tongue,
+Or does my own palate not discern adversity?
+
+'''
+
+xref:018-job/018-job-005.adoc#v18-5-0[&#60; Capítulo Anterior] | <<v18-6-0,Topo>> | xref:018-job/018-job-007.adoc#v18-7-0[Próximo Capítulo &#62;]

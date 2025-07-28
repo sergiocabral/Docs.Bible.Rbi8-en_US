@@ -1,0 +1,222 @@
+include::./index.adoc[]
+
+[[v2-20-0]]
+=== Exodus, 20
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-20-1]]
+
+^<<v2-20-1,1>>^ And God proceeded to speak all these words,^&#42;1^ saying:
+
+[NOTE]
+====
+. Or, “commands.”
+====
+
+[[v2-20-2]]
+
+^<<v2-20-2,2>>^ “I am Jehovah your God,^&#42;1^ who have brought you out of the land of Egypt, out of the house of slaves.
+
+[NOTE]
+====
+. Or, “I, Jehovah, am your God.”
+====
+
+[[v2-20-3]]
+
+^<<v2-20-3,3>>^ You must not have any other gods^&#42;1^ against my face.^&#42;2^
+
+[NOTE]
+====
+. “Not . . . any other gods.” Heb., loʼ . . . ʼelo·himʹ ʼache·rimʹ; Gr., the·oiʹ.
+. Or, “gods in defiance of me.”
+====
+
+[[v2-20-4]]
+
+^<<v2-20-4,4>>^ “You must not make for yourself a carved image or a form like anything that is in the heavens above or that is on the earth underneath or that is in the waters under the earth.
+
+[[v2-20-5]]
+
+^<<v2-20-5,5>>^ You must not bow down to them nor be induced to serve them,^&#42;1^ because I Jehovah your God am a God exacting exclusive devotion,^&#42;2^ bringing punishment for the error of fathers upon sons,^&#42;3^ upon the third generation and upon the fourth generation,^&#42;4^ in the case of those who hate me;
+
+[NOTE]
+====
+. “You must not . . . be induced to serve them.” Heb., weloʼʹ tho·ʽov·dhemʹ; Gr., me la·treuʹseis au·toisʹ, “you will not render them sacred service.” Compare 3:12 ftn.
+. Or, “a God who is jealous (zealous); a God not tolerating rivalry.” Heb., ʼEl qan·naʼʹ; Gr., The·osʹ ze·lo·tesʹ.
+. Or, “children.”
+. Lit., “down to the third and fourth [generated] ones.” See Ge 50:23 ftn.
+====
+
+[[v2-20-6]]
+
+^<<v2-20-6,6>>^ but exercising loving-kindness^&#42;1^ toward the thousandth generation^&#42;2^ in the case of those who love me and keep my commandments.^&#42;3^
+
+[NOTE]
+====
+. Or, “loyal love.” Heb., cheʹsedh.
+. Or, “to the thousandth [generated] ones.” See De 7:9; Ps 105:8.
+. See vs 17 ftn, “Fellowman.”
+====
+
+[[v2-20-7]]
+
+^<<v2-20-7,7>>^ “You must not take up^&#42;1^ the name of Jehovah your God in a worthless way,^&#42;2^ for Jehovah will not leave the one unpunished who takes up his name in a worthless way.
+
+[NOTE]
+====
+. Or, “not pronounce”; or, “not lift up (carry).”
+. Or, “to a falsehood”; or, “in vain.”
+====
+
+[[v2-20-8]]
+
+^<<v2-20-8,8>>^ “Remembering^&#42;1^ the sabbath day to hold it sacred,
+
+[NOTE]
+====
+. “Remembering.” Heb., za·khohrʹ. This verb is not in the imperative mood but is in the infinitive absolute, indefinite as to time.
+====
+
+[[v2-20-9]]
+
+^<<v2-20-9,9>>^ you are to render service^&#42;1^ and you must do all your work six days.
+
+[NOTE]
+====
+. Or, “you are to labor.” Gr., er·gaiʹ.
+====
+
+[[v2-20-10]]
+
+^<<v2-20-10,10>>^ But the seventh day is a sabbath^&#42;1^ to Jehovah your God. You must not do any work, you nor your son nor your daughter, your slave man nor your slave girl nor your domestic animal nor your alien resident who is inside your gates.
+
+[NOTE]
+====
+. Heb., shab·bathʹ.
+====
+
+[[v2-20-11]]
+
+^<<v2-20-11,11>>^ For in six days Jehovah made the heavens and the earth, the sea and everything that is in them, and he proceeded to rest^&#42;1^ on the seventh day. That is why Jehovah blessed the sabbath day and proceeded to make it sacred.^&#42;2^
+
+[NOTE]
+====
+. “And he proceeded to rest.” Progressive action indicated by a Heb. verb in the imperfect state. See App 3C.
+. “And proceeded to make it sacred.” Or, “and sanctified it.” Heb., wa·yeqad·desheʹhu; Lat., et sanc·ti·fi·caʹvit eʹum.
+====
+
+[[v2-20-12]]
+
+^<<v2-20-12,12>>^ “Honor^&#42;1^ your father and your mother in order that your days may prove long upon the ground that Jehovah your God is giving you.
+
+[NOTE]
+====
+. “Honor.” Lat., ho·noʹra.
+====
+
+[[v2-20-13]]
+
+^<<v2-20-13,13>>^ “You must not murder.^&#42;1^
+
+[NOTE]
+====
+. “You must not murder.” Heb., loʼ tir·tsachʹ. Note that the Heb. verb ta·haroghʹ, “should kill,” is not used here. See 2:14 ftn, “Me.”
+====
+
+[[v2-20-14]]
+
+^<<v2-20-14,14>>^ “You must not commit adultery.^&#42;1^
+
+[NOTE]
+====
+. “You must not commit adultery.” Heb., loʼ tin·ʼaphʹ.
+====
+
+[[v2-20-15]]
+
+^<<v2-20-15,15>>^ “You must not steal.^&#42;1^
+
+[NOTE]
+====
+. “You must not steal.” Heb., loʼ tigh·novʹ; Gr., ou kleʹpseis.
+====
+
+[[v2-20-16]]
+
+^<<v2-20-16,16>>^ “You must not testify falsely as a witness against your fellowman.^&#42;1^
+
+[NOTE]
+====
+. Or, “your companion.” LXXVg, “your neighbor.”
+====
+
+[[v2-20-17]]
+
+^<<v2-20-17,17>>^ “You must not desire^&#42;1^ your fellowman’s house. You must not desire your fellowman’s wife, nor his slave man nor his slave girl nor his bull nor his ass nor anything that belongs to your fellowman.”^&#42;2^
+
+[NOTE]
+====
+. “You must not desire.” Heb., loʼ thach·modhʹ. See De 5:21 ftn.
+. This division of the Ten Commandments, vss 2-17, is the natural division. It agrees with the first-century C.E. Jewish historian Josephus (Jewish An­tiq­uities, Book III, chapter 5, ¶5) and with the first-century Jewish philosopher Philo, who divide off vs 3 as the first commandment, vss 4-6 as the second commandment and vs 17, which forbids all covetousness, as the tenth commandment. Others, including Augustine, consider vss 3-6 as one commandment but divide vs 17 into two commandments, the ninth against coveting a fellowman’s house and the tenth against coveting his living possessions. Augustine supported his division on the later parallel statement of the Ten Commandments in De 5:6-21, which uses two different Heb. verbs in vs 21 in forbidding covetous desire for what belongs to a fellowman, whereas Ex 20:17 uses the same Heb. verb both times. Augustine’s division has been adopted by the Roman Catholic religious system.
+====
+
+[[v2-20-18]]
+
+^<<v2-20-18,18>>^ Now all the people were seeing^&#42;1^ the thunders and the lightning flashes and the sound of the horn and the mountain smoking. When the people got to see it, then they quivered and stood at a distance.
+
+[NOTE]
+====
+. “Seeing.” The figure of speech here is called zeugma, meaning a yoke, that is, one verb is unequally yoked to two or more objects, while grammatically a second verb is required. Here the “seeing” applies to the lightning flashes and the mountain smoking, but hearing is required for the thunders and the sound of the horn.
+====
+
+[[v2-20-19]]
+
+^<<v2-20-19,19>>^ And they began to say to Moses: “You speak with us, and let us listen; but let not God speak with us for fear we may die.”
+
+[[v2-20-20]]
+
+^<<v2-20-20,20>>^ So Moses said to the people: “Do not be afraid, because for the sake of putting YOU to the test the &#91;true&#93; God has come, and in order that the fear of him may continue before YOUR faces that YOU may not sin.”
+
+[[v2-20-21]]
+
+^<<v2-20-21,21>>^ And the people kept standing at a distance, but Moses went near to the dark cloud mass where the &#91;true&#93; God was.
+
+[[v2-20-22]]
+
+^<<v2-20-22,22>>^ And Jehovah went on to say to Moses: “This is what you are to say to the sons of Israel, ‘YOU yourselves have seen that it was from the heavens I spoke with YOU.
+
+[[v2-20-23]]
+
+^<<v2-20-23,23>>^ YOU must not make along with me gods^&#42;1^ of silver, and YOU must not make gods of gold for yourselves.
+
+[NOTE]
+====
+. “Gods of.” Heb., ʼeloʹheh; Gr., the·ousʹ.
+====
+
+[[v2-20-24]]
+
+^<<v2-20-24,24>>^ An altar of ground you are to make for me, and you must sacrifice upon it your burnt offerings and your communion sacrifices,^&#42;1^ your flock and your herd. In every place where I shall cause my name to be remembered I shall come to you and shall certainly bless you.
+
+[NOTE]
+====
+. Or, “peace offerings.”
+====
+
+[[v2-20-25]]
+
+^<<v2-20-25,25>>^ And if you should make an altar of stones for me, you must not build them as hewn stones. In the event that you do wield your chisel upon it, then you will profane it.
+
+[[v2-20-26]]
+
+^<<v2-20-26,26>>^ And you must not go up by steps to my altar, that your private parts^&#42;1^ may not be exposed upon it.’
+
+[NOTE]
+====
+. Lit., “your nakedness.”
+====
+
+'''
+
+xref:002-exodus/002-exodus-019.adoc#v2-19-0[&#60; Capítulo Anterior] | <<v2-20-0,Topo>> | xref:002-exodus/002-exodus-021.adoc#v2-21-0[Próximo Capítulo &#62;]

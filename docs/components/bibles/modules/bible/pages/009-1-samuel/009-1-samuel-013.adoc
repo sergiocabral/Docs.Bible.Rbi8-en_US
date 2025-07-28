@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v9-13-0]]
+=== The First of Samuel, 13
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-13-1]]
+
+^<<v9-13-1,1>>^ Saul was &#91;?&#93;^&#42;1^ years old when he began to reign, and for two years he reigned over Israel.
+
+[NOTE]
+====
+. The number is missing in M.
+====
+
+[[v9-13-2]]
+
+^<<v9-13-2,2>>^ And Saul proceeded to choose for himself three thousand men out of Israel; and two thousand came to be with Saul at Michʹmash and in the mountainous region of Bethʹel, and a thousand proved to be with Jonʹa·than at Gibʹe·ah of Benjamin, and the rest of the people he sent away, each one to his tent.^&#42;1^
+
+[NOTE]
+====
+. “Tent,” LXX; MVg, “tents”; Sy, “house.”
+====
+
+[[v9-13-3]]
+
+^<<v9-13-3,3>>^ Then Jonʹa·than struck down the garrison of the Phi·lisʹtines that was in Geʹba;^&#42;1^ and the Phi·lisʹtines got to hear of it. As for Saul, he had the horn blown throughout all the land, saying: “Let the Hebrews hear!”
+
+[NOTE]
+====
+. “Geba,” MSy. See Jg 20:10 ftn, “Gibeah.”
+====
+
+[[v9-13-4]]
+
+^<<v9-13-4,4>>^ And all Israel itself heard tell: “Saul has struck down a garrison of the Phi·lisʹtines, and now Israel has become foul-smelling among the Phi·lisʹtines.” So the people were called together to follow Saul to Gilʹgal.
+
+[[v9-13-5]]
+
+^<<v9-13-5,5>>^ And the Phi·lisʹtines, for their part, collected themselves together to fight against Israel, thirty^&#42;1^ thousand war chariots and six thousand horsemen and people like the grains of sand that are upon the seashore for multitude; and they went their way up and began camping in Michʹmash to the east of Beth-aʹven.
+
+[NOTE]
+====
+. “Thirty,” MLXXVg; LXXLSy, “three.”
+====
+
+[[v9-13-6]]
+
+^<<v9-13-6,6>>^ And the men of Israel themselves saw that they were in sore straits, because the people were hard pressed; and the people went hiding themselves in the caves and the hollows and the crags and the vaults^&#42;1^ and the waterpits.
+
+[NOTE]
+====
+. Or, “underground cavities.”
+====
+
+[[v9-13-7]]
+
+^<<v9-13-7,7>>^ Hebrews even crossed the Jordan to the land of Gad and Gilʹe·ad. But Saul himself was yet in Gilʹgal, and all the people trembled while following him.
+
+[[v9-13-8]]
+
+^<<v9-13-8,8>>^ And he continued waiting for seven days to the appointed time that Samuel &#91;had said&#93;;^&#42;1^ and Samuel did not come to Gilʹgal, and the people were scattering from him.
+
+[NOTE]
+====
+. “Had said,” TLXX and four Heb. mss; M omits.
+====
+
+[[v9-13-9]]
+
+^<<v9-13-9,9>>^ Finally Saul said: “BRING near to me the burnt sacrifice and the communion sacrifices.” With that he went offering up the burnt sacrifice.
+
+[[v9-13-10]]
+
+^<<v9-13-10,10>>^ And it came about that as soon as he had finished offering up the burnt sacrifice, why, there was Samuel coming in. So Saul went out to meet him and bless him.
+
+[[v9-13-11]]
+
+^<<v9-13-11,11>>^ Then Samuel said: “What is it you have done?” To this Saul said: “I saw that the people had been dispersed from me, and you—you did not come within the appointed days, and the Phi·lisʹtines were being collected together at Michʹmash,
+
+[[v9-13-12]]
+
+^<<v9-13-12,12>>^ so I said to myself,^&#42;1^ ‘Now the Phi·lisʹtines will come down against me at Gilʹgal, and the face of Jehovah I have not softened.’ So I compelled myself and went offering up the burnt sacrifice.”
+
+[NOTE]
+====
+. Or, “I thought.”
+====
+
+[[v9-13-13]]
+
+^<<v9-13-13,13>>^ At this Samuel said to Saul: “You have acted foolishly. You have not kept the commandment of Jehovah your God that he commanded you, because, if you had, Jehovah would have made your kingdom firm over Israel to time indefinite.
+
+[[v9-13-14]]
+
+^<<v9-13-14,14>>^ And now your kingdom will not last. Jehovah will certainly find^&#42;1^ for himself a man agreeable to his heart; and Jehovah will commission him as a leader over his people, because you did not keep what Jehovah commanded you.”
+
+[NOTE]
+====
+. Or, “seek to find.” See Ps 27:8; Pr 18:15.
+====
+
+[[v9-13-15]]
+
+^<<v9-13-15,15>>^ Then Samuel rose and went his way up from Gilʹgal^&#42;1^ to Gibʹe·ah of Benjamin, and Saul proceeded to take the count of the people, those yet found with him, about six hundred men.
+
+[NOTE]
+====
+. LXXIt add: “and the rest of the people went up after Saul to meet the warriors. They went from Gilgal.”
+====
+
+[[v9-13-16]]
+
+^<<v9-13-16,16>>^ And Saul and Jonʹa·than his son and the people yet found with them were dwelling in Geʹba of Benjamin. As for the Phi·lisʹtines, they had encamped in Michʹmash.
+
+[[v9-13-17]]
+
+^<<v9-13-17,17>>^ And the force of pillagers would sally forth from the camp of the Phi·lisʹtines in three bands. The one band would turn to the road to Ophʹrah, to the land of Shuʹal,
+
+[[v9-13-18]]
+
+^<<v9-13-18,18>>^ and the other band would turn to the road of Beth-hoʹron, and the third band would turn to the road to the boundary that looks toward the valley of Ze·boʹim,^&#42;1^ toward the wilderness.
+
+[NOTE]
+====
+. Meaning “Hyenas.”
+====
+
+[[v9-13-19]]
+
+^<<v9-13-19,19>>^ Now there was not a smith to be found in all the land of Israel, because the Phi·lisʹtines had said: “That the Hebrews may not make a sword or a spear.”
+
+[[v9-13-20]]
+
+^<<v9-13-20,20>>^ And all the Israelites would go down to the Phi·lisʹtines to get each one his plowshare or his mattock or his ax or his sickle sharpened.^&#42;1^
+
+[NOTE]
+====
+. “Forged,” LXX. Compare Ge 4:22.
+====
+
+[[v9-13-21]]
+
+^<<v9-13-21,21>>^ And the price for sharpening proved to be a pim^&#42;1^ for the plowshares and for the mattocks and for the three-toothed instruments and for the axes and for fixing fast the oxgoad.
+
+[NOTE]
+====
+. An ancient weight, approximately two thirds of a shekel.
+====
+
+[[v9-13-22]]
+
+^<<v9-13-22,22>>^ And it happened on the day of battle that not a sword or a spear was found in the hand of any of the people that were with Saul and Jonʹa·than; but there could be found one belonging to Saul and to Jonʹa·than his son.
+
+[[v9-13-23]]
+
+^<<v9-13-23,23>>^ Now an outpost of the Phi·lisʹtines would sally forth to the ravine pass of Michʹmash.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-012.adoc#v9-12-0[&#60; Capítulo Anterior] | <<v9-13-0,Topo>> | xref:009-1-samuel/009-1-samuel-014.adoc#v9-14-0[Próximo Capítulo &#62;]

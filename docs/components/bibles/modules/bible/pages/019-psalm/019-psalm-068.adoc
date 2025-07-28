@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v19-68-0]]
+=== Psalms, 68
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. Of David. A melody, a song._
+
+[[v19-68-1]]
+
+^<<v19-68-1,1>>^ Let God arise, let his enemies be scattered,
+And let those who intensely hate him flee because of him.
+
+[[v19-68-2]]
+
+^<<v19-68-2,2>>^ As smoke is driven away, may you drive &#91;them&#93; away;
+As wax melts because of the fire,
+Let the wicked ones perish from before God.
+
+[[v19-68-3]]
+
+^<<v19-68-3,3>>^ But as for the righteous, let them rejoice,
+Let them be elated before God,
+And let them exult with rejoicing.
+
+[[v19-68-4]]
+
+^<<v19-68-4,4>>^ Sing YOU to God, make melody to his name;
+Raise up &#91;a song&#93; to the One riding through the desert plains
+As Jah,^&#42;1^ which is his name; and jubilate before him;
+
+[NOTE]
+====
+. “As Jah.” BHSftn(Heb.), ki Yah; M(Heb.), beYahʹ, “by Jah.” Yah is the first half of the Tetragrammaton, YHWH. It occurs 49 times in M distinguished by a point (mappik) in its second letter and once, in Ca 8:6, without the mappik. TLXXSyVg, “Jehovah.” See Ex 15:2 ftn, “Jah”; App 1A.
+====
+
+[[v19-68-5]]
+
+^<<v19-68-5,5>>^ A father of fatherless boys and a judge of widows
+Is God in his holy dwelling.
+
+[[v19-68-6]]
+
+^<<v19-68-6,6>>^ God is causing the solitary ones to dwell in^&#42;1^ a house;
+He is bringing forth prisoners into full prosperity.
+However, as for the stubborn, they have to reside in a scorched land.
+
+[NOTE]
+====
+. According to M; by a slight correction of the Heb. verb, “bringing back the solitary ones to.”
+====
+
+[[v19-68-7]]
+
+^<<v19-68-7,7>>^ O God, when you went forth before your people,
+When you marched through the desert—Seʹlah—
+
+[[v19-68-8]]
+
+^<<v19-68-8,8>>^ The earth itself rocked,
+Heaven itself also dripped because of God;
+This Siʹnai &#91;rocked&#93; because of God, the God of Israel.
+
+[[v19-68-9]]
+
+^<<v19-68-9,9>>^ A copious downpour you began causing to fall, O God;
+Your inheritance, even when it was weary—you yourself reinvigorated it.
+
+[[v19-68-10]]
+
+^<<v19-68-10,10>>^ Your tent community—they have dwelt in it;
+With your goodness you proceeded to make it ready for the afflicted one, O God.
+
+[[v19-68-11]]
+
+^<<v19-68-11,11>>^ Jehovah^&#42;1^ himself gives the saying;
+The women telling the good news are a large army.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-68-12]]
+
+^<<v19-68-12,12>>^ Even the kings of armies flee, they flee.
+As for her who abides at home, she shares in the spoil.
+
+[[v19-68-13]]
+
+^<<v19-68-13,13>>^ Although YOU men kept lying between the &#91;camp&#93; ash heaps,^&#42;1^
+There will be the wings of a dove covered with silver
+And its pinions with yellowish-green gold.^&#42;2^
+
+[NOTE]
+====
+. Or, “saddlebags”; or, “sheepfolds.” The meaning of the Heb. word is uncertain.
+. “Gold.” Heb., cha·rutsʹ.
+====
+
+[[v19-68-14]]
+
+^<<v19-68-14,14>>^ When the Almighty One^&#42;1^ scattered^&#42;2^ abroad the kings in it,^&#42;3^
+It began to snow in Zalʹmon.
+
+[NOTE]
+====
+. “The Almighty One.” Heb., Shad·daiʹ.
+. Or, “spread.”
+. “It,” fem., referring to the land.
+====
+
+[[v19-68-15]]
+
+^<<v19-68-15,15>>^ The mountainous region^&#42;1^ of Baʹshan is a mountain of God;^&#42;2^
+The mountainous region of Baʹshan is a mountain of peaks.
+
+[NOTE]
+====
+. Or, “The mountain.” Heb., har.
+. “God.” Heb., ʼElo·himʹ.
+====
+
+[[v19-68-16]]
+
+^<<v19-68-16,16>>^ Why do YOU, O YOU mountains of peaks, keep watching enviously
+The mountain that God has desired for himself to dwell in?
+Even Jehovah himself will reside &#91;there&#93; forever.
+
+[[v19-68-17]]
+
+^<<v19-68-17,17>>^ The war chariots of God are in tens of thousands, thousands over and over again.
+Jehovah himself has come from Siʹnai^&#42;1^ into the holy place.
+
+[NOTE]
+====
+. “Jehovah himself has come from Sinai,” according to the original reading of the Heb. text and in harmony with De 33:2; M, “The Sovereign Lord [Heb., ʼAdho·naiʹ] is among them, at Sinai.” See vs 11 ftn.
+====
+
+[[v19-68-18]]
+
+^<<v19-68-18,18>>^ You have ascended on high;
+You have carried away captives;
+You have taken gifts in the form of men,^&#42;1^
+Yes, even the stubborn ones, to reside &#91;among them&#93;, O Jah^&#42;2^ God.^&#42;3^
+
+[NOTE]
+====
+. Lit., “in the men.” Heb., ba·ʼa·dhamʹ.
+. See vs 4 ftn.
+. “God.” Heb., ʼElo·himʹ.
+====
+
+[[v19-68-19]]
+
+^<<v19-68-19,19>>^ Blessed be Jehovah,^&#42;1^ who daily carries the load for us,
+The &#91;true&#93; God of our salvation. Seʹlah.
+
+[NOTE]
+====
+. “Blessed be Jehovah.” Heb., ba·rukhʹ ʼAdho·naiʹ; Gr., Kyʹri·os ho The·osʹ eu·lo·ge·tosʹ, eu·lo·ge·tosʹ Kyʹri·os, “Jehovah God [be] blessed, blessed [be] Jehovah.” See App 1B, 6D.
+====
+
+[[v19-68-20]]
+
+^<<v19-68-20,20>>^ The &#91;true&#93; God is for us a God^&#42;1^ of saving acts;
+And to Jehovah the Sovereign Lord belong the ways out^&#42;2^ from death.
+
+[NOTE]
+====
+. “God of.” Heb., ʼEl.
+. Or, “escapes.”
+====
+
+[[v19-68-21]]
+
+^<<v19-68-21,21>>^ Indeed God himself will break the head of his enemies in pieces,
+The hairy crown of the head of anyone walking about in his guiltiness.
+
+[[v19-68-22]]
+
+^<<v19-68-22,22>>^ Jehovah^&#42;1^ has said: “From Baʹshan I shall bring back,
+I shall bring &#91;them&#93; back from^&#42;2^ the depths of the sea,
+
+[NOTE]
+====
+. See vs 11 ftn.
+. “From,” MSy; TLXXVg, “through.”
+====
+
+[[v19-68-23]]
+
+^<<v19-68-23,23>>^ In order that you may wash^&#42;1^ your foot in blood,
+That the tongue of your dogs may have its portion from the enemies.”
+
+[NOTE]
+====
+. “Wash,” by a correction of M to agree with LXXSyVg.
+====
+
+[[v19-68-24]]
+
+^<<v19-68-24,24>>^ They have seen your processions, O God,
+The processions of my God,^&#42;1^ my King, into the holy place.
+
+[NOTE]
+====
+. “My God.” Heb., ʼE·liʹ.
+====
+
+[[v19-68-25]]
+
+^<<v19-68-25,25>>^ The singers went in front, the players on stringed instruments after them;
+In between were the maidens beating tambourines.
+
+[[v19-68-26]]
+
+^<<v19-68-26,26>>^ In congregated throngs^&#42;1^ bless God,
+Jehovah,^&#42;2^ &#91;O YOU who are&#93; from the Source of Israel.
+
+[NOTE]
+====
+. “In ecclesias,” LXXVg.
+. “Jehovah.” Heb., Yehwahʹ; many Heb. mss and ed., ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-68-27]]
+
+^<<v19-68-27,27>>^ There is little Benjamin subduing them,
+The princes of Judah with their shouting crowd,
+The princes of Zebʹu·lun, the princes of Naphʹta·li.
+
+[[v19-68-28]]
+
+^<<v19-68-28,28>>^ Your God has laid command upon your strength.
+Do show strength, O God, you who have acted for us.
+
+[[v19-68-29]]
+
+^<<v19-68-29,29>>^ Because of your temple at Jerusalem,
+Kings will bring gifts to you yourself.
+
+[[v19-68-30]]
+
+^<<v19-68-30,30>>^ Rebuke the wild beast of the reeds, the assembly of bulls,^&#42;1^
+With the calves of the peoples, each one stamping down on pieces of silver.
+He has scattered^&#42;2^ the peoples that take delight in fights.
+
+[NOTE]
+====
+. Lit., “powerful ones.”
+. “He has scattered,” MT; LXXSyVg, “Scatter.”
+====
+
+[[v19-68-31]]
+
+^<<v19-68-31,31>>^ Bronzeware things^&#42;1^ will come out of Egypt;
+Cush^&#42;2^ itself will quickly stretch out its hands &#91;with gifts&#93; to God.
+
+[NOTE]
+====
+. “Bronzeware things.” Heb., chash·man·nimʹ, of uncertain meaning; LXXSyVg, “Ambassadors.”
+. “Cush,” MSy; LXXVg, “Ethiopia.”
+====
+
+[[v19-68-32]]
+
+^<<v19-68-32,32>>^ O YOU kingdoms of the earth, sing to God,
+Make melody to Jehovah^&#42;1^—Seʹlah—
+
+[NOTE]
+====
+. See vs 11 ftn.
+====
+
+[[v19-68-33]]
+
+^<<v19-68-33,33>>^ To the One riding on the ancient heaven of heavens.
+Lo! He sounds with his voice, a strong voice.
+
+[[v19-68-34]]
+
+^<<v19-68-34,34>>^ ASCRIBE strength to God.
+Over Israel his eminence is and his strength is in the clouds.
+
+[[v19-68-35]]
+
+^<<v19-68-35,35>>^ God is fear-inspiring out of your grand sanctuary.^&#42;1^
+The God of Israel^&#42;2^ he is, giving strength, even might to the people.
+Blessed be God.
+
+[NOTE]
+====
+. Lit., “sanctuaries.”
+. “The God of Israel.” By a change of vowel pointing, “To Israel.” Heb., ʼEl Yis·ra·ʼelʹ; LXXSyVg, “The God of Israel.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-067.adoc#v19-67-0[&#60; Capítulo Anterior] | <<v19-68-0,Topo>> | xref:019-psalm/019-psalm-069.adoc#v19-69-0[Próximo Capítulo &#62;]

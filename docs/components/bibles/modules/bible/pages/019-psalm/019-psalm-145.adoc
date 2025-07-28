@@ -1,0 +1,168 @@
+include::./index.adoc[]
+
+[[v19-145-0]]
+=== Psalms, 145
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A praise,^&#42;1^ of David._
+
+_א &#91;ʼAʹleph&#93;_
+
+[[v19-145-1]]
+
+^<<v19-145-1,1>>^ I will exalt you, O my God the King,
+And I will bless your name to time indefinite, even forever.
+
+_ב &#91;Behth&#93;_
+
+[[v19-145-2]]
+
+^<<v19-145-2,2>>^ All day long I will bless you,
+And I will praise your name to time indefinite, even forever.
+
+_ג &#91;Giʹmel&#93;_
+
+[[v19-145-3]]
+
+^<<v19-145-3,3>>^ Jehovah is great and very much to be praised,
+And his greatness is unsearchable.
+
+_ד &#91;Daʹleth&#93;_
+
+[[v19-145-4]]
+
+^<<v19-145-4,4>>^ Generation after generation will commend your works,
+And about your mighty acts they will tell.
+
+_ה &#91;Heʼ&#93;_
+
+[[v19-145-5]]
+
+^<<v19-145-5,5>>^ The glorious splendor of your dignity
+And the matters of your wonderful works I will make my concern.
+
+_ו &#91;Waw&#93;_
+
+[[v19-145-6]]
+
+^<<v19-145-6,6>>^ And they will talk about the strength of your own fear-inspiring things;
+And as for your greatness, I will declare it.
+
+_ז &#91;Zaʹyin&#93;_
+
+[[v19-145-7]]
+
+^<<v19-145-7,7>>^ With the mention of the abundance of your goodness they will bubble over,
+And &#91;because of&#93; your righteousness they will cry out joyfully.
+
+_ח &#91;Chehth&#93;_
+
+[[v19-145-8]]
+
+^<<v19-145-8,8>>^ Jehovah is gracious and merciful,
+Slow to anger and great in loving-kindness.
+
+_ט &#91;Tehth&#93;_
+
+[[v19-145-9]]
+
+^<<v19-145-9,9>>^ Jehovah is good to all,
+And his mercies are over all his works.
+
+_י &#91;Yohdh&#93;_
+
+[[v19-145-10]]
+
+^<<v19-145-10,10>>^ All your works will laud you, O Jehovah,
+And your loyal ones will bless you.
+
+_כ &#91;Kaph&#93;_
+
+[[v19-145-11]]
+
+^<<v19-145-11,11>>^ About the glory of your kingship they will talk,
+And about your mightiness they will speak,
+
+_ל &#91;Laʹmedh&#93;_
+
+[[v19-145-12]]
+
+^<<v19-145-12,12>>^ To make known to the sons of men^&#42;1^ his mighty acts
+And the glory of the splendor of his kingship.
+
+[NOTE]
+====
+. Or, “mankind.” Heb., ha·ʼa·dhamʹ.
+====
+
+_מ &#91;Mem&#93;_
+
+[[v19-145-13]]
+
+^<<v19-145-13,13>>^ Your kingship is a kingship for all times indefinite,
+And your dominion is throughout all successive generations.
+
+_ס &#91;Saʹmekh&#93;^&#42;1^_
+
+[[v19-145-14]]
+
+^<<v19-145-14,14>>^ Jehovah is giving support to all who are falling,
+And is raising up all who are bowed down.
+
+_ע &#91;ʽAʹyin&#93;_
+
+[[v19-145-15]]
+
+^<<v19-145-15,15>>^ To you the eyes of all look hopefully,
+And you are giving them their food in its season.
+
+_פ &#91;Peʼ&#93;_
+
+[[v19-145-16]]
+
+^<<v19-145-16,16>>^ You are opening your hand
+And satisfying the desire of every living thing.
+
+_צ &#91;Tsa·dhehʹ&#93;_
+
+[[v19-145-17]]
+
+^<<v19-145-17,17>>^ Jehovah is righteous in all his ways
+And loyal in all his works.
+
+_ק &#91;Qohph&#93;_
+
+[[v19-145-18]]
+
+^<<v19-145-18,18>>^ Jehovah is near to all those calling upon him,
+To all those who call upon him in trueness.^&#42;1^
+
+[NOTE]
+====
+. Or, “truth; truthfulness.”
+====
+
+_ר &#91;Rehsh&#93;_
+
+[[v19-145-19]]
+
+^<<v19-145-19,19>>^ The desire of those fearing him he will perform,
+And their cry for help he will hear, and he will save them.
+
+_ש &#91;Shin&#93;_
+
+[[v19-145-20]]
+
+^<<v19-145-20,20>>^ Jehovah is guarding all those loving him,
+But all the wicked ones he will annihilate.
+
+_ת &#91;Taw&#93;_
+
+[[v19-145-21]]
+
+^<<v19-145-21,21>>^ The praise of Jehovah my mouth will speak;
+And let all flesh bless his holy name to time indefinite, even forever.
+
+'''
+
+xref:019-psalm/019-psalm-144.adoc#v19-144-0[&#60; Capítulo Anterior] | <<v19-145-0,Topo>> | xref:019-psalm/019-psalm-146.adoc#v19-146-0[Próximo Capítulo &#62;]

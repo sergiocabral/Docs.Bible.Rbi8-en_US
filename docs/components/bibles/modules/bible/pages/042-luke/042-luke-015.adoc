@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v42-15-0]]
+=== According to Luke, 15
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v42-15-1]]
+
+^<<v42-15-1,1>>^ Now all the tax collectors and the sinners kept drawing near to him to hear him.
+
+[[v42-15-2]]
+
+^<<v42-15-2,2>>^ Consequently both the Pharisees and the scribes kept muttering, saying: “This man welcomes sinners and eats with them.”
+
+[[v42-15-3]]
+
+^<<v42-15-3,3>>^ Then he spoke this illustration to them, saying:
+
+[[v42-15-4]]
+
+^<<v42-15-4,4>>^ “What man of YOU with a hundred sheep, on losing one of them, will not leave the ninety-nine behind in the wilderness and go for the lost one until he finds it?
+
+[[v42-15-5]]
+
+^<<v42-15-5,5>>^ And when he has found it he puts it upon his shoulders and rejoices.
+
+[[v42-15-6]]
+
+^<<v42-15-6,6>>^ And when he gets home he calls his friends and his neighbors together, saying to them, ‘Rejoice with me, because I have found my sheep that was lost.’
+
+[[v42-15-7]]
+
+^<<v42-15-7,7>>^ I tell YOU that thus there will be more joy in heaven over one sinner that repents than over ninety-nine righteous ones who have no need of repentance.
+
+[[v42-15-8]]
+
+^<<v42-15-8,8>>^ “Or what woman with ten drachma^&#42;1^ coins, if she loses one drachma coin, does not light a lamp and sweep her house and search carefully until she finds it?
+
+[NOTE]
+====
+. A drachma was a Gr. silver coin that weighed 3.40 g (0.109 oz t).
+====
+
+[[v42-15-9]]
+
+^<<v42-15-9,9>>^ And when she has found it she calls the women who are her friends and neighbors together, saying, ‘Rejoice with me, because I have found the drachma coin that I lost.’
+
+[[v42-15-10]]
+
+^<<v42-15-10,10>>^ Thus, I tell YOU, joy arises among the angels of God over one sinner that repents.”
+
+[[v42-15-11]]
+
+^<<v42-15-11,11>>^ Then he said: “A certain man had two sons.
+
+[[v42-15-12]]
+
+^<<v42-15-12,12>>^ And the younger of them said to his father, ‘Father, give me the part of the property that falls to my share.’ Then he divided his means of living to them.
+
+[[v42-15-13]]
+
+^<<v42-15-13,13>>^ Later, after not many days, the younger son gathered all things together and traveled abroad into a distant country, and there squandered his property by living a debauched life.
+
+[[v42-15-14]]
+
+^<<v42-15-14,14>>^ When he had spent everything, a severe famine occurred throughout that country, and he started to be in need.
+
+[[v42-15-15]]
+
+^<<v42-15-15,15>>^ He even went and attached himself to one of the citizens of that country, and he sent him into his fields to herd swine.
+
+[[v42-15-16]]
+
+^<<v42-15-16,16>>^ And he used to desire to be filled with the carob pods which the swine were eating, and no one would give him &#91;anything&#93;.
+
+[[v42-15-17]]
+
+^<<v42-15-17,17>>^ “When he came to his senses, he said, ‘How many hired men of my father are abounding with bread, while I am perishing here from famine!
+
+[[v42-15-18]]
+
+^<<v42-15-18,18>>^ I will rise and journey to my father and say to him: “Father, I have sinned against heaven and against you.^&#42;1^
+
+[NOTE]
+====
+. Or, “in your sight”; as in 1Sa 20:1 in LXX.
+====
+
+[[v42-15-19]]
+
+^<<v42-15-19,19>>^ I am no longer worthy of being called your son. Make me as one of your hired men.”’
+
+[[v42-15-20]]
+
+^<<v42-15-20,20>>^ So he rose and went to his father. While he was yet a long way off, his father caught sight of him and was moved with pity, and he ran and fell upon his neck and tenderly kissed him.
+
+[[v42-15-21]]
+
+^<<v42-15-21,21>>^ Then the son said to him, ‘Father, I have sinned against heaven and against you.^&#42;1^ I am no longer worthy of being called your son. Make me as one of your hired men.’^&#42;2^
+
+[NOTE]
+====
+. See vs 18 ftn.
+. “Make me as one of your hired men,” אBDSyh; P75AWVgSyp,s omit.
+====
+
+[[v42-15-22]]
+
+^<<v42-15-22,22>>^ But the father said to his slaves, ‘Quick! bring out a robe, the best one, and clothe him with it, and put a ring on his hand and sandals on his feet.
+
+[[v42-15-23]]
+
+^<<v42-15-23,23>>^ And bring the fattened young bull, slaughter^&#42;1^ it and let us eat and enjoy ourselves,
+
+[NOTE]
+====
+. Or, “sacrifice.”
+====
+
+[[v42-15-24]]
+
+^<<v42-15-24,24>>^ because this my son was dead and came to life again; he was lost and was found.’ And they started to enjoy themselves.
+
+[[v42-15-25]]
+
+^<<v42-15-25,25>>^ “Now his older son was in the field; and as he came and got near the house he heard a music concert and dancing.
+
+[[v42-15-26]]
+
+^<<v42-15-26,26>>^ So he called one of the servants to him and inquired what these things meant.
+
+[[v42-15-27]]
+
+^<<v42-15-27,27>>^ He said to him, ‘Your brother has come, and your father slaughtered the fattened young bull, because he got him back in good health.’
+
+[[v42-15-28]]
+
+^<<v42-15-28,28>>^ But he became wrathful and was unwilling to go in. Then his father came out and began to entreat him.
+
+[[v42-15-29]]
+
+^<<v42-15-29,29>>^ In reply he said to his father, ‘Here it is so many years I have slaved for you and never once did I transgress your commandment, and yet to me you never once gave a kid for me to enjoy myself with my friends.
+
+[[v42-15-30]]
+
+^<<v42-15-30,30>>^ But as soon as this your son who ate up your means of living with harlots arrived, you slaughtered the fattened young bull for him.’
+
+[[v42-15-31]]
+
+^<<v42-15-31,31>>^ Then he said to him, ‘Child, you have always been with me, and all the things that are mine are yours;
+
+[[v42-15-32]]
+
+^<<v42-15-32,32>>^ but we just had to enjoy ourselves and rejoice, because this your brother was dead and came to life, and he was lost and was found.’”
+
+'''
+
+xref:042-luke/042-luke-014.adoc#v42-14-0[&#60; Capítulo Anterior] | <<v42-15-0,Topo>> | xref:042-luke/042-luke-016.adoc#v42-16-0[Próximo Capítulo &#62;]

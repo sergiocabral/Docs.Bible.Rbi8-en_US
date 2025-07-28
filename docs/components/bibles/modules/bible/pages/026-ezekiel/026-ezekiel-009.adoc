@@ -1,0 +1,90 @@
+include::./index.adoc[]
+
+[[v26-9-0]]
+=== Ezekiel, 9
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v26-9-1]]
+
+^<<v26-9-1,1>>^ And he proceeded to call out in my ears with a loud voice, saying: “HAVE those giving their attention to the city come near, each one with his weapon in his hand for bringing ruin!”
+
+[[v26-9-2]]
+
+^<<v26-9-2,2>>^ And, look! there were six men^&#42;1^ coming from the direction of the upper gate that faces to the north, each one with his weapon for smashing in his hand; and there was one man^&#42;2^ in among them clothed with linen, with a secretary’s inkhorn^&#42;3^ at his hips, and they proceeded to come in and stand beside the copper altar.
+
+[NOTE]
+====
+. “Men.” Heb., ʼana·shimʹ, pl. of ʼish.
+. “And there was one man.” Heb., weʼish-ʼe·chadhʹ.
+. Or, “writing case.”
+====
+
+[[v26-9-3]]
+
+^<<v26-9-3,3>>^ And as regards the glory of the God^&#42;1^ of Israel, it was taken up from over the cherubs^&#42;2^ over which it happened to be to the threshold of the house, and he began calling out to the man^&#42;3^ that was clothed with the linen, at whose hips there was the secretary’s inkhorn.
+
+[NOTE]
+====
+. “God of.” Heb., ʼElo·hehʹ.
+. Lit., “the cherub.” Heb., hak·keruvʹ, sing. but likely in a collective sense. This is the first occurrence of the word in Eze. See 1:22-28.
+. “The man.” Heb., ha·ʼishʹ.
+====
+
+[[v26-9-4]]
+
+^<<v26-9-4,4>>^ And Jehovah went on to say to him: “Pass through the midst of the city, through the midst of Jerusalem, and you must put a mark^&#42;1^ on the foreheads of the men that are sighing and groaning over all the detestable things that are being done in the midst of it.”
+
+[NOTE]
+====
+. Lit., “you must mark a mark.” The Heb. word for the noun “mark” is taw, the last letter of the Heb. alphabet, which was anciently a cross mark (×). See Job 31:35 where taw is translated “signature.”
+====
+
+[[v26-9-5]]
+
+^<<v26-9-5,5>>^ And to these &#91;others&#93; he said in my ears: “Pass through the city after him and strike. Let not your eye feel sorry, and do not feel any compassion.
+
+[[v26-9-6]]
+
+^<<v26-9-6,6>>^ Old man, young man and virgin and little child and women YOU should kill off—to a ruination. But to any man upon whom there is the mark do not go near, and from my sanctuary YOU should start.” So they started with the old men^&#42;1^ that were before the house.
+
+[NOTE]
+====
+. “With the old men.” Heb., ba·ʼana·shimʹ haz·zeqe·nimʹ.
+====
+
+[[v26-9-7]]
+
+^<<v26-9-7,7>>^ And he said further to them: “Defile the house and fill the courtyards with the slain ones. Go forth!” And they went forth and struck in the city.
+
+[[v26-9-8]]
+
+^<<v26-9-8,8>>^ And it came about that, while they were striking and I was left remaining, I proceeded to fall upon my face and cry out and say: “Alas, O Sovereign Lord Jehovah! Are you bringing to ruin all the remaining ones of Israel while you are pouring out your rage upon Jerusalem?”
+
+[[v26-9-9]]
+
+^<<v26-9-9,9>>^ So he said to me: “The error of the house of Israel and Judah is very, very great, and the land is filled with bloodshed^&#42;1^ and the city is full of crookedness; for they have said, ‘Jehovah has left the land,^&#42;2^ and Jehovah is not seeing.’^&#42;3^
+
+[NOTE]
+====
+. Or, “deeds of blood.” Lit., “bloods.” Heb., da·mimʹ.
+. Or, “the earth.” Heb., ha·ʼaʹrets.
+. Or, “and there is no Jehovah seeing.” See 8:12 ftn, “Seeing us.”
+====
+
+[[v26-9-10]]
+
+^<<v26-9-10,10>>^ And as for me also, my eye will not feel sorry, neither shall I show compassion. Their way I shall certainly bring upon their own head.”
+
+[[v26-9-11]]
+
+^<<v26-9-11,11>>^ And, look! the man^&#42;1^ clothed with the linen, at whose hips there was the inkhorn,^&#42;2^ was bringing back word, saying: “I have done just as you have commanded me.”
+
+[NOTE]
+====
+. “The man.” Heb., ha·ʼishʹ.
+. Or, “writing case.”
+====
+
+'''
+
+xref:026-ezekiel/026-ezekiel-008.adoc#v26-8-0[&#60; Capítulo Anterior] | <<v26-9-0,Topo>> | xref:026-ezekiel/026-ezekiel-010.adoc#v26-10-0[Próximo Capítulo &#62;]

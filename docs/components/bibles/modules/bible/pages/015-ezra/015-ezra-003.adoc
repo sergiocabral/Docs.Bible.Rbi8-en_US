@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v15-3-0]]
+=== Ezra, 3
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v15-3-1]]
+
+^<<v15-3-1,1>>^ When the seventh month arrived the sons of Israel were in &#91;their&#93; cities. And the people began to gather themselves as one man to Jerusalem.
+
+[[v15-3-2]]
+
+^<<v15-3-2,2>>^ And Jeshʹu·a^&#42;1^ the son of Je·hozʹa·dak^&#42;2^ and his brothers the priests and Ze·rubʹba·bel the son of She·alʹti·el and his brothers proceeded to rise up and build the altar of the God of Israel, to offer up burnt sacrifices upon it, according to what is written in the law of Moses the man of the &#91;true&#93; God.^&#42;3^
+
+[NOTE]
+====
+. “Jesus,” LXX.
+. “Jehozadak,” as in 1Ch 6:14, 15; Hag 1:1, 12, 14; Hag 2:2, 4; Zec 6:11. Lit., “Jozadak.”
+. “The man of the [true] God.” Heb., ʼish-ha·ʼElo·himʹ. See App 1F.
+====
+
+[[v15-3-3]]
+
+^<<v15-3-3,3>>^ So they established the altar firmly upon its own site, for fright &#91;came&#93; upon them^&#42;1^ because of the peoples of the lands,^&#42;2^ and they began offering up burnt sacrifices to Jehovah upon it, the burnt sacrifices of the morning and of the evening.
+
+[NOTE]
+====
+. Lit., “for [it was] with fright upon them,” M.
+. “For [it was] with enmity against them from the peoples of the lands,” by a slight correction of M.
+====
+
+[[v15-3-4]]
+
+^<<v15-3-4,4>>^ Then they held the festival of booths according to what is written, with the burnt sacrifices day by day in number according to the rule of what was due each day.
+
+[[v15-3-5]]
+
+^<<v15-3-5,5>>^ And afterward there was the constant burnt offering and that for the new moons and for all the sanctified festival seasons of Jehovah and for everyone that willingly offered a voluntary offering to Jehovah.
+
+[[v15-3-6]]
+
+^<<v15-3-6,6>>^ From the first day of the seventh month on they started to offer up burnt sacrifices to Jehovah, when the foundation of Jehovah’s temple^&#42;1^ itself had not yet been laid.
+
+[NOTE]
+====
+. “When . . . temple.” Heb., weheh·khalʹ; Lat., temʹplum. See Mt 23:16 ftn.
+====
+
+[[v15-3-7]]
+
+^<<v15-3-7,7>>^ And they proceeded to give money to the cutters and to the craftsmen, and eatables and drink and oil to the Si·doʹni·ans and the Tyrʹi·ans, to bring cedar timbers from Lebʹa·non to the sea at Jopʹpa, according to the permission granted by Cyrus the king of Persia to them.
+
+[[v15-3-8]]
+
+^<<v15-3-8,8>>^ And in the second year of their coming to the house of the &#91;true&#93; God at Jerusalem, in the second month, Ze·rubʹba·bel the son of She·alʹti·el and Jeshʹu·a the son of Je·hozʹa·dak and the rest of their brothers, the priests and the Levites, and all those who had come out of the captivity to Jerusalem started; and they now put in positions the Levites from twenty years of age upward to act as supervisors over the work of the house of Jehovah.
+
+[[v15-3-9]]
+
+^<<v15-3-9,9>>^ Accordingly Jeshʹu·a, his sons and his brothers, &#91;and&#93; Kadʹmi·el and his sons, the sons of Judah,^&#42;1^ stood up as one group to act as supervisors over the doers of the work in the house of the &#91;true&#93; God, &#91;also&#93; the sons of Henʹa·dad, their sons and their brothers, the Levites.
+
+[NOTE]
+====
+. “Hodaviah” in 2:40; in Ne 7:43, “Hodevah.”
+====
+
+[[v15-3-10]]
+
+^<<v15-3-10,10>>^ When the builders laid the foundation of the temple of Jehovah, then the priests in official clothing, with the trumpets, and the Levites the sons of Aʹsaph, with the cymbals, stood up to praise Jehovah according to the direction of David the king of Israel.
+
+[[v15-3-11]]
+
+^<<v15-3-11,11>>^ And they began to respond by praising and giving thanks to Jehovah, “for he is good, for his loving-kindness^&#42;1^ toward Israel is to time indefinite.” As for all the people, they shouted with a loud shout in praising Jehovah over the laying of the foundation of the house of Jehovah.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v15-3-12]]
+
+^<<v15-3-12,12>>^ And many of the priests and the Levites and the heads of the paternal houses, the old men that had seen the former house, were weeping with a loud voice at the laying of the foundation of this house before their eyes, while many others were raising the voice in shouting for joy.
+
+[[v15-3-13]]
+
+^<<v15-3-13,13>>^ Hence the people were not distinguishing the sound of the shout of rejoicing from the sound of the weeping of the people, for the people were shouting with a loud shout, and the sound itself was heard even to a great distance.
+
+'''
+
+xref:015-ezra/015-ezra-002.adoc#v15-2-0[&#60; Capítulo Anterior] | <<v15-3-0,Topo>> | xref:015-ezra/015-ezra-004.adoc#v15-4-0[Próximo Capítulo &#62;]

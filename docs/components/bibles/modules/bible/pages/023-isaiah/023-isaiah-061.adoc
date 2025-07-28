@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v23-61-0]]
+=== Isaiah, 61
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-61-1]]
+
+^<<v23-61-1,1>>^ The spirit of the Sovereign Lord Jehovah is upon me, for the reason that Jehovah has anointed me to tell good news to the meek ones. He has sent me to bind up the brokenhearted, to proclaim liberty^&#42;1^ to those taken captive and the wide opening &#91;of the eyes&#93; even to the prisoners;
+
+[NOTE]
+====
+. Or, “release; manumission [of slaves].”
+====
+
+[[v23-61-2]]
+
+^<<v23-61-2,2>>^ to proclaim the year of goodwill on the part of Jehovah and the day of vengeance on the part of our God;^&#42;1^ to comfort all the mourning ones;
+
+[NOTE]
+====
+. “On the part of our God.” Heb., lEʼ·lo·hehʹnu.
+====
+
+[[v23-61-3]]
+
+^<<v23-61-3,3>>^ to assign to those mourning over Zion, to give them a headdress instead of ashes, the oil of exultation instead of mourning, the mantle of praise instead of the downhearted spirit; and they must be called big trees of righteousness, the planting of Jehovah, for &#91;him&#93; to be beautified.
+
+[[v23-61-4]]
+
+^<<v23-61-4,4>>^ And they must rebuild the long-standing devastated places; they will raise up even the desolated places of former times, and they will certainly make anew the devastated cities, the places desolate for generation after generation.
+
+[[v23-61-5]]
+
+^<<v23-61-5,5>>^ “And strangers will actually stand and shepherd the flocks of YOU people, and the foreigners^&#42;1^ will be YOUR farmers and YOUR vinedressers.
+
+[NOTE]
+====
+. Lit., “sons of a foreign (country).”
+====
+
+[[v23-61-6]]
+
+^<<v23-61-6,6>>^ And as for YOU, the priests of Jehovah YOU will be called; the ministers^&#42;1^ of our God^&#42;2^ YOU will be said to be. The resources of the nations YOU people will eat, and in their glory YOU will speak elatedly about yourselves.
+
+[NOTE]
+====
+. “The ministers of.” Heb., meshor·thehʹ; Gr., lei·tour·goiʹ; Lat., mi·niʹstri.
+. “Our God.” Heb., ʼElo·hehʹnu.
+====
+
+[[v23-61-7]]
+
+^<<v23-61-7,7>>^ Instead of YOUR shame there will be a double portion, and instead of humiliation they will cry out joyfully over their share. Therefore in their land they will take possession of even a double portion. Rejoicing to time indefinite is what will come to be theirs.
+
+[[v23-61-8]]
+
+^<<v23-61-8,8>>^ For I, Jehovah, am loving justice, hating robbery along with unrighteousness.^&#42;1^ And I will give their wages in trueness, and an indefinitely lasting covenant I shall conclude toward them.
+
+[NOTE]
+====
+. “Along with unrighteousness,” by a slight change of vowel pointing of M in agreement with LXX and five Heb. mss; Sy, “and unrighteousness”; MVg, “in whole burnt offering.”
+====
+
+[[v23-61-9]]
+
+^<<v23-61-9,9>>^ And their offspring^&#42;1^ will actually be known even among the nations, and their descendants in among the peoples. All those seeing them will recognize them, that they are the offspring whom Jehovah has blessed.”
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v23-61-10]]
+
+^<<v23-61-10,10>>^ Without fail I shall exult in Jehovah. My soul will be joyful in my God. For he has clothed me with the garments of salvation; with the sleeveless coat of righteousness he has enwrapped me, like the bridegroom who, in a priestly way, puts on a headdress, and like the bride who decks herself with her ornamental things.
+
+[[v23-61-11]]
+
+^<<v23-61-11,11>>^ For as the earth itself brings forth its sprout, and as the garden itself makes the things that are sown in it sprout, in like manner the Sovereign Lord Jehovah^&#42;1^ will cause the sprouting of righteousness and of praise in front of all the nations.
+
+[NOTE]
+====
+. “The Sovereign Lord Jehovah.” Heb., ʼAdho·naiʹ Yehwihʹ; 1QIsaTSyVg, “Jehovah God”; LXX, “Jehovah.” See App 1E.
+====
+
+'''
+
+xref:023-isaiah/023-isaiah-060.adoc#v23-60-0[&#60; Capítulo Anterior] | <<v23-61-0,Topo>> | xref:023-isaiah/023-isaiah-062.adoc#v23-62-0[Próximo Capítulo &#62;]

@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v19-41-0]]
+=== Psalms, 41
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. A melody of David._
+
+[[v19-41-1]]
+
+^<<v19-41-1,1>>^ Happy is anyone acting with consideration toward the lowly one;
+In the day of calamity Jehovah will provide escape for him.
+
+[[v19-41-2]]
+
+^<<v19-41-2,2>>^ Jehovah himself will guard him and preserve him alive.
+He will be pronounced happy in the earth;
+And you cannot possibly give him over to the soul^&#42;1^ of his enemies.
+
+[NOTE]
+====
+. Or, “to the soulful desire.” Heb., beneʹphesh; Lat., aʹni·mam; LXX, “in the hands.” See 35:25 ftn.
+====
+
+[[v19-41-3]]
+
+^<<v19-41-3,3>>^ Jehovah himself will sustain him upon a divan of illness;
+All his bed you will certainly change during his sickness.
+
+[[v19-41-4]]
+
+^<<v19-41-4,4>>^ As for me, I said: “O Jehovah, show me favor.
+Do heal my soul, for I have sinned against you.”
+
+[[v19-41-5]]
+
+^<<v19-41-5,5>>^ As for my enemies, they say what is bad concerning me:
+“When will he die and his name actually perish?”
+
+[[v19-41-6]]
+
+^<<v19-41-6,6>>^ And if one does come to see &#91;me&#93;, untruth is what his heart will speak;
+He will gather up for himself something hurtful;
+He will go out; on the outside he will speak &#91;of it&#93;.
+
+[[v19-41-7]]
+
+^<<v19-41-7,7>>^ Unitedly against me all those hating me whisper to one another;
+Against me they keep scheming something bad for me:
+
+[[v19-41-8]]
+
+^<<v19-41-8,8>>^ “A good-for-nothing thing^&#42;1^ is poured out upon him;
+Now that he has lain down, he will not get up again.”
+
+[NOTE]
+====
+. Lit., “A thing of belial (worthlessness).”
+====
+
+[[v19-41-9]]
+
+^<<v19-41-9,9>>^ Also the man at peace with me, in whom I trusted,
+Who was eating my bread, has magnified &#91;his&#93; heel against me.^&#42;1^
+
+[NOTE]
+====
+. “Magnified [his] heel against me,” MLXXVg.
+====
+
+[[v19-41-10]]
+
+^<<v19-41-10,10>>^ As for you, O Jehovah, show me favor and cause me to get up,
+That I may pay them back.
+
+[[v19-41-11]]
+
+^<<v19-41-11,11>>^ By this I do know that you have found delight in me,
+Because my enemy does not shout in triumph over me.
+
+[[v19-41-12]]
+
+^<<v19-41-12,12>>^ As for me, because of my integrity you have upheld me,
+And you will set me before your face to time indefinite.
+
+[[v19-41-13]]
+
+^<<v19-41-13,13>>^ Blessed be Jehovah the God of Israel
+From time indefinite even to time indefinite.
+Amen and Amen.^&#42;1^
+
+[NOTE]
+====
+. This vs is a doxology, that is, an expression of praise to Jehovah God, and corresponds with the doxology at the end of the other four books, namely, in Ps 72, 89, 106 and 150.
+====
+
+'''
+
+xref:019-psalm/019-psalm-040.adoc#v19-40-0[&#60; Capítulo Anterior] | <<v19-41-0,Topo>> | xref:019-psalm/019-psalm-042.adoc#v19-42-0[Próximo Capítulo &#62;]

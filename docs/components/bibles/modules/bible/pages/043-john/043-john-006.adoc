@@ -1,0 +1,334 @@
+include::./index.adoc[]
+
+[[v43-6-0]]
+=== According to John, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v43-6-1]]
+
+^<<v43-6-1,1>>^ After these things Jesus departed across the sea of Galʹi·lee, or Ti·beʹri·as.
+
+[[v43-6-2]]
+
+^<<v43-6-2,2>>^ But a great crowd kept following him, because they were beholding the signs he was performing upon those who were ill.
+
+[[v43-6-3]]
+
+^<<v43-6-3,3>>^ So Jesus went up into a mountain, and there he was sitting with his disciples.
+
+[[v43-6-4]]
+
+^<<v43-6-4,4>>^ Now the passover, the festival of the Jews, was near.
+
+[[v43-6-5]]
+
+^<<v43-6-5,5>>^ When, therefore, Jesus raised his eyes and observed that a great crowd was coming to him, he said to Philip: “Where shall we buy loaves for these to eat?”
+
+[[v43-6-6]]
+
+^<<v43-6-6,6>>^ However, he was saying this to test him, for he himself knew what he was about to do.
+
+[[v43-6-7]]
+
+^<<v43-6-7,7>>^ Philip answered him: “Two hundred de·narʹi·i^&#42;1^ worth of loaves is not enough for them, so that each one may get a little.”
+
+[NOTE]
+====
+. A denarius was a Roman silver coin that weighed 3.85 g (0.124 oz t).
+====
+
+[[v43-6-8]]
+
+^<<v43-6-8,8>>^ One of his disciples, Andrew the brother of Simon Peter, said to him:
+
+[[v43-6-9]]
+
+^<<v43-6-9,9>>^ “Here is a little boy that has five barley loaves and two small fishes. But what are these among so many?”
+
+[[v43-6-10]]
+
+^<<v43-6-10,10>>^ Jesus said: “HAVE the men recline as at meal.” Now there was a lot of grass in the place. Therefore the men reclined, about five thousand in number.
+
+[[v43-6-11]]
+
+^<<v43-6-11,11>>^ So Jesus took the loaves and, after giving thanks, he distributed them to those reclining, likewise also as much of the small fishes as they wanted.
+
+[[v43-6-12]]
+
+^<<v43-6-12,12>>^ But when they had their fill he said to his disciples: “Gather together the fragments that remain over, so that nothing is wasted.”
+
+[[v43-6-13]]
+
+^<<v43-6-13,13>>^ Therefore they gathered them together, and they filled twelve baskets with fragments from the five barley loaves, which were left over by those who had eaten.
+
+[[v43-6-14]]
+
+^<<v43-6-14,14>>^ Hence when the men saw the signs he performed, they began to say: “This is for a certainty the prophet that was to come into the world.”
+
+[[v43-6-15]]
+
+^<<v43-6-15,15>>^ Therefore Jesus, knowing they were about to come and seize him to make him king, withdrew again into the mountain all alone.
+
+[[v43-6-16]]
+
+^<<v43-6-16,16>>^ When evening fell, his disciples went down to the sea,
+
+[[v43-6-17]]
+
+^<<v43-6-17,17>>^ and, boarding a boat, they set out across the sea for Ca·perʹna·um. Well, by now it had grown dark and Jesus had not yet come to them.
+
+[[v43-6-18]]
+
+^<<v43-6-18,18>>^ Also, the sea began to be stirred up because a strong wind was blowing.
+
+[[v43-6-19]]
+
+^<<v43-6-19,19>>^ However, when they had rowed about three or four miles,^&#42;1^ they beheld Jesus walking upon the sea and getting near the boat; and they became fearful.
+
+[NOTE]
+====
+. Lit., “about twenty-five or thirty stadia.” A stadium equaled one eighth of a Roman mile, 185 m (606.75 English ft).
+====
+
+[[v43-6-20]]
+
+^<<v43-6-20,20>>^ But he said to them: “It is I; have no fear!”
+
+[[v43-6-21]]
+
+^<<v43-6-21,21>>^ Therefore they were willing to take him into the boat, and directly the boat was at the land to which they were trying to go.
+
+[[v43-6-22]]
+
+^<<v43-6-22,22>>^ The next day the crowd that was standing on the other side of the sea saw that there was no boat there except a little one, and that Jesus had not entered into the boat with his disciples but that only his disciples had left;
+
+[[v43-6-23]]
+
+^<<v43-6-23,23>>^ but boats from Ti·beʹri·as arrived near the place where they ate the bread after the Lord^&#42;1^ had given thanks.
+
+[NOTE]
+====
+. Or, “Master.”
+====
+
+[[v43-6-24]]
+
+^<<v43-6-24,24>>^ Therefore when the crowd saw that neither Jesus was there nor his disciples, they boarded their little boats and came to Ca·perʹna·um to look for Jesus.
+
+[[v43-6-25]]
+
+^<<v43-6-25,25>>^ So when they found him across the sea they said to him: “Rabbi, when did you get here?”
+
+[[v43-6-26]]
+
+^<<v43-6-26,26>>^ Jesus answered them and said: “Most truly I say to YOU, YOU are looking for me, not because YOU saw signs, but because YOU ate from the loaves and were satisfied.
+
+[[v43-6-27]]
+
+^<<v43-6-27,27>>^ Work, not for the food that perishes, but for the food that remains for life everlasting, which the Son of man will give YOU; for upon this one the Father, even God, has put his seal &#91;of approval&#93;.”
+
+[[v43-6-28]]
+
+^<<v43-6-28,28>>^ Therefore they said to him: “What shall we do to work the works of God?”
+
+[[v43-6-29]]
+
+^<<v43-6-29,29>>^ In answer Jesus said to them: “This is the work of God, that YOU exercise faith in him whom that One sent forth.”
+
+[[v43-6-30]]
+
+^<<v43-6-30,30>>^ Therefore they said to him: “What, then, are you performing as a sign, in order for us to see &#91;it&#93; and believe you? What work are you doing?
+
+[[v43-6-31]]
+
+^<<v43-6-31,31>>^ Our forefathers ate the manna in the wilderness, just as it is written, ‘He gave them bread from heaven to eat.’”
+
+[[v43-6-32]]
+
+^<<v43-6-32,32>>^ Hence Jesus said to them: “Most truly I say to YOU, Moses did not give YOU the bread from heaven, but my Father does give YOU the true bread from heaven.
+
+[[v43-6-33]]
+
+^<<v43-6-33,33>>^ For the bread of God is the one who comes down from heaven and gives life to the world.”
+
+[[v43-6-34]]
+
+^<<v43-6-34,34>>^ Therefore they said to him: “Lord, always give us this bread.”
+
+[[v43-6-35]]
+
+^<<v43-6-35,35>>^ Jesus said to them: “I am the bread of life. He that comes to me will not get hungry at all, and he that exercises faith in me will never get thirsty at all.
+
+[[v43-6-36]]
+
+^<<v43-6-36,36>>^ But I have said to YOU, YOU have even seen me^&#42;1^ and yet do not believe.
+
+[NOTE]
+====
+. “Me,” P66,​75BD; אASyc,s omit.
+====
+
+[[v43-6-37]]
+
+^<<v43-6-37,37>>^ Everything the Father gives me will come to me, and the one that comes to me I will by no means drive away;
+
+[[v43-6-38]]
+
+^<<v43-6-38,38>>^ because I have come down from heaven to do, not my will, but the will of him that sent me.
+
+[[v43-6-39]]
+
+^<<v43-6-39,39>>^ This is the will of him that sent me, that I should lose nothing out of all that he has given me but that I should resurrect it at the last day.
+
+[[v43-6-40]]
+
+^<<v43-6-40,40>>^ For this is the will of my Father, that everyone that beholds the Son and exercises faith in him should have everlasting life, and I will resurrect him at the last day.”
+
+[[v43-6-41]]
+
+^<<v43-6-41,41>>^ Therefore the Jews began to murmur at him because he said: “I am the bread that came down from heaven”;
+
+[[v43-6-42]]
+
+^<<v43-6-42,42>>^ and they began saying: “Is this not Jesus the son of Joseph, whose father and mother we know? How is it that now he says, ‘I have come down from heaven’?”
+
+[[v43-6-43]]
+
+^<<v43-6-43,43>>^ In answer Jesus said to them: “Stop murmuring among yourselves.
+
+[[v43-6-44]]
+
+^<<v43-6-44,44>>^ No man can come to me unless the Father, who sent me, draws him; and I will resurrect him in the last day.
+
+[[v43-6-45]]
+
+^<<v43-6-45,45>>^ It is written in the Prophets, ‘And they will all be taught^&#42;1^ by Jehovah.’^&#42;2^ Everyone that has heard from the Father and has learned comes to me.
+
+[NOTE]
+====
+. Or, “be those taught.”
+. See App 1D.
+====
+
+[[v43-6-46]]
+
+^<<v43-6-46,46>>^ Not that any man has seen the Father, except he who is from God; this one has seen the Father.
+
+[[v43-6-47]]
+
+^<<v43-6-47,47>>^ Most truly I say to YOU, He that believes has everlasting life.
+
+[[v43-6-48]]
+
+^<<v43-6-48,48>>^ “I am the bread of life.
+
+[[v43-6-49]]
+
+^<<v43-6-49,49>>^ YOUR forefathers ate the manna in the wilderness and yet died.
+
+[[v43-6-50]]
+
+^<<v43-6-50,50>>^ This is the bread that comes down from heaven, so that anyone may eat of it and not die.
+
+[[v43-6-51]]
+
+^<<v43-6-51,51>>^ I am the living bread that came down from heaven; if anyone eats of this bread he will live forever; and, for a fact, the bread that I shall give is my flesh in behalf of the life of the world.”
+
+[[v43-6-52]]
+
+^<<v43-6-52,52>>^ Therefore the Jews began contending with one another, saying: “How can this man give us his flesh to eat?”
+
+[[v43-6-53]]
+
+^<<v43-6-53,53>>^ Accordingly Jesus said to them: “Most truly I say to YOU, Unless YOU eat the flesh of the Son of man and drink his blood, YOU have no life in yourselves.
+
+[[v43-6-54]]
+
+^<<v43-6-54,54>>^ He that feeds on my flesh and drinks my blood has everlasting life, and I shall resurrect him at the last day;
+
+[[v43-6-55]]
+
+^<<v43-6-55,55>>^ for my flesh is true food, and my blood is true drink.
+
+[[v43-6-56]]
+
+^<<v43-6-56,56>>^ He that feeds on my flesh and drinks my blood remains in union with me,^&#42;1^ and I in union with him.
+
+[NOTE]
+====
+. “In union with me.” Or, “in me.” Gr., en e·moiʹ.
+====
+
+[[v43-6-57]]
+
+^<<v43-6-57,57>>^ Just as the living Father sent me forth and I live because of the Father, he also that feeds on me, even that one will live because of me.
+
+[[v43-6-58]]
+
+^<<v43-6-58,58>>^ This is the bread that came down from heaven. It is not as when YOUR forefathers ate and yet died. He that feeds on this bread will live forever.”
+
+[[v43-6-59]]
+
+^<<v43-6-59,59>>^ These things he said as he was teaching in public assembly at Ca·perʹna·um.
+
+[[v43-6-60]]
+
+^<<v43-6-60,60>>^ Therefore many of his disciples, when they heard this, said: “This speech is shocking; who can listen to it?”
+
+[[v43-6-61]]
+
+^<<v43-6-61,61>>^ But Jesus, knowing in himself that his disciples were murmuring about this, said to them: “Does this stumble YOU?
+
+[[v43-6-62]]
+
+^<<v43-6-62,62>>^ What, therefore, if YOU should behold the Son of man ascending to where he was before?
+
+[[v43-6-63]]
+
+^<<v43-6-63,63>>^ It is the spirit that is life-giving; the flesh is of no use at all. The sayings that I have spoken to YOU are^&#42;1^ spirit and are life.
+
+[NOTE]
+====
+. Or, “mean.” See Mt 12:7 ftn.
+====
+
+[[v43-6-64]]
+
+^<<v43-6-64,64>>^ But there are some of YOU that do not believe.” For from &#91;the&#93; beginning Jesus knew who were the ones not believing and who was the one that would betray him.
+
+[[v43-6-65]]
+
+^<<v43-6-65,65>>^ So he went on to say: “This is why I have said to YOU, No one can come to me unless it is granted him by the Father.”
+
+[[v43-6-66]]
+
+^<<v43-6-66,66>>^ Owing to this many of his disciples went off to the things behind and would no longer walk with him.
+
+[[v43-6-67]]
+
+^<<v43-6-67,67>>^ Therefore Jesus said to the twelve: “YOU do not want to go also, do YOU?”
+
+[[v43-6-68]]
+
+^<<v43-6-68,68>>^ Simon Peter answered him: “Lord, whom shall we go away to? You have sayings of everlasting life;
+
+[[v43-6-69]]
+
+^<<v43-6-69,69>>^ and we have believed and come to know that you are the Holy One of God.”
+
+[[v43-6-70]]
+
+^<<v43-6-70,70>>^ Jesus answered them: “I chose YOU twelve, did I not? Yet one of YOU is a slanderer.”^&#42;1^
+
+[NOTE]
+====
+. Or, “is a devil.” Gr., di·aʹbo·losʹ e·stin.
+====
+
+[[v43-6-71]]
+
+^<<v43-6-71,71>>^ He was, in fact, speaking of Judas &#91;the son&#93; of Simon Is·carʹi·ot; for this one was going to betray him, although one of the twelve.
+
+'''
+
+xref:043-john/043-john-005.adoc#v43-5-0[&#60; Capítulo Anterior] | <<v43-6-0,Topo>> | xref:043-john/043-john-007.adoc#v43-7-0[Próximo Capítulo &#62;]

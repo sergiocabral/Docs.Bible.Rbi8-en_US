@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v19-90-0]]
+=== Psalms, 90
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_BOOK FOUR_
+
+_(Psalms 90 – 106)_
+
+_A prayer of Moses, the man of the &#91;true&#93; God._
+
+[[v19-90-1]]
+
+^<<v19-90-1,1>>^ O Jehovah,^&#42;1^ you yourself have proved to be a real dwelling for us
+During generation after generation.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-90-2]]
+
+^<<v19-90-2,2>>^ Before the mountains themselves were born,
+Or you proceeded to bring forth as with labor pains the earth and the productive land,^&#42;1^
+Even from time indefinite to time indefinite you are God.^&#42;2^
+
+[NOTE]
+====
+. Or, “or the earth and the productive land were brought forth with labor pains,” by a change in vowel pointing.
+. Or, “the Divine One.” Heb., ʼEl; Syr., ʼA·la·haʼ; Lat., Deʹus.
+====
+
+[[v19-90-3]]
+
+^<<v19-90-3,3>>^ You make mortal man^&#42;1^ go back to crushed matter,^&#42;2^
+And you say: “GO back, YOU sons of men.”^&#42;3^
+
+[NOTE]
+====
+. “Mortal man.” Heb., ʼenohshʹ.
+. Or, “to dust,” as crushed, or pulverized, earth.
+. Lit., “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-90-4]]
+
+^<<v19-90-4,4>>^ For a thousand years are in your eyes but as yesterday when it is past,
+And as a watch during the night.
+
+[[v19-90-5]]
+
+^<<v19-90-5,5>>^ You have swept them away; they become a mere sleep;
+In the morning &#91;they are&#93; just like green grass that changes.
+
+[[v19-90-6]]
+
+^<<v19-90-6,6>>^ In the morning it puts forth blossoms and must change;
+At evening it withers and certainly dries up.
+
+[[v19-90-7]]
+
+^<<v19-90-7,7>>^ For we have come to an end in your anger,
+And by your rage we have been disturbed.
+
+[[v19-90-8]]
+
+^<<v19-90-8,8>>^ You have set our errors right in front of you,
+Our hidden things before your bright face.^&#42;1^
+
+[NOTE]
+====
+. Lit., “the luminary of your face.”
+====
+
+[[v19-90-9]]
+
+^<<v19-90-9,9>>^ For all our days have come to their decline in your fury;
+We have finished our years just like a whisper.
+
+[[v19-90-10]]
+
+^<<v19-90-10,10>>^ In themselves the days of our years are seventy years;
+And if because of special mightiness they are eighty years,
+Yet their insistence is on trouble and hurtful things;
+For it must quickly pass by, and away we fly.
+
+[[v19-90-11]]
+
+^<<v19-90-11,11>>^ Who is there knowing the strength of your anger
+And your fury according to the fear of you?
+
+[[v19-90-12]]
+
+^<<v19-90-12,12>>^ Show &#91;us&#93; just how to count our days in such a way
+That we may bring a heart of wisdom in.
+
+[[v19-90-13]]
+
+^<<v19-90-13,13>>^ Do return, O Jehovah! How long will it be?
+And feel regret over your servants.
+
+[[v19-90-14]]
+
+^<<v19-90-14,14>>^ Satisfy us in the morning with your loving-kindness,^&#42;1^
+That we may cry out joyfully and may rejoice during all our days.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v19-90-15]]
+
+^<<v19-90-15,15>>^ Make us rejoice correspondingly to the days that you have afflicted us,
+The years that we have seen calamity.
+
+[[v19-90-16]]
+
+^<<v19-90-16,16>>^ May your activity appear to your own servants
+And your splendor upon their sons.
+
+[[v19-90-17]]
+
+^<<v19-90-17,17>>^ And let the pleasantness of Jehovah^&#42;1^ our God prove to be upon us,
+And the work of our hands do you firmly establish upon us.
+Yes, the work of our hands, do you firmly establish it.
+
+[NOTE]
+====
+. See vs 1 ftn.
+====
+
+'''
+
+xref:019-psalm/019-psalm-089.adoc#v19-89-0[&#60; Capítulo Anterior] | <<v19-90-0,Topo>> | xref:019-psalm/019-psalm-091.adoc#v19-91-0[Próximo Capítulo &#62;]

@@ -1,0 +1,254 @@
+include::./index.adoc[]
+
+[[v4-33-0]]
+=== Numbers, 33
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-33-1]]
+
+^<<v4-33-1,1>>^ These were the stages of the sons of Israel who went out of the land of Egypt in their armies by the hand of Moses and Aaron.
+
+[[v4-33-2]]
+
+^<<v4-33-2,2>>^ And Moses kept recording the departure places by their stages at the order of Jehovah; and these were their stages from one departure place to another:
+
+[[v4-33-3]]
+
+^<<v4-33-3,3>>^ And they proceeded to pull away from Ramʹe·ses in the first month, on the fifteenth day of the first month. Directly the day after the passover the sons of Israel went out with uplifted hand before the eyes of all the Egyptians.
+
+[[v4-33-4]]
+
+^<<v4-33-4,4>>^ All the while the Egyptians were burying those whom Jehovah had struck among them, that is, all the firstborn; and upon their gods Jehovah had executed judgments.
+
+[[v4-33-5]]
+
+^<<v4-33-5,5>>^ So the sons of Israel pulled away from Ramʹe·ses and went camping in Sucʹcoth.
+
+[[v4-33-6]]
+
+^<<v4-33-6,6>>^ Then they pulled away from Sucʹcoth and went camping in Eʹtham, which is on the edge of the wilderness.
+
+[[v4-33-7]]
+
+^<<v4-33-7,7>>^ Next they pulled away from Eʹtham and turned back toward Pi·ha·hiʹroth, which is in view of Baʹal-zeʹphon; and they went camping before Migʹdol.
+
+[[v4-33-8]]
+
+^<<v4-33-8,8>>^ After that they pulled away from Pi·ha·hiʹroth^&#42;1^ and went passing through the midst of the sea to the wilderness and kept marching a three-day journey in the wilderness of Eʹtham and took up camping at Maʹrah.
+
+[NOTE]
+====
+. “From Pihahiroth,” SamTOSyVg; M, “from before Hahiroth.”
+====
+
+[[v4-33-9]]
+
+^<<v4-33-9,9>>^ Then they pulled away from Maʹrah and came to Eʹlim. Now in Eʹlim there were twelve springs of water and seventy palm trees. So they camped there.
+
+[[v4-33-10]]
+
+^<<v4-33-10,10>>^ Next they pulled away from Eʹlim and went camping by the Red Sea.
+
+[[v4-33-11]]
+
+^<<v4-33-11,11>>^ After that they pulled away from the Red Sea and took up camping in the wilderness of Sin.
+
+[[v4-33-12]]
+
+^<<v4-33-12,12>>^ Then they pulled away from the wilderness of Sin and went camping at Dophʹkah.
+
+[[v4-33-13]]
+
+^<<v4-33-13,13>>^ Later they pulled away from Dophʹkah and went camping at Aʹlush.
+
+[[v4-33-14]]
+
+^<<v4-33-14,14>>^ They next pulled away from Aʹlush and went camping in Rephʹi·dim. And there proved to be no water there for the people to drink.
+
+[[v4-33-15]]
+
+^<<v4-33-15,15>>^ After that they pulled away from Rephʹi·dim and went camping in the wilderness of Siʹnai.
+
+[[v4-33-16]]
+
+^<<v4-33-16,16>>^ Subsequently they pulled away from the wilderness of Siʹnai and went camping at Kibʹroth-hat·taʹa·vah.
+
+[[v4-33-17]]
+
+^<<v4-33-17,17>>^ Then they pulled away from Kibʹroth-hat·taʹa·vah and went camping in Ha·zeʹroth.
+
+[[v4-33-18]]
+
+^<<v4-33-18,18>>^ After that they pulled away from Ha·zeʹroth and went camping in Rithʹmah.
+
+[[v4-33-19]]
+
+^<<v4-33-19,19>>^ Next they pulled away from Rithʹmah and took up camping in Rimʹmon-peʹrez.
+
+[[v4-33-20]]
+
+^<<v4-33-20,20>>^ Then they pulled away from Rimʹmon-peʹrez and went camping in Libʹnah.
+
+[[v4-33-21]]
+
+^<<v4-33-21,21>>^ Later they pulled away from Libʹnah and went camping in Risʹsah.
+
+[[v4-33-22]]
+
+^<<v4-33-22,22>>^ Next they pulled away from Risʹsah and went camping in Ke·he·laʹthah.
+
+[[v4-33-23]]
+
+^<<v4-33-23,23>>^ Then they pulled away from Ke·he·laʹthah and went camping in Mount Sheʹpher.
+
+[[v4-33-24]]
+
+^<<v4-33-24,24>>^ After that they pulled away from Mount Sheʹpher and went camping in Har·aʹdah.
+
+[[v4-33-25]]
+
+^<<v4-33-25,25>>^ Then they pulled away from Har·aʹdah and went camping in Mak·heʹloth.
+
+[[v4-33-26]]
+
+^<<v4-33-26,26>>^ Next they pulled away from Mak·heʹloth and went camping in Taʹhath.
+
+[[v4-33-27]]
+
+^<<v4-33-27,27>>^ After that they pulled away from Taʹhath and went camping in Teʹrah.
+
+[[v4-33-28]]
+
+^<<v4-33-28,28>>^ Then they pulled away from Teʹrah and went camping in Mithʹkah.
+
+[[v4-33-29]]
+
+^<<v4-33-29,29>>^ Later they pulled away from Mithʹkah and went camping in Hash·moʹnah.
+
+[[v4-33-30]]
+
+^<<v4-33-30,30>>^ Next they pulled away from Hash·moʹnah and went camping in Mo·seʹroth.
+
+[[v4-33-31]]
+
+^<<v4-33-31,31>>^ Then they pulled away from Mo·seʹroth and went camping in Benʹe-jaʹa·kan.
+
+[[v4-33-32]]
+
+^<<v4-33-32,32>>^ After that they pulled away from Benʹe-jaʹa·kan and went camping in Hor-hag·gidʹgad.
+
+[[v4-33-33]]
+
+^<<v4-33-33,33>>^ Next they pulled away from Hor-hag·gidʹgad and went camping in Jotʹba·thah.
+
+[[v4-33-34]]
+
+^<<v4-33-34,34>>^ Later they pulled away from Jotʹba·thah and went camping in A·broʹnah.
+
+[[v4-33-35]]
+
+^<<v4-33-35,35>>^ Then they pulled away from A·broʹnah and went camping in Eʹzi·on-geʹber.
+
+[[v4-33-36]]
+
+^<<v4-33-36,36>>^ After that they pulled away from Eʹzi·on-geʹber and went camping in the wilderness of Zin, that is to say, Kaʹdesh.
+
+[[v4-33-37]]
+
+^<<v4-33-37,37>>^ Later they pulled away from Kaʹdesh and went camping in Mount Hor, on the frontier of the land of Eʹdom.
+
+[[v4-33-38]]
+
+^<<v4-33-38,38>>^ And Aaron the priest proceeded to go up into Mount Hor at the order of Jehovah and to die there in the fortieth year of the going out of the sons of Israel from the land of Egypt, in the fifth month, on the first of the month.
+
+[[v4-33-39]]
+
+^<<v4-33-39,39>>^ And Aaron was a hundred and twenty-three years old at his death on Mount Hor.
+
+[[v4-33-40]]
+
+^<<v4-33-40,40>>^ Now the Caʹnaan·ite, the king of Aʹrad, as he was dwelling in the Negʹeb, in the land of Caʹnaan, got to hear about the coming of the sons of Israel.
+
+[[v4-33-41]]
+
+^<<v4-33-41,41>>^ In time they pulled away from Mount Hor and went camping in Zal·moʹnah.
+
+[[v4-33-42]]
+
+^<<v4-33-42,42>>^ After that they pulled away from Zal·moʹnah and went camping in Puʹnon.
+
+[[v4-33-43]]
+
+^<<v4-33-43,43>>^ Next they pulled away from Puʹnon and went camping in Oʹboth.
+
+[[v4-33-44]]
+
+^<<v4-33-44,44>>^ Then they pulled away from Oʹboth and went camping in Iʹye-abʹa·rim^&#42;1^ on the border of Moʹab.
+
+[NOTE]
+====
+. Lit., “Iyim (Ruins) of the Abarim.” In vs 45 called simply Iyim. See 21:11 ftn.
+====
+
+[[v4-33-45]]
+
+^<<v4-33-45,45>>^ Later they pulled away from Iʹyim and went camping in Diʹbon-gad.
+
+[[v4-33-46]]
+
+^<<v4-33-46,46>>^ After that they pulled away from Diʹbon-gad and went camping in Alʹmon-dib·la·thaʹim.
+
+[[v4-33-47]]
+
+^<<v4-33-47,47>>^ Then they pulled away from Alʹmon-dib·la·thaʹim and went camping in the mountains of Abʹa·rim^&#42;1^ before Neʹbo.
+
+[NOTE]
+====
+. Or, “the borderland.”
+====
+
+[[v4-33-48]]
+
+^<<v4-33-48,48>>^ Finally they pulled away from the mountains of Abʹa·rim and took up camping on the desert plains of Moʹab by the Jordan at Jerʹi·cho.
+
+[[v4-33-49]]
+
+^<<v4-33-49,49>>^ And they continued camping by the Jordan from Beth-jeshʹi·moth to Aʹbel-shitʹtim on the desert plains of Moʹab.
+
+[[v4-33-50]]
+
+^<<v4-33-50,50>>^ And Jehovah proceeded to speak to Moses on the desert plains of Moʹab by the Jordan at Jerʹi·cho, saying:
+
+[[v4-33-51]]
+
+^<<v4-33-51,51>>^ “Speak to the sons of Israel, and you must say to them, ‘YOU are crossing the Jordan into the land of Caʹnaan.
+
+[[v4-33-52]]
+
+^<<v4-33-52,52>>^ And YOU must drive away all the inhabitants^&#42;1^ of the land from before YOU and destroy all their stone figures,^&#42;2^ and all their images of molten metal YOU should destroy, and all their sacred high places YOU should annihilate.
+
+[NOTE]
+====
+. “You are crossing the Jordan into the land of Canaan. (52) And you will destroy all the inhabitants,” LXXSy; Vg, “When you will cross the Jordan to enter the land of Canaan, (52) destroy all the inhabitants.”
+. Or, “their showpieces.”
+====
+
+[[v4-33-53]]
+
+^<<v4-33-53,53>>^ And YOU must take possession of the land and dwell in it, because to YOU I shall certainly give the land to take possession of it.
+
+[[v4-33-54]]
+
+^<<v4-33-54,54>>^ And YOU must apportion the land to yourselves as a possession by lot according to YOUR families. To the populous one YOU should increase his inheritance, and to the sparse one YOU should reduce his inheritance. To where the lot will come out for him, there it will become his. By the tribes of YOUR fathers YOU should provide yourselves with landed property.
+
+[[v4-33-55]]
+
+^<<v4-33-55,55>>^ “‘If, though, YOU will not drive the inhabitants of the land away from before YOU, then those whom YOU leave of them will certainly become as pricks in YOUR eyes and as thorns in YOUR sides, and they will indeed harass YOU on the land in which YOU will be dwelling.
+
+[[v4-33-56]]
+
+^<<v4-33-56,56>>^ And it must occur that just as I had figured doing to them I shall do to YOU.’”
+
+'''
+
+xref:004-numbers/004-numbers-032.adoc#v4-32-0[&#60; Capítulo Anterior] | <<v4-33-0,Topo>> | xref:004-numbers/004-numbers-034.adoc#v4-34-0[Próximo Capítulo &#62;]

@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-127-0]]
+=== Psalms, 127
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents. Of Solomon._
+
+[[v19-127-1]]
+
+^<<v19-127-1,1>>^ Unless Jehovah himself builds the house,
+It is to no avail that its builders have worked hard on it.
+Unless Jehovah himself guards the city,
+It is to no avail that the guard has kept awake.
+
+[[v19-127-2]]
+
+^<<v19-127-2,2>>^ To no avail it is for YOU men that YOU are rising up early,
+That YOU are sitting down late,
+That YOU are eating food^&#42;1^ with pains.
+Just like this he gives sleep even to his beloved one.^&#42;2^
+
+[NOTE]
+====
+. Lit., “bread.”
+. Or, “he gives to his beloved one [in] sleep.”
+====
+
+[[v19-127-3]]
+
+^<<v19-127-3,3>>^ Look! Sons are an inheritance from Jehovah;
+The fruitage of the belly is a reward.
+
+[[v19-127-4]]
+
+^<<v19-127-4,4>>^ Like arrows in the hand of a mighty man,^&#42;1^
+So are the sons of youth.
+
+[NOTE]
+====
+. “Mighty man.” Heb., gib·bohrʹ.
+====
+
+[[v19-127-5]]
+
+^<<v19-127-5,5>>^ Happy is the able-bodied man^&#42;1^ that has filled his quiver with them.
+They will not be ashamed,
+For they will speak with enemies in the gate.
+
+[NOTE]
+====
+. “The able-bodied man.” Heb., hag·geʹver.
+====
+
+'''
+
+xref:019-psalm/019-psalm-126.adoc#v19-126-0[&#60; Capítulo Anterior] | <<v19-127-0,Topo>> | xref:019-psalm/019-psalm-128.adoc#v19-128-0[Próximo Capítulo &#62;]

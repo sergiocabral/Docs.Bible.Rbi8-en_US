@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v8-3-0]]
+=== Ruth, 3
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v8-3-1]]
+
+^<<v8-3-1,1>>^ Naʹo·mi her mother-in-law now said to her: “My daughter, ought I not to look for a resting-place for you, that it may go well with you?
+
+[[v8-3-2]]
+
+^<<v8-3-2,2>>^ And now, is not Boʹaz, with whose young women you have continued, our kinsman? Look! He is winnowing barley at the threshing floor tonight.
+
+[[v8-3-3]]
+
+^<<v8-3-3,3>>^ And you must wash and rub yourself with oil and put your mantles upon you and go down to the threshing floor. Do not make yourself known to the man until he has finished eating and drinking.
+
+[[v8-3-4]]
+
+^<<v8-3-4,4>>^ And it should occur that when he lies down, you must also take note of the place where he lies down; and you must come and uncover him at his feet and lie down; and he, for his part, will tell you what you ought to do.”
+
+[[v8-3-5]]
+
+^<<v8-3-5,5>>^ At that she said to her: “All that you say to me^&#42;1^ I shall do.”
+
+[NOTE]
+====
+. “To me,” TSy. Many Heb. mss do not have these words but have the qere vowel points for these words after “say.” Compare Jg 20:13 ftn.
+====
+
+[[v8-3-6]]
+
+^<<v8-3-6,6>>^ And she proceeded to go down to the threshing floor and to do according to all that her mother-in-law had commanded her.
+
+[[v8-3-7]]
+
+^<<v8-3-7,7>>^ Meantime Boʹaz ate and drank, and his heart was feeling good. Then he went to lie down at the extremity of the grain heap. After that she came stealthily and uncovered him at his feet and lay down.
+
+[[v8-3-8]]
+
+^<<v8-3-8,8>>^ And it came about at midnight that the man began to tremble. So he bent himself forward, and, look! a woman lying at his feet!
+
+[[v8-3-9]]
+
+^<<v8-3-9,9>>^ Then he said: “Who are you?” In turn she said: “I am Ruth your slave girl, and you must spread out your skirt over your slave girl, for you are a repurchaser.”
+
+[[v8-3-10]]
+
+^<<v8-3-10,10>>^ At that he said: “Blessed may you be of Jehovah, my daughter. You have expressed your loving-kindness better in the last instance than in the first instance, in not going after the young fellows whether lowly or rich.
+
+[[v8-3-11]]
+
+^<<v8-3-11,11>>^ And now, my daughter, do not be afraid. All that you say I shall do for you, for everyone in the gate^&#42;1^ of my people is aware that you are an excellent woman.
+
+[NOTE]
+====
+. Or, “city.”
+====
+
+[[v8-3-12]]
+
+^<<v8-3-12,12>>^ And now while it is a fact that I am a repurchaser, there is also a repurchaser closer related than I am.
+
+[[v8-3-13]]
+
+^<<v8-3-13,13>>^ Lodge here tonight, and it must occur in the morning that if he will repurchase you, fine! Let him do the repurchasing. But if he does not take delight in repurchasing you, I will then repurchase you, I myself, as sure as Jehovah lives. Keep lying down until the morning.”
+
+[[v8-3-14]]
+
+^<<v8-3-14,14>>^ And she kept lying at his feet until the morning and then got up before anyone could recognize another. He now said: “Do not let it be known that a woman came to the threshing floor.”
+
+[[v8-3-15]]
+
+^<<v8-3-15,15>>^ And he went on to say: “Bring the cloak that is on you, and hold it open.” So she held it open, and he proceeded to measure out six measures^&#42;1^ of barley and to place it upon her, after which he^&#42;2^ went into the city.
+
+[NOTE]
+====
+. According to rabbinical sources these were six seah measures, or 44 L (40 dry qt). This was likely all that she could carry on her head.
+. “He,” M; SyVg, “she.”
+====
+
+[[v8-3-16]]
+
+^<<v8-3-16,16>>^ And she went her way to her mother-in-law, who now said: “Who are you, my daughter?” Accordingly she told her everything that the man had done to her.
+
+[[v8-3-17]]
+
+^<<v8-3-17,17>>^ And she went on to say: “These six measures of barley he gave me, for he said to me,^&#42;1^ ‘Do not come empty-handed to your mother-in-law.’”
+
+[NOTE]
+====
+. “To me,” TLXXSy and the qere vowel points of many Heb. mss. See vs 5 ftn.
+====
+
+[[v8-3-18]]
+
+^<<v8-3-18,18>>^ At that she said: “Sit still, my daughter, until you know how the matter will turn out, for the man will have no rest unless he has brought the matter to an end today.”
+
+'''
+
+xref:008-ruth/008-ruth-002.adoc#v8-2-0[&#60; Capítulo Anterior] | <<v8-3-0,Topo>> | xref:008-ruth/008-ruth-004.adoc#v8-4-0[Próximo Capítulo &#62;]

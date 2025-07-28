@@ -1,0 +1,64 @@
+include::./index.adoc[]
+
+[[v9-29-0]]
+=== The First of Samuel, 29
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-29-1]]
+
+^<<v9-29-1,1>>^ And the Phi·lisʹtines proceeded to collect all their camps together at Aʹphek, while the Israelites were camping by the spring that was in Jezʹre·el.
+
+[[v9-29-2]]
+
+^<<v9-29-2,2>>^ And the axis lords of the Phi·lisʹtines were passing along by hundreds and by thousands, and David and his men were passing along afterward with Aʹchish.
+
+[[v9-29-3]]
+
+^<<v9-29-3,3>>^ And the princes of the Phi·lisʹtines began to say: “What do these Hebrews mean?” At this Aʹchish said to the princes of the Phi·lisʹtines: “Is this not David the servant of Saul king of Israel, who happened to be with me here a year or two,^&#42;1^ and I have not found in him a single thing from the day of his deserting &#91;to me&#93; until this day?”
+
+[NOTE]
+====
+. “Days, this second year,” LXX; M, “these days or these years”; Vg, “many days or years.”
+====
+
+[[v9-29-4]]
+
+^<<v9-29-4,4>>^ And the princes of the Phi·lisʹtines became indignant at him; and the princes of the Phi·lisʹtines went on to say to him: “Make the man go back, and let him go back to his place where you assigned him; and do not let him go down with us into the battle, that he may not become a resister^&#42;1^ of us in the battle. And with what should this person put himself in favor with his lord?^&#42;2^ Is it not with the heads of those &#91;our&#93; men?
+
+[NOTE]
+====
+. “A resister.” Heb., lesa·tanʹ; Lat., ad·ver·saʹri·us.
+. “His lord.” Heb., ʼadho·navʹ. See 20:38 ftn.
+====
+
+[[v9-29-5]]
+
+^<<v9-29-5,5>>^ Is this not David to whom they kept responding in the dances, saying, ‘Saul has struck down his thousands, and David his tens of thousands’?”
+
+[[v9-29-6]]
+
+^<<v9-29-6,6>>^ Consequently Aʹchish called David and said to him: “As Jehovah is living, you are upright, and your going out and your coming in with me in the camp has been good in my eyes; for I have not found badness in you from the day of your coming to me until this day. But in the eyes of the axis lords you are not good.
+
+[[v9-29-7]]
+
+^<<v9-29-7,7>>^ And now return and go in peace, that you may not do anything bad in the eyes of the axis lords of the Phi·lisʹtines.”
+
+[[v9-29-8]]
+
+^<<v9-29-8,8>>^ However, David said to Aʹchish: “Why, what have I done, and what have you found in your servant from the day that I came to be before you until this day, that I should not come and actually fight against the enemies of my lord the king?”
+
+[[v9-29-9]]
+
+^<<v9-29-9,9>>^ At this Aʹchish answered and said to David: “I well know that you have been good in my own eyes, like an angel of God. Only it is the princes of the Phi·lisʹtines that have said, ‘Let him not go up with us into the battle.’
+
+[[v9-29-10]]
+
+^<<v9-29-10,10>>^ And now rise up early in the morning with the servants of your lord that came with you; and YOU men must rise up early in the morning when it has become light for YOU. Then go.”
+
+[[v9-29-11]]
+
+^<<v9-29-11,11>>^ Accordingly David rose up early, he and his men, to go in the morning and return to the land of the Phi·lisʹtines; and the Phi·lisʹtines themselves went up to Jezʹre·el.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[&#60; Capítulo Anterior] | <<v9-29-0,Topo>> | xref:009-1-samuel/009-1-samuel-030.adoc#v9-30-0[Próximo Capítulo &#62;]

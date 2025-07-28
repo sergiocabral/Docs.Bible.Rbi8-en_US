@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v19-34-0]]
+=== Psalms, 34
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David, at the time of his disguising his sanity before A·bimʹe·lech, so that he drove him out, and he went away._
+
+_א &#91;ʼAʹleph&#93;^&#42;1^_
+
+[[v19-34-1]]
+
+^<<v19-34-1,1>>^ I will bless Jehovah at all times;
+Constantly his praise will be in my mouth.
+
+_ב &#91;Behth&#93;_
+
+[[v19-34-2]]
+
+^<<v19-34-2,2>>^ In Jehovah my soul will make its boast;
+The meek ones will hear and will rejoice.
+
+_ג &#91;Giʹmel&#93;_
+
+[[v19-34-3]]
+
+^<<v19-34-3,3>>^ O magnify Jehovah with me, YOU people,
+And let us exalt his name together.
+
+_ד &#91;Daʹleth&#93;_
+
+[[v19-34-4]]
+
+^<<v19-34-4,4>>^ I inquired of Jehovah, and he answered me,
+And out of all my frights he delivered me.
+
+_ה &#91;Heʼ&#93;_
+
+[[v19-34-5]]
+
+^<<v19-34-5,5>>^ They looked to him and became radiant,
+And their very faces could not possibly be ashamed.
+
+_ז &#91;Zaʹyin&#93;^&#42;1^_
+
+[[v19-34-6]]
+
+^<<v19-34-6,6>>^ This afflicted one called, and Jehovah himself heard.
+And out of all his distresses He saved him.
+
+_ח &#91;Chehth&#93;_
+
+[[v19-34-7]]
+
+^<<v19-34-7,7>>^ The angel of Jehovah is camping all around those fearing him,
+And he rescues them.
+
+_ט &#91;Tehth&#93;_
+
+[[v19-34-8]]
+
+^<<v19-34-8,8>>^ Taste and see that Jehovah is good, O YOU people;
+Happy is the able-bodied man^&#42;1^ that takes refuge in him.
+
+[NOTE]
+====
+. “The able-bodied man.” Heb., hag·geʹver.
+====
+
+_י &#91;Yohdh&#93;_
+
+[[v19-34-9]]
+
+^<<v19-34-9,9>>^ Fear Jehovah, YOU holy ones of his,
+For there is no lack to those fearing him.
+
+_כ &#91;Kaph&#93;_
+
+[[v19-34-10]]
+
+^<<v19-34-10,10>>^ The maned young lions themselves have had little on hand and gone hungry;
+But as for those seeking Jehovah, they will not lack anything good.
+
+_ל &#91;Laʹmedh&#93;_
+
+[[v19-34-11]]
+
+^<<v19-34-11,11>>^ Come, YOU sons, listen to me;
+The fear of Jehovah is what I shall teach YOU.
+
+_מ &#91;Mem&#93;_
+
+[[v19-34-12]]
+
+^<<v19-34-12,12>>^ Who is the man^&#42;1^ that is delighting in life,
+That is loving enough days to see what is good?
+
+[NOTE]
+====
+. “The man.” Heb., ha·ʼishʹ.
+====
+
+_נ &#91;Nun&#93;_
+
+[[v19-34-13]]
+
+^<<v19-34-13,13>>^ Safeguard your tongue against what is bad,
+And your lips against speaking deception.
+
+_ס &#91;Saʹmekh&#93;_
+
+[[v19-34-14]]
+
+^<<v19-34-14,14>>^ Turn away from what is bad, and do what is good;
+Seek to find peace, and pursue it.
+
+_ע &#91;ʽAʹyin&#93;_
+
+[[v19-34-15]]
+
+^<<v19-34-15,15>>^ The eyes of Jehovah are toward the righteous ones,
+And his ears are toward their cry for help.
+
+_פ &#91;Peʼ&#93;_
+
+[[v19-34-16]]
+
+^<<v19-34-16,16>>^ The face of Jehovah is against those doing what is bad,
+To cut off the mention^&#42;1^ of them from the very earth.
+
+[NOTE]
+====
+. Or, “remembrance.”
+====
+
+_צ &#91;Tsa·dhehʹ&#93;_
+
+[[v19-34-17]]
+
+^<<v19-34-17,17>>^ They cried out, and Jehovah himself heard,
+And out of all their distresses he delivered them.
+
+_ק &#91;Qohph&#93;_
+
+[[v19-34-18]]
+
+^<<v19-34-18,18>>^ Jehovah is near to those that are broken at heart;
+And those who are crushed in spirit he saves.
+
+_ר &#91;Rehsh&#93;_
+
+[[v19-34-19]]
+
+^<<v19-34-19,19>>^ Many are the calamities of the righteous one,
+But out of them all Jehovah delivers him.
+
+_ש &#91;Shin&#93;_
+
+[[v19-34-20]]
+
+^<<v19-34-20,20>>^ He^&#42;1^ is guarding all the bones of that one;
+Not one of them has been broken.
+
+[NOTE]
+====
+. “He,” MTSy; LXXVg and two Heb. mss, “Jehovah.”
+====
+
+_ת &#91;Taw&#93;_
+
+[[v19-34-21]]
+
+^<<v19-34-21,21>>^ Calamity will put the wicked one himself to death;
+And the very ones hating the righteous one will be held guilty.
+
+[[v19-34-22]]
+
+^<<v19-34-22,22>>^ Jehovah is redeeming^&#42;1^ the soul of his servants;
+And none of those taking refuge in him will be held guilty.
+
+[NOTE]
+====
+. Or, “ransoming.” Heb., poh·dhehʹ; Gr., ly·troʹse·tai; Lat., reʹdi·met.
+====
+
+'''
+
+xref:019-psalm/019-psalm-033.adoc#v19-33-0[&#60; Capítulo Anterior] | <<v19-34-0,Topo>> | xref:019-psalm/019-psalm-035.adoc#v19-35-0[Próximo Capítulo &#62;]

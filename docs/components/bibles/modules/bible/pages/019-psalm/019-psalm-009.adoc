@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v19-9-0]]
+=== Psalms, 9
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director upon Muth-labʹben.^&#42;1^ A melody of David._
+
+_א &#91;ʼAʹleph&#93;^&#42;1^_
+
+[[v19-9-1]]
+
+^<<v19-9-1,1>>^ I will laud &#91;you&#93;, O Jehovah, with all my heart;
+I will declare all your wonderful works.
+
+[[v19-9-2]]
+
+^<<v19-9-2,2>>^ I will rejoice and exult in you,
+I will make melody to your name, O Most High.
+
+_ב &#91;Behth&#93;_
+
+[[v19-9-3]]
+
+^<<v19-9-3,3>>^ When my enemies turn back,
+They will stumble and perish from before you.
+
+[[v19-9-4]]
+
+^<<v19-9-4,4>>^ For you have executed my judgment and my cause;
+You have sat on the throne judging with righteousness.
+
+_ג &#91;Giʹmel&#93;_
+
+[[v19-9-5]]
+
+^<<v19-9-5,5>>^ You have rebuked nations, you have destroyed the wicked one.
+Their name you have wiped out to time indefinite, even forever.^&#42;1^
+
+[NOTE]
+====
+. Or, “forever and ever.”
+====
+
+[[v19-9-6]]
+
+^<<v19-9-6,6>>^ O you enemy, &#91;your&#93; desolations have come to their perpetual finish,
+And the cities that you have uprooted.
+The very mention of them will certainly perish.
+
+_ה &#91;Heʼ&#93;_
+
+[[v19-9-7]]
+
+^<<v19-9-7,7>>^ As for Jehovah, he will sit to time indefinite,
+Firmly establishing his throne for judgment itself.
+
+[[v19-9-8]]
+
+^<<v19-9-8,8>>^ And he himself will judge the productive land^&#42;1^ in righteousness;
+He will judicially try national groups in uprightness.
+
+[NOTE]
+====
+. “Productive land.” Heb., te·velʹ; LXX, “the inhabited earth”; Vg, “the circle,” that is, of the earth.
+====
+
+_ו &#91;Waw&#93;_
+
+[[v19-9-9]]
+
+^<<v19-9-9,9>>^ And Jehovah will become a secure height for anyone crushed,
+A secure height in times of distress.
+
+[[v19-9-10]]
+
+^<<v19-9-10,10>>^ And those knowing your name will trust in you,
+For you will certainly not leave those looking for you, O Jehovah.
+
+_ז &#91;Zaʹyin&#93;_
+
+[[v19-9-11]]
+
+^<<v19-9-11,11>>^ Make melody, YOU people, to Jehovah, who is dwelling in Zion;
+Tell among the peoples his deeds.
+
+[[v19-9-12]]
+
+^<<v19-9-12,12>>^ For, when looking for bloodshed, he will certainly remember those very ones;
+He is sure not to forget the outcry of the afflicted ones.
+
+_ח &#91;Chehth&#93;_
+
+[[v19-9-13]]
+
+^<<v19-9-13,13>>^ Show me favor, O Jehovah; see my affliction by those hating me,
+O you who are lifting me up from the gates of death,
+
+[[v19-9-14]]
+
+^<<v19-9-14,14>>^ In order that I may declare all your praiseworthy deeds
+In the gates of the daughter of Zion,
+That I may be joyful in your salvation.
+
+_ט &#91;Tehth&#93;_
+
+[[v19-9-15]]
+
+^<<v19-9-15,15>>^ The nations have sunk down into the pit that they have made;
+In the net that they hid, their own foot has been caught.
+
+[[v19-9-16]]
+
+^<<v19-9-16,16>>^ Jehovah is known by the judgment that he has executed.
+By the activity of his own hands the wicked one has been ensnared.^&#42;1^
+Hig·gaʹion.^&#42;2^ Seʹlah.
+
+[NOTE]
+====
+. “Has been ensnared,” by a change of vowel pointing; M, “is entrapping.”
+. “Higgaion.” A technical musical term, the meaning of which is uncertain.
+====
+
+_י &#91;Yohdh&#93;_
+
+[[v19-9-17]]
+
+^<<v19-9-17,17>>^ Wicked people will turn back to Sheʹol,^&#42;1^
+Even all the nations forgetting God.^&#42;2^
+
+[NOTE]
+====
+. “Sheol,” MTSy; Gr., haiʹden; Lat., in·ferʹnum. See App 4B.
+. “God.” Heb., ʼElo·himʹ.
+====
+
+[[v19-9-18]]
+
+^<<v19-9-18,18>>^ For not always will the poor one be forgotten,
+Nor will the hope of the meek ones ever perish.
+
+_כ &#91;Kaph&#93;_
+
+[[v19-9-19]]
+
+^<<v19-9-19,19>>^ Do arise, O Jehovah! Let not mortal man prove superior in strength.
+Let the nations be judged before your face.
+
+[[v19-9-20]]
+
+^<<v19-9-20,20>>^ Do put fear into them,^&#42;1^ O Jehovah,
+That the nations may know that they are but mortal men. Seʹlah.
+
+[NOTE]
+====
+. “Do put a curse upon them,” by a correction of M.
+====
+
+'''
+
+xref:019-psalm/019-psalm-008.adoc#v19-8-0[&#60; Capítulo Anterior] | <<v19-9-0,Topo>> | xref:019-psalm/019-psalm-010.adoc#v19-10-0[Próximo Capítulo &#62;]

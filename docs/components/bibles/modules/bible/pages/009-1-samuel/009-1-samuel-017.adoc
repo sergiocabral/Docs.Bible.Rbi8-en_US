@@ -1,0 +1,336 @@
+include::./index.adoc[]
+
+[[v9-17-0]]
+=== The First of Samuel, 17
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-17-1]]
+
+^<<v9-17-1,1>>^ And the Phi·lisʹtines went collecting their camps together for war. When they were collected together at Soʹcoh, which belongs to Judah, then they took up camping between Soʹcoh and A·zeʹkah, in Eʹphes-damʹmim.
+
+[[v9-17-2]]
+
+^<<v9-17-2,2>>^ As for Saul and the men of Israel, they collected themselves together and took up camping in the low plain of Eʹlah, and they went drawing up in battle formation to meet the Phi·lisʹtines.
+
+[[v9-17-3]]
+
+^<<v9-17-3,3>>^ And the Phi·lisʹtines were standing on the mountain on this side, and the Israelites were standing on the mountain on that side, with the valley between them.
+
+[[v9-17-4]]
+
+^<<v9-17-4,4>>^ And a champion began to go out from the camps of the Phi·lisʹtines, his name being Go·liʹath, from Gath, his height being six cubits and a span.^&#42;1^
+
+[NOTE]
+====
+. About 2.9 m (9 ft 5.75 in.).
+====
+
+[[v9-17-5]]
+
+^<<v9-17-5,5>>^ And there was a helmet of copper on his head, and he was clad with a coat of mail, of overlapping scales, and the weight of the coat of mail was five thousand shekels^&#42;1^ of copper.
+
+[NOTE]
+====
+. About 57 kg (125 lb).
+====
+
+[[v9-17-6]]
+
+^<<v9-17-6,6>>^ And there were greaves of copper above his feet and a javelin of copper between his shoulders.
+
+[[v9-17-7]]
+
+^<<v9-17-7,7>>^ And the wooden shaft of his spear was like the beam of loom workers, and the blade of his spear was six hundred shekels^&#42;1^ of iron; and the bearer of the large shield was marching ahead of him.
+
+[NOTE]
+====
+. About 6.84 kg (15 lb).
+====
+
+[[v9-17-8]]
+
+^<<v9-17-8,8>>^ Then he stood still and began to call to the battle lines of Israel and say to them: “Why do YOU come out to draw up in battle formation? Am I not the Phi·lisʹtine and YOU servants belonging to Saul? Choose a man for yourselves, and let him come down to me.
+
+[[v9-17-9]]
+
+^<<v9-17-9,9>>^ If he is able to fight with me and he does strike me down, we must then become servants to YOU. But if I myself am a match for him and I do strike him down, YOU must also become servants to us, and YOU must serve us.”
+
+[[v9-17-10]]
+
+^<<v9-17-10,10>>^ And the Phi·lisʹtine went on to say: “I myself do taunt the battle lines of Israel this day. Give me a man, and let us fight together!”
+
+[[v9-17-11]]
+
+^<<v9-17-11,11>>^ When Saul and all Israel heard these words of the Phi·lisʹtine, then they became terrified and were greatly afraid.
+
+[[v9-17-12]]
+
+^<<v9-17-12,12>>^ ^&#42;1^ Now David was the son of this Ephʹrath·ite from Bethʹle·hem of Judah whose name was Jesʹse. And he had eight sons. And in the days of Saul the man was already old among men.^&#42;2^
+
+[NOTE]
+====
+. LXXB omits vss 12-31.
+. “He had grown old and was advanced in years,” Sy; LXXL, “he was old, well along in years”; Vg, “he was an old man and of great age among men.”
+====
+
+[[v9-17-13]]
+
+^<<v9-17-13,13>>^ And the three oldest sons of Jesʹse proceeded to go. They went after Saul to the war, and the names of his three sons that went into the war were E·liʹab the firstborn, and his second son A·binʹa·dab and the third Shamʹmah.
+
+[[v9-17-14]]
+
+^<<v9-17-14,14>>^ And David was the youngest, and the three oldest themselves went after Saul.
+
+[[v9-17-15]]
+
+^<<v9-17-15,15>>^ And David was going and returning from Saul to tend the sheep of his father at Bethʹle·hem.
+
+[[v9-17-16]]
+
+^<<v9-17-16,16>>^ And the Phi·lisʹtine kept coming forward at early morning and at evening and taking his position for forty days.
+
+[[v9-17-17]]
+
+^<<v9-17-17,17>>^ Then Jesʹse said to David his son: “Take, please, to your brothers this eʹphah^&#42;1^ of roasted grain and these ten loaves of bread, and carry them quickly to the camp to your brothers.
+
+[NOTE]
+====
+. About 22 L (20 dry qt).
+====
+
+[[v9-17-18]]
+
+^<<v9-17-18,18>>^ And these ten portions of milk^&#42;1^ you should bring to the chief of the thousand; also, you should look after your own brothers as regards their welfare, and a token from them you should take.”
+
+[NOTE]
+====
+. “Milk,” M; Vg, “cheese.”
+====
+
+[[v9-17-19]]
+
+^<<v9-17-19,19>>^ Meantime, Saul and they and all the other men of Israel were in the low plain of Eʹlah, fighting against the Phi·lisʹtines.
+
+[[v9-17-20]]
+
+^<<v9-17-20,20>>^ Accordingly David got up early in the morning and left the sheep to the keeper’s charge and picked up and went just as Jesʹse had commanded him. When he came to the camp enclosure, the military forces were going out to the battle line, and they raised a shout for the battle.
+
+[[v9-17-21]]
+
+^<<v9-17-21,21>>^ And Israel and the Phi·lisʹtines began drawing up battle line to meet battle line.
+
+[[v9-17-22]]
+
+^<<v9-17-22,22>>^ Immediately David left the baggage from off him to the care of the keeper of the baggage and went running to the battle line. When he came, he began asking about the welfare of his brothers.
+
+[[v9-17-23]]
+
+^<<v9-17-23,23>>^ While he was speaking with them, why, here the champion, his name being Go·liʹath the Phi·lisʹtine from Gath, was coming up from the battle lines of the Phi·lisʹtines, and he began speaking the same words as before, and David got to listen in.
+
+[[v9-17-24]]
+
+^<<v9-17-24,24>>^ As for all the men of Israel, on their seeing the man, why, they went fleeing on account of him and were very much afraid.
+
+[[v9-17-25]]
+
+^<<v9-17-25,25>>^ And the men of Israel began to say: “Have YOU seen this man that is coming up? For it is to taunt Israel that he is coming up. And it must occur that, the man who strikes him down, the king will enrich him with great riches, and his own daughter he will give him, and the house of his father he will set free in Israel.”
+
+[[v9-17-26]]
+
+^<<v9-17-26,26>>^ And David began to say to the men that were standing close by him: “What will be done to the man that strikes down that Phi·lisʹtine over there and actually turns away reproach from upon Israel? For who is this uncircumcised Phi·lisʹtine that he has to taunt the battle lines of the living God?”^&#42;1^
+
+[NOTE]
+====
+. “Living God.” Heb., ʼElo·himʹ, followed by the adjective chai·yimʹ, “living,” both pl. to denote majesty and excellence. In LXXASyVg, “living” is sing. See De 5:26 ftn.
+====
+
+[[v9-17-27]]
+
+^<<v9-17-27,27>>^ Then the people said to him the same words as before, saying: “This is the way it will be done to the man that strikes him down.”
+
+[[v9-17-28]]
+
+^<<v9-17-28,28>>^ And E·liʹab his oldest brother got to hear as he spoke to the men, and E·liʹab’s anger grew hot against David, so that he said: “Why is it that you have come down? And in whose charge did you leave those few sheep behind in the wilderness? I myself well know your presumptuousness and the badness of your heart, because you have come down for the purpose of seeing the battle.”
+
+[[v9-17-29]]
+
+^<<v9-17-29,29>>^ To this David said: “What have I done now? Was it not just a word?”
+
+[[v9-17-30]]
+
+^<<v9-17-30,30>>^ With that he turned about from beside him toward someone else and went saying the same word as before, and, in turn, the people gave him the same reply as formerly.
+
+[[v9-17-31]]
+
+^<<v9-17-31,31>>^ So the words that David spoke came to be heard, and they went telling them before Saul. Hence he fetched him.^&#42;1^
+
+[NOTE]
+====
+. LXXB omits vss 12-31.
+====
+
+[[v9-17-32]]
+
+^<<v9-17-32,32>>^ And David proceeded to say to Saul: “Do not let the heart of any man^&#42;1^ collapse within him. Your servant himself will go and actually fight with this Phi·lisʹtine.”
+
+[NOTE]
+====
+. “Any man,” MSy; LXX, “my lord.”
+====
+
+[[v9-17-33]]
+
+^<<v9-17-33,33>>^ But Saul said to David: “You are not able to go against this Phi·lisʹtine to fight with him, for you are but a boy, and he is a man of war from his boyhood.”
+
+[[v9-17-34]]
+
+^<<v9-17-34,34>>^ And David went on to say to Saul: “Your servant became a shepherd of his father among the flock, and there came a lion,^&#42;1^ and also a bear, and &#91;each&#93; carried off a sheep from the drove.
+
+[NOTE]
+====
+. Lit., “the lion.” Heb., ha·ʼariʹ, the African lion.
+====
+
+[[v9-17-35]]
+
+^<<v9-17-35,35>>^ And I went out after it and struck it down and made the rescue from its mouth. When it began rising against me, I grabbed hold of its beard and struck it down and put it to death.
+
+[[v9-17-36]]
+
+^<<v9-17-36,36>>^ Both the lion and the bear your servant struck down; and this uncircumcised Phi·lisʹtine must become like one of them, for he has taunted the battle lines of the living God.”^&#42;1^
+
+[NOTE]
+====
+. See vs 26 ftn.
+====
+
+[[v9-17-37]]
+
+^<<v9-17-37,37>>^ Then David added:^&#42;1^ “Jehovah, who delivered me from the paw^&#42;2^ of the lion and from the paw of the bear, he it is who will deliver me from the hand of this Phi·lisʹtine.” At this Saul said to David: “Go, and may Jehovah himself prove to be with you.”
+
+[NOTE]
+====
+. “Then David added,” MSyVg; LXX omits.
+. Or, “hand.”
+====
+
+[[v9-17-38]]
+
+^<<v9-17-38,38>>^ Saul now went clothing David with his garments, and he put a copper helmet upon his head, after which he clothed him with a coat of mail.
+
+[[v9-17-39]]
+
+^<<v9-17-39,39>>^ Then David girded his sword on over his garments and undertook to go &#91;but could not&#93;, because he had not tried them out.^&#42;1^ Finally David said to Saul: “I am unable to go in these things, for I have not tried them out.” So David removed them off him.
+
+[NOTE]
+====
+. “And wearied himself walking about once and twice,” LXX.
+====
+
+[[v9-17-40]]
+
+^<<v9-17-40,40>>^ And he proceeded to take his staff in his hand and to choose for himself the five smoothest stones from the torrent valley and to place them in his shepherds’ bag that served him as a receptacle, and in his hand was his sling. And he began approaching the Phi·lisʹtine.
+
+[[v9-17-41]]
+
+^<<v9-17-41,41>>^ And the Phi·lisʹtine began to come, coming nearer and nearer to David, and the man carrying the large shield was ahead of him.
+
+[[v9-17-42]]
+
+^<<v9-17-42,42>>^ Now when the Phi·lisʹtine looked and saw David, he began despising him because he proved to be a boy and ruddy, of beautiful appearance.
+
+[[v9-17-43]]
+
+^<<v9-17-43,43>>^ So the Phi·lisʹtine said to David: “Am I a dog, so that you are coming to me with staves?” With that the Phi·lisʹtine called down evil upon David by his gods.^&#42;1^
+
+[NOTE]
+====
+. Or, “god.” Compare 5:7 ftn.
+====
+
+[[v9-17-44]]
+
+^<<v9-17-44,44>>^ And the Phi·lisʹtine went on to say to David: “Just come to me, and I will give your flesh to the fowls of the heavens and to the beasts of the field.”
+
+[[v9-17-45]]
+
+^<<v9-17-45,45>>^ In turn David said to the Phi·lisʹtine: “You are coming to me with a sword and with a spear and with a javelin, but I am coming to you with the name of Jehovah of armies, the God of the battle lines of Israel, whom you have taunted.
+
+[[v9-17-46]]
+
+^<<v9-17-46,46>>^ This day Jehovah will surrender you into my hand, and I shall certainly strike you down and remove your head off you; and I shall certainly give the carcasses of the camp of the Phi·lisʹtines^&#42;1^ this day to the fowls of the heavens and to the wild beasts of the earth; and people of all the earth^&#42;2^ will know that there exists a God belonging to Israel.^&#42;3^
+
+[NOTE]
+====
+. According to MSyVg; LXX, “your limbs and the limbs of the camp of the Philistines.”
+. “People of all the earth.” Lit., “all the earth,” but followed by a pl. verb. Compare Ge 41:57 ftn.
+. “A God belonging to Israel.” Heb., ʼElo·himʹ leYis·ra·ʼelʹ; TLXXSyVg and 15 Heb. mss, “a God in Israel.”
+====
+
+[[v9-17-47]]
+
+^<<v9-17-47,47>>^ And all this congregation will know that neither with sword nor with spear does Jehovah save, because to Jehovah belongs the battle, and he must give YOU men into our hand.”
+
+[[v9-17-48]]
+
+^<<v9-17-48,48>>^ And it occurred that the Phi·lisʹtine rose and kept coming and drawing nearer to meet David, and David began hurrying and running toward the battle line to meet the Phi·lisʹtine.
+
+[[v9-17-49]]
+
+^<<v9-17-49,49>>^ Then David thrust his hand into his bag and took a stone from there and slung it, so that he struck the Phi·lisʹtine in his forehead and the stone sank into his forehead,^&#42;1^ and he went falling upon his face to the earth.
+
+[NOTE]
+====
+. “Sank into his forehead,” MSyVg; LXX, “passed right through the helmet into his forehead.”
+====
+
+[[v9-17-50]]
+
+^<<v9-17-50,50>>^ So David, with a sling and a stone, proved stronger than the Phi·lisʹtine and struck the Phi·lisʹtine down and put him to death; and there was no sword in David’s hand.
+
+[[v9-17-51]]
+
+^<<v9-17-51,51>>^ And David continued running and got to stand over the Phi·lisʹtine. Then he took his sword and pulled it out of its sheath and definitely put him to death when he cut his head off with it. And the Phi·lisʹtines got to see that their mighty one had died, and they took to flight.
+
+[[v9-17-52]]
+
+^<<v9-17-52,52>>^ At that the men of Israel and of Judah rose and broke into shouting and went in pursuit of the Phi·lisʹtines clear to &#91;the&#93; valley^&#42;1^ and as far as the gates of Ekʹron, and the fatally wounded of the Phi·lisʹtines kept falling on the way from Shaʹa·raʹim,^&#42;2^ both as far as Gath and as far as Ekʹron.
+
+[NOTE]
+====
+. “Valley.” Heb., ghaiʼ; LXX, “Gath.”
+. Or, “the way of the Two Gates.”
+====
+
+[[v9-17-53]]
+
+^<<v9-17-53,53>>^ Afterward the sons of Israel returned from hotly pursuing the Phi·lisʹtines and went pillaging their camps.
+
+[[v9-17-54]]
+
+^<<v9-17-54,54>>^ Then David took the head of the Phi·lisʹtine and brought it to Jerusalem, and his weapons he put in his tent.
+
+[[v9-17-55]]
+
+^<<v9-17-55,55>>^ ^&#42;1^ Now at the moment that Saul saw David going out to meet the Phi·lisʹtine, he said to Abʹner the chief of the army: “Whose son is the boy, Abʹner?” To this Abʹner said: “By the life of your soul, O king, I do not know at all!”
+
+[NOTE]
+====
+. LXXB omits from vs 55 through “down” in 18:6a.
+====
+
+[[v9-17-56]]
+
+^<<v9-17-56,56>>^ So the king said: “You inquire whose son the lad is.”
+
+[[v9-17-57]]
+
+^<<v9-17-57,57>>^ Accordingly, as soon as David returned from striking the Phi·lisʹtine down, Abʹner proceeded to take him and bring him before Saul with the head of the Phi·lisʹtine in his hand.
+
+[[v9-17-58]]
+
+^<<v9-17-58,58>>^ Saul now said to him: “Whose son are you, boy?” to which David said: “The son of your servant Jesʹse the Bethʹle·hem·ite.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-016.adoc#v9-16-0[&#60; Capítulo Anterior] | <<v9-17-0,Topo>> | xref:009-1-samuel/009-1-samuel-018.adoc#v9-18-0[Próximo Capítulo &#62;]

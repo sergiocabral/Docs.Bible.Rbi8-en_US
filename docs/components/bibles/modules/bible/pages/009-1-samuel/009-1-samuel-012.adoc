@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v9-12-0]]
+=== The First of Samuel, 12
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-12-1]]
+
+^<<v9-12-1,1>>^ Finally Samuel said to all Israel: “Here I have listened to YOUR voice as respects all that YOU have said to me, that I should cause a king to reign over YOU.
+
+[[v9-12-2]]
+
+^<<v9-12-2,2>>^ And now here is the king walking before YOU! As for me, I have grown old and gray, and my sons, here they are with YOU, and I—I have walked before YOU from my youth until this day.
+
+[[v9-12-3]]
+
+^<<v9-12-3,3>>^ Here I am. Answer against me in front of Jehovah and in front of his anointed one:^&#42;1^ Whose bull have I taken or whose ass have I taken or whom have I defrauded or^&#42;2^ whom have I crushed or from whose hand have I accepted hush money^&#42;3^ that I should hide my eyes with it?^&#42;4^ And I shall make restoration to YOU people.”
+
+[NOTE]
+====
+. “His anointed one.” Heb., meshi·chohʹ; Gr., khri·stouʹ; Syr., meshi·cheh; Lat., chriʹsto. See 11:15 ftn.
+. “Or,” TLXXSy and many Heb. mss.
+. Or, “a ransom.” Heb., khoʹpher; Gr., e·xiʹla·sma.
+. “Have I accepted hush money that I should hide my eyes with it?” M; LXX, “have I accepted an atonement, even a sandal? Make answer against me.”
+====
+
+[[v9-12-4]]
+
+^<<v9-12-4,4>>^ To this they said: “You have not defrauded us, nor have you crushed us, nor have you accepted anything at all from the hand of a single one.”
+
+[[v9-12-5]]
+
+^<<v9-12-5,5>>^ So he said to them: “Jehovah is a witness against YOU, and his anointed one is a witness this day that YOU have found nothing at all in my hand.” To this they^&#42;1^ said: “He is a witness.”^&#42;2^
+
+[NOTE]
+====
+. “They,” TLXXSyItVg and 18 Heb. mss; M, “he.”
+. Lit., “they (he) said: ‘A witness,’ ” MLXXSyVg.
+====
+
+[[v9-12-6]]
+
+^<<v9-12-6,6>>^ And Samuel went on to say to the people: “Jehovah &#91;is a witness&#93;,^&#42;1^ who used Moses and Aaron and who brought YOUR forefathers up out of the land of Egypt.
+
+[NOTE]
+====
+. “Jehovah is a witness,” LXX; Sy, “Jehovah alone is God”; MVg, “Jehovah.”
+====
+
+[[v9-12-7]]
+
+^<<v9-12-7,7>>^ And now take YOUR stand, and I will judge YOU before Jehovah &#91;and recount to YOU&#93;^&#42;1^ all the righteous acts of Jehovah that he has done with YOU and with YOUR forefathers.
+
+[NOTE]
+====
+. “And recount to you,” LXX; M omits.
+====
+
+[[v9-12-8]]
+
+^<<v9-12-8,8>>^ “As soon as Jacob^&#42;1^ had come into Egypt^&#42;2^ and YOUR forefathers began calling to Jehovah for aid, Jehovah proceeded to send Moses and Aaron, that they might lead YOUR forefathers out from Egypt and cause^&#42;3^ them to dwell in this place.
+
+[NOTE]
+====
+. “Jacob,” MSyVg; LXX, “Jacob and his sons.”
+. LXX adds, “and Egypt humiliated them.”
+. “From Egypt and cause,” M; LXXSyVg, “from Egypt and he caused.”
+====
+
+[[v9-12-9]]
+
+^<<v9-12-9,9>>^ And they went forgetting Jehovah their God, so that he sold them into the hand of Sisʹe·ra the chief^&#42;1^ of the army of Haʹzor and into the hand of the Phi·lisʹtines and into the hand of the king of Moʹab, and they kept fighting against them.
+
+[NOTE]
+====
+. Or, “prince.” Heb., sar.
+====
+
+[[v9-12-10]]
+
+^<<v9-12-10,10>>^ And they began to call to Jehovah for aid and say, ‘We have sinned, for we have left Jehovah that we might serve the Baʹals and the Ashʹto·reth images; and now deliver us out of the hand of our enemies, that we may serve you.’
+
+[[v9-12-11]]
+
+^<<v9-12-11,11>>^ And Jehovah proceeded to send Jer·ub·baʹal and Beʹdan^&#42;1^ and Jephʹthah and Samuel^&#42;2^ and deliver YOU out of the hand of YOUR enemies all around, that YOU might dwell in security.
+
+[NOTE]
+====
+. “Bedan,” MVg; LXXSy, “Barak.”
+. “Samuel,” MLXXVg; LXXLSy, “Samson.”
+====
+
+[[v9-12-12]]
+
+^<<v9-12-12,12>>^ When YOU saw that Naʹhash the king of the sons of Amʹmon had come against YOU, YOU kept saying to me, ‘No, but a king is what should reign over us!’ all the while Jehovah YOUR God being YOUR King.
+
+[[v9-12-13]]
+
+^<<v9-12-13,13>>^ And now here is the king whom YOU have chosen, for whom YOU asked; and here Jehovah has put over YOU a king.
+
+[[v9-12-14]]
+
+^<<v9-12-14,14>>^ If YOU will fear Jehovah and actually serve him and obey his voice, and YOU will not rebel against the order of Jehovah, both YOU and the king who must reign over YOU will certainly prove to be followers of Jehovah YOUR God.
+
+[[v9-12-15]]
+
+^<<v9-12-15,15>>^ But if YOU will not obey the voice of Jehovah and YOU will actually rebel against the order of Jehovah, the hand of Jehovah will certainly prove to be against YOU and YOUR fathers.^&#42;1^
+
+[NOTE]
+====
+. “And your fathers,” MVg; Sy, “as it was against your forefathers”; LXX, “and against your king.”
+====
+
+[[v9-12-16]]
+
+^<<v9-12-16,16>>^ Now, also, take YOUR stand and see this great thing that Jehovah is doing before YOUR eyes.
+
+[[v9-12-17]]
+
+^<<v9-12-17,17>>^ Is it not wheat harvest today? I shall call to Jehovah that he may give thunders^&#42;1^ and rain; then know and see that YOUR evil is abundant that YOU have done in the eyes of Jehovah in asking for yourselves a king.”
+
+[NOTE]
+====
+. Or, “voices; sounds.”
+====
+
+[[v9-12-18]]
+
+^<<v9-12-18,18>>^ Upon that Samuel called to Jehovah, and Jehovah proceeded to give thunders and rain on that day, so that all the people were greatly in fear of Jehovah and of Samuel.
+
+[[v9-12-19]]
+
+^<<v9-12-19,19>>^ And all the people began to say to Samuel: “Pray in behalf of your servants to Jehovah your God, as we do not want to die; because we have added to all our sins an evil in asking for ourselves a king.”
+
+[[v9-12-20]]
+
+^<<v9-12-20,20>>^ So Samuel said to the people: “Do not be afraid. YOU—YOU have done all this evil. Only do not turn aside from following Jehovah, and YOU must serve Jehovah with all YOUR heart.
+
+[[v9-12-21]]
+
+^<<v9-12-21,21>>^ And YOU must not turn aside to follow the unrealities that are of no benefit and that do not deliver, because they are unrealities.
+
+[[v9-12-22]]
+
+^<<v9-12-22,22>>^ For Jehovah will not desert his people for the sake of his great name, because Jehovah has taken it upon himself to make YOU his people.
+
+[[v9-12-23]]
+
+^<<v9-12-23,23>>^ As for me also, it is unthinkable, on my part, to sin against Jehovah by ceasing to pray in YOUR behalf; and I must instruct YOU in the good and right way.
+
+[[v9-12-24]]
+
+^<<v9-12-24,24>>^ Only fear Jehovah, and YOU must serve him in truth with all YOUR heart; for see what great things he has done for YOU.
+
+[[v9-12-25]]
+
+^<<v9-12-25,25>>^ But if YOU flagrantly do what is bad, YOU will be swept away, both YOU and YOUR king.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-011.adoc#v9-11-0[&#60; Capítulo Anterior] | <<v9-12-0,Topo>> | xref:009-1-samuel/009-1-samuel-013.adoc#v9-13-0[Próximo Capítulo &#62;]

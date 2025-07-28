@@ -1,0 +1,32 @@
+include::./index.adoc[]
+
+[[v19-134-0]]
+=== Psalms, 134
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents.^&#42;1^_
+
+[[v19-134-1]]
+
+^<<v19-134-1,1>>^ O bless Jehovah,
+All YOU servants of Jehovah,
+YOU who are standing in the house of Jehovah during the nights.
+
+[[v19-134-2]]
+
+^<<v19-134-2,2>>^ Raise YOUR hands in holiness
+And bless Jehovah.
+
+[[v19-134-3]]
+
+^<<v19-134-3,3>>^ May Jehovah bless you^&#42;1^ out of Zion,
+He the Maker of heaven and earth.
+
+[NOTE]
+====
+. “You,” sing.
+====
+
+'''
+
+xref:019-psalm/019-psalm-133.adoc#v19-133-0[&#60; Capítulo Anterior] | <<v19-134-0,Topo>> | xref:019-psalm/019-psalm-135.adoc#v19-135-0[Próximo Capítulo &#62;]

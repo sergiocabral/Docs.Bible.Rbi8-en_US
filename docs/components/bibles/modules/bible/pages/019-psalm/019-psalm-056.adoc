@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v19-56-0]]
+=== Psalms, 56
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director on the Silent Dove among those far away.^&#42;1^ Of David. Mikʹtam.^&#42;2^ When the Phi·lisʹtines laid hold of him in Gath._
+
+[[v19-56-1]]
+
+^<<v19-56-1,1>>^ Show me favor, O God, because mortal man has snapped at me.
+Warring all day long, he keeps oppressing me.
+
+[[v19-56-2]]
+
+^<<v19-56-2,2>>^ My foes have kept snapping all day long,
+For there are many warring against me high-mindedly.
+
+[[v19-56-3]]
+
+^<<v19-56-3,3>>^ Whatever day I get afraid, I, for my part, shall trust even in you.
+
+[[v19-56-4]]
+
+^<<v19-56-4,4>>^ In union with God I shall praise his word.
+In God I have put my trust; I shall not be afraid.
+What can flesh do to me?
+
+[[v19-56-5]]
+
+^<<v19-56-5,5>>^ All day long they keep hurting my personal affairs;
+All their thoughts are against me for bad.
+
+[[v19-56-6]]
+
+^<<v19-56-6,6>>^ They attack, they conceal themselves,
+They, for their part, keep observing my very steps,^&#42;1^
+While they have waited for my soul.
+
+[NOTE]
+====
+. Lit., “heels.”
+====
+
+[[v19-56-7]]
+
+^<<v19-56-7,7>>^ On account of &#91;their&#93; hurtfulness cast them forth.
+In anger bring down even the peoples, O God.
+
+[[v19-56-8]]
+
+^<<v19-56-8,8>>^ My being a fugitive you yourself have reported.
+Do put my tears in your skin bottle.
+Are they not in your book?
+
+[[v19-56-9]]
+
+^<<v19-56-9,9>>^ At that time my enemies will turn back, on the day that I call;
+This I well know, that God is for me.
+
+[[v19-56-10]]
+
+^<<v19-56-10,10>>^ In union with God I shall praise &#91;his&#93; word;
+In union with Jehovah I shall praise &#91;his&#93; word.
+
+[[v19-56-11]]
+
+^<<v19-56-11,11>>^ In God I have put my trust. I shall not be afraid.
+What can earthling man^&#42;1^ do to me?
+
+[NOTE]
+====
+. “Earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-56-12]]
+
+^<<v19-56-12,12>>^ Upon me, O God, there are vows to you.
+I shall render expressions of thanksgiving to you.
+
+[[v19-56-13]]
+
+^<<v19-56-13,13>>^ For you have delivered my soul^&#42;1^ from death—
+&#91;Have you&#93; not &#91;delivered&#93; my feet from stumbling?—
+That &#91;I&#93; may walk about before God^&#42;2^ in the light^&#42;3^ of those alive.
+
+[NOTE]
+====
+. “My soul.” Heb., naph·shiʹ; Gr., psy·khenʹ; Lat., aʹni·mam. See App 4A.
+. “God,” MLXXSyVg; T, “Jehovah.”
+. “Light,” MTLXXVg; Sy, “land.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-055.adoc#v19-55-0[&#60; Capítulo Anterior] | <<v19-56-0,Topo>> | xref:019-psalm/019-psalm-057.adoc#v19-57-0[Próximo Capítulo &#62;]

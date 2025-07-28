@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v19-140-0]]
+=== Psalms, 140
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_For the director. A melody of David._
+
+[[v19-140-1]]
+
+^<<v19-140-1,1>>^ Rescue me, O Jehovah, from bad men;^&#42;1^
+May you safeguard me even from the man of deeds of violence,
+
+[NOTE]
+====
+. Lit., “from . . . earthling man.” Heb., me·ʼa·dhamʹ.
+====
+
+[[v19-140-2]]
+
+^<<v19-140-2,2>>^ Those who have schemed bad things in &#91;their&#93; heart,
+Who all day long keep attacking as in wars.
+
+[[v19-140-3]]
+
+^<<v19-140-3,3>>^ They have sharpened their tongue like that of a serpent;
+The venom of the horned viper is under their lips. Seʹlah.
+
+[[v19-140-4]]
+
+^<<v19-140-4,4>>^ Keep me, O Jehovah, from the hands of the wicked one;
+May you safeguard me even from the man^&#42;1^ of deeds of violence,
+Those who have schemed to push my steps.
+
+[NOTE]
+====
+. “From the man of.” Heb., me·ʼishʹ.
+====
+
+[[v19-140-5]]
+
+^<<v19-140-5,5>>^ The self-exalted ones have hidden a trap for me;
+And ropes they have spread out as a net at the side of the track.
+Snares they have set for me. Seʹlah.
+
+[[v19-140-6]]
+
+^<<v19-140-6,6>>^ I have said to Jehovah:^&#42;1^ “You are my God.^&#42;2^
+Do give ear, O Jehovah, to the voice of my entreaties.”
+
+[NOTE]
+====
+. “To Jehovah.” Heb., la·Yhwahʹ.
+. “My God.” Heb., ʼEʹli.
+====
+
+[[v19-140-7]]
+
+^<<v19-140-7,7>>^ O Jehovah the Sovereign Lord, the strength of my salvation,
+You have screened over my head in the day of the armed force.
+
+[[v19-140-8]]
+
+^<<v19-140-8,8>>^ Do not grant, O Jehovah, the cravings of the wicked one.
+Do not promote his plotting, that they may not be exalted. Seʹlah.
+
+[[v19-140-9]]
+
+^<<v19-140-9,9>>^ As for the heads of those surrounding me,
+May the trouble of their own lips cover them.
+
+[[v19-140-10]]
+
+^<<v19-140-10,10>>^ May burning coals be dropped upon them.
+Let them be made to fall into the fire, into watery pits, that they may not get up.
+
+[[v19-140-11]]
+
+^<<v19-140-11,11>>^ The big talker^&#42;1^—let him not be firmly established in the earth.
+The man of violence—let evil itself hunt him with repeated thrusts.
+
+[NOTE]
+====
+. Or, “The slanderer.” Lit., “The man of tongue.”
+====
+
+[[v19-140-12]]
+
+^<<v19-140-12,12>>^ I well know that Jehovah will execute
+The legal claim of the afflicted one, the judgment of the poor ones.
+
+[[v19-140-13]]
+
+^<<v19-140-13,13>>^ Surely the righteous themselves will give thanks to your name;
+The upright ones will dwell before your face.
+
+'''
+
+xref:019-psalm/019-psalm-139.adoc#v19-139-0[&#60; Capítulo Anterior] | <<v19-140-0,Topo>> | xref:019-psalm/019-psalm-141.adoc#v19-141-0[Próximo Capítulo &#62;]

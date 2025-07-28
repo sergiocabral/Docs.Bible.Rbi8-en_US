@@ -1,0 +1,58 @@
+include::./index.adoc[]
+
+[[v19-87-0]]
+=== Psalms, 87
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of the sons of Koʹrah. A melody, a song._
+
+[[v19-87-1]]
+
+^<<v19-87-1,1>>^ His foundation is in the holy mountains.
+
+[[v19-87-2]]
+
+^<<v19-87-2,2>>^ Jehovah is more in love with the gates of Zion
+Than with all the tabernacles of Jacob.
+
+[[v19-87-3]]
+
+^<<v19-87-3,3>>^ Glorious things are being spoken about you, O city of the &#91;true&#93; God. Seʹlah.
+
+[[v19-87-4]]
+
+^<<v19-87-4,4>>^ I shall make mention of Raʹhab^&#42;1^ and Babylon^&#42;2^ as among those knowing me;
+Here are Phi·lisʹti·a and Tyre, together with Cush:^&#42;3^
+“This is one who was born there.”
+
+[NOTE]
+====
+. Or, “the Stormer.” T, “the Egyptians.” Compare 89:10 ftn.
+. “And Babylon,” LXXVg; Heb., u·Va·velʹ, “and Babel.”
+. “Cush.” Heb., Kush; LXXVg, “the Ethiopian people.”
+====
+
+[[v19-87-5]]
+
+^<<v19-87-5,5>>^ And respecting Zion it will be said:
+“Each and every one^&#42;1^ was born in her.”
+And the Most High himself will firmly establish her.
+
+[NOTE]
+====
+. Or, “[This] man and [that] man.”
+====
+
+[[v19-87-6]]
+
+^<<v19-87-6,6>>^ Jehovah himself will declare, when recording the peoples:
+“This is one who was born there.” Seʹlah.
+
+[[v19-87-7]]
+
+^<<v19-87-7,7>>^ There will also be singers as well as dancers of circle dances:
+“All my springs are in you.”
+
+'''
+
+xref:019-psalm/019-psalm-086.adoc#v19-86-0[&#60; Capítulo Anterior] | <<v19-87-0,Topo>> | xref:019-psalm/019-psalm-088.adoc#v19-88-0[Próximo Capítulo &#62;]

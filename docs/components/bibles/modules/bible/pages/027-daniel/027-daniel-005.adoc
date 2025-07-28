@@ -1,0 +1,232 @@
+include::./index.adoc[]
+
+[[v27-5-0]]
+=== Daniel, 5
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v27-5-1]]
+
+^<<v27-5-1,1>>^ As regards Bel·shazʹzar^&#42;1^ the king, he made a big feast^&#42;2^ for a thousand of his grandees, and in front of the thousand he was drinking wine.
+
+[NOTE]
+====
+. “Belshazzar.” Aram., Bel·shaʼts·tsarʹ; Gr., Bal·taʹsar; Syr., Belit·sha·tsar; Vgc(Lat.), Bal·tasʹsar. In the Babylonian tablet No. 38,299, in the British Museum, the name appears as “Bel-sharusur.” Says Nabonidus and Belshazzar, by R. P. Dougherty, New Haven, 1929, p. 186: “Cuneiform allusions to Belshazzar have thrown so much light upon the rôle which he played that his place in history stands clearly revealed. There are many texts which indicate that Belshazzar almost equalled Nab­onidus in position and prestige.”
+. Lit., “great bread.” Aram., lechemʹ rav.
+====
+
+[[v27-5-2]]
+
+^<<v27-5-2,2>>^ Bel·shazʹzar, under the influence of the wine, said to bring in the vessels of gold and of silver that Neb·u·chad·nezʹzar his father had taken away from the temple^&#42;1^ that was in Jerusalem, that from them the king and his grandees, his concubines and his secondary wives might drink.
+
+[NOTE]
+====
+. “The temple.” Aram., heh·khelaʼʹ; LXXBagster(Gr.), na·ouʹ; Lat., temʹplo. See Mt 23:16 ftn.
+====
+
+[[v27-5-3]]
+
+^<<v27-5-3,3>>^ At that time they brought in the vessels of gold that they had taken away from the temple of the house of God^&#42;1^ that was in Jerusalem, and from them the king and his grandees, his concubines and his secondary wives drank.
+
+[NOTE]
+====
+. “God.” Aram., ʼEla·haʼʹ; Syr., dAʼ·la·haʼ.
+====
+
+[[v27-5-4]]
+
+^<<v27-5-4,4>>^ They drank wine, and they praised the gods^&#42;1^ of gold and of silver, copper, iron, wood and stone.
+
+[NOTE]
+====
+. “The gods of.” Aram., leʼ·la·hehʹ; Syr., laʼ·la·heʼ.
+====
+
+[[v27-5-5]]
+
+^<<v27-5-5,5>>^ At that moment the fingers of a man’s hand came forth and were writing in front of the lampstand upon the plaster of the wall of the palace of the king, and the king was beholding the back of the hand that was writing.
+
+[[v27-5-6]]
+
+^<<v27-5-6,6>>^ At that time, as regards the king, his very complexion was changed in him, and his own thoughts began to frighten him, and his hip joints were loosening and his very knees were knocking each other.
+
+[[v27-5-7]]
+
+^<<v27-5-7,7>>^ The king was calling out loudly to bring in the conjurers, the Chal·deʹans and the astrologers. The king was answering and saying to the wise men of Babylon: “Any man that will read this writing and show me its very interpretation, with purple he will be clothed, with a necklace of gold about his neck, and as the third one in the kingdom he will rule.”
+
+[[v27-5-8]]
+
+^<<v27-5-8,8>>^ At that time all the wise men of the king were coming in, but they were not competent enough to read the writing itself or to make known to the king the interpretation.
+
+[[v27-5-9]]
+
+^<<v27-5-9,9>>^ Consequently King Bel·shazʹzar was very much frightened and his complexion was changing within him; and his grandees were perplexed.
+
+[[v27-5-10]]
+
+^<<v27-5-10,10>>^ As regards the queen, because of the words of the king and his grandees she entered right into the banqueting hall. The queen answered and said: “O king, keep living even to times indefinite. Do not let your thoughts frighten you, nor let your complexion be changed.
+
+[[v27-5-11]]
+
+^<<v27-5-11,11>>^ There exists a capable man in your kingdom in whom there is the spirit of holy gods;^&#42;1^ and in the days of your father illumination and insight and wisdom like the wisdom of gods were found in him, and King Neb·u·chad·nezʹzar your father himself set him up as chief of the magic-practicing priests, the conjurers, the Chal·deʹans &#91;and&#93; the astrologers, &#91;even&#93; your father, O king;
+
+[NOTE]
+====
+. See 4:18 ftn.
+====
+
+[[v27-5-12]]
+
+^<<v27-5-12,12>>^ forasmuch as an extraordinary spirit and knowledge and insight to interpret dreams and the explanation of riddles and the untying of knots had been found in him, in Daniel, whom the king himself named Bel·te·shazʹzar. Now let Daniel himself be called, that he may show the very interpretation.”
+
+[[v27-5-13]]
+
+^<<v27-5-13,13>>^ Accordingly Daniel himself was brought in before the king. The king was speaking up and saying to Daniel: “Are you the Daniel that is of the exiles^&#42;1^ of Judah, whom the king my father brought out of Judah?
+
+[NOTE]
+====
+. See 2:25 ftn.
+====
+
+[[v27-5-14]]
+
+^<<v27-5-14,14>>^ I have also heard concerning you that the spirit of gods^&#42;1^ is in you, and illumination and insight and wisdom extraordinary have been found in you.
+
+[NOTE]
+====
+. See 4:18 ftn.
+====
+
+[[v27-5-15]]
+
+^<<v27-5-15,15>>^ And now there have been brought in before me the wise men &#91;and&#93; the conjurers, that they may read this very writing, even to make known to me its interpretation; but they are not competent enough to show the very interpretation of the word.
+
+[[v27-5-16]]
+
+^<<v27-5-16,16>>^ And I myself have heard concerning you, that you are able to furnish interpretations and to untie knots themselves. Now, if you are able to read the writing and to make known to me its very interpretation, with purple you will be clothed, with a necklace of gold around your neck, and as the third one in the kingdom you will rule.”
+
+[[v27-5-17]]
+
+^<<v27-5-17,17>>^ At that time Daniel was answering and saying before the king: “Let your gifts prove to be to you yourself, and your presents do you give to others. However, I shall read the writing itself to the king, and the interpretation I shall make known to him.
+
+[[v27-5-18]]
+
+^<<v27-5-18,18>>^ As for you, O king, the Most High God^&#42;1^ himself gave to Neb·u·chad·nezʹzar your father the kingdom and the greatness and the dignity and the majesty.
+
+[NOTE]
+====
+. “The Most High God.” Aram., ʼEla·haʼʹ ʽIl·lai·ʼaʹ; LXXBagster(Gr.), ho The·osʹ ho Hyʹpsi·stos.
+====
+
+[[v27-5-19]]
+
+^<<v27-5-19,19>>^ And because of the greatness that He gave him, all peoples, national groups and languages proved to be quaking and showing fear before him. Whom he happened to want to, he was killing; and whom he happened to want to, he was striking;^&#42;1^ and whom he happened to want to, he was exalting; and whom he happened to want to, he was humiliating.
+
+[NOTE]
+====
+. “Letting live,” if derived from another verb of similar form.
+====
+
+[[v27-5-20]]
+
+^<<v27-5-20,20>>^ But when his heart became haughty and his own spirit became hard, so as to act presumptuously, he was brought down from the throne of his kingdom, and his own dignity was taken away from him.
+
+[[v27-5-21]]
+
+^<<v27-5-21,21>>^ And from the sons of mankind^&#42;1^ he was driven away, and his very heart was made like that of a beast, and with the wild asses his dwelling was. Vegetation they would give him to eat just like bulls, and with the dew of the heavens his own body got to be wet, until he knew that the Most High God is Ruler^&#42;2^ in the kingdom of mankind, and that the one whom he wants to, he sets up over it.
+
+[NOTE]
+====
+. Or, “sons of men.” Aram., benehʹ ʼana·shaʼʹ.
+. Or, “ruling.” See 4:17 ftn, “Ruler.”
+====
+
+[[v27-5-22]]
+
+^<<v27-5-22,22>>^ “And as for you, his son Bel·shazʹzar, you have not humbled your heart, although you knew all this.
+
+[[v27-5-23]]
+
+^<<v27-5-23,23>>^ But against the Lord of the heavens^&#42;1^ you exalted yourself, and they brought before you even the vessels of his house; and you yourself and your grandees, your concubines and your secondary wives have been drinking wine from them, and you have praised mere gods^&#42;2^ of silver and of gold, copper, iron, wood and stone, that are beholding nothing or hearing nothing or knowing nothing; but the God^&#42;3^ in whose hand your breath^&#42;4^ is and to whom all your ways belong you have not glorified.
+
+[NOTE]
+====
+. “The Lord of the heavens.” Aram., ma·reʼ-shemai·yaʼʹ.
+. “And . . . gods of.” Aram., weleʼ·la·hehʹ.
+. “But the God.” Aram., welEʼ·la·haʼʹ; LXXBagster(Gr.), The·onʹ.
+. “Your breath.” Aram., nish·methakhʹ. Compare Pr 20:27 ftn.
+====
+
+[[v27-5-24]]
+
+^<<v27-5-24,24>>^ Consequently from before him there was being sent the back of a hand, and this very writing was inscribed.
+
+[[v27-5-25]]
+
+^<<v27-5-25,25>>^ And this is the writing that was inscribed: MEʹNE, MEʹNE, TEʹKEL and PARʹSIN.^&#42;1^
+
+[NOTE]
+====
+. Lit., “A Mina, a Mina, a Shekel and Half Shekels.” Aram., Meneʼʹ Meneʼʹ Teqelʹ u·Phar·sinʹ. Phar·sinʹ is pl. of Peresʹ, “a half shekel.”
+====
+
+[[v27-5-26]]
+
+^<<v27-5-26,26>>^ “This is the interpretation of the word: MEʹNE, God has numbered^&#42;1^ &#91;the days of&#93; your kingdom and has finished^&#42;2^ it.
+
+[NOTE]
+====
+. “MENE, God has numbered.” Aram., Meneʼʹ menah-ʼEla·haʼʹ.
+. Or, “abandoned.”
+====
+
+[[v27-5-27]]
+
+^<<v27-5-27,27>>^ “TEʹKEL, you have been weighed^&#42;1^ in the balances and have been found deficient.
+
+[NOTE]
+====
+. “TEKEL, you have been weighed.” Aram., Teqelʹ teqilʹtah.
+====
+
+[[v27-5-28]]
+
+^<<v27-5-28,28>>^ “PEʹRES, your kingdom has been divided^&#42;1^ and given to the Medes and the Persians.”^&#42;2^
+
+[NOTE]
+====
+. “PERES, your kingdom has been divided.” Aram., Peresʹ peri·sathʹ mal·khu·thakhʹ. Peresʹ is sing. of Phar·sinʹ. Compare vs 25 ftn.
+. “To the Medes and the Persians.” Aram., leMa·dhaiʹ u·Pha·rasʹ. The Aram. word for “Persians” has the same three consonants as Peresʹ.
+====
+
+[[v27-5-29]]
+
+^<<v27-5-29,29>>^ At that time Bel·shazʹzar commanded,^&#42;1^ and they clothed Daniel with purple, with a necklace of gold about his neck; and they heralded^&#42;2^ concerning him that he was to become the third ruler in the kingdom.
+
+[NOTE]
+====
+. Lit., “said.”
+. Or, “and they proclaimed.” Aram., wehakh·riʹzu; LXXBagster(Gr.), e·keʹry·xe; Lat., prae·di·caʹtum est. See 3:4 ftn.
+====
+
+[[v27-5-30]]
+
+^<<v27-5-30,30>>^ In that very night^&#42;1^ Bel·shazʹzar the Chal·deʹan king was killed
+
+[NOTE]
+====
+. See “Babylon the Great Has Fallen!” God’s Kingdom Rules! by Watch Tower Bible and Tract Society, Brooklyn, 1963, p. 227 ftn; see also ad under the heading “Belshazzar.”
+====
+
+[[v27-5-31]]
+
+^<<v27-5-31,31>>^ ^&#42;1^ and Da·riʹus^&#42;2^ the Mede himself received the kingdom, being about sixty-two years old.
+
+[NOTE]
+====
+. MLXX begin chap. 6 here.
+. “And Darius.” Aram., weDhor·yaʹwesh; LXXBagster(Gr.), Da·reiʹos; Lat., Da·riʹus; Gr., Ar·ta·xerʹxes.
+====
+
+'''
+
+xref:027-daniel/027-daniel-004.adoc#v27-4-0[&#60; Capítulo Anterior] | <<v27-5-0,Topo>> | xref:027-daniel/027-daniel-006.adoc#v27-6-0[Próximo Capítulo &#62;]

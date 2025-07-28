@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v19-1-0]]
+=== Psalms, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_BOOK ONE_
+
+_(Psalms 1 – 41)_
+
+[[v19-1-1]]
+
+^<<v19-1-1,1>>^ Happy is the man^&#42;1^ that has not walked in the counsel of the wicked ones,
+And in the way of sinners has not stood,
+And in the seat of ridiculers has not sat.
+
+[NOTE]
+====
+. Lit., “O the happiness of the man.” Heb., ʼashʹreh ha·ʼishʹ.
+====
+
+[[v19-1-2]]
+
+^<<v19-1-2,2>>^ But his delight is in the law of Jehovah,
+And in his law he reads in an undertone day and night.
+
+[[v19-1-3]]
+
+^<<v19-1-3,3>>^ And he will certainly become like a tree planted by streams of water,
+That gives its own fruit in its season
+And the foliage of which does not wither,
+And everything he does will succeed.
+
+[[v19-1-4]]
+
+^<<v19-1-4,4>>^ The wicked are not like that,
+But are like the chaff that the wind^&#42;1^ drives away.
+
+[NOTE]
+====
+. “Wind.” Heb., ruʹach; Gr., aʹne·mos; Lat., venʹtus. See Ge 1:2 ftn, “Force.”
+====
+
+[[v19-1-5]]
+
+^<<v19-1-5,5>>^ That is why the wicked ones will not stand up in the judgment,
+Nor sinners in the assembly of righteous ones.
+
+[[v19-1-6]]
+
+^<<v19-1-6,6>>^ For Jehovah is taking knowledge of the way of righteous ones,
+But the very way of wicked ones will perish.
+
+'''
+
+xref:018-job/018-job-042.adoc#v18-42-0[&#60; Capítulo Anterior] | <<v19-1-0,Topo>> | xref:019-psalm/019-psalm-002.adoc#v19-2-0[Próximo Capítulo &#62;]

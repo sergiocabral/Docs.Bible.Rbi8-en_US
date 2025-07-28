@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v20-10-0]]
+=== Proverbs, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-10-1]]
+
+^<<v20-10-1,1>>^ Proverbs of Solʹo·mon.
+A wise son is the one that makes a father rejoice, and a stupid son is the grief of his mother.
+
+[[v20-10-2]]
+
+^<<v20-10-2,2>>^ The treasures of the wicked one will be of no benefit, but righteousness is what will deliver from death.
+
+[[v20-10-3]]
+
+^<<v20-10-3,3>>^ Jehovah will not cause the soul of the righteous one to go hungry, but the craving of the wicked ones he will push away.
+
+[[v20-10-4]]
+
+^<<v20-10-4,4>>^ The one working with a slack hand will be of little means, but the hand of the diligent one is what will make one rich.
+
+[[v20-10-5]]
+
+^<<v20-10-5,5>>^ The son acting with insight is gathering during the summertime; the son acting shamefully is fast asleep during the harvest.
+
+[[v20-10-6]]
+
+^<<v20-10-6,6>>^ Blessings are for the head of the righteous one, but as regards the mouth of the wicked ones, it covers up violence.^&#42;1^
+
+[NOTE]
+====
+. Or, “violence will cover the very mouth of wicked people.” Compare vs 11.
+====
+
+[[v20-10-7]]
+
+^<<v20-10-7,7>>^ The remembrance of the righteous one is due for a blessing, but the very name of the wicked ones will rot.
+
+[[v20-10-8]]
+
+^<<v20-10-8,8>>^ The one wise in heart will accept commandments, but the one foolish with his lips will be trodden down.
+
+[[v20-10-9]]
+
+^<<v20-10-9,9>>^ He that is walking in integrity will walk in security, but he that is making his ways crooked will make himself known.
+
+[[v20-10-10]]
+
+^<<v20-10-10,10>>^ The one winking his eye will give pain, and the one foolish with his lips will be trodden down.
+
+[[v20-10-11]]
+
+^<<v20-10-11,11>>^ The mouth of the righteous one is a source^&#42;1^ of life; but as regards the mouth of the wicked ones, it covers up violence.
+
+[NOTE]
+====
+. Or, “well.” Heb., meqohrʹ.
+====
+
+[[v20-10-12]]
+
+^<<v20-10-12,12>>^ Hatred is what stirs up contentions, but love covers over even all transgressions.
+
+[[v20-10-13]]
+
+^<<v20-10-13,13>>^ On the lips of the understanding person wisdom is found, but the rod is for the back of one in want of heart.^&#42;1^
+
+[NOTE]
+====
+. Or, “one lacking good motive.” Heb., chasar-levʹ.
+====
+
+[[v20-10-14]]
+
+^<<v20-10-14,14>>^ The wise are the ones that treasure up knowledge, but the mouth of the foolish one is near to ruin itself.
+
+[[v20-10-15]]
+
+^<<v20-10-15,15>>^ The valuable things of a rich man are his strong town. The ruin of the lowly ones is their poverty.
+
+[[v20-10-16]]
+
+^<<v20-10-16,16>>^ The activity of the righteous one results in life; the produce of the wicked one results in sin.
+
+[[v20-10-17]]
+
+^<<v20-10-17,17>>^ He that is holding to discipline is a path to life,^&#42;1^ but he that is leaving reproof is causing to wander.
+
+[NOTE]
+====
+. “Is on the path to life,” by altering the vowel pointing of M.
+====
+
+[[v20-10-18]]
+
+^<<v20-10-18,18>>^ Where there is one covering over hatred there are lips of falsehood, and the one bringing forth a bad report is stupid.
+
+[[v20-10-19]]
+
+^<<v20-10-19,19>>^ In the abundance of words there does not fail to be transgression, but the one keeping his lips in check is acting discreetly.
+
+[[v20-10-20]]
+
+^<<v20-10-20,20>>^ The tongue of the righteous one is choice silver; the heart of the wicked one is worth little.
+
+[[v20-10-21]]
+
+^<<v20-10-21,21>>^ The very lips of the righteous one keep pasturing^&#42;1^ many, but for want of heart^&#42;2^ the foolish themselves keep dying.
+
+[NOTE]
+====
+. “Keep pasturing (shepherding).” Heb., yir·ʽuʹ.
+. Or, “for lack of good motive.” Heb., ba·chasar-levʹ.
+====
+
+[[v20-10-22]]
+
+^<<v20-10-22,22>>^ The blessing of Jehovah—that is what makes rich, and he adds no pain with it.^&#42;1^
+
+[NOTE]
+====
+. Or, “and pain[ful effort] adds nothing to it.”
+====
+
+[[v20-10-23]]
+
+^<<v20-10-23,23>>^ To the stupid one the carrying on of loose conduct^&#42;1^ is like sport, but wisdom is for the man^&#42;2^ of discernment.
+
+[NOTE]
+====
+. “Loose conduct.” Heb., zim·mahʹ. See Ga 5:19 ftn, “Conduct.”
+. “For the man of.” Heb., leʼishʹ.
+====
+
+[[v20-10-24]]
+
+^<<v20-10-24,24>>^ The thing frightful to the wicked one—that is what will come to him; but the desire of the righteous ones will be granted.
+
+[[v20-10-25]]
+
+^<<v20-10-25,25>>^ As when the storm wind passes over, so the wicked one is no more; but the righteous one is a foundation to time indefinite.
+
+[[v20-10-26]]
+
+^<<v20-10-26,26>>^ As vinegar to the teeth and as smoke to the eyes, so the lazy man is to those sending him forth.
+
+[[v20-10-27]]
+
+^<<v20-10-27,27>>^ The very fear of Jehovah will add days, but the years themselves of the wicked ones will be cut short.
+
+[[v20-10-28]]
+
+^<<v20-10-28,28>>^ The expectation of the righteous ones is a rejoicing, but the very hope of the wicked ones will perish.
+
+[[v20-10-29]]
+
+^<<v20-10-29,29>>^ The way of Jehovah is a stronghold for the blameless one, but ruin is for the practicers of what is hurtful.
+
+[[v20-10-30]]
+
+^<<v20-10-30,30>>^ As for the righteous one, to time indefinite he will not be caused to stagger; but as for the wicked ones, they will not keep residing on the earth.
+
+[[v20-10-31]]
+
+^<<v20-10-31,31>>^ The mouth of the righteous one—it bears the fruit of wisdom, but the tongue of perverseness will be cut off.
+
+[[v20-10-32]]
+
+^<<v20-10-32,32>>^ The lips of the righteous one—they come to know goodwill, but the mouth of the wicked ones is perverseness.
+
+'''
+
+xref:020-proverbs/020-proverbs-009.adoc#v20-9-0[&#60; Capítulo Anterior] | <<v20-10-0,Topo>> | xref:020-proverbs/020-proverbs-011.adoc#v20-11-0[Próximo Capítulo &#62;]

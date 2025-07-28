@@ -1,0 +1,310 @@
+include::./index.adoc[]
+
+[[v42-23-0]]
+=== According to Luke, 23
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v42-23-1]]
+
+^<<v42-23-1,1>>^ So the multitude of them rose, one and all, and led him to Pilate.
+
+[[v42-23-2]]
+
+^<<v42-23-2,2>>^ Then they started to accuse him, saying: “This man we found subverting our nation and forbidding the paying of taxes to Caesar^&#42;1^ and saying he himself is Christ a king.”
+
+[NOTE]
+====
+. Or, “the emperor.” Gr., Kaiʹsa·ri; Lat., Caeʹsa·ri.
+====
+
+[[v42-23-3]]
+
+^<<v42-23-3,3>>^ Now Pilate asked him the question: “Are you the king of the Jews?” In answer to him he said: “You yourself are saying &#91;it&#93;.”
+
+[[v42-23-4]]
+
+^<<v42-23-4,4>>^ Then Pilate said to the chief priests and the crowds: “I find no crime in this man.”
+
+[[v42-23-5]]
+
+^<<v42-23-5,5>>^ But they began to be insistent, saying: “He stirs up the people by teaching throughout all Ju·deʹa, even starting out from Galʹi·lee to here.”
+
+[[v42-23-6]]
+
+^<<v42-23-6,6>>^ On hearing that, Pilate asked whether the man was a Gal·i·leʹan,
+
+[[v42-23-7]]
+
+^<<v42-23-7,7>>^ and, after ascertaining that he was from the jurisdiction of Herod,^&#42;1^ he sent him on to Herod, who was also himself in Jerusalem in these days.
+
+[NOTE]
+====
+. That is, Herod Antipas, son of Herod the Great. See 3:1.
+====
+
+[[v42-23-8]]
+
+^<<v42-23-8,8>>^ When Herod saw Jesus he rejoiced greatly, for over a considerable time he was wanting to see him because of having heard about him, and he was hoping to see some sign performed by him.
+
+[[v42-23-9]]
+
+^<<v42-23-9,9>>^ Now he began to question him with a good many words; but he made him no answer.
+
+[[v42-23-10]]
+
+^<<v42-23-10,10>>^ However, the chief priests and the scribes kept standing up and vehemently accusing him.
+
+[[v42-23-11]]
+
+^<<v42-23-11,11>>^ Then Herod together with his soldier guards discredited him, and he made fun of him by clothing him with a bright^&#42;1^ garment and sent him back to Pilate.
+
+[NOTE]
+====
+. Or, “splendid.”
+====
+
+[[v42-23-12]]
+
+^<<v42-23-12,12>>^ Both Herod and Pilate now became friends with each other on that very day; for before that they had continued at enmity between themselves.
+
+[[v42-23-13]]
+
+^<<v42-23-13,13>>^ Pilate then called the chief priests and the rulers and the people together
+
+[[v42-23-14]]
+
+^<<v42-23-14,14>>^ and said to them: “YOU brought this man to me as one inciting the people to revolt, and, look! I examined him in front of YOU but found in this man no ground for the charges YOU are bringing against him.
+
+[[v42-23-15]]
+
+^<<v42-23-15,15>>^ In fact, neither did Herod, for he sent him back to us; and, look! nothing deserving of death has been committed by him.
+
+[[v42-23-16]]
+
+^<<v42-23-16,16>>^ I will therefore chastise him and release him.”
+
+[[v42-23-17]]
+
+^<<v42-23-17,17>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. P75AB omit vs 17; אWVgSyp, “Now he was under necessity to release one man to them from feast to feast.” (DSyc,​s add these words after vs 19.)
+====
+
+[[v42-23-18]]
+
+^<<v42-23-18,18>>^ But with their whole multitude they cried out, saying: “Take this one away, but release Bar·abʹbas to us!”
+
+[[v42-23-19]]
+
+^<<v42-23-19,19>>^ (Which &#91;man&#93; had been thrown into prison for a certain sedition occurring in the city and for murder.)
+
+[[v42-23-20]]
+
+^<<v42-23-20,20>>^ Again Pilate called out to them, because he wanted to release Jesus.
+
+[[v42-23-21]]
+
+^<<v42-23-21,21>>^ Then they began to yell, saying: “Impale! Impale him!”^&#42;1^
+
+[NOTE]
+====
+. Or, “Fasten him on a stake (pole)!” See App 5C.
+====
+
+[[v42-23-22]]
+
+^<<v42-23-22,22>>^ The third time he said to them: “Why, what bad thing did this &#91;man&#93; do? I found nothing deserving of death in him; I will therefore chastise and release him.”
+
+[[v42-23-23]]
+
+^<<v42-23-23,23>>^ At this they began to be urgent, with loud voices, demanding that he be impaled; and their voices began to win out.
+
+[[v42-23-24]]
+
+^<<v42-23-24,24>>^ So Pilate gave sentence for their demand to be met:
+
+[[v42-23-25]]
+
+^<<v42-23-25,25>>^ he released the man that had been thrown into prison for sedition and murder and whom they were demanding, but he surrendered Jesus to their will.
+
+[[v42-23-26]]
+
+^<<v42-23-26,26>>^ Now as they led him away, they laid hold of Simon, a certain native of Cy·reʹne, coming from the country, and they placed the torture stake upon him to bear it behind Jesus.
+
+[[v42-23-27]]
+
+^<<v42-23-27,27>>^ But there was following him a great multitude of the people and of women who kept beating themselves in grief and bewailing him.
+
+[[v42-23-28]]
+
+^<<v42-23-28,28>>^ Jesus turned to the women and said: “Daughters of Jerusalem, stop weeping for me. On the contrary, weep for yourselves and for YOUR children;
+
+[[v42-23-29]]
+
+^<<v42-23-29,29>>^ because, look! days are coming in which people will say, ‘Happy are the barren women, and the wombs that did not give birth and the breasts that did not nurse!’
+
+[[v42-23-30]]
+
+^<<v42-23-30,30>>^ Then they will start to say to the mountains, ‘Fall over us!’ and to the hills, ‘Cover us over!’
+
+[[v42-23-31]]
+
+^<<v42-23-31,31>>^ Because if they do these things when the tree is moist, what will occur when it is withered?”
+
+[[v42-23-32]]
+
+^<<v42-23-32,32>>^ But two other men, evildoers, were also being led to be executed with him.
+
+[[v42-23-33]]
+
+^<<v42-23-33,33>>^ And when they got to the place called Skull,^&#42;1^ there they impaled him and the evildoers, one on his right and one on his left.
+
+[NOTE]
+====
+. “Skull.” Gr., Kra·niʹon; Lat., Cal·vaʹri·ae; J17,​18(Heb.), Gul·gol·taʼʹ. See Mt 27:33.
+====
+
+[[v42-23-34]]
+
+^<<v42-23-34,34>>^ &#91;&#91;But Jesus was saying: “Father, forgive them, for they do not know what they are doing.”&#93;&#93;^&#42;1^ Furthermore, to distribute his garments, they cast lots.
+
+[NOTE]
+====
+. אCVgSyc,p insert these bracketed words; P75BD*WSys omit.
+====
+
+[[v42-23-35]]
+
+^<<v42-23-35,35>>^ And the people stood looking on. But the rulers were sneering, saying: “Others he saved; let him save himself, if this one is the Christ of God, the Chosen One.”
+
+[[v42-23-36]]
+
+^<<v42-23-36,36>>^ Even the soldiers made fun of him, coming close and offering him sour wine
+
+[[v42-23-37]]
+
+^<<v42-23-37,37>>^ and saying: “If you are the king of the Jews, save yourself.”
+
+[[v42-23-38]]
+
+^<<v42-23-38,38>>^ There was also an inscription over him:^&#42;1^ “This is the king of the Jews.”^&#42;2^
+
+[NOTE]
+====
+. According to P75BSyc,s; DVgSyp add: “(written) in letters of Greek and Latin and Hebrew,” to agree with Joh 19:20.
+. Lit., “The king of the Jews this (one).” Gr., Ho ba·si·leusʹ ton I·ou·daiʹon houʹtos; Lat., hic est rex Iu·dae·oʹrum; J22(Heb.), zeʹhuʼ meʹlekh hai·Yehu·dhimʹ.
+====
+
+[[v42-23-39]]
+
+^<<v42-23-39,39>>^ But one of the hung evildoers began to say abusively to him: “You are the Christ, are you not? Save yourself and us.”
+
+[[v42-23-40]]
+
+^<<v42-23-40,40>>^ In reply the other rebuked him and said: “Do you not fear God at all, now that you are in the same judgment?
+
+[[v42-23-41]]
+
+^<<v42-23-41,41>>^ And we, indeed, justly so, for we are receiving in full what we deserve for things we did; but this &#91;man&#93; did nothing out of the way.”
+
+[[v42-23-42]]
+
+^<<v42-23-42,42>>^ And he went on to say: “Jesus, remember me when you get into your kingdom.”
+
+[[v42-23-43]]
+
+^<<v42-23-43,43>>^ And he said to him: “Truly I tell you today,^&#42;1^ You will be with me in Paradise.”^&#42;2^
+
+[NOTE]
+====
+. “Today.” Although WH puts a comma in the Gr. text before the word for “today,” commas were not used in Gr. uncial mss. In keeping with the context, we omit the comma before “today.” Syc (fifth cent. C.E.) renders this text: “Amen, I say to thee to-day that with me thou shalt be in the Garden of Eden.”​—⁠F. C. Burkitt, The Curetonian Version of the Four Gospels, Vol. I, Cambridge, 1904.
+. “In Paradise,” אABVgJ11,​13,​16; Gr., en toi pa·ra·deiʹsoi; J17,​18,​22(Heb.), beghan-ʽEʹdhen, “in the garden of Eden.” See Ge 2:8, 10, 15, 16, in LXX.
+====
+
+[[v42-23-44]]
+
+^<<v42-23-44,44>>^ Well, by now it was about the sixth hour, and yet a darkness fell over all the earth until the ninth hour,^&#42;1^
+
+[NOTE]
+====
+. “Ninth hour” would be about 3 p.m. The “sixth hour” would be about 12 noon, counting from sunrise.
+====
+
+[[v42-23-45]]
+
+^<<v42-23-45,45>>^ because the sunlight failed; then the curtain of the sanctuary^&#42;1^ was rent down the middle.
+
+[NOTE]
+====
+. Or, “the divine habitation (dwelling).” Gr., tou na·ouʹ; Lat., temʹpli; J17,​18,​22(Heb.), ha·heh·khalʹ.
+====
+
+[[v42-23-46]]
+
+^<<v42-23-46,46>>^ And Jesus called with a loud voice and said: “Father, into your hands I entrust my spirit.” When he had said this, he expired.
+
+[[v42-23-47]]
+
+^<<v42-23-47,47>>^ Because of seeing what occurred the army officer^&#42;1^ began to glorify God, saying: “Really this man was righteous.”
+
+[NOTE]
+====
+. Or, “centurion”; a commander of 100 soldiers.
+====
+
+[[v42-23-48]]
+
+^<<v42-23-48,48>>^ And all the crowds that were gathered together there for this spectacle, when they beheld the things that occurred, began to return, beating their breasts.
+
+[[v42-23-49]]
+
+^<<v42-23-49,49>>^ Moreover, all those acquainted with him were standing at a distance. Also, women, who together had followed him from Galʹi·lee, were standing beholding these things.
+
+[[v42-23-50]]
+
+^<<v42-23-50,50>>^ And, look! a man named Joseph, who was a member of the Council,^&#42;1^ a good and righteous man—
+
+[NOTE]
+====
+. Or, “a counselor; a senator.” Gr., bou·leu·tesʹ.
+====
+
+[[v42-23-51]]
+
+^<<v42-23-51,51>>^ this &#91;man&#93; had not voted in support of their design and action—he was from Ar·i·ma·theʹa, a city of the Ju·deʹans,^&#42;1^ and was waiting for the kingdom of God;
+
+[NOTE]
+====
+. Or, “Jews.” Gr., I·ou·daiʹon.
+====
+
+[[v42-23-52]]
+
+^<<v42-23-52,52>>^ this man went to Pilate and asked for the body of Jesus.
+
+[[v42-23-53]]
+
+^<<v42-23-53,53>>^ And he took it down and wrapped it up in fine linen, and he laid him in a tomb carved in the rock, in which no man had yet lain.
+
+[[v42-23-54]]
+
+^<<v42-23-54,54>>^ Now it was the day of Preparation, and the evening light of the sabbath was approaching.^&#42;1^
+
+[NOTE]
+====
+. Or, “and sabbath was drawing on.”
+====
+
+[[v42-23-55]]
+
+^<<v42-23-55,55>>^ But the women, who had come with him out of Galʹi·lee, followed along and took a look at the memorial tomb and how his body was laid;
+
+[[v42-23-56]]
+
+^<<v42-23-56,56>>^ and they went back to prepare spices and perfumed oils. But, of course, they rested on the sabbath according to the commandment.
+
+'''
+
+xref:042-luke/042-luke-022.adoc#v42-22-0[&#60; Capítulo Anterior] | <<v42-23-0,Topo>> | xref:042-luke/042-luke-024.adoc#v42-24-0[Próximo Capítulo &#62;]

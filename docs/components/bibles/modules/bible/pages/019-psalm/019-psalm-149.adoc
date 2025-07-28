@@ -1,0 +1,82 @@
+include::./index.adoc[]
+
+[[v19-149-0]]
+=== Psalms, 149
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-149-1]]
+
+^<<v19-149-1,1>>^ Praise Jah, YOU people!^&#42;1^
+Sing to Jehovah a new song,
+His praise in the congregation^&#42;2^ of loyal ones.
+
+[NOTE]
+====
+. See 104:35 ftns.
+. “In the congregation of.” Heb., biq·halʹ; Gr., ek·kle·siʹai; Lat., con·gre·ga·ti·oʹne.
+====
+
+[[v19-149-2]]
+
+^<<v19-149-2,2>>^ Let Israel rejoice in its grand Maker,^&#42;1^
+The sons of Zion—let them be joyful in their King.
+
+[NOTE]
+====
+. “Grand Maker,” pl. in Heb. to denote excellence and grandeur.
+====
+
+[[v19-149-3]]
+
+^<<v19-149-3,3>>^ Let them praise his name with dancing.
+With the tambourine and the harp let them make melody to him.
+
+[[v19-149-4]]
+
+^<<v19-149-4,4>>^ For Jehovah is taking pleasure in his people.
+He beautifies the meek ones with salvation.
+
+[[v19-149-5]]
+
+^<<v19-149-5,5>>^ Let the loyal ones exult in glory;^&#42;1^
+Let them cry out joyfully on their beds.
+
+[NOTE]
+====
+. Or, “with glory.”
+====
+
+[[v19-149-6]]
+
+^<<v19-149-6,6>>^ Let the songs extolling God^&#42;1^ be in their throat,
+And a two-edged sword be in their hand,
+
+[NOTE]
+====
+. Lit., “extolling songs of God.”
+====
+
+[[v19-149-7]]
+
+^<<v19-149-7,7>>^ To execute vengeance upon the nations,
+Rebukes upon the national groups,
+
+[[v19-149-8]]
+
+^<<v19-149-8,8>>^ To bind their kings with shackles
+And their glorified^&#42;1^ ones with fetters of iron,
+
+[NOTE]
+====
+. Or, “distinguished.”
+====
+
+[[v19-149-9]]
+
+^<<v19-149-9,9>>^ To execute upon them the judicial decision written.
+Such splendor belongs to all his loyal ones.
+Praise Jah, YOU people!
+
+'''
+
+xref:019-psalm/019-psalm-148.adoc#v19-148-0[&#60; Capítulo Anterior] | <<v19-149-0,Topo>> | xref:019-psalm/019-psalm-150.adoc#v19-150-0[Próximo Capítulo &#62;]

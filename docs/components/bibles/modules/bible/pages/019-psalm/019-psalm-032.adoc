@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v19-32-0]]
+=== Psalms, 32
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David. Masʹkil.^&#42;1^_
+
+[[v19-32-1]]
+
+^<<v19-32-1,1>>^ Happy is the one whose revolt is pardoned, whose sin is covered.
+
+[[v19-32-2]]
+
+^<<v19-32-2,2>>^ Happy is the man^&#42;1^ to whose account Jehovah does not put error,
+And in whose spirit there is no deceit.
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-32-3]]
+
+^<<v19-32-3,3>>^ When I kept silent my bones wore out through my groaning^&#42;1^ all day long.
+
+[NOTE]
+====
+. Lit., “roaring.”
+====
+
+[[v19-32-4]]
+
+^<<v19-32-4,4>>^ For day and night your hand was heavy upon me.
+My life’s moisture has been changed as in the dry heat of summer. Seʹlah.
+
+[[v19-32-5]]
+
+^<<v19-32-5,5>>^ My sin I finally confessed to you, and my error I did not cover.
+I said: “I shall make confession over my transgressions to Jehovah.”
+And you yourself pardoned the error of my sins. Seʹlah.
+
+[[v19-32-6]]
+
+^<<v19-32-6,6>>^ On this account every loyal one will pray to you
+At such a time only as you may be found.
+As for the flood of many waters, they will not touch him himself.
+
+[[v19-32-7]]
+
+^<<v19-32-7,7>>^ You are a place of concealment for me; you will safeguard me from distress itself.
+With joyful cries at providing escape you will surround me. Seʹlah.
+
+[[v19-32-8]]
+
+^<<v19-32-8,8>>^ “I shall make you have insight and instruct you in the way you should go.
+I will give advice with my eye upon you.^&#42;1^
+
+[NOTE]
+====
+. “I will fix my eye upon you,” by a slight correction.
+====
+
+[[v19-32-9]]
+
+^<<v19-32-9,9>>^ Do not make yourselves like a horse or mule without understanding,
+Whose spiritedness is to be curbed even by bridle or halter
+Before &#91;they&#93; will come near^&#42;1^ to you.”
+
+[NOTE]
+====
+. Or, “that they may not come near.” Lit., “there is not a coming near.” In Heb. this is a verb in the infinitive construct.
+====
+
+[[v19-32-10]]
+
+^<<v19-32-10,10>>^ Many are the pains that the wicked one has;
+But as for the one trusting in Jehovah,^&#42;1^ loving-kindness^&#42;2^ itself surrounds him.
+
+[NOTE]
+====
+. See App 1C §10.
+. Or, “loyal love.”
+====
+
+[[v19-32-11]]
+
+^<<v19-32-11,11>>^ Rejoice in Jehovah^&#42;1^ and be joyful, YOU righteous ones;
+And cry out joyfully, all YOU who are upright in heart.
+
+[NOTE]
+====
+. See App 1C §10.
+====
+
+'''
+
+xref:019-psalm/019-psalm-031.adoc#v19-31-0[&#60; Capítulo Anterior] | <<v19-32-0,Topo>> | xref:019-psalm/019-psalm-033.adoc#v19-33-0[Próximo Capítulo &#62;]

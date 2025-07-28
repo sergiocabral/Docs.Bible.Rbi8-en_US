@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v13-7-0]]
+=== The First of Chronicles, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v13-7-1]]
+
+^<<v13-7-1,1>>^ Now the sons of Isʹsa·char were Toʹla and Puʹah, Jaʹshub and Shimʹron, four.
+
+[[v13-7-2]]
+
+^<<v13-7-2,2>>^ And the sons of Toʹla were Uzʹzi and Re·phaʹiah and Jeʹri·el and Jahʹmai and Ibʹsam and She·muʹel, heads of the house of their forefathers. Of Toʹla there were valiant, mighty men, by their descendants. Their number in the days of David was twenty-two thousand six hundred.
+
+[[v13-7-3]]
+
+^<<v13-7-3,3>>^ And the sons of Uzʹzi were Iz·ra·hiʹah; and the sons of Iz·ra·hiʹah were Miʹcha·el and O·ba·diʹah and Joel, Is·shiʹah,     , five,^&#42;1^ all of them being heads.
+
+[NOTE]
+====
+. “Five,” MLXXVg; Sy, “four.”
+====
+
+[[v13-7-4]]
+
+^<<v13-7-4,4>>^ And with them by their descendants, according to the house of their forefathers, there were troops of the army for war, thirty-six thousand, for they had many^&#42;1^ wives and sons.
+
+[NOTE]
+====
+. Or, “they multiplied.”
+====
+
+[[v13-7-5]]
+
+^<<v13-7-5,5>>^ And their brothers of all the families of Isʹsa·char were valiant, mighty men, eighty-seven thousand by the genealogical enrollment of them all.
+
+[[v13-7-6]]
+
+^<<v13-7-6,6>>^ &#91;The sons of&#93; Benjamin were Beʹla and Beʹcher and Je·diʹa·el, three.
+
+[[v13-7-7]]
+
+^<<v13-7-7,7>>^ And the sons of Beʹla were Ezʹbon and Uzʹzi and Uzʹzi·el and Jerʹi·moth and Iʹri, five, heads of the house of their forefathers, valiant, mighty men; and their genealogical enrollment was twenty-two thousand and thirty-four.
+
+[[v13-7-8]]
+
+^<<v13-7-8,8>>^ And the sons of Beʹcher were Ze·miʹrah and Joʹash and E·li·eʹzer and Eli·o·eʹnai and Omʹri and Jerʹe·moth and A·biʹjah and Anʹa·thoth and Alʹe·meth, all these the sons of Beʹcher.
+
+[[v13-7-9]]
+
+^<<v13-7-9,9>>^ And their genealogical enrollment by their descendants as respects the heads of the house of their forefathers, valiant, mighty men, was twenty thousand two hundred.
+
+[[v13-7-10]]
+
+^<<v13-7-10,10>>^ And the sons of Je·diʹa·el were Bilʹhan; and the sons of Bilʹhan were Jeʹush and Benjamin and Eʹhud and Che·naʹa·nah and Zeʹthan and Tarʹshish and A·hishʹa·har.
+
+[[v13-7-11]]
+
+^<<v13-7-11,11>>^ All these were the sons of Je·diʹa·el, according to the heads of their forefathers, valiant, mighty men, seventeen thousand two hundred going out to the army for war.
+
+[[v13-7-12]]
+
+^<<v13-7-12,12>>^ And the Shupʹpim and the Hupʹpim were the sons of Ir; the Huʹshim were the sons of Aʹher.
+
+[[v13-7-13]]
+
+^<<v13-7-13,13>>^ The sons of Naphʹta·li were Jahʹzi·el and Guʹni and Jeʹzer and Shalʹlum,^&#42;1^ the sons of Bilʹhah.
+
+[NOTE]
+====
+. “Shallum,” MLXX; LXXL, seven Heb. mss, Ge 46:24 and Nu 26:49, “Shillem.”
+====
+
+[[v13-7-14]]
+
+^<<v13-7-14,14>>^ The sons of Ma·nasʹseh were Asʹri·el, whom his Syrian concubine bore. (She bore Maʹchir the father of Gilʹe·ad.
+
+[[v13-7-15]]
+
+^<<v13-7-15,15>>^ And Maʹchir himself took a wife for Hupʹpim and for Shupʹpim, and the name of his sister was Maʹa·cah.) And the name of the second was Ze·loʹphe·had, but Ze·loʹphe·had came to have daughters.
+
+[[v13-7-16]]
+
+^<<v13-7-16,16>>^ In time Maʹa·cah, Maʹchir’s wife, bore a son and called his name Peʹresh; and the name of his brother was Sheʹresh; and his sons were Uʹlam and Reʹkem.
+
+[[v13-7-17]]
+
+^<<v13-7-17,17>>^ And the sons of Uʹlam were Beʹdan. These were the sons of Gilʹe·ad the son of Maʹchir the son of Ma·nasʹseh.
+
+[[v13-7-18]]
+
+^<<v13-7-18,18>>^ And his sister was Ham·moʹle·cheth. She gave birth to Ishʹhod and Abi-eʹzer and Mahʹlah.
+
+[[v13-7-19]]
+
+^<<v13-7-19,19>>^ And the sons of She·miʹda came to be A·hiʹan and Sheʹchem and Likʹhi and A·niʹam.
+
+[[v13-7-20]]
+
+^<<v13-7-20,20>>^ And the sons of Eʹphra·im were Shuʹthe·lah and Beʹred his son and Taʹhath his son and E·le·aʹdah his son and Taʹhath his son,
+
+[[v13-7-21]]
+
+^<<v13-7-21,21>>^ and Zaʹbad his son and Shuʹthe·lah his son and Eʹzer and Eʹle·ad. And the men of Gath that were born in the land killed them because they came down to take their livestock.
+
+[[v13-7-22]]
+
+^<<v13-7-22,22>>^ And Eʹphra·im their father carried on mourning for many days, and his brothers kept coming in to comfort him.
+
+[[v13-7-23]]
+
+^<<v13-7-23,23>>^ Afterward he had relations with his wife, so that she became pregnant and gave birth to a son. But he called his name^&#42;1^ Be·riʹah, because it was with calamity that she happened to be in his house.
+
+[NOTE]
+====
+. “He called his name.” Or, “his name was called.” TSy and four Heb. mss, “she called his name.”
+====
+
+[[v13-7-24]]
+
+^<<v13-7-24,24>>^ And his daughter was Sheʹe·rah, and she got to build Beth-hoʹron, the lower and the upper, and Uzʹzen-sheʹe·rah.
+
+[[v13-7-25]]
+
+^<<v13-7-25,25>>^ And there was Reʹphah his son, and Reʹsheph, and Teʹlah his son, and Taʹhan his son,
+
+[[v13-7-26]]
+
+^<<v13-7-26,26>>^ Laʹdan his son, Am·miʹhud his son, E·lishʹa·ma his son,
+
+[[v13-7-27]]
+
+^<<v13-7-27,27>>^ Nun^&#42;1^ his son, Je·hoshʹu·a^&#42;2^ his son.
+
+[NOTE]
+====
+. “Nun,” Vg; M, “Non.”
+. Or, “Joshua.”
+====
+
+[[v13-7-28]]
+
+^<<v13-7-28,28>>^ And their possession and their dwelling places were Bethʹel and its dependent towns and, to the east, Naʹa·ran and, to the west, Geʹzer and its dependent towns, and Sheʹchem and its dependent towns clear to Gaʹza^&#42;1^ and its dependent towns;
+
+[NOTE]
+====
+. “Gaza,” T and many Heb. mss. Not the Gaza in Philistia, which was assigned to Judah.
+====
+
+[[v13-7-29]]
+
+^<<v13-7-29,29>>^ and by the side of the sons of Ma·nasʹseh Beth-sheʹan and its dependent towns, Taʹa·nach and its dependent towns, Me·gidʹdo and its dependent towns, Dor and its dependent towns. In these the sons of Joseph the son of Israel dwelt.
+
+[[v13-7-30]]
+
+^<<v13-7-30,30>>^ The sons of Ashʹer were Imʹnah and Ishʹvah and Ishʹvi and Be·riʹah; and Seʹrah was their sister.
+
+[[v13-7-31]]
+
+^<<v13-7-31,31>>^ And the sons of Be·riʹah were Heʹber and Malʹchi·el, who was the father of Birʹza·ith.
+
+[[v13-7-32]]
+
+^<<v13-7-32,32>>^ As for Heʹber, he became father to Japhʹlet and Shoʹmer and Hoʹtham, and to Shuʹa their sister.
+
+[[v13-7-33]]
+
+^<<v13-7-33,33>>^ And the sons of Japhʹlet were Paʹsach and Bimʹhal and Ashʹvath. These were the sons of Japhʹlet.
+
+[[v13-7-34]]
+
+^<<v13-7-34,34>>^ And the sons of Sheʹmer^&#42;1^ were Aʹhi and Rohʹgah, Je·hubʹbah and Aʹram.
+
+[NOTE]
+====
+. “Shemer,” LXXB; M, “Sha­mer”; LXXAVg, “Shomer.”
+====
+
+[[v13-7-35]]
+
+^<<v13-7-35,35>>^ And the sons of Heʹlem his brother were Zoʹphah and Imʹna and Sheʹlesh and Aʹmal.
+
+[[v13-7-36]]
+
+^<<v13-7-36,36>>^ The sons of Zoʹphah were Suʹah and Harʹne·pher and Shuʹal and Beʹri and Imʹrah,
+
+[[v13-7-37]]
+
+^<<v13-7-37,37>>^ Beʹzer and Hod and Shamʹma and Shilʹshah and Ithʹran and Be·eʹra.
+
+[[v13-7-38]]
+
+^<<v13-7-38,38>>^ And the sons of Jeʹther were Je·phunʹneh and Pisʹpah and Aʹra.
+
+[[v13-7-39]]
+
+^<<v13-7-39,39>>^ And the sons of Ulʹla were Aʹrah and Hanʹni·el and Ri·ziʹa.
+
+[[v13-7-40]]
+
+^<<v13-7-40,40>>^ All these were the sons of Ashʹer, heads of the house of the forefathers, select, valiant, mighty men, heads of the chieftains; and their genealogical enrollment was in the army in the war. Their number was twenty-six thousand men.
+
+'''
+
+xref:013-1-chronicles/013-1-chronicles-006.adoc#v13-6-0[&#60; Capítulo Anterior] | <<v13-7-0,Topo>> | xref:013-1-chronicles/013-1-chronicles-008.adoc#v13-8-0[Próximo Capítulo &#62;]

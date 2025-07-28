@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v19-75-0]]
+=== Psalms, 75
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. “Do not bring to ruin.”^&#42;1^ A melody. Of Aʹsaph. A song._
+
+[[v19-75-1]]
+
+^<<v19-75-1,1>>^ We give thanks to you, O God; we give thanks to you,
+And your name is near.
+Men have to declare your wondrous works.
+
+[[v19-75-2]]
+
+^<<v19-75-2,2>>^ “For I proceeded to take a set time;
+I myself began judging with uprightness.
+
+[[v19-75-3]]
+
+^<<v19-75-3,3>>^ The earth and all its inhabitants being dissolved,
+It was I that adjusted its pillars.” Seʹlah.
+
+[[v19-75-4]]
+
+^<<v19-75-4,4>>^ I said to the foolish ones: “Do not be foolish,”
+And to the wicked ones: “Do not exalt the horn.
+
+[[v19-75-5]]
+
+^<<v19-75-5,5>>^ Do not exalt YOUR horn on high.
+Do not speak with an arrogant neck.
+
+[[v19-75-6]]
+
+^<<v19-75-6,6>>^ For neither from the east^&#42;1^ nor from the west,
+Nor from the south^&#42;2^ is there an exalting.
+
+[NOTE]
+====
+. Lit., “from a going forth,” that is, of the sun.
+. Lit., “wilderness,” that is, to the south.
+====
+
+[[v19-75-7]]
+
+^<<v19-75-7,7>>^ For God is the judge.
+This one he abases, and that one he exalts.
+
+[[v19-75-8]]
+
+^<<v19-75-8,8>>^ For there is a cup in the hand of Jehovah,
+And the wine is foaming, it is full of mixture.
+And he will surely pour out its dregs from it;
+All the wicked ones of the earth will drain &#91;them&#93; out, drink &#91;them&#93;.”
+
+[[v19-75-9]]
+
+^<<v19-75-9,9>>^ But as for me, I shall tell &#91;of it&#93; to time indefinite;
+I will make melody to the God of Jacob.
+
+[[v19-75-10]]
+
+^<<v19-75-10,10>>^ And all the horns of the wicked ones I shall cut down.
+The horns of the righteous one will be exalted.
+
+'''
+
+xref:019-psalm/019-psalm-074.adoc#v19-74-0[&#60; Capítulo Anterior] | <<v19-75-0,Topo>> | xref:019-psalm/019-psalm-076.adoc#v19-76-0[Próximo Capítulo &#62;]

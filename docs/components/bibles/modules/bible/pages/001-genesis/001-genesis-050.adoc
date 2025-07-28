@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v1-50-0]]
+=== Genesis, 50
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-50-1]]
+
+^<<v1-50-1,1>>^ Then Joseph fell upon the face of his father and burst into tears over him and kissed him.
+
+[[v1-50-2]]
+
+^<<v1-50-2,2>>^ After that Joseph commanded his servants, the physicians, to embalm his father. So the physicians embalmed Israel,
+
+[[v1-50-3]]
+
+^<<v1-50-3,3>>^ and they took fully forty days for him, for this many days they customarily take for the embalming, and the Egyptians continued to shed tears for him seventy days.
+
+[[v1-50-4]]
+
+^<<v1-50-4,4>>^ Finally the days of weeping for him passed, and Joseph spoke to Pharʹaoh’s household, saying: “If, now, I have found favor in YOUR eyes, speak, please, in the hearing of Pharʹaoh, saying,
+
+[[v1-50-5]]
+
+^<<v1-50-5,5>>^ ‘My father made me swear, saying: “Look! I am dying. In my burial place which I have excavated for myself in the land of Caʹnaan is where you are to bury me.” And now, please, let me go up and bury my father, after which I am willing to return.’”
+
+[[v1-50-6]]
+
+^<<v1-50-6,6>>^ Accordingly Pharʹaoh said: “Go up and bury your father just as he made you swear.”
+
+[[v1-50-7]]
+
+^<<v1-50-7,7>>^ So Joseph went up to bury his father, and there went up with him all of Pharʹaoh’s servants, the older men^&#42;1^ of his household and all the older men of the land of Egypt,
+
+[NOTE]
+====
+. Or, “elders.”
+====
+
+[[v1-50-8]]
+
+^<<v1-50-8,8>>^ and all of Joseph’s household and his brothers and the household of his father. Only their little children and their flocks and their herds they left in the land of Goʹshen.
+
+[[v1-50-9]]
+
+^<<v1-50-9,9>>^ There also went up with him both chariots and horsemen, and the camp came to be very numerous.
+
+[[v1-50-10]]
+
+^<<v1-50-10,10>>^ Then they came to the threshing floor of Aʹtad,^&#42;1^ which is in the region of the Jordan, and there they carried on a very great and heavy wailing and he kept up the mourning rites for his father seven days.
+
+[NOTE]
+====
+. Lit., “the Thorny Bush.” Heb., ha·ʼA·tadhʹ.
+====
+
+[[v1-50-11]]
+
+^<<v1-50-11,11>>^ And the inhabitants of the land, the Caʹnaan·ites, got to see the mourning rites in the threshing floor of Aʹtad, and they exclaimed: “This is a heavy mourning for the Egyptians!” That is why its name was called Aʹbel-mizʹra·im,^&#42;1^ which is in the region of the Jordan.
+
+[NOTE]
+====
+. Meaning “Mourning of the Egyptians.” “Mizraim” is the Heb. name for Egyptians. See 10:13.
+====
+
+[[v1-50-12]]
+
+^<<v1-50-12,12>>^ And his sons proceeded to do for him exactly as he had commanded them.
+
+[[v1-50-13]]
+
+^<<v1-50-13,13>>^ So his sons carried him into the land of Caʹnaan and buried him in the cave of the field of Mach·peʹlah, the field that Abraham had purchased for the possession of a burial place from Eʹphron the Hitʹtite in front of Mamʹre.
+
+[[v1-50-14]]
+
+^<<v1-50-14,14>>^ Afterward Joseph returned to Egypt, he and his brothers and all those who went up with him to bury his father, after he had buried his father.
+
+[[v1-50-15]]
+
+^<<v1-50-15,15>>^ When the brothers of Joseph saw that their father was dead,^&#42;1^ they began to say: “It may be that Joseph is harboring animosity against us and he will be sure to repay us for all the evil that we have rendered him.”
+
+[NOTE]
+====
+. “Joseph’s brothers saw that their father had died and they were afraid,” Sy; Vg, “Now that he was dead, his brothers were afraid.”
+====
+
+[[v1-50-16]]
+
+^<<v1-50-16,16>>^ So they expressed a command to Joseph in these words: “Your father gave the command before his death, saying,
+
+[[v1-50-17]]
+
+^<<v1-50-17,17>>^ ‘This is what YOU are to say to Joseph: “I beseech you, pardon, please, the revolt of your brothers and their sin in that they have rendered evil to you.”’ And now pardon, please, the revolt of the servants of your father’s God.” And Joseph burst into tears when they spoke to him.
+
+[[v1-50-18]]
+
+^<<v1-50-18,18>>^ Following that his brothers also came and fell down before him and said: “Here we are as slaves^&#42;1^ to you!”
+
+[NOTE]
+====
+. Or, “servants.”
+====
+
+[[v1-50-19]]
+
+^<<v1-50-19,19>>^ Then Joseph said to them: “Do not be afraid, for am I in the place of God?
+
+[[v1-50-20]]
+
+^<<v1-50-20,20>>^ As for YOU, YOU had evil in mind against me. God had it in mind for good for the purpose of acting as at this day to preserve many people alive.
+
+[[v1-50-21]]
+
+^<<v1-50-21,21>>^ So now do not be afraid. I myself shall keep supplying YOU and YOUR little children with food.” Thus he comforted them and spoke reassuringly to them.^&#42;1^
+
+[NOTE]
+====
+. Lit., “spoke to their heart.”
+====
+
+[[v1-50-22]]
+
+^<<v1-50-22,22>>^ And Joseph continued to dwell in Egypt, he and the house of his father; and Joseph lived for a hundred and ten years.
+
+[[v1-50-23]]
+
+^<<v1-50-23,23>>^ And Joseph got to see Eʹphra·im’s sons of the third generation,^&#42;1^ also the sons of Maʹchir, Ma·nasʹseh’s son. They were born upon Joseph’s knees.
+
+[NOTE]
+====
+. Lit., “sons of the third [generated] ones.”
+====
+
+[[v1-50-24]]
+
+^<<v1-50-24,24>>^ At length Joseph said to his brothers: “I am dying; but God will without fail turn his attention to YOU, and he will certainly bring YOU up out of this land to the land about which he swore^&#42;1^ to Abraham, to Isaac and to Jacob.”
+
+[NOTE]
+====
+. Or, “land that he promised on oath.”
+====
+
+[[v1-50-25]]
+
+^<<v1-50-25,25>>^ Hence Joseph made the sons of Israel swear, saying: “God will without fail turn his attention to YOU. Accordingly YOU must take my bones up out of here.”
+
+[[v1-50-26]]
+
+^<<v1-50-26,26>>^ After that Joseph died at the age of a hundred and ten years; and they had him embalmed, and he was put in a coffin in Egypt.
+
+'''
+
+xref:001-genesis/001-genesis-049.adoc#v1-49-0[&#60; Capítulo Anterior] | <<v1-50-0,Topo>> | xref:002-exodus/002-exodus-001.adoc#v2-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,156 @@
+include::./index.adoc[]
+
+[[v19-33-0]]
+=== Psalms, 33
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-33-1]]
+
+^<<v19-33-1,1>>^ Cry out joyfully, O YOU righteous ones, because of Jehovah.
+On the part of the upright ones praise is fitting.
+
+[[v19-33-2]]
+
+^<<v19-33-2,2>>^ Give thanks to Jehovah on the harp;
+On an instrument of ten strings make melody to him.
+
+[[v19-33-3]]
+
+^<<v19-33-3,3>>^ Sing to him a new song;
+Do YOUR best at playing on the strings along with joyful shouting.
+
+[[v19-33-4]]
+
+^<<v19-33-4,4>>^ For the word of Jehovah is upright,
+And all his work is in faithfulness.
+
+[[v19-33-5]]
+
+^<<v19-33-5,5>>^ He is a lover of righteousness and justice.
+With the loving-kindness of Jehovah the earth is filled.
+
+[[v19-33-6]]
+
+^<<v19-33-6,6>>^ By the word of Jehovah the heavens themselves were made,
+And by the spirit^&#42;1^ of his mouth all their army.
+
+[NOTE]
+====
+. Or, “and by the breath.” Heb., u·veruʹach; Gr., pneuʹma·ti; Lat., spiʹri·tu. See Ge 6:17 ftn, “Active.”
+====
+
+[[v19-33-7]]
+
+^<<v19-33-7,7>>^ He is gathering as by a dam^&#42;1^ the waters of the sea,
+Putting in storehouses the surging waters.^&#42;2^
+
+[NOTE]
+====
+. “Skin bottles,” in agreement with LXXSyVg.
+. “The surging waters.” Heb., tehoh·mohthʹ, pl. of tehohmʹ; LXXVg, “abysses.” See Ge 1:2 and ftn, “Deep.”
+====
+
+[[v19-33-8]]
+
+^<<v19-33-8,8>>^ Let all &#91;those of&#93; the earth^&#42;1^ be in fear of Jehovah.
+At him let all the inhabitants of the productive land^&#42;2^ be frightened.
+
+[NOTE]
+====
+. Lit., “all the earth,” but accompanied by a masc. pl. verb. Compare Ge 10:25 ftn, “Earth.”
+. “The productive land.” Heb., the·velʹ; LXX, “the inhabited earth”; Lat., orʹbem, “circle,” that is, of the earth.
+====
+
+[[v19-33-9]]
+
+^<<v19-33-9,9>>^ For he himself said, and it came to be;
+He himself commanded, and it proceeded to stand so.
+
+[[v19-33-10]]
+
+^<<v19-33-10,10>>^ Jehovah himself has broken up the counsel of the nations;
+He has thwarted the thoughts of the peoples.
+
+[[v19-33-11]]
+
+^<<v19-33-11,11>>^ To time indefinite the very counsel of Jehovah will stand;
+The thoughts of his heart are to one generation after another generation.
+
+[[v19-33-12]]
+
+^<<v19-33-12,12>>^ Happy is the nation whose God^&#42;1^ is Jehovah,
+The people whom he has chosen as his inheritance.
+
+[NOTE]
+====
+. “Whose God.” Heb., ʼElo·havʹ.
+====
+
+[[v19-33-13]]
+
+^<<v19-33-13,13>>^ From the heavens Jehovah has looked,
+He has seen all the sons of men.^&#42;1^
+
+[NOTE]
+====
+. Or, “mankind.” Heb., ha·ʼa·dhamʹ.
+====
+
+[[v19-33-14]]
+
+^<<v19-33-14,14>>^ From the established place where he dwells^&#42;1^
+He has gazed at all those dwelling on the earth.
+
+[NOTE]
+====
+. Lit., “place of his dwelling.”
+====
+
+[[v19-33-15]]
+
+^<<v19-33-15,15>>^ He is forming their hearts all together;^&#42;1^
+He is considering all their works.
+
+[NOTE]
+====
+. Or, “at one (the same) time.”
+====
+
+[[v19-33-16]]
+
+^<<v19-33-16,16>>^ There is no king saved by the abundance of military forces;
+A mighty man himself is not delivered by the abundance of power.
+
+[[v19-33-17]]
+
+^<<v19-33-17,17>>^ The horse is a deception for salvation,
+And by the abundance of its vital energy it does not afford escape.
+
+[[v19-33-18]]
+
+^<<v19-33-18,18>>^ Look! The eye of Jehovah is toward those fearing him,
+To those waiting for his loving-kindness,
+
+[[v19-33-19]]
+
+^<<v19-33-19,19>>^ To deliver their soul from death itself,
+And to preserve them alive in famine.
+
+[[v19-33-20]]
+
+^<<v19-33-20,20>>^ Our very soul has been in expectation of Jehovah.
+Our helper and our shield he is.
+
+[[v19-33-21]]
+
+^<<v19-33-21,21>>^ For in him our heart rejoices;
+For in his holy name we have put our trust.
+
+[[v19-33-22]]
+
+^<<v19-33-22,22>>^ Let your loving-kindness, O Jehovah, prove to be upon us,
+Even as we have kept waiting for you.
+
+'''
+
+xref:019-psalm/019-psalm-032.adoc#v19-32-0[&#60; Capítulo Anterior] | <<v19-33-0,Topo>> | xref:019-psalm/019-psalm-034.adoc#v19-34-0[Próximo Capítulo &#62;]

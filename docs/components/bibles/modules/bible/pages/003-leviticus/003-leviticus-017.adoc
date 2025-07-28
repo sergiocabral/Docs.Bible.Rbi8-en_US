@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v3-17-0]]
+=== Leviticus, 17
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-17-1]]
+
+^<<v3-17-1,1>>^ And Jehovah went on to speak to Moses, saying:
+
+[[v3-17-2]]
+
+^<<v3-17-2,2>>^ “Speak to Aaron and his sons and all the sons of Israel, and you must say to them, ‘This is the thing that Jehovah has commanded, saying:
+
+[[v3-17-3]]
+
+^<<v3-17-3,3>>^ “‘“As for any man of the house of Israel who slaughters a bull or a young ram or a goat in the camp or who slaughters it outside the camp
+
+[[v3-17-4]]
+
+^<<v3-17-4,4>>^ and does not actually bring it to the entrance of the tent of meeting to present it as an offering to Jehovah before the tabernacle of Jehovah, bloodguilt will be counted to that man. He has shed blood, and that man must be cut off from among his people,
+
+[[v3-17-5]]
+
+^<<v3-17-5,5>>^ in order that the sons of Israel may bring their sacrifices, which they are sacrificing in the open field, and they must bring them to Jehovah to the entrance of the tent of meeting to the priest, and they must sacrifice these as communion sacrifices to Jehovah.
+
+[[v3-17-6]]
+
+^<<v3-17-6,6>>^ And the priest must sprinkle the blood upon Jehovah’s altar at the entrance of the tent of meeting, and he must make the fat smoke as a restful odor to Jehovah.
+
+[[v3-17-7]]
+
+^<<v3-17-7,7>>^ So they should no longer sacrifice their sacrifices to the goat-shaped demons^&#42;1^ with which they are having immoral intercourse.^&#42;2^ This will serve as a statute to time indefinite for YOU, throughout YOUR generations.”’
+
+[NOTE]
+====
+. Or, “to the satyrs.” Lit., “to the goats (hairy or shaggy ones),” M; Vg, “to the demons”; LXX, “to the senseless things.”
+. Or, “are committing fornication (immorality).”
+====
+
+[[v3-17-8]]
+
+^<<v3-17-8,8>>^ “And you should say to them, ‘As for any man of the house of Israel or some alien resident who may be residing as an alien in YOUR midst who offers up a burnt offering or a sacrifice
+
+[[v3-17-9]]
+
+^<<v3-17-9,9>>^ and does not bring it to the entrance of the tent of meeting to render it to Jehovah, that man must be cut off from his people.
+
+[[v3-17-10]]
+
+^<<v3-17-10,10>>^ “‘As for any man of the house of Israel or some alien resident who is residing as an alien in YOUR^&#42;1^ midst who eats any sort of blood, I shall certainly set my face against the soul that is eating the blood, and I shall indeed cut him^&#42;2^ off from among his^&#42;3^ people.
+
+[NOTE]
+====
+. “Your,” LXXSy.
+. Lit., “her,” that is, the “soul.”
+. Lit., “her,” that is, the soul’s.
+====
+
+[[v3-17-11]]
+
+^<<v3-17-11,11>>^ For the soul of the flesh is in the blood, and I myself have put it upon the altar for YOU to make atonement for YOUR souls, because it is the blood that makes atonement by the soul &#91;in it&#93;.^&#42;1^
+
+[NOTE]
+====
+. “In it,” inserted in harmony with the first part of the vs. The prepo­sition translated “by” is different from that in the preceding expression “for your souls.”
+====
+
+[[v3-17-12]]
+
+^<<v3-17-12,12>>^ That is why I have said to the sons of Israel: “No soul of YOU must eat blood and no alien resident who is residing as an alien in YOUR midst should eat blood.”
+
+[[v3-17-13]]
+
+^<<v3-17-13,13>>^ “‘As for any man of the sons of Israel or some alien resident who is residing as an alien in YOUR midst who in hunting catches a wild beast or a fowl that may be eaten, he must in that case pour its blood out and cover it with dust.
+
+[[v3-17-14]]
+
+^<<v3-17-14,14>>^ For the soul of every sort of flesh^&#42;1^ is its blood by the soul in it.^&#42;2^ Consequently I said to the sons of Israel: “YOU must not eat the blood of any sort of flesh, because the soul of every sort of flesh is its blood. Anyone eating it will be cut off.”
+
+[NOTE]
+====
+. Or, “the soul of all flesh.”
+. Lit., “by its soul,” M; LXXSyVg omit.
+====
+
+[[v3-17-15]]
+
+^<<v3-17-15,15>>^ As for any soul that eats a body &#91;already&#93; dead or something torn by a wild beast, whether a native or an alien resident, he must in that case wash his garments and bathe in water and be unclean until the evening; and he must be clean.
+
+[[v3-17-16]]
+
+^<<v3-17-16,16>>^ But if he will not wash them and will not bathe his flesh, he must then answer for his error.’”
+
+'''
+
+xref:003-leviticus/003-leviticus-016.adoc#v3-16-0[&#60; Capítulo Anterior] | <<v3-17-0,Topo>> | xref:003-leviticus/003-leviticus-018.adoc#v3-18-0[Próximo Capítulo &#62;]

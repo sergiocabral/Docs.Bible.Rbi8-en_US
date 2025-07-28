@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v4-2-0]]
+=== Numbers, 2
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-2-1]]
+
+^<<v4-2-1,1>>^ Jehovah now spoke to Moses and Aaron, saying:
+
+[[v4-2-2]]
+
+^<<v4-2-2,2>>^ “The sons of Israel should encamp, each man by his &#91;three-tribe&#93; division, by the signs^&#42;1^ for the house of their fathers. Round about in front of the tent of meeting they should encamp.
+
+[NOTE]
+====
+. “By the signs.” Heb., veʼo·thothʹ.
+====
+
+[[v4-2-3]]
+
+^<<v4-2-3,3>>^ “And those camping eastward toward the sunrising will be the &#91;three-tribe&#93; division of the camp of Judah in their armies, and the chieftain for the sons of Judah is Nahʹshon the son of Am·minʹa·dab.
+
+[[v4-2-4]]
+
+^<<v4-2-4,4>>^ And his army and the ones registered of them are seventy-four thousand six hundred.
+
+[[v4-2-5]]
+
+^<<v4-2-5,5>>^ And those camping alongside him will be the tribe of Isʹsa·char, and the chieftain for the sons of Isʹsa·char is Ne·thanʹel the son of Zuʹar.
+
+[[v4-2-6]]
+
+^<<v4-2-6,6>>^ And his army and his registered ones are fifty-four thousand four hundred.
+
+[[v4-2-7]]
+
+^<<v4-2-7,7>>^ And the tribe of Zebʹu·lun; and the chieftain for the sons of Zebʹu·lun is E·liʹab the son of Heʹlon.
+
+[[v4-2-8]]
+
+^<<v4-2-8,8>>^ And his army and his registered ones are fifty-seven thousand four hundred.
+
+[[v4-2-9]]
+
+^<<v4-2-9,9>>^ “All the registered ones of the camp of Judah are one hundred eighty-six thousand four hundred in their armies. They should set out first.
+
+[[v4-2-10]]
+
+^<<v4-2-10,10>>^ “The &#91;three-tribe&#93; division of the camp of Reuʹben will be toward the south in their armies, and the chieftain for the sons of Reuʹben is E·liʹzur the son of Shedʹe·ur.
+
+[[v4-2-11]]
+
+^<<v4-2-11,11>>^ And his army and his registered ones are forty-six thousand five hundred.
+
+[[v4-2-12]]
+
+^<<v4-2-12,12>>^ And those camping alongside him will be the tribe of Simʹe·on, and the chieftain for the sons of Simʹe·on is She·luʹmi·el the son of Zu·ri·shadʹdai.
+
+[[v4-2-13]]
+
+^<<v4-2-13,13>>^ And his army and the ones registered of them are fifty-nine thousand three hundred.
+
+[[v4-2-14]]
+
+^<<v4-2-14,14>>^ And the tribe of Gad; and the chieftain for the sons of Gad is E·liʹa·saph the son of Reuʹel.^&#42;1^
+
+[NOTE]
+====
+. “Reuel,” MSy; SamVg and 109 Heb. mss, “Deuel”; LXX, “Raguel.” See 1:14 ftn.
+====
+
+[[v4-2-15]]
+
+^<<v4-2-15,15>>^ And his army and the ones registered of them are forty-five thousand six hundred and fifty.
+
+[[v4-2-16]]
+
+^<<v4-2-16,16>>^ “All the registered ones of the camp of Reuʹben are one hundred and fifty-one thousand four hundred and fifty in their armies, and they should set out second.
+
+[[v4-2-17]]
+
+^<<v4-2-17,17>>^ “When the tent of meeting must set out, the camp of the Levites will be in the middle of the camps.
+“Just as they should encamp, so they should set out, each one at his place, according to their &#91;three-tribe&#93; divisions.
+
+[[v4-2-18]]
+
+^<<v4-2-18,18>>^ “The &#91;three-tribe&#93; division of the camp of Eʹphra·im in their armies will be toward the west, and the chieftain for the sons of Eʹphra·im is E·lishʹa·ma the son of Am·miʹhud.
+
+[[v4-2-19]]
+
+^<<v4-2-19,19>>^ And his army and the ones registered of them are forty thousand five hundred.
+
+[[v4-2-20]]
+
+^<<v4-2-20,20>>^ And alongside him will be the tribe of Ma·nasʹseh, and the chieftain for the sons of Ma·nasʹseh is Ga·maʹli·el the son of Pe·dahʹzur.
+
+[[v4-2-21]]
+
+^<<v4-2-21,21>>^ And his army and the ones registered of them are thirty-two thousand two hundred.
+
+[[v4-2-22]]
+
+^<<v4-2-22,22>>^ And the tribe of Benjamin; and the chieftain for the sons of Benjamin is Abʹi·dan the son of Gid·e·oʹni.
+
+[[v4-2-23]]
+
+^<<v4-2-23,23>>^ And his army and the ones registered of them are thirty-five thousand four hundred.
+
+[[v4-2-24]]
+
+^<<v4-2-24,24>>^ “All the registered ones of the camp of Eʹphra·im are one hundred and eight thousand one hundred in their armies, and they should set out third.
+
+[[v4-2-25]]
+
+^<<v4-2-25,25>>^ “The &#91;three-tribe&#93; division of the camp of Dan will be toward the north in their armies, and the chieftain for the sons of Dan is A·hi·eʹzer the son of Am·mi·shadʹdai.
+
+[[v4-2-26]]
+
+^<<v4-2-26,26>>^ And his army and the ones registered of them are sixty-two thousand seven hundred.
+
+[[v4-2-27]]
+
+^<<v4-2-27,27>>^ And the ones camping alongside him will be the tribe of Ashʹer, and the chieftain for the sons of Ashʹer is Paʹgi·el the son of Ochʹran.
+
+[[v4-2-28]]
+
+^<<v4-2-28,28>>^ And his army and the ones registered of them are forty-one thousand five hundred.
+
+[[v4-2-29]]
+
+^<<v4-2-29,29>>^ And the tribe of Naphʹta·li; and the chieftain for the sons of Naphʹta·li is A·hiʹra the son of Eʹnan.
+
+[[v4-2-30]]
+
+^<<v4-2-30,30>>^ And his army and the ones registered of them are fifty-three thousand four hundred.
+
+[[v4-2-31]]
+
+^<<v4-2-31,31>>^ “All the registered ones of the camp of Dan are one hundred fifty-seven thousand six hundred. They should set out last—according to their^&#42;1^ &#91;three-tribe&#93; divisions.”
+
+[NOTE]
+====
+. “Their,” that is, all Israel’s. See vs 17.
+====
+
+[[v4-2-32]]
+
+^<<v4-2-32,32>>^ These were the registered ones of the sons of Israel according to the house of their fathers; all the registered ones of the camps in their armies were six hundred and three thousand five hundred and fifty.
+
+[[v4-2-33]]
+
+^<<v4-2-33,33>>^ But the Levites did not get registered in among the sons of Israel, just as Jehovah had commanded Moses.
+
+[[v4-2-34]]
+
+^<<v4-2-34,34>>^ And the sons of Israel proceeded to do according to all that Jehovah had commanded Moses. That is the way they encamped in their &#91;three-tribe&#93; divisions, and that is the way they set out, each one in his families with regard to the house of his fathers.
+
+'''
+
+xref:004-numbers/004-numbers-001.adoc#v4-1-0[&#60; Capítulo Anterior] | <<v4-2-0,Topo>> | xref:004-numbers/004-numbers-003.adoc#v4-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,74 @@
+include::./index.adoc[]
+
+[[v13-20-0]]
+=== The First of Chronicles, 20
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v13-20-1]]
+
+^<<v13-20-1,1>>^ And it came about at the time of the year’s return, at the time that kings sally forth, that Joʹab proceeded to lead the combat force of the army and lay the land of the sons of Amʹmon in ruin and to come and besiege Rabʹbah, while David was dwelling in Jerusalem; and Joʹab went on to strike Rabʹbah and throw it down.
+
+[[v13-20-2]]
+
+^<<v13-20-2,2>>^ But David took the crown of Malʹcam^&#42;1^ off its head, and found it to be a talent^&#42;2^ of gold in weight, and in it there were precious stones;^&#42;3^ and it came to be on David’s head. And the spoil of the city that he brought out was very much.
+
+[NOTE]
+====
+. “Molchol their king,” LXX; Vg, “Melchom.” See 2Sa 12:30 ftn, “Malcam.”
+. See App 8A.
+. Or, “there was a precious stone.”
+====
+
+[[v13-20-3]]
+
+^<<v13-20-3,3>>^ And the people that were in it he brought out, and he kept them employed at sawing stones and at sharp instruments of iron and at axes;^&#42;1^ and that was the way David proceeded to do to all the cities of the sons of Amʹmon. Finally David and all the people returned to Jerusalem.
+
+[NOTE]
+====
+. “At axes,” by a slight correction to agree with 2Sa 12:31; M, “at stone saws.”
+====
+
+[[v13-20-4]]
+
+^<<v13-20-4,4>>^ And it came about after this that war began breaking out at Geʹzer with the Phi·lisʹtines. It was then that Sibʹbe·cai the Huʹshath·ite struck down Sipʹpai^&#42;1^ of those born of the Rephʹa·im,^&#42;2^ so that they were subdued.
+
+[NOTE]
+====
+. “Saph” in 2Sa 21:18.
+. “The Rephaim.” BHK(Heb.), ha·Repha·ʼimʹ; Vg, “Raph­a­im”; LXX, “the giants.”
+====
+
+[[v13-20-5]]
+
+^<<v13-20-5,5>>^ And there came to be war again with the Phi·lisʹtines; and El·haʹnan the son of Jaʹir got to strike down Lahʹmi the brother of Go·liʹath the Gitʹtite,^&#42;1^ the shaft of whose spear was like the beam of loom workers.
+
+[NOTE]
+====
+. Or, “Goliath of Gath.”
+====
+
+[[v13-20-6]]
+
+^<<v13-20-6,6>>^ And there came to be war again at Gath, when there happened to be a man of extraordinary size whose fingers and toes were in sixes, twenty-four; and he, too, had been born to the Rephʹa·im.^&#42;1^
+
+[NOTE]
+====
+. Lit., “to the Rapha.” Heb., leha·Ra·phaʼʹ. The father’s name here is taken to stand for the entire race of giants.
+====
+
+[[v13-20-7]]
+
+^<<v13-20-7,7>>^ And he kept taunting Israel. Finally Jonʹa·than^&#42;1^ the son of Shimʹe·a the brother of David struck him down.
+
+[NOTE]
+====
+. Lit., “Jehonathan.”
+====
+
+[[v13-20-8]]
+
+^<<v13-20-8,8>>^ These were the ones that had been born to the Rephʹa·im in Gath; and they came to fall by the hand of David and by the hand of his servants.
+
+'''
+
+xref:013-1-chronicles/013-1-chronicles-019.adoc#v13-19-0[&#60; Capítulo Anterior] | <<v13-20-0,Topo>> | xref:013-1-chronicles/013-1-chronicles-021.adoc#v13-21-0[Próximo Capítulo &#62;]

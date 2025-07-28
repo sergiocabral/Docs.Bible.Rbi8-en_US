@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v3-27-0]]
+=== Leviticus, 27
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-27-1]]
+
+^<<v3-27-1,1>>^ And Jehovah continued to speak to Moses, saying:
+
+[[v3-27-2]]
+
+^<<v3-27-2,2>>^ “Speak to the sons of Israel, and you must say to them, ‘In case a man makes a special vow offering of souls to Jehovah according to the estimated value,
+
+[[v3-27-3]]
+
+^<<v3-27-3,3>>^ and the estimated value has to be of a male from twenty years old up to sixty years old, the estimated value must then become fifty shekels^&#42;1^ of silver by the shekel of the holy place.^&#42;2^
+
+[NOTE]
+====
+. See App 8A.
+. “The shekel of the holy place.” A standard weight kept at the tabernacle, or possibly to emphasize that the weight should be precise. Compare 2Sa 14:26 ftn, “Weight.”
+====
+
+[[v3-27-4]]
+
+^<<v3-27-4,4>>^ But if it is a female, the estimated value must then become thirty shekels.
+
+[[v3-27-5]]
+
+^<<v3-27-5,5>>^ And if the age is from five years old up to twenty years old, the estimated value of the male must then become twenty shekels and for the female ten shekels.
+
+[[v3-27-6]]
+
+^<<v3-27-6,6>>^ And if the age is from a month old up to five years old, the estimated value of the male must then become five shekels of silver and for the female the estimated value must be three shekels of silver.
+
+[[v3-27-7]]
+
+^<<v3-27-7,7>>^ “‘Now if the age is from sixty years old upward, if it is a male, the estimated value must then become fifteen shekels and for the female ten shekels.
+
+[[v3-27-8]]
+
+^<<v3-27-8,8>>^ But if he has become too poor for the estimated value, he must then stand the person^&#42;1^ before the priest, and the priest must put a valuation upon him. According to what the vower can afford, the priest will put a valuation upon him.
+
+[NOTE]
+====
+. Lit., “stand him.”
+====
+
+[[v3-27-9]]
+
+^<<v3-27-9,9>>^ “‘And if it is a beast such as one presents^&#42;1^ in offering to Jehovah, everything of what he may give to Jehovah will become something holy.
+
+[NOTE]
+====
+. “One presents,” SamVg and 14 Heb. mss; MSy, “they present.”
+====
+
+[[v3-27-10]]
+
+^<<v3-27-10,10>>^ He may not replace it, and he may not exchange it with good for bad or with bad for good. But if he should exchange it at all with beast for beast, it itself must then become and what is exchanged for it should become something holy.
+
+[[v3-27-11]]
+
+^<<v3-27-11,11>>^ And if it is any unclean beast such as one may not present in offering to Jehovah, he must then stand the beast before the priest.
+
+[[v3-27-12]]
+
+^<<v3-27-12,12>>^ And the priest must put a valuation upon it whether it is good or bad. According to the value estimated by the priest,^&#42;1^ so it should become.
+
+[NOTE]
+====
+. “And according as the priest will valuate it,” LXX; Sy, “And according as the priest decides its value.”
+====
+
+[[v3-27-13]]
+
+^<<v3-27-13,13>>^ But if he wants to buy it back at all, he must then give a fifth of it in addition to the estimated value.
+
+[[v3-27-14]]
+
+^<<v3-27-14,14>>^ “‘Now in case a man should sanctify his house as something holy to Jehovah, the priest must then make a valuation of it whether it is good or bad. According to what valuation the priest makes of it, so much it should cost.
+
+[[v3-27-15]]
+
+^<<v3-27-15,15>>^ But if the sanctifier wants to buy his house back, he must then give a fifth of the money of the estimated value in addition to it; and it must become his.
+
+[[v3-27-16]]
+
+^<<v3-27-16,16>>^ “‘And if it is some of the field of his possession that a man would sanctify to Jehovah, the value must then be estimated in proportion to its seed: if a hoʹmer of barley seed, then at fifty shekels of silver.^&#42;1^
+
+[NOTE]
+====
+. That is, a piece of land that required a homer of barley to sow would be estimated at 50 silver shekels. See App 8A.
+====
+
+[[v3-27-17]]
+
+^<<v3-27-17,17>>^ If he should sanctify his field from the year of Jubilee on, it should cost according to the estimated value.
+
+[[v3-27-18]]
+
+^<<v3-27-18,18>>^ And if it is after the Jubilee that he sanctifies his field, the priest must then calculate for him the price in proportion to the years that are left over until the next year of Jubilee, and a deduction should be made from the estimated value.
+
+[[v3-27-19]]
+
+^<<v3-27-19,19>>^ But if the sanctifier of it would at all buy the field back, he must then give a fifth of the money of the estimated value in addition to it, and it must stand fast as his.
+
+[[v3-27-20]]
+
+^<<v3-27-20,20>>^ Now if he should not buy the field back but if the field is sold to another man,^&#42;1^ it may not be bought back again.
+
+[NOTE]
+====
+. Lit., “if he does sell the field to another man.”
+====
+
+[[v3-27-21]]
+
+^<<v3-27-21,21>>^ And the field when it goes out in the Jubilee must become something holy to Jehovah, as a field that is devoted. The possession of it will become the priest’s.
+
+[[v3-27-22]]
+
+^<<v3-27-22,22>>^ “‘And if he sanctifies to Jehovah a field purchased by him that is no part of the field of his possession,
+
+[[v3-27-23]]
+
+^<<v3-27-23,23>>^ the priest must then calculate for him the amount of the valuation up till the year of Jubilee, and he must give the estimated value on that day. It is something holy to Jehovah.
+
+[[v3-27-24]]
+
+^<<v3-27-24,24>>^ In the year of Jubilee the field will return to the one from whom he bought it, to the one to whom the possession of the land belongs.
+
+[[v3-27-25]]
+
+^<<v3-27-25,25>>^ “‘Now every value should be estimated in the shekel of the holy place.^&#42;1^ The shekel should amount to twenty geʹrahs.^&#42;2^
+
+[NOTE]
+====
+. See vs 3 ftns.
+. See App 8A.
+====
+
+[[v3-27-26]]
+
+^<<v3-27-26,26>>^ “‘Only the firstborn among beasts, which is born as the firstborn for Jehovah, no man should sanctify it. Whether bull or sheep, it belongs to Jehovah.
+
+[[v3-27-27]]
+
+^<<v3-27-27,27>>^ And if it is among the unclean beasts and he must redeem it according to the estimated value, he must then give a fifth of it in addition to it. But if it should not be bought back, it must then be sold according to the estimated value.
+
+[[v3-27-28]]
+
+^<<v3-27-28,28>>^ “‘Only no sort of devoted thing that a man might devote to Jehovah for destruction out of all that is his, whether from mankind or beasts or from the field of his possession, may be sold, and no sort of devoted thing may be bought back. It is something most holy to Jehovah.
+
+[[v3-27-29]]
+
+^<<v3-27-29,29>>^ No devoted person who might be devoted to destruction^&#42;1^ from among mankind may be redeemed. He should be put to death without fail.
+
+[NOTE]
+====
+. Or, “be put under ban; be devoted to Jehovah for extermination.”
+====
+
+[[v3-27-30]]
+
+^<<v3-27-30,30>>^ “‘And every tenth part^&#42;1^ of the land, out of the seed of the land and the fruit of the tree, belongs to Jehovah. It is something holy to Jehovah.
+
+[NOTE]
+====
+. Or, “every tithe.”
+====
+
+[[v3-27-31]]
+
+^<<v3-27-31,31>>^ And if a man wants to buy any of his tenth part back at all, he should give a fifth of it in addition to it.
+
+[[v3-27-32]]
+
+^<<v3-27-32,32>>^ As for every tenth part of the herd and flock, everything that passes under the crook, the tenth head should become something holy to Jehovah.
+
+[[v3-27-33]]
+
+^<<v3-27-33,33>>^ He should not examine whether it is good or bad, neither should he exchange it. But if he would exchange it at all, it itself must then become and what is exchanged for it should become something holy. It may not be bought back.’”
+
+[[v3-27-34]]
+
+^<<v3-27-34,34>>^ These are the commandments that Jehovah gave Moses as commands to the sons of Israel in Mount Siʹnai.
+
+'''
+
+xref:003-leviticus/003-leviticus-026.adoc#v3-26-0[&#60; Capítulo Anterior] | <<v3-27-0,Topo>> | xref:004-numbers/004-numbers-001.adoc#v4-1-0[Próximo Capítulo &#62;]

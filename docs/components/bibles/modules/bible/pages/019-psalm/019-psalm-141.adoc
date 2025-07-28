@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-141-0]]
+=== Psalms, 141
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody of David._
+
+[[v19-141-1]]
+
+^<<v19-141-1,1>>^ O Jehovah, I have called upon you.
+Do make haste to me.
+Do give ear to my voice when I call to you.
+
+[[v19-141-2]]
+
+^<<v19-141-2,2>>^ May my prayer be prepared as incense before you,
+The raising up of my palms as the evening grain offering.
+
+[[v19-141-3]]
+
+^<<v19-141-3,3>>^ Do set a guard, O Jehovah, for my mouth;
+Do set a watch over the door of my lips.
+
+[[v19-141-4]]
+
+^<<v19-141-4,4>>^ Do not incline my heart to anything bad,
+So as to carry on notorious deeds in wickedness
+With men^&#42;1^ who are practicing what is hurtful,
+That I may not feed myself on their dainties.
+
+[NOTE]
+====
+. “Men.” Heb., ʼi·shimʹ, pl. of ʼish. See Isa 53:3 ftn, “Men.”
+====
+
+[[v19-141-5]]
+
+^<<v19-141-5,5>>^ Should the righteous one strike me, it would be a loving-kindness;
+And should he reprove me, it would be oil upon the head,
+Which my head would not want to refuse.
+For still there would be even my prayer during their calamities.
+
+[[v19-141-6]]
+
+^<<v19-141-6,6>>^ Their judges have been thrown down by the sides of the crag,
+But they have heard my sayings, that they are pleasant.
+
+[[v19-141-7]]
+
+^<<v19-141-7,7>>^ As when one is doing cleaving and splitting on the earth,
+Our bones have been scattered at the mouth of Sheʹol.
+
+[[v19-141-8]]
+
+^<<v19-141-8,8>>^ However, my eyes are to you, O Jehovah the Sovereign Lord.
+In you I have taken refuge.
+Do not pour out my soul.
+
+[[v19-141-9]]
+
+^<<v19-141-9,9>>^ Keep me from the clutches of the trap that they have laid for me
+And from the snares of those practicing what is hurtful.
+
+[[v19-141-10]]
+
+^<<v19-141-10,10>>^ The wicked will fall into their own nets all together,
+While I, for my part, pass by.
+
+'''
+
+xref:019-psalm/019-psalm-140.adoc#v19-140-0[&#60; Capítulo Anterior] | <<v19-141-0,Topo>> | xref:019-psalm/019-psalm-142.adoc#v19-142-0[Próximo Capítulo &#62;]

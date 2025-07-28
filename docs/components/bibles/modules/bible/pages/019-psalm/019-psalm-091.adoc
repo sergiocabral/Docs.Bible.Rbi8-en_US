@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v19-91-0]]
+=== Psalms, 91
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-91-1]]
+
+^<<v19-91-1,1>>^ Anyone dwelling in the secret place of the Most High
+Will procure himself lodging under the very shadow of the Almighty One.
+
+[[v19-91-2]]
+
+^<<v19-91-2,2>>^ I will say to Jehovah:^&#42;1^ “&#91;You are&#93; my refuge and my stronghold,
+My God, in whom I will trust.”
+
+[NOTE]
+====
+. “Jehovah,” M(Heb., יהוה)TSyVg; AqTaylor, the Tetragrammaton in ancient Heb. characters within the Gr. text. See App 1C §8.
+====
+
+[[v19-91-3]]
+
+^<<v19-91-3,3>>^ For he himself will deliver you from the trap of the birdcatcher,
+From the pestilence causing adversities.
+
+[[v19-91-4]]
+
+^<<v19-91-4,4>>^ With his pinions he will block approach to you,
+And under his wings you will take refuge.
+His trueness will be a large shield and bulwark.^&#42;1^
+
+[NOTE]
+====
+. Or, “mail shirt.”
+====
+
+[[v19-91-5]]
+
+^<<v19-91-5,5>>^ You will not be afraid of anything dreadful by night,
+Nor of the arrow that flies by day,
+
+[[v19-91-6]]
+
+^<<v19-91-6,6>>^ Nor of the pestilence that walks in the gloom,
+Nor of the destruction that despoils at midday.
+
+[[v19-91-7]]
+
+^<<v19-91-7,7>>^ A thousand will fall at your very side
+And ten thousand at your right hand;
+To you it will not come near.
+
+[[v19-91-8]]
+
+^<<v19-91-8,8>>^ Only with your eyes will you look on
+And see the retribution itself of the wicked ones.
+
+[[v19-91-9]]
+
+^<<v19-91-9,9>>^ Because you &#91;said&#93;: “Jehovah^&#42;1^ is my refuge,”
+You have made the Most High himself your dwelling;
+
+[NOTE]
+====
+. See App 1C §8.
+====
+
+[[v19-91-10]]
+
+^<<v19-91-10,10>>^ No calamity will befall you,
+And not even a plague will draw near to your tent.
+
+[[v19-91-11]]
+
+^<<v19-91-11,11>>^ For he will give his own angels a command concerning you,
+To guard you in all your ways.
+
+[[v19-91-12]]
+
+^<<v19-91-12,12>>^ Upon their hands they will carry you,
+That you may not strike your foot against any stone.
+
+[[v19-91-13]]
+
+^<<v19-91-13,13>>^ Upon the young lion and the cobra you will tread;
+You will trample down the maned young lion and the big snake.
+
+[[v19-91-14]]
+
+^<<v19-91-14,14>>^ Because on me he has set his affection,
+I shall also provide him with escape.
+I shall protect him^&#42;1^ because he has come to know my name.
+
+[NOTE]
+====
+. Lit., “I shall place him on high,” that is, out of reach.
+====
+
+[[v19-91-15]]
+
+^<<v19-91-15,15>>^ He will call upon me, and I shall answer him.
+I shall be with him in distress.
+I shall rescue him and glorify him.
+
+[[v19-91-16]]
+
+^<<v19-91-16,16>>^ With length of days I shall satisfy him,
+And I shall cause him to see salvation by me.
+
+'''
+
+xref:019-psalm/019-psalm-090.adoc#v19-90-0[&#60; Capítulo Anterior] | <<v19-91-0,Topo>> | xref:019-psalm/019-psalm-092.adoc#v19-92-0[Próximo Capítulo &#62;]

@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-63-0]]
+=== Psalms, 63
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody of David, when he happened to be in the wilderness of Judah._
+
+[[v19-63-1]]
+
+^<<v19-63-1,1>>^ O God,^&#42;1^ you are my God,^&#42;2^ I keep looking for you.
+My soul does thirst for you.
+For you my flesh has grown faint &#91;with longing&#93;
+In a land dry and exhausted, where there is no water.
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ.
+. “My God.” Heb., ʼE·liʹ.
+====
+
+[[v19-63-2]]
+
+^<<v19-63-2,2>>^ Thus I have beheld you in the holy place,
+At seeing your strength and your glory.
+
+[[v19-63-3]]
+
+^<<v19-63-3,3>>^ Because your loving-kindness^&#42;1^ is better than life,
+My own lips will commend you.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v19-63-4]]
+
+^<<v19-63-4,4>>^ Thus I shall bless you during my lifetime;
+In your name I shall raise my palms.
+
+[[v19-63-5]]
+
+^<<v19-63-5,5>>^ As with the best part, even fatness, my soul is satisfied,
+And with lips of joyful cries my mouth offers praise.
+
+[[v19-63-6]]
+
+^<<v19-63-6,6>>^ When I have remembered you upon my lounge,
+During the night watches I meditate on you.
+
+[[v19-63-7]]
+
+^<<v19-63-7,7>>^ For you have proved to be of assistance to me,
+And in the shadow of your wings I cry out joyfully.
+
+[[v19-63-8]]
+
+^<<v19-63-8,8>>^ My soul has closely followed you;
+On me your right hand keeps fast hold.
+
+[[v19-63-9]]
+
+^<<v19-63-9,9>>^ As for those who keep seeking my soul for &#91;its&#93; ruin,
+They will come into the lowest parts^&#42;1^ of the earth.
+
+[NOTE]
+====
+. “Into the lowest parts.” Syr., bethach·to·yo·thah, “into her [the earth’s] lowest parts.”
+====
+
+[[v19-63-10]]
+
+^<<v19-63-10,10>>^ They will be delivered over to the power of the sword;
+They will become a mere portion for foxes.
+
+[[v19-63-11]]
+
+^<<v19-63-11,11>>^ And the king himself will rejoice in God.
+Every one swearing by him will boast,
+For the mouth of those speaking falsehood will be stopped up.
+
+'''
+
+xref:019-psalm/019-psalm-062.adoc#v19-62-0[&#60; Capítulo Anterior] | <<v19-63-0,Topo>> | xref:019-psalm/019-psalm-064.adoc#v19-64-0[Próximo Capítulo &#62;]

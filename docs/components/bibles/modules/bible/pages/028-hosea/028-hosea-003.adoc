@@ -1,0 +1,52 @@
+include::./index.adoc[]
+
+[[v28-3-0]]
+=== Hosea, 3
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v28-3-1]]
+
+^<<v28-3-1,1>>^ And Jehovah went on to say to me: “Go once again, love a woman loved by a companion^&#42;1^ and committing adultery,^&#42;2^ as in the case of Jehovah’s love for the sons of Israel while they are turning to other gods^&#42;3^ and are loving raisin cakes.”
+
+[NOTE]
+====
+. “Loved by a companion,” MVg; LXXSy, “loving bad things.”
+. Or, “and committing marital sexual unfaithfulness.” Heb., u·mena·ʼaʹpheth; Gr., moi·kha·linʹ; Lat., a·dulʹte·ram. See Mt 5:32 ftn, “Adultery.”
+. “Gods.” Heb., ʼelo·himʹ.
+====
+
+[[v28-3-2]]
+
+^<<v28-3-2,2>>^ And I proceeded to purchase her for myself for fifteen silver &#91;pieces&#93; and a hoʹmer measure^&#42;1^ of barley and a half-hoʹmer^&#42;2^ of barley.
+
+[NOTE]
+====
+. About 220 L (200 dry qt).
+. “And a half-homer.” Heb., weleʹthekh.
+====
+
+[[v28-3-3]]
+
+^<<v28-3-3,3>>^ Then I said to her: “For many days you will dwell as mine. You must not commit fornication, and you must not come to belong to &#91;another&#93; man;^&#42;1^ and I also will be for you.”
+
+[NOTE]
+====
+. “For another man,” LXX; M(Heb., leʼishʹ)SyVg, “to a man.”
+====
+
+[[v28-3-4]]
+
+^<<v28-3-4,4>>^ It is because for many days the sons of Israel will dwell without a king and without a prince and without a sacrifice and without a pillar and without an ephʹod and teraphim.
+
+[[v28-3-5]]
+
+^<<v28-3-5,5>>^ Afterwards the sons of Israel will come back and certainly look for Jehovah their God,^&#42;1^ and for David their king; and they will certainly come quivering to Jehovah and to his goodness in the final part of the days.
+
+[NOTE]
+====
+. “Their God.” Heb., ʼElo·heh·hemʹ.
+====
+
+'''
+
+xref:028-hosea/028-hosea-002.adoc#v28-2-0[&#60; Capítulo Anterior] | <<v28-3-0,Topo>> | xref:028-hosea/028-hosea-004.adoc#v28-4-0[Próximo Capítulo &#62;]

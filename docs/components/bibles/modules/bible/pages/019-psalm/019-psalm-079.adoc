@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v19-79-0]]
+=== Psalms, 79
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody of Aʹsaph._
+
+[[v19-79-1]]
+
+^<<v19-79-1,1>>^ O God, the nations have come into your inheritance;
+They have defiled your holy temple;
+They have laid Jerusalem in a heap of ruins.
+
+[[v19-79-2]]
+
+^<<v19-79-2,2>>^ They have given the dead body of your servants as food to the fowls of the heavens,
+The flesh of your loyal ones to the wild beasts of the earth.
+
+[[v19-79-3]]
+
+^<<v19-79-3,3>>^ They have poured out their blood like water
+All around Jerusalem, and there is no one to do the burying.
+
+[[v19-79-4]]
+
+^<<v19-79-4,4>>^ We have become a reproach to our neighbors,
+A derision and a jeering to those round about us.
+
+[[v19-79-5]]
+
+^<<v19-79-5,5>>^ How long, O Jehovah, will you be incensed? Forever?
+How long will your ardor burn just like fire?
+
+[[v19-79-6]]
+
+^<<v19-79-6,6>>^ Pour out your rage upon the nations that have not known you,
+And upon the kingdoms that have not called upon your own name.
+
+[[v19-79-7]]
+
+^<<v19-79-7,7>>^ For they have eaten up Jacob,
+And they have caused his own abiding place to be desolated.
+
+[[v19-79-8]]
+
+^<<v19-79-8,8>>^ Do not remember against us the errors of ancestors.
+Hurry! Let your mercies confront us,
+For we have become greatly impoverished.
+
+[[v19-79-9]]
+
+^<<v19-79-9,9>>^ Help us, O God of our salvation,
+For the sake of the glory of your name;
+And deliver us and cover over our sins on account of your name.
+
+[[v19-79-10]]
+
+^<<v19-79-10,10>>^ Why should the nations say: “Where is their God?”
+Among the nations let there be known before our eyes
+The avenging of the blood of your servants that has been shed.
+
+[[v19-79-11]]
+
+^<<v19-79-11,11>>^ May the sighing of the prisoner come in even before you.
+According to the greatness of your arm preserve^&#42;1^ those appointed to death.^&#42;2^
+
+[NOTE]
+====
+. Or, “leave over.” Sy, “set free.”
+. Lit., “the sons of death.”
+====
+
+[[v19-79-12]]
+
+^<<v19-79-12,12>>^ And repay to our neighbors seven times into their bosom
+Their reproach with which they have reproached you, O Jehovah.^&#42;1^
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-79-13]]
+
+^<<v19-79-13,13>>^ As for us your people and the flock of your pasturage,
+We shall give thanks to you to time indefinite;
+From generation to generation we shall declare your praise.
+
+'''
+
+xref:019-psalm/019-psalm-078.adoc#v19-78-0[&#60; Capítulo Anterior] | <<v19-79-0,Topo>> | xref:019-psalm/019-psalm-080.adoc#v19-80-0[Próximo Capítulo &#62;]

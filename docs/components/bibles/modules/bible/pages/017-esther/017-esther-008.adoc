@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v17-8-0]]
+=== Esther, 8
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v17-8-1]]
+
+^<<v17-8-1,1>>^ On that day King A·has·u·eʹrus^&#42;1^ gave to Esther the queen the house of Haʹman, the one showing hostility to the Jews; and Morʹde·cai himself came in before the king, because Esther had told what he was to her.
+
+[NOTE]
+====
+. “Artaxerxes,” LXX.
+====
+
+[[v17-8-2]]
+
+^<<v17-8-2,2>>^ Then the king removed his signet ring that he had taken away from Haʹman and gave it to Morʹde·cai; and Esther went on to place Morʹde·cai over the house of Haʹman.
+
+[[v17-8-3]]
+
+^<<v17-8-3,3>>^ Moreover, Esther spoke again before the king and fell down before his feet and wept and implored favor of him to turn away the badness of Haʹman the Agʹag·ite and his scheme that he had schemed against the Jews.
+
+[[v17-8-4]]
+
+^<<v17-8-4,4>>^ Then the king held the golden scepter out to Esther, at which Esther rose and stood before the king.
+
+[[v17-8-5]]
+
+^<<v17-8-5,5>>^ She now said: “If to the king it does seem good, and if I have found favor before him and the thing is proper before the king and I am good in his eyes, let it be written to undo the written documents, the scheme of Haʹman the son of Ham·me·daʹtha the Agʹag·ite, which he wrote to destroy the Jews that are in all the king’s jurisdictional districts.
+
+[[v17-8-6]]
+
+^<<v17-8-6,6>>^ For how can I &#91;bear it&#93; when I must look upon the calamity that will find my people, and how can I &#91;bear it&#93; when I must look upon the destruction of my relatives?”
+
+[[v17-8-7]]
+
+^<<v17-8-7,7>>^ So King A·has·u·eʹrus said to Esther the queen and to Morʹde·cai the Jew: “Look! The house of Haʹman I have given to Esther, and him they have hanged on the stake, for the reason that he thrust out his hand against the Jews.
+
+[[v17-8-8]]
+
+^<<v17-8-8,8>>^ And YOU yourselves write in behalf of the Jews according to what is good in YOUR own eyes in the king’s name and seal &#91;it&#93; with the king’s signet ring; for a writing that is written in the king’s name and sealed with the king’s signet ring it is not possible to undo.”
+
+[[v17-8-9]]
+
+^<<v17-8-9,9>>^ Accordingly the secretaries of the king were called at that time in the third month, that is, the month of Siʹvan,^&#42;1^ on the twenty-third &#91;day&#93; of it; and writing went on according to all that Morʹde·cai commanded to the Jews and to the satraps and the governors and the princes of the jurisdictional districts that were from Inʹdi·a^&#42;2^ to E·thi·oʹpi·a,^&#42;3^ a hundred and twenty-seven jurisdictional districts, &#91;to&#93; each jurisdictional district in its own style of writing and &#91;to&#93; each people in its own tongue, and to the Jews in their own style of writing and in their own tongue.
+
+[NOTE]
+====
+. “Sivan.” The only occurrence in the Bible of this name, which is of Akkadian origin. This third month of the sacred calendar corresponds to the latter half of May and the first half of June. See App 8B.
+. “From India.” Heb., me·Hodʹdu; Gr., In·di·kesʹ, “Indian [country]”; Syr., Hudh; Lat., Inʹdi·a.
+. “Ethiopia,” LXXVg; MSy, “Cush.”
+====
+
+[[v17-8-10]]
+
+^<<v17-8-10,10>>^ And he proceeded to write in the name of King A·has·u·eʹrus and do the sealing with the king’s signet ring and send written documents by the hand of the couriers on horses, riding post horses used in the royal service, sons of speedy mares,
+
+[[v17-8-11]]
+
+^<<v17-8-11,11>>^ that the king granted to the Jews that were in all the different cities to congregate themselves and stand for their souls,^&#42;1^ to annihilate and kill and destroy all the force of the people and jurisdictional district that were showing hostility to them, little ones and women, and to plunder their spoil,
+
+[NOTE]
+====
+. “For their souls (lives).” Heb., ʽal-naph·shamʹ; Syr., lenaph·shehun; Lat., a·ni·maʹbus.
+====
+
+[[v17-8-12]]
+
+^<<v17-8-12,12>>^ on the one day in all the jurisdictional districts of King A·has·u·eʹrus, on the thirteenth &#91;day&#93; of the twelfth month, that is, the month of Aʹdar.^&#42;1^
+
+[NOTE]
+====
+. See 3:7 ftn, “Adar.”
+====
+
+[[v17-8-13]]
+
+^<<v17-8-13,13>>^ A copy of the writing was to be given as law throughout all the different jurisdictional districts, published to all the peoples, that the Jews should become ready for this day to avenge themselves upon their enemies.
+
+[[v17-8-14]]
+
+^<<v17-8-14,14>>^ The couriers themselves, riding post horses used in the royal service, went forth, being urged forward and being moved with speed by the king’s word; and the law itself was given out in Shuʹshan the castle.
+
+[[v17-8-15]]
+
+^<<v17-8-15,15>>^ As for Morʹde·cai, he went forth from before the king in royal apparel of blue and linen, with a great crown of gold, and a fine-fabric cloak, even of wool dyed reddish purple. And the city of Shuʹshan itself cried out shrilly and was joyful.
+
+[[v17-8-16]]
+
+^<<v17-8-16,16>>^ For the Jews there occurred light and rejoicing and exultation and honor.
+
+[[v17-8-17]]
+
+^<<v17-8-17,17>>^ And in all the different jurisdictional districts and in all the different cities wherever the word of the king and his law were reaching there were rejoicing and exultation for the Jews, a banquet and a good day; and many of the peoples of the land were declaring themselves Jews,^&#42;1^ for the dread of the Jews had fallen upon them.
+
+[NOTE]
+====
+. Or, “were Judaizing.” Heb., mith·Ya·hadhimʹ; LXX, “were getting circumcised and Judaizing”; Vgc, “joined themselves to the sect of their religion [Lat., re·li·gi·oʹni] and ceremonies [Lat., cae·re·moʹni·is].”
+====
+
+'''
+
+xref:017-esther/017-esther-007.adoc#v17-7-0[&#60; Capítulo Anterior] | <<v17-8-0,Topo>> | xref:017-esther/017-esther-009.adoc#v17-9-0[Próximo Capítulo &#62;]

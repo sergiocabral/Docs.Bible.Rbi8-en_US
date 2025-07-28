@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v21-12-0]]
+=== Ecclesiastes, 12
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v21-12-1]]
+
+^<<v21-12-1,1>>^ Remember, now, your Grand Creator^&#42;1^ in the days of your young manhood,^&#42;2^ before the calamitous days proceed to come, or the years have arrived when you will say: “I have no delight in them”;
+
+[NOTE]
+====
+. “Your Grand Creator.” Heb., Boh·reʼeyʹkha. The participle of the Heb. verb “create” is pl. to denote grandeur or excellence.
+. Or, “youth.”
+====
+
+[[v21-12-2]]
+
+^<<v21-12-2,2>>^ before the sun and the light and the moon and the stars grow dark, and the clouds have returned, afterward the downpour;
+
+[[v21-12-3]]
+
+^<<v21-12-3,3>>^ in the day when the keepers of the house tremble, and the men of vital energy have bent themselves, and the grinding women^&#42;1^ have quit working because they have become few, and the ladies seeing^&#42;2^ at the windows have found it dark;
+
+[NOTE]
+====
+. “The grinding women.” In Heb. a fem. pl. participle because of referring to teeth, fem., and because women did the grinding.
+. “The ladies seeing,” fem., referring to eyes, fem.
+====
+
+[[v21-12-4]]
+
+^<<v21-12-4,4>>^ and the doors onto the street have been closed, when the sound of the grinding mill becomes low, and one gets up at the sound of a bird, and all the daughters of song sound low.
+
+[[v21-12-5]]
+
+^<<v21-12-5,5>>^ Also, they have become afraid merely at what is high, and there are terrors in the way. And the almond tree carries blossoms, and the grasshopper drags itself along, and the caper berry bursts, because man^&#42;1^ is walking to his long-lasting house and the wailers have marched around in the street;
+
+[NOTE]
+====
+. Lit., “the earthling man.” Heb., ha·ʼa·dhamʹ.
+====
+
+[[v21-12-6]]
+
+^<<v21-12-6,6>>^ before the silver cord is removed, and the golden bowl gets crushed, and the jar at the spring is broken, and the waterwheel for the cistern has been crushed.
+
+[[v21-12-7]]
+
+^<<v21-12-7,7>>^ Then the dust returns to the earth just as it happened to be and the spirit itself returns to the &#91;true&#93; God who gave it.
+
+[[v21-12-8]]
+
+^<<v21-12-8,8>>^ “The greatest vanity!”^&#42;1^ said the congregator,^&#42;2^ “Everything is vanity.”
+
+[NOTE]
+====
+. Lit., “Vanity of vanities!” M(Heb., havelʹ hava·limʹ)LXXSyVg.
+. See 1:1 ftn.
+====
+
+[[v21-12-9]]
+
+^<<v21-12-9,9>>^ And besides the fact that the congregator had become wise, he also taught the people knowledge continually, and he pondered and made a thorough search, that he might arrange many proverbs in order.
+
+[[v21-12-10]]
+
+^<<v21-12-10,10>>^ The congregator sought to find the delightful words and the writing of correct words of truth.
+
+[[v21-12-11]]
+
+^<<v21-12-11,11>>^ The words of the wise ones are like oxgoads, and just like nails driven in^&#42;1^ are those indulging in collections^&#42;2^ &#91;of sentences&#93;; they have been given from one shepherd.
+
+[NOTE]
+====
+. Lit., “planted,” as if built into a house.
+. “Collections.” Heb., ʼasup·pohthʹ (from ʼa·saphʹ, “to collect”).
+====
+
+[[v21-12-12]]
+
+^<<v21-12-12,12>>^ As regards anything besides these, my son, take a warning: To the making of many books there is no end, and much devotion &#91;to them&#93; is wearisome to the flesh.
+
+[[v21-12-13]]
+
+^<<v21-12-13,13>>^ The conclusion of the matter, everything having been heard, is: Fear the &#91;true&#93; God and keep his commandments. For this is the whole &#91;obligation&#93; of man.^&#42;1^
+
+[NOTE]
+====
+. Or, “mankind.” Heb., ha·ʼa·dhamʹ.
+====
+
+[[v21-12-14]]
+
+^<<v21-12-14,14>>^ For the &#91;true&#93; God himself will bring every sort of work into the judgment in relation to every hidden thing, as to whether it is good or bad.
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-011.adoc#v21-11-0[&#60; Capítulo Anterior] | <<v21-12-0,Topo>> | xref:022-song-of-solomon/022-song-of-solomon-001.adoc#v22-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v5-20-0]]
+=== Deuteronomy, 20
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-20-1]]
+
+^<<v5-20-1,1>>^ “In case you go out to the battle against your enemies and you actually see horses and war chariots, a people more numerous than you, you must not be afraid of them; for Jehovah your God is with you, who brought you up out of the land of Egypt.
+
+[[v5-20-2]]
+
+^<<v5-20-2,2>>^ And it must occur that when YOU have drawn near to the battle, the priest must also approach and speak to the people.
+
+[[v5-20-3]]
+
+^<<v5-20-3,3>>^ And he must say to them, ‘Hear, O Israel, YOU are drawing near today to the battle against YOUR enemies. Do not let YOUR hearts be timid. Do not be afraid and run in panic or shudder because of them,
+
+[[v5-20-4]]
+
+^<<v5-20-4,4>>^ for Jehovah^&#42;1^ YOUR God is marching with YOU to fight for YOU against YOUR enemies so as to save YOU.’
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-20-5]]
+
+^<<v5-20-5,5>>^ “The officers too must speak to the people, saying, ‘Who is the man that has built a new house and has not inaugurated it? Let him go and return to his house, for fear he may die in the battle and another man should inaugurate it.
+
+[[v5-20-6]]
+
+^<<v5-20-6,6>>^ And who is the man that has planted a vineyard and not begun to use it? Let him go and return to his house, for fear he may die in the battle and another man should begin to use it.
+
+[[v5-20-7]]
+
+^<<v5-20-7,7>>^ And who is the man that has become engaged to a woman and has not taken her? Let him go and return to his house, for fear he may die in the battle and another man should take her.’
+
+[[v5-20-8]]
+
+^<<v5-20-8,8>>^ And the officers must speak further to the people and say, ‘Who is the man that is fearful and fainthearted? Let him go and return to his house, that he may not cause the hearts of his brothers to melt as his own heart.’
+
+[[v5-20-9]]
+
+^<<v5-20-9,9>>^ And it must occur that when the officers have finished speaking to the people, they must also appoint chiefs^&#42;1^ of the armies at the head of the people.^&#42;2^
+
+[NOTE]
+====
+. “Chiefs of.” Heb., sa·rehʹ.
+. “Then each one will prepare his wedge-shaped divisions to do battle,” Vg.
+====
+
+[[v5-20-10]]
+
+^<<v5-20-10,10>>^ “In case you draw near to a city to fight against it, you must also announce to it terms of peace.
+
+[[v5-20-11]]
+
+^<<v5-20-11,11>>^ And it must occur that if it gives a peaceful answer to you and it has opened up to you, it must even occur that all the people found in it should become yours for forced labor, and they must serve you.
+
+[[v5-20-12]]
+
+^<<v5-20-12,12>>^ But if it does not make peace with you, and it actually makes war with you and you have to besiege it,
+
+[[v5-20-13]]
+
+^<<v5-20-13,13>>^ Jehovah^&#42;1^ your God also will certainly give it into your hand, and you must strike every male in it with the edge of the sword.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-20-14]]
+
+^<<v5-20-14,14>>^ Only the women and the little children and the domestic animals and everything that happens to be in the city, all its spoil you will plunder for yourself; and you must eat the spoil of your enemies, whom Jehovah your God has given to you.
+
+[[v5-20-15]]
+
+^<<v5-20-15,15>>^ “That is the way you will do to all the cities very far away from you that are not of the cities of these nations.
+
+[[v5-20-16]]
+
+^<<v5-20-16,16>>^ It is only of the cities of these peoples that Jehovah your God is giving you as an inheritance that you must not preserve any breathing thing^&#42;1^ alive,
+
+[NOTE]
+====
+. “Any breathing thing,” LXX; MSamSy, “any breath.”
+====
+
+[[v5-20-17]]
+
+^<<v5-20-17,17>>^ because you should without fail devote them to destruction, the Hitʹtites and the Amʹor·ites, the Caʹnaan·ites and the Perʹiz·zites, the Hiʹvites and the Jebʹu·sites, just as Jehovah your God has commanded you;
+
+[[v5-20-18]]
+
+^<<v5-20-18,18>>^ in order that they may not teach YOU to do according to all their detestable things, which they have done to their gods, and YOU may indeed sin against Jehovah^&#42;1^ YOUR God.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-20-19]]
+
+^<<v5-20-19,19>>^ “In case you lay siege to a city many days by fighting against it so as to capture it, you must not ruin its trees by wielding an ax against them; for you should eat from them, and you must not cut them down, for is the tree of the field a man to be besieged by you?^&#42;1^
+
+[NOTE]
+====
+. Lit., “to come into the siege before you?”
+====
+
+[[v5-20-20]]
+
+^<<v5-20-20,20>>^ Only a tree that you know is not a tree for food, it is the one you should ruin, and you must cut it down and build siegeworks against the city that is making war with you, until it falls.^&#42;1^
+
+[NOTE]
+====
+. Or, “goes down.”
+====
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-019.adoc#v5-19-0[&#60; Capítulo Anterior] | <<v5-20-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-021.adoc#v5-21-0[Próximo Capítulo &#62;]

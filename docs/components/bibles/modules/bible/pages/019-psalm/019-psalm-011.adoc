@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v19-11-0]]
+=== Psalms, 11
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. Of David._
+
+[[v19-11-1]]
+
+^<<v19-11-1,1>>^ ^&#42;1^ In Jehovah I have taken refuge.
+How dare YOU men say to my soul:
+“Flee as a bird to YOUR mountain!”
+
+[NOTE]
+====
+. LXXVg combine the two preceding psalms, and make this Ps 10, thereby changing the numbering of the psalms that follow.
+====
+
+[[v19-11-2]]
+
+^<<v19-11-2,2>>^ For, look! the wicked ones themselves bend the bow,
+They do make ready their arrow upon the bowstring,
+To shoot in the gloom at the ones upright in heart.
+
+[[v19-11-3]]
+
+^<<v19-11-3,3>>^ When the foundations themselves are torn down,
+What must anyone righteous do?
+
+[[v19-11-4]]
+
+^<<v19-11-4,4>>^ Jehovah is in his holy temple.
+Jehovah—in the heavens is his throne.
+His own eyes behold, his own beaming eyes^&#42;1^ examine the sons of men.^&#42;2^
+
+[NOTE]
+====
+. Or, “his eyelids.”
+. Or, “of earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-11-5]]
+
+^<<v19-11-5,5>>^ Jehovah himself examines the righteous one as well as the wicked one,
+And anyone loving violence His soul certainly hates.
+
+[[v19-11-6]]
+
+^<<v19-11-6,6>>^ He will rain down upon the wicked ones traps, fire and sulphur
+And a scorching wind, as the portion of their cup.
+
+[[v19-11-7]]
+
+^<<v19-11-7,7>>^ For Jehovah is righteous; he does love righteous acts.
+The upright are the ones that will behold his face.
+
+'''
+
+xref:019-psalm/019-psalm-010.adoc#v19-10-0[&#60; Capítulo Anterior] | <<v19-11-0,Topo>> | xref:019-psalm/019-psalm-012.adoc#v19-12-0[Próximo Capítulo &#62;]

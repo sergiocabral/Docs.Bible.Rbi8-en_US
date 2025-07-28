@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v17-5-0]]
+=== Esther, 5
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v17-5-1]]
+
+^<<v17-5-1,1>>^ And it came about on the third day that Esther went dressing up royally, after which she took her stand in the inner courtyard of the king’s house opposite the king’s house, while the king was sitting on his royal throne in the royal house opposite the entrance of the house.
+
+[[v17-5-2]]
+
+^<<v17-5-2,2>>^ And it came about that, as soon as the king saw Esther the queen standing in the courtyard, she gained favor in his eyes, so that the king held out to Esther the golden scepter that was in his hand. Esther now came near and touched the top of the scepter.
+
+[[v17-5-3]]
+
+^<<v17-5-3,3>>^ Then the king said to her: “What do you have, O Esther the queen, and what is your request? To the half of the kingship—let it even be given to you!”
+
+[[v17-5-4]]
+
+^<<v17-5-4,4>>^ In turn Esther said: “If to the king it does seem good, let the king with Haʹman come today^&#42;1^ to the banquet that I have made for him.”
+
+[NOTE]
+====
+. “Let the king with Haman come today.” This appears to be the second acrostic of the Tetragrammaton, YHWH, in Esther. ­Ya·vohʼʹ Ham·meʹlekh Weha·manʹ Hai·yohmʹ, in Heb. Three ancient Heb. mss are known that give the Heb. letters of the divine name, ­יהוה (YHWH), in acrostic in majuscule letters, as follows: יוםה המןו מלךה בואי. The Masorah in a rubric, or in red letters, calls attention to this. See 1:20 ftn.
+====
+
+[[v17-5-5]]
+
+^<<v17-5-5,5>>^ Accordingly the king said: “YOU men, have Haʹman act quickly on the word of Esther.” Later the king and Haʹman came to the banquet that Esther had made.
+
+[[v17-5-6]]
+
+^<<v17-5-6,6>>^ In time the king said to Esther during the banquet of wine: “What is your petition? Let it even be granted you! And what is your request? To the half of the kingship—let it even be done!”
+
+[[v17-5-7]]
+
+^<<v17-5-7,7>>^ To this Esther answered and said: “My petition and my request is,
+
+[[v17-5-8]]
+
+^<<v17-5-8,8>>^ If I have found favor in the king’s eyes and if to the king it does seem good to grant my petition and to act on my request, let the king and Haʹman come to the banquet that I shall hold for them &#91;tomorrow&#93;,^&#42;1^ and tomorrow I shall do according to the king’s word.”
+
+[NOTE]
+====
+. “Tomorrow,” LXX; MVg omit.
+====
+
+[[v17-5-9]]
+
+^<<v17-5-9,9>>^ Consequently Haʹman went out on that day joyful and merry of heart; but as soon as Haʹman saw Morʹde·cai in the king’s gate and that he did not rise and did not quake on account of him, Haʹman was immediately filled with rage against Morʹde·cai.
+
+[[v17-5-10]]
+
+^<<v17-5-10,10>>^ However, Haʹman kept control of himself and came into his house. Then he sent and had his friends^&#42;1^ and Zeʹresh his wife brought in;
+
+[NOTE]
+====
+. Or, “lovers.”
+====
+
+[[v17-5-11]]
+
+^<<v17-5-11,11>>^ and Haʹman proceeded to declare to them the glory of his riches and the large number of his sons and everything with which the king had magnified him and how he had exalted him over the princes and the servants of the king.
+
+[[v17-5-12]]
+
+^<<v17-5-12,12>>^ And Haʹman went on to say: “What is more, Esther the queen brought in with the king to the banquet that she had made no one but me, and tomorrow also I am invited to her with the king.
+
+[[v17-5-13]]
+
+^<<v17-5-13,13>>^ But all this—none of it suits me^&#42;1^ as long as I am seeing Morʹde·cai the Jew sitting in the king’s gate.”
+
+[NOTE]
+====
+. “But all this​—⁠none of it suits me.” Heb., wekhol-zeHʹ ʼeh·nenʹnU sho·weHʹ lI. Here U corresponds to W and I corresponds to Y. This appears to be the third ­acrostic of the Tetragrammaton, יהוה (YHWH), in Esther. Three ancient Heb. mss are known that give the Heb. letters of the divine name, יהוה, here spelled backward, in acrostic in majuscule letters, as follows: יל השו ואיננ הוכל־ז. The Masorah in a rubric, or in red letters, calls attention to this. See vs 4 and 1:20 ftns.
+====
+
+[[v17-5-14]]
+
+^<<v17-5-14,14>>^ At that Zeʹresh his wife and all his friends said to him: “Let them make a stake^&#42;1^ fifty cubits^&#42;2^ high. Then in the morning say to the king that they should hang Morʹde·cai on it. Then go in with the king to the banquet joyful.” So the thing seemed good before Haʹman, and he proceeded to have the stake made.
+
+[NOTE]
+====
+. Lit., “tree (wood).” Heb., ʽets; Gr., xyʹlon; Lat., traʹbem. Compare Ge 40:19 ftn.
+. About 22.3 m (73 ft).
+====
+
+'''
+
+xref:017-esther/017-esther-004.adoc#v17-4-0[&#60; Capítulo Anterior] | <<v17-5-0,Topo>> | xref:017-esther/017-esther-006.adoc#v17-6-0[Próximo Capítulo &#62;]

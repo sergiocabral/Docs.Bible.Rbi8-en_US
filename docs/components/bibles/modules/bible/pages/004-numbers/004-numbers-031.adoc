@@ -1,0 +1,276 @@
+include::./index.adoc[]
+
+[[v4-31-0]]
+=== Numbers, 31
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-31-1]]
+
+^<<v4-31-1,1>>^ Jehovah then spoke to Moses, saying:
+
+[[v4-31-2]]
+
+^<<v4-31-2,2>>^ “Take vengeance for the sons of Israel upon the Midʹi·an·ites. Afterward you will be gathered to your people.”
+
+[[v4-31-3]]
+
+^<<v4-31-3,3>>^ So Moses spoke to the people, saying: “Equip^&#42;1^ men from among YOU for the army, that they may serve against Midʹi·an to execute Jehovah’s vengeance upon Midʹi·an.
+
+[NOTE]
+====
+. Lit., “Equip yourselves.” LXXSyVg, “Arm.”
+====
+
+[[v4-31-4]]
+
+^<<v4-31-4,4>>^ A thousand of each tribe of all the tribes of Israel YOU will send into the army.”
+
+[[v4-31-5]]
+
+^<<v4-31-5,5>>^ Accordingly from the thousands of Israel a thousand were assigned of a tribe, twelve thousand equipped for the army.
+
+[[v4-31-6]]
+
+^<<v4-31-6,6>>^ Then Moses sent them out, a thousand of each tribe, to the army, them and Phinʹe·has the son of El·e·aʹzar the priest to the army, and the holy utensils and the trumpets for blowing calls were in his hand.
+
+[[v4-31-7]]
+
+^<<v4-31-7,7>>^ And they went waging war against Midʹi·an, just as Jehovah had commanded Moses, and they proceeded to kill every male.
+
+[[v4-31-8]]
+
+^<<v4-31-8,8>>^ And they killed the kings of Midʹi·an along with the others slain, namely, Eʹvi and Reʹkem and Zur and Hur and Reʹba, the five kings of Midʹi·an; and they killed Baʹlaam the son of Beʹor with the sword.
+
+[[v4-31-9]]
+
+^<<v4-31-9,9>>^ But the sons of Israel carried off the women of Midʹi·an and their little ones captive; and all their domestic animals and all their livestock and all their means of maintenance they plundered.
+
+[[v4-31-10]]
+
+^<<v4-31-10,10>>^ And all their cities in which they had settled^&#42;1^ and all their walled camps they burned with fire.
+
+[NOTE]
+====
+. Lit., “all their cities in their dwelling places,” in contrast with their original cities.
+====
+
+[[v4-31-11]]
+
+^<<v4-31-11,11>>^ And they went taking all the spoil and all the booty in the way of humans^&#42;1^ and domestic animals.
+
+[NOTE]
+====
+. “In the way of humans.” Heb., ba·ʼa·dhamʹ; Lat., ho·miʹni·bus.
+====
+
+[[v4-31-12]]
+
+^<<v4-31-12,12>>^ And they came bringing to Moses and El·e·aʹzar the priest and to the assembly^&#42;1^ of the sons of Israel the captives and the booty and the spoil, to the camp, to the desert plains of Moʹab, which are by the Jordan at Jerʹi·cho.
+
+[NOTE]
+====
+. “The assembly,” M; SamTJSyVg and many Heb. mss, “all the assembly.”
+====
+
+[[v4-31-13]]
+
+^<<v4-31-13,13>>^ Then Moses and El·e·aʹzar the priest and all the chieftains of the assembly went out to meet them outside the camp.
+
+[[v4-31-14]]
+
+^<<v4-31-14,14>>^ And Moses grew indignant at the appointed men of the combat forces, the chiefs^&#42;1^ of the thousands and the chiefs of the hundreds who were coming in from the military expedition.
+
+[NOTE]
+====
+. “Chiefs of.” MSam(Heb.), sa·rehʹ.
+====
+
+[[v4-31-15]]
+
+^<<v4-31-15,15>>^ So Moses said to them: “Have YOU preserved alive every female?
+
+[[v4-31-16]]
+
+^<<v4-31-16,16>>^ Look! They are the ones who, by Baʹlaam’s word, served to induce the sons of Israel to commit unfaithfulness^&#42;1^ toward Jehovah over the affair of Peʹor, so that the scourge came upon the assembly of Jehovah.
+
+[NOTE]
+====
+. “To commit unfaithfulness,” T; M is obscure; Gr., a·po·steʹsai.
+====
+
+[[v4-31-17]]
+
+^<<v4-31-17,17>>^ And now kill every male among the little ones, and kill every woman who has had intercourse with man by lying with a male.
+
+[[v4-31-18]]
+
+^<<v4-31-18,18>>^ And preserve alive for yourselves all the little ones among the women who have not known the act of lying with a male.
+
+[[v4-31-19]]
+
+^<<v4-31-19,19>>^ As for YOU yourselves, camp outside the camp seven days. Everyone who has killed a soul and everyone who has touched someone slain, YOU should purify yourselves on the third day and on the seventh day, YOU and YOUR captives.
+
+[[v4-31-20]]
+
+^<<v4-31-20,20>>^ And every garment and every article of skin and everything made of goat’s hair and every article of wood YOU should purify for yourselves from sin.”
+
+[[v4-31-21]]
+
+^<<v4-31-21,21>>^ El·e·aʹzar the priest then said to the men of the army who had gone into the battle: “This is the statute of the law that Jehovah commanded Moses,
+
+[[v4-31-22]]
+
+^<<v4-31-22,22>>^ ‘Only the gold and the silver, the copper, the iron, the tin and the lead,
+
+[[v4-31-23]]
+
+^<<v4-31-23,23>>^ everything that is processed with fire,^&#42;1^ YOU should pass through the fire, and it must be clean. Only it should be purified by the water for cleansing. And everything that is not processed with fire^&#42;2^ YOU should pass through the water.
+
+[NOTE]
+====
+. Or, “that stands (comes into) the fire.”
+. Or, “that does not stand (come into) the fire.”
+====
+
+[[v4-31-24]]
+
+^<<v4-31-24,24>>^ And YOU must wash YOUR garments on the seventh day and be clean, and afterward YOU may come into the camp.’”
+
+[[v4-31-25]]
+
+^<<v4-31-25,25>>^ And Jehovah proceeded to say this to Moses:
+
+[[v4-31-26]]
+
+^<<v4-31-26,26>>^ “Take the sum of the booty, the captives both of humankind and of domestic animals, you and El·e·aʹzar the priest and the heads of the fathers of the assembly.
+
+[[v4-31-27]]
+
+^<<v4-31-27,27>>^ And you must divide the booty in two between those taking part in the battle who went out on the expedition and all the rest of the assembly.
+
+[[v4-31-28]]
+
+^<<v4-31-28,28>>^ And as a tax for Jehovah you must take away from the men of war who went out on the expedition one soul out of five hundred, of humankind and of the herd and of the asses and of the flock.
+
+[[v4-31-29]]
+
+^<<v4-31-29,29>>^ From their half YOU^&#42;1^ should take it and you must give it to El·e·aʹzar the priest as Jehovah’s contribution.
+
+[NOTE]
+====
+. “You,” pl., MLXX; Sam, “you,” sing.
+====
+
+[[v4-31-30]]
+
+^<<v4-31-30,30>>^ And from the half of the sons of Israel you should take one out of fifty,^&#42;1^ of humankind, of the herd, of the asses and of the flock, of every sort of domestic animal, and you must give them to the Levites, the keepers of the obligation of Jehovah’s tabernacle.”
+
+[NOTE]
+====
+. “Take one out of fifty,” in agreement with LXXSyVg; M, “take one seized [or, taken arithmetically] out of fifty.”
+====
+
+[[v4-31-31]]
+
+^<<v4-31-31,31>>^ And Moses and El·e·aʹzar the priest went doing just as Jehovah had commanded Moses.
+
+[[v4-31-32]]
+
+^<<v4-31-32,32>>^ And the booty, the rest of the plunder that the people of the expedition had taken as plunder, amounted to six hundred and seventy-five thousand of the flock,
+
+[[v4-31-33]]
+
+^<<v4-31-33,33>>^ and seventy-two thousand of the herd,
+
+[[v4-31-34]]
+
+^<<v4-31-34,34>>^ and sixty-one thousand asses.
+
+[[v4-31-35]]
+
+^<<v4-31-35,35>>^ As for human souls from the women who had not known the act of lying with a male, all the souls were thirty-two thousand.
+
+[[v4-31-36]]
+
+^<<v4-31-36,36>>^ And the half that was the share of those who went out on the expedition amounted in number to three hundred and thirty-seven thousand five hundred of the flock.
+
+[[v4-31-37]]
+
+^<<v4-31-37,37>>^ And the tax for Jehovah from the flock amounted to six hundred and seventy-five.
+
+[[v4-31-38]]
+
+^<<v4-31-38,38>>^ And of the herd there were thirty-six thousand, and the tax on them for Jehovah was seventy-two.
+
+[[v4-31-39]]
+
+^<<v4-31-39,39>>^ And the asses were thirty thousand five hundred, and the tax on them for Jehovah was sixty-one.
+
+[[v4-31-40]]
+
+^<<v4-31-40,40>>^ And the human souls were sixteen thousand, and the tax on them for Jehovah was thirty-two souls.
+
+[[v4-31-41]]
+
+^<<v4-31-41,41>>^ Then Moses gave the tax as Jehovah’s contribution to El·e·aʹzar the priest, just as Jehovah had commanded Moses.
+
+[[v4-31-42]]
+
+^<<v4-31-42,42>>^ And from the half belonging to the sons of Israel, which Moses divided from that belonging to the men who waged war:
+
+[[v4-31-43]]
+
+^<<v4-31-43,43>>^ Now the half of the assembly from the flock amounted to three hundred and thirty-seven thousand five hundred,
+
+[[v4-31-44]]
+
+^<<v4-31-44,44>>^ and of the herd, thirty-six thousand,
+
+[[v4-31-45]]
+
+^<<v4-31-45,45>>^ and the asses, thirty thousand five hundred,
+
+[[v4-31-46]]
+
+^<<v4-31-46,46>>^ and human souls, sixteen thousand.
+
+[[v4-31-47]]
+
+^<<v4-31-47,47>>^ Then Moses took from the half belonging to the sons of Israel the one to be taken out of fifty,^&#42;1^ of humankind and of domestic animals, and gave them to the Levites, the keepers of the obligation of Jehovah’s tabernacle, just as Jehovah had commanded Moses.
+
+[NOTE]
+====
+. See vs 30 ftn.
+====
+
+[[v4-31-48]]
+
+^<<v4-31-48,48>>^ And the appointed men who were of the thousands of the army, the chiefs of the thousands and the chiefs of the hundreds, proceeded to approach Moses,
+
+[[v4-31-49]]
+
+^<<v4-31-49,49>>^ and to say to Moses: “Your servants have taken the sum of the men of war who are in our charge and not one has been reported missing from us.
+
+[[v4-31-50]]
+
+^<<v4-31-50,50>>^ So let us present each one what he has found as Jehovah’s offering, articles of gold, ankle chainlets, and bracelets, signet rings, earrings, and female ornaments, in order to make atonement for our souls before Jehovah.”
+
+[[v4-31-51]]
+
+^<<v4-31-51,51>>^ Accordingly Moses and El·e·aʹzar the priest accepted the gold from them, all the jewelry.
+
+[[v4-31-52]]
+
+^<<v4-31-52,52>>^ And all the gold of the contribution that they contributed to Jehovah amounted to sixteen thousand seven hundred and fifty shekels, from the chiefs of the thousands and the chiefs of the hundreds.
+
+[[v4-31-53]]
+
+^<<v4-31-53,53>>^ The men of the army had taken plunder each for himself.
+
+[[v4-31-54]]
+
+^<<v4-31-54,54>>^ So Moses and El·e·aʹzar the priest accepted the gold from the chiefs of the thousands and of the hundreds and brought it into the tent of meeting as a memorial for the sons of Israel before Jehovah.
+
+'''
+
+xref:004-numbers/004-numbers-030.adoc#v4-30-0[&#60; Capítulo Anterior] | <<v4-31-0,Topo>> | xref:004-numbers/004-numbers-032.adoc#v4-32-0[Próximo Capítulo &#62;]

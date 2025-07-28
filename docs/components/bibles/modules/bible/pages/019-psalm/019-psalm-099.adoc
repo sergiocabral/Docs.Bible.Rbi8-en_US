@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v19-99-0]]
+=== Psalms, 99
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-99-1]]
+
+^<<v19-99-1,1>>^ Jehovah himself has become king. Let the peoples be agitated.
+He is sitting upon the cherubs. Let the earth quiver.
+
+[[v19-99-2]]
+
+^<<v19-99-2,2>>^ Jehovah is great in Zion,
+And he is high over all the peoples.
+
+[[v19-99-3]]
+
+^<<v19-99-3,3>>^ Let them laud your name.
+Great and fear-inspiring, holy it is.
+
+[[v19-99-4]]
+
+^<<v19-99-4,4>>^ And with the strength of a king judgment he has loved.
+You yourself have firmly established uprightness.
+Judgment and righteousness in Jacob are what you yourself have effected.
+
+[[v19-99-5]]
+
+^<<v19-99-5,5>>^ Exalt Jehovah our God and bow down yourselves at his footstool;
+He is holy.
+
+[[v19-99-6]]
+
+^<<v19-99-6,6>>^ Moses and Aaron were among his priests,
+And Samuel was among those calling upon his name.
+They were calling to Jehovah, and he himself kept answering them.
+
+[[v19-99-7]]
+
+^<<v19-99-7,7>>^ In the pillar of cloud he continued speaking to them.
+They kept his reminders and the regulation that he gave to them.
+
+[[v19-99-8]]
+
+^<<v19-99-8,8>>^ O Jehovah our God, you yourself answered them.
+A God^&#42;1^ granting pardon you proved to be to them,
+And executing vengeance against their notorious deeds.
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+[[v19-99-9]]
+
+^<<v19-99-9,9>>^ Exalt Jehovah our God
+And bow down yourselves at his holy mountain.
+For Jehovah our God is holy.
+
+'''
+
+xref:019-psalm/019-psalm-098.adoc#v19-98-0[&#60; Capítulo Anterior] | <<v19-99-0,Topo>> | xref:019-psalm/019-psalm-100.adoc#v19-100-0[Próximo Capítulo &#62;]

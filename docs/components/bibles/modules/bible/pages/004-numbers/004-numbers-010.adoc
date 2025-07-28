@@ -1,0 +1,184 @@
+include::./index.adoc[]
+
+[[v4-10-0]]
+=== Numbers, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-10-1]]
+
+^<<v4-10-1,1>>^ And Jehovah proceeded to speak to Moses, saying:
+
+[[v4-10-2]]
+
+^<<v4-10-2,2>>^ “Make for yourself two trumpets^&#42;1^ of silver. You will make them of hammered work, and they must be at your service for convening the assembly and for breaking up the camps.
+
+[NOTE]
+====
+. Or, “straight trumpets.” Heb., chatsoh·tserothʹ; different from the shoh·pharʹ, an animal’s curved horn used as a signaling instrument.
+====
+
+[[v4-10-3]]
+
+^<<v4-10-3,3>>^ And they must blow on them both, and the whole assembly must keep their appointment with you at the entrance of the tent of meeting.
+
+[[v4-10-4]]
+
+^<<v4-10-4,4>>^ And if they should blow on just one, the chieftains as heads of the thousands of Israel must also keep their appointment with you.
+
+[[v4-10-5]]
+
+^<<v4-10-5,5>>^ “And YOU men must blow a fluctuating blast, and the camps of those camping to the east must pull away.
+
+[[v4-10-6]]
+
+^<<v4-10-6,6>>^ And YOU must blow a fluctuating blast a second time, and the camps of those camping to the south must pull away.^&#42;1^ They should blow a fluctuating blast for each time one of them pulls away.
+
+[NOTE]
+====
+. LXXIt and Coptic Version add: “When you will blow a third signal, then the camps of those camping to the west will pull away. When you will blow a fourth signal, then the camps of those camping to the north will pull away.”
+====
+
+[[v4-10-7]]
+
+^<<v4-10-7,7>>^ “Now when calling the congregation together, YOU should blow, but YOU must not sound a fluctuating blast.
+
+[[v4-10-8]]
+
+^<<v4-10-8,8>>^ And Aaron’s sons, the priests, should blow on the trumpets, and the use of them must serve as a statute for YOU men to time indefinite during YOUR generations.
+
+[[v4-10-9]]
+
+^<<v4-10-9,9>>^ “And in case YOU should enter into war in YOUR land against the oppressor who is harassing YOU, YOU must also sound a war call on the trumpets, and YOU will certainly be remembered before Jehovah YOUR God and be saved from YOUR enemies.
+
+[[v4-10-10]]
+
+^<<v4-10-10,10>>^ “And in the day of YOUR rejoicing and in YOUR festal seasons and at the commencements of YOUR months, YOU must blow on the trumpets over YOUR burnt offerings and YOUR communion sacrifices; and their use must serve as a memorial^&#42;1^ for YOU before YOUR God. I am Jehovah YOUR God.”
+
+[NOTE]
+====
+. Or, “as a remembrancer.”
+====
+
+[[v4-10-11]]
+
+^<<v4-10-11,11>>^ Now it came about that in the second year, in the second month, on the twentieth day in the month, the cloud lifted itself from over the tabernacle of the Testimony.
+
+[[v4-10-12]]
+
+^<<v4-10-12,12>>^ And the sons of Israel began to pull away in the manner of their departures from the wilderness of Siʹnai, and the cloud proceeded to reside in the wilderness of Paʹran.
+
+[[v4-10-13]]
+
+^<<v4-10-13,13>>^ And they began pulling away for the first time, according to the order of Jehovah by means of Moses.
+
+[[v4-10-14]]
+
+^<<v4-10-14,14>>^ So the &#91;three-tribe&#93; division^&#42;1^ of the camp of the sons of Judah pulled away first of all in their armies, and Nahʹshon the son of Am·minʹa·dab was over its army.
+
+[NOTE]
+====
+. “[Three-tribe] division of.” Heb., deʹghel.
+====
+
+[[v4-10-15]]
+
+^<<v4-10-15,15>>^ And over the army of the tribe of the sons of Isʹsa·char there was Ne·thanʹel the son of Zuʹar.
+
+[[v4-10-16]]
+
+^<<v4-10-16,16>>^ And over the army of the tribe of the sons of Zebʹu·lun there was E·liʹab the son of Heʹlon.
+
+[[v4-10-17]]
+
+^<<v4-10-17,17>>^ And the tabernacle was taken down, and the sons of Gerʹshon and the sons of Me·rarʹi as carriers of the tabernacle pulled away.
+
+[[v4-10-18]]
+
+^<<v4-10-18,18>>^ And the &#91;three-tribe&#93; division of the camp of Reuʹben pulled away in their armies, and E·liʹzur the son of Shedʹe·ur was over its army.
+
+[[v4-10-19]]
+
+^<<v4-10-19,19>>^ And over the army of the tribe of the sons of Simʹe·on there was She·luʹmi·el the son of Zu·ri·shadʹdai.
+
+[[v4-10-20]]
+
+^<<v4-10-20,20>>^ And over the army of the tribe of the sons of Gad there was E·liʹa·saph the son of Deuʹel.
+
+[[v4-10-21]]
+
+^<<v4-10-21,21>>^ And the Koʹhath·ites as carriers of the sanctuary pulled away, as they will have set up the tabernacle by the time of their coming.
+
+[[v4-10-22]]
+
+^<<v4-10-22,22>>^ And the &#91;three-tribe&#93; division of the camp of the sons of Eʹphra·im pulled away in their armies, and E·lishʹa·ma the son of Am·miʹhud was over its army.
+
+[[v4-10-23]]
+
+^<<v4-10-23,23>>^ And over the army of the tribe of the sons of Ma·nasʹseh there was Ga·maʹli·el the son of Pe·dahʹzur.
+
+[[v4-10-24]]
+
+^<<v4-10-24,24>>^ And over the army of the tribe of the sons of Benjamin there was Abʹi·dan the son of Gid·e·oʹni.
+
+[[v4-10-25]]
+
+^<<v4-10-25,25>>^ And the &#91;three-tribe&#93; division of the camp of the sons of Dan pulled away as forming the rear guard for all the camps in their armies, and A·hi·eʹzer the son of Am·mi·shadʹdai was over its army.
+
+[[v4-10-26]]
+
+^<<v4-10-26,26>>^ And over the army of the tribe of the sons of Ashʹer there was Paʹgi·el the son of Ochʹran.
+
+[[v4-10-27]]
+
+^<<v4-10-27,27>>^ And over the army of the tribe of the sons of Naphʹta·li there was A·hiʹra the son of Eʹnan.
+
+[[v4-10-28]]
+
+^<<v4-10-28,28>>^ In this manner were the departures of the sons of Israel in their armies when they would pull away.
+
+[[v4-10-29]]
+
+^<<v4-10-29,29>>^ Then Moses said to Hoʹbab the son of Reuʹel the Midʹi·an·ite, the father-in-law of Moses:^&#42;1^ “We are pulling away for the place about which Jehovah said, ‘I shall give it to YOU.’ Do come with us, and we shall certainly do good to you, because Jehovah has spoken good concerning Israel.”
+
+[NOTE]
+====
+. Or, “whose son-in-law Moses was.” LXX, “the marriage connection (the in-law) of Moses”; Vg, “his blood relation (kinsman).”
+====
+
+[[v4-10-30]]
+
+^<<v4-10-30,30>>^ But he said to him: “I shall not go along, but I shall go to my own country and to my relatives.”
+
+[[v4-10-31]]
+
+^<<v4-10-31,31>>^ At this he said: “Please, do not leave us, because, for the reason that you well know where we may encamp in the wilderness, you must serve as eyes for us.
+
+[[v4-10-32]]
+
+^<<v4-10-32,32>>^ And it must occur that in case you should come with us, yes, it must occur that with what goodness Jehovah will do good with us, we, in turn, will do good to you.”
+
+[[v4-10-33]]
+
+^<<v4-10-33,33>>^ So they went marching from the mountain of Jehovah for a journey of three days, and the ark of Jehovah’s covenant was marching before them for a journey of three days to search out a resting-place for them.
+
+[[v4-10-34]]
+
+^<<v4-10-34,34>>^ And Jehovah’s cloud was over them by day at their marching out from the encampment.
+
+[[v4-10-35]]
+
+^<<v4-10-35,35>>^ And it would occur that when the Ark would set out, Moses would say: “Do arise, O Jehovah, and let your enemies be scattered; and let those who intensely hate you flee from before you.”
+
+[[v4-10-36]]
+
+^<<v4-10-36,36>>^ And when it would rest, he would say: “Do return, O Jehovah, to^&#42;1^ the myriads of thousands of Israel.”^&#42;2^
+
+[NOTE]
+====
+. “Bring back, O Jehovah,” LXX.
+. “To the myriads and to the thousands of Israel,” Sy; Vg, “to the multitude of the army of Israel.”
+====
+
+'''
+
+xref:004-numbers/004-numbers-009.adoc#v4-9-0[&#60; Capítulo Anterior] | <<v4-10-0,Topo>> | xref:004-numbers/004-numbers-011.adoc#v4-11-0[Próximo Capítulo &#62;]

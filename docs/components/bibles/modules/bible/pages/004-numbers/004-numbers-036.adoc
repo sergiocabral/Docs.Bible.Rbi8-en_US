@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v4-36-0]]
+=== Numbers, 36
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-36-1]]
+
+^<<v4-36-1,1>>^ And the heads of the fathers of the family of the sons of Gilʹe·ad the son of Maʹchir the son of Ma·nasʹseh of the families of the sons of Joseph proceeded to come near and speak before Moses^&#42;1^ and the chieftains, the heads of the fathers^&#42;2^ of the sons of Israel,
+
+[NOTE]
+====
+. LXXSy add, “and before Eleazar the priest.”
+. Or, “the head fathers; the chief fathers.”
+====
+
+[[v4-36-2]]
+
+^<<v4-36-2,2>>^ and say: “Jehovah commanded my lord to give the land in inheritance by lot to the sons of Israel; and my lord was commanded by Jehovah to give the inheritance of Ze·loʹphe·had our brother to his daughters.
+
+[[v4-36-3]]
+
+^<<v4-36-3,3>>^ If any^&#42;1^ of the sons of the other tribes of the sons of Israel happened to get them as wives, the women’s inheritance must also be withdrawn from the inheritance of our fathers and must be added to the inheritance of the tribe^&#42;2^ to which they may come to belong, so that it would be withdrawn from the lot of our inheritance.
+
+[NOTE]
+====
+. Lit., “one.”
+. Or, “tribes.”
+====
+
+[[v4-36-4]]
+
+^<<v4-36-4,4>>^ Now if the Jubilee takes place for the sons of Israel, the women’s inheritance must also be added to the inheritance of the tribe to which they may come to belong; so that their inheritance would be withdrawn from the inheritance of the tribe of our fathers.”
+
+[[v4-36-5]]
+
+^<<v4-36-5,5>>^ Then Moses commanded the sons of Israel at the order of Jehovah, saying: “The tribe of the sons of Joseph is speaking right.
+
+[[v4-36-6]]
+
+^<<v4-36-6,6>>^ This is the word that Jehovah has commanded for the daughters of Ze·loʹphe·had, saying, ‘To whom it is good in their eyes they may become wives. Only it is to the family of the tribe of their fathers that they should become wives.
+
+[[v4-36-7]]
+
+^<<v4-36-7,7>>^ And no inheritance of the sons of Israel should circulate from tribe to tribe, because the sons of Israel should cleave each one to the inheritance of the tribe of his forefathers.
+
+[[v4-36-8]]
+
+^<<v4-36-8,8>>^ And every daughter getting possession of an inheritance out of the tribes of the sons of Israel, to one of the family of the tribe of her father she should become a wife, in order that the sons of Israel may get possession each one of the inheritance of his forefathers.
+
+[[v4-36-9]]
+
+^<<v4-36-9,9>>^ And no inheritance should circulate from one tribe to another tribe, because the tribes of the sons of Israel should cleave each to its own inheritance.’”
+
+[[v4-36-10]]
+
+^<<v4-36-10,10>>^ Just as Jehovah had commanded Moses, that is the way the daughters of Ze·loʹphe·had did.
+
+[[v4-36-11]]
+
+^<<v4-36-11,11>>^ Accordingly Mahʹlah, Tirʹzah and Hogʹlah and Milʹcah and Noah, the daughters of Ze·loʹphe·had, became the wives of the sons of their father’s brothers.^&#42;1^
+
+[NOTE]
+====
+. Or, “their paternal uncles.”
+====
+
+[[v4-36-12]]
+
+^<<v4-36-12,12>>^ To some of the families of the sons of Ma·nasʹseh the son of Joseph they became wives, that their inheritance might continue together with the tribe of the family of their father.
+
+[[v4-36-13]]
+
+^<<v4-36-13,13>>^ These are the commandments and the judicial decisions that Jehovah commanded by means of Moses to the sons of Israel on the desert plains of Moʹab by the Jordan at Jerʹi·cho.
+
+'''
+
+xref:004-numbers/004-numbers-035.adoc#v4-35-0[&#60; Capítulo Anterior] | <<v4-36-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-001.adoc#v5-1-0[Próximo Capítulo &#62;]

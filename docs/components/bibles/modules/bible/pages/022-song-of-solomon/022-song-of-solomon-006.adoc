@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v22-6-0]]
+=== The Song of Solomon, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v22-6-1]]
+
+^<<v22-6-1,1>>^ “Where has your dear one gone, O most beautiful one among women? Where has your dear one turned, that we may seek him with you?”
+
+[[v22-6-2]]
+
+^<<v22-6-2,2>>^ “My own dear one has gone down to his garden, to the garden beds of spice plants, to shepherd among the gardens, and to pick lilies.
+
+[[v22-6-3]]
+
+^<<v22-6-3,3>>^ I am my dear one’s, and my dear one is mine. He is shepherding among the lilies.”
+
+[[v22-6-4]]
+
+^<<v22-6-4,4>>^ “You are beautiful, O girl companion of mine, like Pleasant City,^&#42;1^ comely like Jerusalem, awesome as companies gathered around banners.
+
+[NOTE]
+====
+. Or, “like Tirzah.”
+====
+
+[[v22-6-5]]
+
+^<<v22-6-5,5>>^ Turn your eyes away from in front of me, for they themselves have alarmed me. Your hair is like a drove of goats that have hopped down from Gilʹe·ad.
+
+[[v22-6-6]]
+
+^<<v22-6-6,6>>^ Your teeth are like a drove of ewes that have come up from the washing, all of which are bearing twins, none among them having lost its young ones.
+
+[[v22-6-7]]
+
+^<<v22-6-7,7>>^ Like a segment of pomegranate are your temples behind your veil.
+
+[[v22-6-8]]
+
+^<<v22-6-8,8>>^ There may be sixty queens and eighty concubines and maidens without number.
+
+[[v22-6-9]]
+
+^<<v22-6-9,9>>^ One there is who is my dove, my blameless one. One there is who belongs to her mother. She is the pure one of the one giving birth to her. The daughters have seen her, and they proceeded to pronounce her happy; queens and concubines, and they proceeded to praise her,
+
+[[v22-6-10]]
+
+^<<v22-6-10,10>>^ ‘Who is this woman that is looking down like the dawn, beautiful like the full moon, pure like the glowing sun, awesome as companies gathered around banners?’”
+
+[[v22-6-11]]
+
+^<<v22-6-11,11>>^ “To the garden of nut trees I had gone down, to see the buds in the torrent valley, to see whether the vine had sprouted, whether the pomegranate trees had blossomed.
+
+[[v22-6-12]]
+
+^<<v22-6-12,12>>^ Before I knew it, my own soul had put me at the chariots of my willing people.”^&#42;1^
+
+[NOTE]
+====
+. MLXX end chapter 6 here.
+====
+
+[[v22-6-13]]
+
+^<<v22-6-13,13>>^ “Come back, come back, O Shuʹlam·mite! Come back, come back, that we may behold you!”^&#42;1^
+“What do YOU people behold in the Shuʹlam·mite?”
+“Something like the dance of two camps!”^&#42;2^
+
+[NOTE]
+====
+. SyVg end chapter 6 here.
+. Or, “dance of Mahanaim.”
+====
+
+'''
+
+xref:022-song-of-solomon/022-song-of-solomon-005.adoc#v22-5-0[&#60; Capítulo Anterior] | <<v22-6-0,Topo>> | xref:022-song-of-solomon/022-song-of-solomon-007.adoc#v22-7-0[Próximo Capítulo &#62;]

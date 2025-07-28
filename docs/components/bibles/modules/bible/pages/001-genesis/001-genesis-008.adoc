@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v1-8-0]]
+=== Genesis, 8
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-8-1]]
+
+^<<v1-8-1,1>>^ After that God remembered Noah and every wild beast and every domestic animal that was with him in the ark, and God caused a wind^&#42;1^ to pass over the earth, and the waters began to subside.
+
+[NOTE]
+====
+. Heb., ruʹach; previously translated “active force; breezy part; spirit.”
+====
+
+[[v1-8-2]]
+
+^<<v1-8-2,2>>^ And the springs of the watery deep^&#42;1^ and the floodgates^&#42;2^ of the heavens became stopped up, and so the downpour from the heavens was restrained.
+
+[NOTE]
+====
+. Or, “water canopy.” See 7:11 ftn, “Deep.”
+. Or, “windows.”
+====
+
+[[v1-8-3]]
+
+^<<v1-8-3,3>>^ And the waters began receding from off the earth, progressively receding;^&#42;1^ and at the end of a hundred and fifty days the waters were lacking.
+
+[NOTE]
+====
+. “Progressively receding.” Lit., “going and receding.”
+====
+
+[[v1-8-4]]
+
+^<<v1-8-4,4>>^ And in the seventh month,^&#42;1^ on the seventeenth day of the month, the ark came to rest on the mountains of Arʹa·rat.
+
+[NOTE]
+====
+. “Seventh month.” This corresponded to the month Abib (or, Nisan), the first month of the Jewish sacred calendar after the Exodus. Abib corresponded to the latter half of March and the first half of April. See App 8B.
+====
+
+[[v1-8-5]]
+
+^<<v1-8-5,5>>^ And the waters kept on progressively lessening^&#42;1^ until the tenth month.^&#42;2^ In the tenth month, on the first of the month, the tops of the mountains appeared.
+
+[NOTE]
+====
+. Lit., “going and lessening.”
+. “Tenth month.” This corresponded to the month Tammuz, the fourth month of the Jewish sacred calendar after the Exodus. Tammuz corresponded to the latter half of June and the first half of July. See App 8B.
+====
+
+[[v1-8-6]]
+
+^<<v1-8-6,6>>^ So it occurred that at the end of forty days Noah proceeded to open the window of the ark that he had made.
+
+[[v1-8-7]]
+
+^<<v1-8-7,7>>^ After that he sent out a raven, and it continued flying outdoors,^&#42;1^ going and returning, until the waters dried off the earth.
+
+[NOTE]
+====
+. Lit., “continued going out.”
+====
+
+[[v1-8-8]]
+
+^<<v1-8-8,8>>^ Later he sent out from him a dove to see whether the waters had abated from the surface of the ground.
+
+[[v1-8-9]]
+
+^<<v1-8-9,9>>^ And the dove did not find any resting-place for the sole of its foot, and so it returned to him into the ark because the waters were yet upon the surface of the whole earth. At that he put his hand out and took it and brought it to himself inside the ark.
+
+[[v1-8-10]]
+
+^<<v1-8-10,10>>^ And he went on waiting still another seven days, and once again he sent out the dove from the ark.
+
+[[v1-8-11]]
+
+^<<v1-8-11,11>>^ Later on the dove came to him about the time of evening and, look! there was an olive leaf freshly plucked in its bill, and so Noah got to know that the waters had abated from the earth.
+
+[[v1-8-12]]
+
+^<<v1-8-12,12>>^ And he went on waiting still another seven days. Then he sent out the dove, but it did not come back again to him anymore.
+
+[[v1-8-13]]
+
+^<<v1-8-13,13>>^ Now in the six hundred and first year, in the first month,^&#42;1^ on the first day of the month, it came about that the waters had drained from off the earth; and Noah proceeded to remove the covering of the ark and to look, and here the surface of the ground had drained dry.
+
+[NOTE]
+====
+. “First month.” This corresponded to the month Ethanim (or, Tishri), the seventh month of the Jewish sacred calendar after the Exodus. Ethanim corresponded to the latter half of September and the first half of October. See App 8B.
+====
+
+[[v1-8-14]]
+
+^<<v1-8-14,14>>^ And in the second month, on the twenty-seventh day of the month, the earth had dried off.
+
+[[v1-8-15]]
+
+^<<v1-8-15,15>>^ God now spoke to Noah, saying:
+
+[[v1-8-16]]
+
+^<<v1-8-16,16>>^ “Go out of the ark, you and your wife and your sons and your sons’ wives with you.
+
+[[v1-8-17]]
+
+^<<v1-8-17,17>>^ Every living creature that is with you of every sort of flesh, among the flying creatures and among the beasts and among all the moving animals that move upon the earth, bring out with you, as they must swarm in the earth and be fruitful and become many upon the earth.”
+
+[[v1-8-18]]
+
+^<<v1-8-18,18>>^ At that Noah went out, and also his sons and his wife and his sons’ wives with him.
+
+[[v1-8-19]]
+
+^<<v1-8-19,19>>^ Every living creature, every moving animal and every flying creature, everything that moves on the earth, according to their families they went out of the ark.
+
+[[v1-8-20]]
+
+^<<v1-8-20,20>>^ And Noah began to build an altar to Jehovah and to take some of all the clean beasts and of all the clean flying creatures and to offer burnt offerings upon the altar.
+
+[[v1-8-21]]
+
+^<<v1-8-21,21>>^ And Jehovah began to smell a restful^&#42;1^ odor, and so Jehovah said in his heart: “Never again shall I call down evil upon the ground on man’s account, because the inclination of the heart of man is bad from his youth up; and never again shall I deal every living thing a blow just as I have done.
+
+[NOTE]
+====
+. Or, “soothing; tranquilizing.”
+====
+
+[[v1-8-22]]
+
+^<<v1-8-22,22>>^ For all the days the earth continues,^&#42;1^ seed sowing and harvest, and cold and heat, and summer and winter, and day and night, will never cease.”
+
+[NOTE]
+====
+. Lit., “Until all the days of the earth.”
+====
+
+'''
+
+xref:001-genesis/001-genesis-007.adoc#v1-7-0[&#60; Capítulo Anterior] | <<v1-8-0,Topo>> | xref:001-genesis/001-genesis-009.adoc#v1-9-0[Próximo Capítulo &#62;]

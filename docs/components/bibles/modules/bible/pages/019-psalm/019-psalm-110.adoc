@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-110-0]]
+=== Psalms, 110
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David. A melody._
+
+[[v19-110-1]]
+
+^<<v19-110-1,1>>^ The utterance of Jehovah to my Lord^&#42;1^ is:
+“Sit at my right hand
+Until I place your enemies as a stool for your feet.”
+
+[NOTE]
+====
+. “To my Lord (Master).” Heb., lAʼ·dho·niʹ.
+====
+
+[[v19-110-2]]
+
+^<<v19-110-2,2>>^ The rod of your strength Jehovah will send out of Zion, &#91;saying:&#93;
+“Go subduing in the midst of your enemies.”
+
+[[v19-110-3]]
+
+^<<v19-110-3,3>>^ Your people will offer themselves willingly^&#42;1^ on the day of your military force.
+In the splendors of holiness, from the womb of the dawn,^&#42;2^
+You have your company of young men just like dewdrops.^&#42;3^
+
+[NOTE]
+====
+. “Will offer themselves willingly (freely).” Lit., “[will be] voluntary offerings,” that is, prompt volunteers. Compare Ex 35:29; Ex 36:3; Nu 15:3 ftn.
+. “Dawn.” Heb., mish·charʹ; Gr., he·o·sphoʹrou; Lat., lu·ciʹfe·rum. Compare Isa 14:12.
+. Lit., “you have the dew of your youth”; or, “you have your youth as dew itself.”
+====
+
+[[v19-110-4]]
+
+^<<v19-110-4,4>>^ Jehovah has sworn (and he will feel no regret):
+“You are a priest to time indefinite
+According to the manner of Mel·chizʹe·dek!”
+
+[[v19-110-5]]
+
+^<<v19-110-5,5>>^ Jehovah^&#42;1^ himself at your right hand
+Will certainly break kings to pieces on the day of his anger.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-110-6]]
+
+^<<v19-110-6,6>>^ He will execute judgment among the nations;
+He will cause a fullness of dead bodies.
+He will certainly break to pieces the head one over a populous land.
+
+[[v19-110-7]]
+
+^<<v19-110-7,7>>^ From the torrent valley in the way he will drink.
+That is why he will raise high &#91;his&#93; head.^&#42;1^
+
+[NOTE]
+====
+. “His head,” Sy and two Heb. mss; MLXXVg, “the head.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-109.adoc#v19-109-0[&#60; Capítulo Anterior] | <<v19-110-0,Topo>> | xref:019-psalm/019-psalm-111.adoc#v19-111-0[Próximo Capítulo &#62;]

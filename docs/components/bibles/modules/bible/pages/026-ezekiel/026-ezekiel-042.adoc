@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v26-42-0]]
+=== Ezekiel, 42
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v26-42-1]]
+
+^<<v26-42-1,1>>^ And he gradually brought me forth to the outer courtyard^&#42;1^ by the way toward the north. And he proceeded to bring me to the dining-room &#91;block&#93; that was in front of the separated area^&#42;2^ and that was in front of the building^&#42;3^ to the north.
+
+[NOTE]
+====
+. “The outer courtyard,” MTLXXSyVg; LXXBagster, “the inner courtyard.”
+. “The separated area.” Heb., hag·giz·rahʹ.
+. “The building.” Heb., hab·bin·yanʹ.
+====
+
+[[v26-42-2]]
+
+^<<v26-42-2,2>>^ Before the length of a hundred cubits there was the north entrance, and the width was fifty cubits.
+
+[[v26-42-3]]
+
+^<<v26-42-3,3>>^ In front of the twenty &#91;cubits&#93; that belonged to the inner courtyard and in front of the pavement that belonged to the outer courtyard there was gallery opposite gallery in three &#91;stories&#93;.
+
+[[v26-42-4]]
+
+^<<v26-42-4,4>>^ And before the dining rooms there was a walkway ten cubits in width to the inside, a way of one cubit,^&#42;1^ and their entrances were to the north.
+
+[NOTE]
+====
+. “A way of one cubit,” MTVg; LXXSy, “the length was a hundred cubits.” See 40:5 ftn, “Handbreadth.”
+====
+
+[[v26-42-5]]
+
+^<<v26-42-5,5>>^ And as for the dining rooms, the uppermost ones were shorter, for the galleries took away from them, more than the lowest ones and than the middle ones, as regards &#91;the&#93; building.
+
+[[v26-42-6]]
+
+^<<v26-42-6,6>>^ For they were in three stories, and they had no pillars like the pillars of the courtyards. That is why more room was taken away than from the lowest ones and from the middle ones from the floor.
+
+[[v26-42-7]]
+
+^<<v26-42-7,7>>^ And the stone wall that was outside was close by the dining rooms toward the outer courtyard before the &#91;other&#93; dining rooms. Its length was fifty cubits.
+
+[[v26-42-8]]
+
+^<<v26-42-8,8>>^ For the length of the dining rooms that were toward the outer courtyard was fifty cubits, and, look! before the temple it was a hundred cubits.
+
+[[v26-42-9]]
+
+^<<v26-42-9,9>>^ And from below these dining rooms the entryway was to the east, when one comes in to them from the outer courtyard.
+
+[[v26-42-10]]
+
+^<<v26-42-10,10>>^ In the width of the stone wall of the courtyard toward the east, before the separated area and before the building, there were dining rooms.
+
+[[v26-42-11]]
+
+^<<v26-42-11,11>>^ And there was a way before them like the appearance of the dining rooms that were toward the north, so their length was &#91;and&#93; so their width was; and all their exits &#91;were alike&#93;, and their plans alike and their entrances alike.
+
+[[v26-42-12]]
+
+^<<v26-42-12,12>>^ And like the entrances of the dining rooms that were toward the south was the entrance at the head of the way, the way before the corresponding stone wall toward the east, when one comes in to them.
+
+[[v26-42-13]]
+
+^<<v26-42-13,13>>^ And he proceeded to say to me: “The dining rooms of the north &#91;and&#93; the dining rooms of the south that are before the separated area, they are the holy dining rooms,^&#42;1^ where the priests who are approaching Jehovah eat the most holy things. There they deposit the most holy things and the grain offering and the sin offering and the guilt offering, because the place is holy.
+
+[NOTE]
+====
+. Or, “the dining rooms of the sanctuary,” in agreement with LXX.
+====
+
+[[v26-42-14]]
+
+^<<v26-42-14,14>>^ When they, the priests, have come in, they will not also go out from the holy place^&#42;1^ to the outer courtyard, but there they will deposit their garments in which they customarily minister, for they are something holy. They will clothe themselves with other garments, and must approach to what has to do with the people.”
+
+[NOTE]
+====
+. “From the holy place (sanctuary).” Heb., me·haq·qoʹdhesh; Gr., ha·giʹou.
+====
+
+[[v26-42-15]]
+
+^<<v26-42-15,15>>^ And he finished the measurements of the inner house, and he brought me out by the way of the gate the front of which was toward the east, and he measured it all around.
+
+[[v26-42-16]]
+
+^<<v26-42-16,16>>^ He measured the eastern side^&#42;1^ with the measuring reed. It was five hundred reeds,^&#42;2^ by the measuring reed, round about.
+
+[NOTE]
+====
+. Lit., “wind.” Heb., ruʹach; Lat., venʹtum.
+. “Reeds,” MTSyVg; LXX omits. See 40:5.
+====
+
+[[v26-42-17]]
+
+^<<v26-42-17,17>>^ He measured the northern side, five hundred reeds,^&#42;1^ by the measuring reed, round about.
+
+[NOTE]
+====
+. “Reeds,” MTSyVg; LXX, “cubits.”
+====
+
+[[v26-42-18]]
+
+^<<v26-42-18,18>>^ The southern side he measured, five hundred reeds,^&#42;1^ by the measuring reed.
+
+[NOTE]
+====
+. “Reeds,” MTSyVg; LXX omits.
+====
+
+[[v26-42-19]]
+
+^<<v26-42-19,19>>^ He went around to the western side.^&#42;1^ He measured five hundred reeds, by the measuring reed.
+
+[NOTE]
+====
+. “The western side.” Lit., “the wind of the sea,” that is, the Mediterranean Sea to the west.
+====
+
+[[v26-42-20]]
+
+^<<v26-42-20,20>>^ For the four sides^&#42;1^ he measured it. It had a wall all around, with a length of five hundred &#91;reeds&#93; and a width of five hundred &#91;reeds&#93;,^&#42;2^ to make a division between what is holy^&#42;3^ and what is profane.
+
+[NOTE]
+====
+. Lit., “winds.”
+. “Cubits,” LXX.
+. “What is holy.” Or, “the sanctuary.” Heb., haq·qoʹdhesh; Lat., sanc·tu·aʹri·um.
+====
+
+'''
+
+xref:026-ezekiel/026-ezekiel-041.adoc#v26-41-0[&#60; Capítulo Anterior] | <<v26-42-0,Topo>> | xref:026-ezekiel/026-ezekiel-043.adoc#v26-43-0[Próximo Capítulo &#62;]

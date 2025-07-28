@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v1-7-0]]
+=== Genesis, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-7-1]]
+
+^<<v1-7-1,1>>^ After that Jehovah said to Noah: “Go, you and all your household, into the ark, because you are the one I have seen to be righteous before me among this generation.
+
+[[v1-7-2]]
+
+^<<v1-7-2,2>>^ Of every clean beast you must take to yourself by sevens,^&#42;1^ the sire and its mate;^&#42;2^ and of every beast that is not clean just two, the sire and its mate;
+
+[NOTE]
+====
+. Lit., “seven seven.”
+. Lit., “a man and his wife.”
+====
+
+[[v1-7-3]]
+
+^<<v1-7-3,3>>^ also of the flying creatures of the heavens by sevens, male and female, to preserve offspring^&#42;1^ alive on the surface of the entire earth.
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v1-7-4]]
+
+^<<v1-7-4,4>>^ For in just seven days more I am making it rain upon the earth forty days and forty nights; and I will wipe every existing thing that I have made off the surface of the ground.”
+
+[[v1-7-5]]
+
+^<<v1-7-5,5>>^ And Noah proceeded to do according to all that Jehovah had commanded him.
+
+[[v1-7-6]]
+
+^<<v1-7-6,6>>^ And Noah was six hundred years old when the deluge^&#42;1^ of waters occurred on the earth.
+
+[NOTE]
+====
+. Or, “heavenly ocean.” See vs 17 ftn; 6:17 ftn, “Deluge”; Ps 29:10 ftn.
+====
+
+[[v1-7-7]]
+
+^<<v1-7-7,7>>^ So Noah went in, and his sons and his wife and his sons’ wives with him, into the ark ahead of the waters of the deluge.^&#42;1^
+
+[NOTE]
+====
+. See vs 6 ftn.
+====
+
+[[v1-7-8]]
+
+^<<v1-7-8,8>>^ Of every clean beast and of every beast that is not clean and of the flying creatures and everything that moves on the ground,
+
+[[v1-7-9]]
+
+^<<v1-7-9,9>>^ they went in by twos to Noah inside the ark, male and female, just as God^&#42;1^ had commanded Noah.
+
+[NOTE]
+====
+. “God,” MLXXSy; SamTJ,OVgmss, “Jehovah.” This is an instance where mss of Vg lend support to the use of the divine name. See BHK and BHS ftns on Ge 7:9; App 1A, 1D.
+====
+
+[[v1-7-10]]
+
+^<<v1-7-10,10>>^ And seven days later it turned out that the waters of the deluge^&#42;1^ came upon the earth.
+
+[NOTE]
+====
+. See vs 6 ftn.
+====
+
+[[v1-7-11]]
+
+^<<v1-7-11,11>>^ In the six hundredth year of Noah’s life, in the second month,^&#42;1^ on the seventeenth day of the month, on this day all the springs of the vast watery deep^&#42;2^ were broken open and the floodgates^&#42;3^ of the heavens were opened.
+
+[NOTE]
+====
+. “Second month.” Following the Exodus from Egypt, when Jehovah gave the Israelites the sacred calendar, this became the eighth month, known as Bul, corresponding to the latter half of October and first half of November. See App 8B.
+. “Watery deep.” Or, “surging waters; water canopy.” Heb., tehohmʹ; LXX, “the abyss”; Vg, “the great abyss.” See 1:2 ftn, “Deep.” According to 1:7 these must have been “the waters that should be above the expanse.” Compare 6:17 ftn, “Deluge.”
+. Lit., “the windows.” LXX, “the cataracts.”
+====
+
+[[v1-7-12]]
+
+^<<v1-7-12,12>>^ And the downpour upon the earth went on for forty days and forty nights.
+
+[[v1-7-13]]
+
+^<<v1-7-13,13>>^ On this very day Noah went in, and Shem and Ham and Jaʹpheth, Noah’s sons, and the wife of Noah and the three wives of his sons with him, into the ark;
+
+[[v1-7-14]]
+
+^<<v1-7-14,14>>^ they and every wild beast according to its kind, and every domestic animal according to its kind, and every moving animal that moves on the earth according to its kind, and every flying creature according to its kind, every bird, every winged creature.
+
+[[v1-7-15]]
+
+^<<v1-7-15,15>>^ And they kept going to Noah inside the ark, two by two, of every sort of flesh in which the force of life was active.^&#42;1^
+
+[NOTE]
+====
+. See 6:17 ftn, “Active.”
+====
+
+[[v1-7-16]]
+
+^<<v1-7-16,16>>^ And those going in, male and female of every sort of flesh, went in, just as God had commanded him. After that Jehovah shut the door behind him.
+
+[[v1-7-17]]
+
+^<<v1-7-17,17>>^ And the deluge^&#42;1^ went on for forty days upon the earth, and the waters kept increasing and began carrying the ark and it was floating high above the earth.
+
+[NOTE]
+====
+. Or, “heavenly ocean.” See 6:17 ftn, “Deluge.”
+====
+
+[[v1-7-18]]
+
+^<<v1-7-18,18>>^ And the waters became overwhelming and kept increasing greatly upon the earth, but the ark kept going on the surface of the waters.
+
+[[v1-7-19]]
+
+^<<v1-7-19,19>>^ And the waters overwhelmed the earth so greatly that all the tall mountains that were under the whole heavens came to be covered.
+
+[[v1-7-20]]
+
+^<<v1-7-20,20>>^ Up to fifteen cubits the waters overwhelmed them and the mountains became covered.
+
+[[v1-7-21]]
+
+^<<v1-7-21,21>>^ So all flesh that was moving upon the earth expired, among the flying creatures and among the domestic animals and among the wild beasts and among all the swarms that were swarming upon the earth, and all mankind.
+
+[[v1-7-22]]
+
+^<<v1-7-22,22>>^ Everything in which the breath of the force of life was active^&#42;1^ in its nostrils, namely, all that were on the dry ground, died.
+
+[NOTE]
+====
+. See 6:17 ftn, “Active.”
+====
+
+[[v1-7-23]]
+
+^<<v1-7-23,23>>^ Thus he wiped out every existing thing that was on the surface of the ground, from man to beast, to moving animal and to flying creature of the heavens, and they were wiped off the earth; and only Noah and those who were with him in the ark kept on surviving.
+
+[[v1-7-24]]
+
+^<<v1-7-24,24>>^ And the waters continued overwhelming the earth a hundred and fifty days.
+
+'''
+
+xref:001-genesis/001-genesis-006.adoc#v1-6-0[&#60; Capítulo Anterior] | <<v1-7-0,Topo>> | xref:001-genesis/001-genesis-008.adoc#v1-8-0[Próximo Capítulo &#62;]

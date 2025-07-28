@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v9-11-0]]
+=== The First of Samuel, 11
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-11-1]]
+
+^<<v9-11-1,1>>^ And Naʹhash the Amʹmon·ite proceeded to go up and camp against Jaʹbesh in Gilʹe·ad.^&#42;1^ At that all the men of Jaʹbesh said to Naʹhash: “Conclude a covenant with us that we may serve you.”
+
+[NOTE]
+====
+. Or, “Jabesh-gilead.”
+====
+
+[[v9-11-2]]
+
+^<<v9-11-2,2>>^ Then Naʹhash the Amʹmon·ite said to them: “On this condition I shall conclude it with YOU, on the condition of boring out every right eye of YOURS, and I must put it as a reproach upon all Israel.”
+
+[[v9-11-3]]
+
+^<<v9-11-3,3>>^ In turn the older men of Jaʹbesh said to him: “Give us seven days’ time, and we will send messengers into all the territory of Israel and, if there is no savior of us, we must then go out to you.”
+
+[[v9-11-4]]
+
+^<<v9-11-4,4>>^ In time the messengers came to Gibʹe·ah of Saul and spoke the words in the ears of the people, and all the people began raising their voice and weeping.
+
+[[v9-11-5]]
+
+^<<v9-11-5,5>>^ But here is Saul coming after the herd from the field, and Saul proceeded to say: “What is the matter with the people, that they should weep?” And they began relating to him the words of the men of Jaʹbesh.
+
+[[v9-11-6]]
+
+^<<v9-11-6,6>>^ And the spirit of God^&#42;1^ became operative upon Saul on his hearing these words, and his anger got very hot.
+
+[NOTE]
+====
+. “Spirit of God.” Heb., ru·ach-­ʼElo·himʹ; TLXXVg and two Heb. mss, “spirit of Jehovah.”
+====
+
+[[v9-11-7]]
+
+^<<v9-11-7,7>>^ So he took a pair of bulls and cut them in pieces and sent these into all the territory of Israel by the hand of the messengers, saying: “Whoever of us is not going out as a follower of Saul and of Samuel, this is the way it will be done to his cattle!” And the dread of Jehovah began to fall upon the people so that they came out as one man.
+
+[[v9-11-8]]
+
+^<<v9-11-8,8>>^ Then he took the sum of them in Beʹzek, and the sons of Israel amounted to three hundred thousand, and the men of Judah thirty thousand.
+
+[[v9-11-9]]
+
+^<<v9-11-9,9>>^ They^&#42;1^ now said to the messengers that had come: “This is what YOU will say to the men of Jaʹbesh in Gilʹe·ad, ‘Tomorrow salvation will take place for YOU when the sun gets hot.’” With that the messengers came and told the men of Jaʹbesh, and they gave way to rejoicing.
+
+[NOTE]
+====
+. “They,” MVg; LXXSy, “He.”
+====
+
+[[v9-11-10]]
+
+^<<v9-11-10,10>>^ Accordingly the men of Jaʹbesh said: “Tomorrow we shall come out to YOU people, and YOU must do to us in harmony with all that is good in YOUR eyes.”
+
+[[v9-11-11]]
+
+^<<v9-11-11,11>>^ And it came about on the next day that Saul proceeded to put the people into three bands; and they made their way into the middle of the camp during the morning watch^&#42;1^ and went striking down the Amʹmon·ites^&#42;2^ till the day grew hot. When there proved to be some that were left over, then they were sent scattering and there were not left over among them two together.
+
+[NOTE]
+====
+. See Ex 14:24 ftn.
+. “Ammon,” MVg; TLXXSy and three Heb. mss, “the sons of Ammon.”
+====
+
+[[v9-11-12]]
+
+^<<v9-11-12,12>>^ And the people began to say to Samuel: “Who is it saying, ‘Saul—is he to be king^&#42;1^ over us?’ GIVE the men over, that we may put them to death.”
+
+[NOTE]
+====
+. “Saul​—⁠is he to be king?” MVgc; LXXSy, “Saul​—⁠he should not be king.”
+====
+
+[[v9-11-13]]
+
+^<<v9-11-13,13>>^ However, Saul^&#42;1^ said: “Not a man should be put to death on this day, because today Jehovah has performed salvation in Israel.”
+
+[NOTE]
+====
+. “Saul,” MSyVg; LXXB and other Gr. mss, “Samuel.”
+====
+
+[[v9-11-14]]
+
+^<<v9-11-14,14>>^ Later Samuel said to the people: “Come and let us go to Gilʹgal that we may there make the kingship anew.”
+
+[[v9-11-15]]
+
+^<<v9-11-15,15>>^ So all the people went to Gilʹgal, and there they proceeded to make Saul king^&#42;1^ before Jehovah in Gilʹgal. Then they rendered up communion sacrifices there before Jehovah, and there Saul and all the men of Israel continued rejoicing to a great degree.
+
+[NOTE]
+====
+. “And there Samuel anointed Saul to be king,” LXX.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-010.adoc#v9-10-0[&#60; Capítulo Anterior] | <<v9-11-0,Topo>> | xref:009-1-samuel/009-1-samuel-012.adoc#v9-12-0[Próximo Capítulo &#62;]

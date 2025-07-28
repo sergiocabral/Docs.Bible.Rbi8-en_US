@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v6-3-0]]
+=== Joshua, 3
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v6-3-1]]
+
+^<<v6-3-1,1>>^ Then Joshua got up early in the morning, and he and all the sons of Israel proceeded to pull away from Shitʹtim and to come as far as the Jordan; and they went spending the night there before they would cross.
+
+[[v6-3-2]]
+
+^<<v6-3-2,2>>^ So it came about at the end of the three days that the officers proceeded to pass through the midst of the camp
+
+[[v6-3-3]]
+
+^<<v6-3-3,3>>^ and to command the people, saying: “As soon as YOU see the ark of the covenant of Jehovah YOUR God, and the priests, the Levites, carrying it, then YOU yourselves will pull away from YOUR place, and YOU must follow it,
+
+[[v6-3-4]]
+
+^<<v6-3-4,4>>^ —only let there prove to be a distance between YOU and it of about two thousand cubits^&#42;1^ by measure; do not get near to it—in order that YOU may know the way by which YOU should go, for YOU have not passed over on that way before.”
+
+[NOTE]
+====
+. About 890 m (2,920 ft). Compare Ac 1:12 ftn.
+====
+
+[[v6-3-5]]
+
+^<<v6-3-5,5>>^ Joshua now said to the people: “Sanctify yourselves, for tomorrow Jehovah will do wonderful things in YOUR midst.”
+
+[[v6-3-6]]
+
+^<<v6-3-6,6>>^ Then Joshua said to the priests: “Take up the ark of the covenant and pass before the people.” So they took up the ark of the covenant and went before the people.
+
+[[v6-3-7]]
+
+^<<v6-3-7,7>>^ And Jehovah proceeded to say to Joshua: “This day I shall start to make you great in the eyes of all Israel, that they may know that just as I proved to be with Moses I shall prove to be with you.
+
+[[v6-3-8]]
+
+^<<v6-3-8,8>>^ And you—you should command the priests carrying the ark of the covenant, saying, ‘As soon as YOU have come as far as the edge of the waters of the Jordan, YOU should stand still in the Jordan.’”
+
+[[v6-3-9]]
+
+^<<v6-3-9,9>>^ And Joshua went on to say to the sons of Israel: “Approach here and listen to the words of Jehovah YOUR God.”
+
+[[v6-3-10]]
+
+^<<v6-3-10,10>>^ After that Joshua said: “By this YOU will know that a living God^&#42;1^ is in YOUR midst, and that he will without fail drive away from before YOU the Caʹnaan·ites and the Hitʹtites and the Hiʹvites and the Perʹiz·zites and the Girʹga·shites and the Amʹor·ites and the Jebʹu·sites.
+
+[NOTE]
+====
+. “A living God.” Heb., ʼEl, followed by the sing. adjective chai, “living”; Gr., The·osʹ zon; Lat., Deʹus viʹvens.
+====
+
+[[v6-3-11]]
+
+^<<v6-3-11,11>>^ Look! The ark of the covenant of the Lord^&#42;1^ of the whole earth is passing before YOU into the Jordan.
+
+[NOTE]
+====
+. “Lord of.” Heb., ʼAdhohnʹ, sing.; Gr., Ky·riʹou; Lat., Doʹmi·ni. Contrast De 10:17.
+====
+
+[[v6-3-12]]
+
+^<<v6-3-12,12>>^ And now take for yourselves twelve men from the tribes of Israel, one man for each tribe.
+
+[[v6-3-13]]
+
+^<<v6-3-13,13>>^ And it must occur that at the instant that the soles of the feet of the priests carrying the ark of Jehovah, the Lord of the whole earth, rest in the waters of the Jordan, the waters of the Jordan will be cut off, the waters descending from above, and they will stand still as one dam.”
+
+[[v6-3-14]]
+
+^<<v6-3-14,14>>^ And it came about that when the people pulled away from their tents just before passing over the Jordan, with the priests carrying the ark of the covenant before the people,
+
+[[v6-3-15]]
+
+^<<v6-3-15,15>>^ and at the instant that the carriers of the Ark came as far as the Jordan and the feet of the priests carrying the Ark were dipped in the edge of the waters (now the Jordan overflows all its banks all the days of harvest),
+
+[[v6-3-16]]
+
+^<<v6-3-16,16>>^ then the waters descending from above began to stand still. They rose up as one dam very far away at Adam,^&#42;1^ the city at the side of Zarʹe·than, while those descending toward the sea of the Arʹa·bah, the Salt Sea, were exhausted. They were cut off, and the people passed over in front of Jerʹi·cho.
+
+[NOTE]
+====
+. Generally identified with Tell ed-Damiyeh, on the east bank of the Jordan River, 29 km (18 mi) north of Jericho. History records similar blockages of the Jordan by landslides in 1267 C.E. and in 1927 C.E.
+====
+
+[[v6-3-17]]
+
+^<<v6-3-17,17>>^ Meanwhile the priests carrying the ark of Jehovah’s covenant kept standing immovable on dry ground in the middle of the Jordan as all Israel were passing over on dry ground, until the whole nation had completed passing over the Jordan.
+
+'''
+
+xref:006-joshua/006-joshua-002.adoc#v6-2-0[&#60; Capítulo Anterior] | <<v6-3-0,Topo>> | xref:006-joshua/006-joshua-004.adoc#v6-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v27-1-0]]
+=== Daniel, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v27-1-1]]
+
+^<<v27-1-1,1>>^ In the third year of the kingship of Je·hoiʹa·kim the king of Judah, Neb·u·chad·nezʹzar the king of Babylon^&#42;1^ came to Jerusalem and proceeded to lay siege to it.
+
+[NOTE]
+====
+. “Babylon,” LXXVg; MSy, “Babel.”
+====
+
+[[v27-1-2]]
+
+^<<v27-1-2,2>>^ In time Jehovah^&#42;1^ gave into his hand Je·hoiʹa·kim the king of Judah and a part of the utensils of the house of the &#91;true&#93; God,^&#42;2^ so that he brought them to the land of Shiʹnar^&#42;3^ to the house of his god; and the utensils he brought to the treasure-house of his god.^&#42;4^
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+. “The [true] God.” Heb., ha·ʼElo·himʹ; LXXBagster(Gr.), tou The·ouʹ; Sy, “Jehovah.” See App 1F.
+. “The land of Shinar,” MLXXBagsterThVg; LXX, “Babylon.”
+. “His god.” Heb., ʼelo·havʹ, pl. of ʼelohʹah, evidently to denote grandeur.
+====
+
+[[v27-1-3]]
+
+^<<v27-1-3,3>>^ Then the king said to Ashʹpe·naz his chief court official^&#42;1^ to bring some of the sons of Israel and of the royal offspring^&#42;2^ and of the nobles,
+
+[NOTE]
+====
+. “His . . . court official.” Heb., sa·ri·savʹ; Lat., eu·nu·choʹrum su·oʹrum, “of his eunuchs.”
+. Lit., “the seed of the kingship.”
+====
+
+[[v27-1-4]]
+
+^<<v27-1-4,4>>^ children in whom there was no defect at all, but good in appearance and having insight into all wisdom and being acquainted with knowledge, and having discernment of what is known, in whom also there was ability to stand in the palace of the king; and to teach them the writing and the tongue of the Chal·deʹans.
+
+[[v27-1-5]]
+
+^<<v27-1-5,5>>^ Furthermore, to them the king appointed a daily allowance from the delicacies of the king and from his drinking wine, even to nourish them for three years, that at the end of these they might stand before the king.
+
+[[v27-1-6]]
+
+^<<v27-1-6,6>>^ Now there happened to be among them some of the sons of Judah, Daniel, Han·a·niʹah, Mishʹa·el and Az·a·riʹah.
+
+[[v27-1-7]]
+
+^<<v27-1-7,7>>^ And to them the principal court official went assigning names. So he assigned to Daniel &#91;the name of&#93; Bel·te·shazʹzar; and to Han·a·niʹah, Shaʹdrach; and to Mishʹa·el, Meʹshach; and to Az·a·riʹah, A·bedʹne·go.
+
+[[v27-1-8]]
+
+^<<v27-1-8,8>>^ But Daniel determined in his heart that he would not pollute himself with the delicacies of the king and with his drinking wine. And he kept requesting of the principal court official that he might not pollute himself.
+
+[[v27-1-9]]
+
+^<<v27-1-9,9>>^ Accordingly the &#91;true&#93; God gave Daniel over to loving-kindness^&#42;1^ and to mercy before the principal court official.
+
+[NOTE]
+====
+. Or, “to loyal love.” Heb., lecheʹsedh.
+====
+
+[[v27-1-10]]
+
+^<<v27-1-10,10>>^ So the principal court official said to Daniel: “I am in fear of my lord^&#42;1^ the king, who has appointed YOUR food and YOUR drink. Why, then, should he see YOUR faces dejected-looking in comparison with the children who are of the same age as YOURS, and &#91;why&#93; should YOU have to make my head guilty to the king?”
+
+[NOTE]
+====
+. “My lord.” Heb., ʼadho·niʹ; Gr., kyʹri·onʹ; Lat., doʹmi·num.
+====
+
+[[v27-1-11]]
+
+^<<v27-1-11,11>>^ But Daniel said to the guardian whom the principal court official had appointed over Daniel, Han·a·niʹah, Mishʹa·el and Az·a·riʹah:
+
+[[v27-1-12]]
+
+^<<v27-1-12,12>>^ “Please, put your servants to the test for ten days, and let them give us some vegetables that we may eat and water that we may drink;
+
+[[v27-1-13]]
+
+^<<v27-1-13,13>>^ and let our countenances and the countenance of the children who are eating the delicacies of the king appear before you, and according to what you see do with your servants.”
+
+[[v27-1-14]]
+
+^<<v27-1-14,14>>^ Finally he listened to them as regards this matter and put them to the test for ten days.
+
+[[v27-1-15]]
+
+^<<v27-1-15,15>>^ And at the end of ten days their countenances appeared better and fatter in flesh than all the children who were eating the delicacies of the king.
+
+[[v27-1-16]]
+
+^<<v27-1-16,16>>^ So the guardian kept on taking away their delicacies and their drinking wine and giving them vegetables.
+
+[[v27-1-17]]
+
+^<<v27-1-17,17>>^ And as for these children, the four of them, to them the &#91;true&#93; God gave knowledge and insight in all writing and wisdom; and Daniel himself had understanding in all sorts of visions and dreams.
+
+[[v27-1-18]]
+
+^<<v27-1-18,18>>^ And at the end of the days that the king had said to bring them in, the principal court official also proceeded to bring them in before Neb·u·chad·nezʹzar.
+
+[[v27-1-19]]
+
+^<<v27-1-19,19>>^ And the king began to speak with them, and out of them all no one was found like Daniel, Han·a·niʹah, Mishʹa·el and Az·a·riʹah; and they continued to stand before the king.
+
+[[v27-1-20]]
+
+^<<v27-1-20,20>>^ And as regards every matter of wisdom &#91;and&#93; understanding that the king inquired about from them, he even got to find them ten times better than all the magic-practicing priests &#91;and&#93; the conjurers that were in all his royal realm.
+
+[[v27-1-21]]
+
+^<<v27-1-21,21>>^ And Daniel continued on until the first year of Cyrus^&#42;1^ the king.
+
+[NOTE]
+====
+. “Of Cyrus.” Heb., leKhohʹresh; Gr., Kyʹrou; Syr., deKu·resh; Lat., Cyʹri.
+====
+
+'''
+
+xref:026-ezekiel/026-ezekiel-048.adoc#v26-48-0[&#60; Capítulo Anterior] | <<v27-1-0,Topo>> | xref:027-daniel/027-daniel-002.adoc#v27-2-0[Próximo Capítulo &#62;]

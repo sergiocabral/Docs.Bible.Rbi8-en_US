@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v21-8-0]]
+=== Ecclesiastes, 8
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v21-8-1]]
+
+^<<v21-8-1,1>>^ Who is there like the wise one? And who is there knowing the interpretation of a thing? The wisdom of a man itself causes his face to shine, and even the sternness of his face is changed &#91;for the better&#93;.
+
+[[v21-8-2]]
+
+^<<v21-8-2,2>>^ I &#91;say:&#93; “Keep the very order of the king, and that out of regard for the oath of God.
+
+[[v21-8-3]]
+
+^<<v21-8-3,3>>^ Do not hurry yourself, that you may go out from before him. Do not stand in a bad thing. For all that he delights &#91;to do&#93; he will do,
+
+[[v21-8-4]]
+
+^<<v21-8-4,4>>^ because the word of the king is the power of control; and who may say to him: ‘What are you doing?’”
+
+[[v21-8-5]]
+
+^<<v21-8-5,5>>^ He that is keeping the commandment will not know any calamitous thing, and the wise heart will know both time and judgment.
+
+[[v21-8-6]]
+
+^<<v21-8-6,6>>^ For there exists a time and judgment even for every affair, because the calamity of mankind is abundant upon them.
+
+[[v21-8-7]]
+
+^<<v21-8-7,7>>^ For there is no one knowing what will come to be, because who can tell him just how it will come to be?
+
+[[v21-8-8]]
+
+^<<v21-8-8,8>>^ There is no man having power over the spirit^&#42;1^ to restrain the spirit; neither is there any power of control in the day of death; nor is there any discharge in the war. And wickedness will provide no escape for those indulging in it.^&#42;2^
+
+[NOTE]
+====
+. “Over the spirit (breath).” Heb., ba·ruʹach; Gr., pneuʹma·ti.
+. Lit., “the owners of it.” Heb., beʽa·lavʹ.
+====
+
+[[v21-8-9]]
+
+^<<v21-8-9,9>>^ All this I have seen, and there was an applying^&#42;1^ of my heart to every work that has been done under the sun, &#91;during&#93; the time that man has dominated man to his injury.
+
+[NOTE]
+====
+. “There was an applying.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v21-8-10]]
+
+^<<v21-8-10,10>>^ But, though this is so, I have seen the wicked ones being buried, how they came in and how they would go away from the holy place itself and be forgotten in the city where they acted that way. This too is vanity.
+
+[[v21-8-11]]
+
+^<<v21-8-11,11>>^ Because sentence against a bad work has not been executed speedily, that is why the heart of the sons of men has become fully set in them to do bad.
+
+[[v21-8-12]]
+
+^<<v21-8-12,12>>^ Although a sinner may be doing bad a hundred times and continuing a long time as he pleases, yet I am also aware that it will turn out well with those fearing the &#91;true&#93; God, because they were in fear of him.
+
+[[v21-8-13]]
+
+^<<v21-8-13,13>>^ But it will not turn out well at all with the wicked one, neither will he prolong his days that are like a shadow, because he is not in fear of God.
+
+[[v21-8-14]]
+
+^<<v21-8-14,14>>^ There exists a vanity that is carried out on the earth, that there exist righteous ones to whom it is happening as if for the work of the wicked ones, and there exist wicked ones to whom it is happening as if for the work of the righteous ones. I said that this too is vanity.
+
+[[v21-8-15]]
+
+^<<v21-8-15,15>>^ And I myself commended rejoicing, because mankind^&#42;1^ have nothing better under the sun than to eat and drink and rejoice, and that it should accompany them in their hard work for the days of their life, which the &#91;true&#93; God has given them under the sun.
+
+[NOTE]
+====
+. Lit., “for the earthling man.” Heb., la·ʼa·dhamʹ.
+====
+
+[[v21-8-16]]
+
+^<<v21-8-16,16>>^ In accord with this I applied my heart to know wisdom and to see the occupation that is carried on in the earth, because there is one seeing no sleep with his eyes, either by day or by night.
+
+[[v21-8-17]]
+
+^<<v21-8-17,17>>^ And I saw all the work of the &#91;true&#93; God, how mankind are not able to find out the work that has been done under the sun; however much mankind keep working hard to seek, yet they do not find out. And even if they should say they are wise enough to know, they would be unable to find out.
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-007.adoc#v21-7-0[&#60; Capítulo Anterior] | <<v21-8-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-009.adoc#v21-9-0[Próximo Capítulo &#62;]

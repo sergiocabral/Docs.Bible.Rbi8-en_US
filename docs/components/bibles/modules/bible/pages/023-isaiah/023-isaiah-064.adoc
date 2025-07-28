@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v23-64-0]]
+=== Isaiah, 64
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-64-1]]
+
+^<<v23-64-1,1>>^ O if only you had ripped the heavens apart, that you had come down, that on account of you the very mountains had quaked,^&#42;1^
+
+[NOTE]
+====
+. MLXX end chapter 63 here, with this vs as part of vs 19.
+====
+
+[[v23-64-2]]
+
+^<<v23-64-2,2>>^ as when a fire ignites the brushwood, &#91;and&#93; the fire makes the very water boil up, in order to make your name known to your adversaries, that on account of you the nations might be agitated!
+
+[[v23-64-3]]
+
+^<<v23-64-3,3>>^ When you did fear-inspiring things for which we could not hope, you came down. On account of you the mountains themselves quaked.
+
+[[v23-64-4]]
+
+^<<v23-64-4,4>>^ And from time long ago none have heard, nor have any given ear, nor has an eye itself seen a God,^&#42;1^ except you, that acts for the one that keeps in expectation of him.
+
+[NOTE]
+====
+. “A God.” Heb., ʼElo·himʹ.
+====
+
+[[v23-64-5]]
+
+^<<v23-64-5,5>>^ You have met up with the one exulting and doing righteousness, those who keep remembering you in your own ways.
+Look! You yourself became indignant, while we kept sinning—in them a long time, and should we be saved?
+
+[[v23-64-6]]
+
+^<<v23-64-6,6>>^ And we become like someone unclean, all of us, and all our acts of righteousness are like a garment for periods of menstruation; and we shall fade away like leafage, all of us, and our errors themselves^&#42;1^ will carry us away just like a wind.
+
+[NOTE]
+====
+. “Errors themselves,” 1QIsaTLXXSyVg and 13 Heb. mss; AlCa, Leningrad B 19A and many Heb. mss, “error itself.”
+====
+
+[[v23-64-7]]
+
+^<<v23-64-7,7>>^ And there is no one calling upon your name, no one rousing himself to lay hold on you; for you have concealed your face from us, and you cause us to melt by the power of our error.
+
+[[v23-64-8]]
+
+^<<v23-64-8,8>>^ And now, O Jehovah, you are our Father. We are the clay, and you are our Potter;^&#42;1^ and all of us are the work of your hand.
+
+[NOTE]
+====
+. Or, “Former.”
+====
+
+[[v23-64-9]]
+
+^<<v23-64-9,9>>^ Do not be indignant, O Jehovah, to the extreme, and do not forever remember &#91;our&#93; error. Look, now, please: we are all your people.
+
+[[v23-64-10]]
+
+^<<v23-64-10,10>>^ Your own holy cities have become a wilderness. Zion itself has become a sheer wilderness, Jerusalem a desolate waste.
+
+[[v23-64-11]]
+
+^<<v23-64-11,11>>^ Our house of holiness and beauty, in which our forefathers praised you, has itself become something for burning in the fire; and every one of our desirable things has become a devastation.
+
+[[v23-64-12]]
+
+^<<v23-64-12,12>>^ In the face of these things will you continue keeping yourself in check, O Jehovah? Will you stay still and let us be afflicted to the extreme?
+
+'''
+
+xref:023-isaiah/023-isaiah-063.adoc#v23-63-0[&#60; Capítulo Anterior] | <<v23-64-0,Topo>> | xref:023-isaiah/023-isaiah-065.adoc#v23-65-0[Próximo Capítulo &#62;]

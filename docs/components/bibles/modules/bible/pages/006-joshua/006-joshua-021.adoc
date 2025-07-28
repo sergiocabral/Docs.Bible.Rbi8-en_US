@@ -1,0 +1,240 @@
+include::./index.adoc[]
+
+[[v6-21-0]]
+=== Joshua, 21
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v6-21-1]]
+
+^<<v6-21-1,1>>^ The heads of the fathers of the Levites now approached El·e·aʹzar the priest and Joshua the son of Nun and the heads of the fathers of the tribes of the sons of Israel,
+
+[[v6-21-2]]
+
+^<<v6-21-2,2>>^ and they proceeded to speak to them in Shiʹloh in the land of Caʹnaan, saying: “Jehovah by means of Moses commanded cities to be given us in which to dwell, together with their pasture grounds for our domestic animals.”
+
+[[v6-21-3]]
+
+^<<v6-21-3,3>>^ So the sons of Israel gave the Levites, at the order of Jehovah, these cities and their pasture grounds out of their inheritance.
+
+[[v6-21-4]]
+
+^<<v6-21-4,4>>^ Then the lot came out for the families of the Koʹhath·ites, and thirteen cities came to belong to the sons of Aaron the priest, of the Levites, by lot, out of the tribe of Judah and out of the tribe of the Simʹe·on·ites and out of the tribe of Benjamin.
+
+[[v6-21-5]]
+
+^<<v6-21-5,5>>^ And for the sons of Koʹhath that were left over there were by lot ten cities out of the families of the tribe^&#42;1^ of Eʹphra·im and out of the tribe of Dan and out of the half tribe of Ma·nasʹseh.
+
+[NOTE]
+====
+. According to M; LXXSyVg, “out of the tribe of.”
+====
+
+[[v6-21-6]]
+
+^<<v6-21-6,6>>^ And for the sons of Gerʹshon there were by lot thirteen cities out of the families of the tribe of Isʹsa·char and out of the tribe of Ashʹer and out of the tribe of Naphʹta·li and out of the half tribe of Ma·nasʹseh in Baʹshan.
+
+[[v6-21-7]]
+
+^<<v6-21-7,7>>^ For the sons of Me·rarʹi by their families there were twelve cities out of the tribe of Reuʹben and out of the tribe of Gad and out of the tribe of Zebʹu·lun.
+
+[[v6-21-8]]
+
+^<<v6-21-8,8>>^ Thus the sons of Israel gave the Levites these cities and their pasture grounds by lot, just as Jehovah had commanded by means of Moses.
+
+[[v6-21-9]]
+
+^<<v6-21-9,9>>^ So out of the tribe of the sons of Judah and out of the tribe of the sons of Simʹe·on they gave these cities that were called by name,
+
+[[v6-21-10]]
+
+^<<v6-21-10,10>>^ and they came to belong to the sons of Aaron out of the families of the Koʹhath·ites of the sons of Leʹvi, because the first lot became theirs.
+
+[[v6-21-11]]
+
+^<<v6-21-11,11>>^ Thus they gave them Kirʹi·ath-arʹba (&#91;said Arʹba being&#93; the father of Aʹnak), that is to say, Heʹbron, in the mountainous region of Judah, and its pasture ground all around it;
+
+[[v6-21-12]]
+
+^<<v6-21-12,12>>^ and the field of the city and its settlements they gave to Caʹleb the son of Je·phunʹneh as his possession.
+
+[[v6-21-13]]
+
+^<<v6-21-13,13>>^ And to the sons of Aaron the priest they gave the city of refuge for the manslayer, namely, Heʹbron, and its pasture ground, also Libʹnah and its pasture ground,
+
+[[v6-21-14]]
+
+^<<v6-21-14,14>>^ and Jatʹtir and its pasture ground, and Esh·te·moʹa and its pasture ground,
+
+[[v6-21-15]]
+
+^<<v6-21-15,15>>^ and Hoʹlon^&#42;1^ and its pasture ground, and Deʹbir and its pasture ground,
+
+[NOTE]
+====
+. “Hilen” in 1Ch 6:58.
+====
+
+[[v6-21-16]]
+
+^<<v6-21-16,16>>^ and Aʹin^&#42;1^ and its pasture ground, and Jutʹtah and its pasture ground, Beth-sheʹmesh and its pasture ground; nine cities out of these two tribes.
+
+[NOTE]
+====
+. “Ashan” in 15:42; 19:7; 1Ch 6:59.
+====
+
+[[v6-21-17]]
+
+^<<v6-21-17,17>>^ And out of the tribe of Benjamin, Gibʹe·on and its pasture ground, Geʹba and its pasture ground,
+
+[[v6-21-18]]
+
+^<<v6-21-18,18>>^ Anʹa·thoth and its pasture ground, and Alʹmon^&#42;1^ and its pasture ground; four cities.
+
+[NOTE]
+====
+. “Alemeth” in 1Ch 6:60.
+====
+
+[[v6-21-19]]
+
+^<<v6-21-19,19>>^ All the cities of the sons of Aaron, the priests, were thirteen cities and their pasture grounds.
+
+[[v6-21-20]]
+
+^<<v6-21-20,20>>^ And for the families of the sons of Koʹhath, the Levites who were left over of the sons of Koʹhath, there came to be by their lot cities out of the tribe of Eʹphra·im.
+
+[[v6-21-21]]
+
+^<<v6-21-21,21>>^ Accordingly they gave them the city of refuge for the manslayer, namely, Sheʹchem, and its pasture ground in the mountainous region of Eʹphra·im, and Geʹzer and its pasture ground,
+
+[[v6-21-22]]
+
+^<<v6-21-22,22>>^ and Kibʹza·im^&#42;1^ and its pasture ground, and Beth-hoʹron and its pasture ground; four cities.
+
+[NOTE]
+====
+. “Jokmeam” in 1Ch 6:68.
+====
+
+[[v6-21-23]]
+
+^<<v6-21-23,23>>^ And from the tribe of Dan, Elʹte·ke and its pasture ground, Gibʹbe·thon and its pasture ground,
+
+[[v6-21-24]]
+
+^<<v6-21-24,24>>^ Aiʹja·lon and its pasture ground, Gath-rimʹmon and its pasture ground; four cities.
+
+[[v6-21-25]]
+
+^<<v6-21-25,25>>^ And from the half tribe of Ma·nasʹseh, Taʹa·nach and its pasture ground, and Gath-rimʹmon and its pasture ground; two cities.
+
+[[v6-21-26]]
+
+^<<v6-21-26,26>>^ All the cities together with their pasture grounds that the families of the sons of Koʹhath who were left over had were ten.
+
+[[v6-21-27]]
+
+^<<v6-21-27,27>>^ And for the sons of Gerʹshon, of the families of the Levites, there was out of the half tribe of Ma·nasʹseh the city of refuge for the manslayer, namely, Goʹlan, in Baʹshan, and its pasture ground, and Be·eshʹte·rah^&#42;1^ and its pasture ground; two cities.
+
+[NOTE]
+====
+. “Ashtaroth” in 1Ch 6:71.
+====
+
+[[v6-21-28]]
+
+^<<v6-21-28,28>>^ And out of the tribe of Isʹsa·char, Kishʹi·on and its pasture ground, Dabʹe·rath and its pasture ground,
+
+[[v6-21-29]]
+
+^<<v6-21-29,29>>^ Jarʹmuth^&#42;1^ and its pasture ground, En-ganʹnim and its pasture ground; four cities.
+
+[NOTE]
+====
+. “Remeth” in 19:21; in 1Ch 6:73, “Ramoth.”
+====
+
+[[v6-21-30]]
+
+^<<v6-21-30,30>>^ And out of the tribe of Ashʹer, Miʹshal and its pasture ground, Abʹdon and its pasture ground,
+
+[[v6-21-31]]
+
+^<<v6-21-31,31>>^ Helʹkath and its pasture ground, and Reʹhob and its pasture ground; four cities.
+
+[[v6-21-32]]
+
+^<<v6-21-32,32>>^ And out of the tribe of Naphʹta·li, the city of refuge for the manslayer, namely, Keʹdesh in Galʹi·lee,^&#42;1^ and its pasture ground, and Hamʹmoth-dor and its pasture ground, and Karʹtan^&#42;2^ and its pasture ground; three cities.
+
+[NOTE]
+====
+. See 20:7 ftn, “Galilee.”
+. “Kiriathaim” in 1Ch 6:76.
+====
+
+[[v6-21-33]]
+
+^<<v6-21-33,33>>^ All the cities of the Gerʹshon·ites by their families were thirteen cities and their pasture grounds.
+
+[[v6-21-34]]
+
+^<<v6-21-34,34>>^ And the families of the sons of Me·rarʹi, the Levites who were left over, had out of the tribe of Zebʹu·lun Jokʹne·am and its pasture ground, Karʹtah and its pasture ground,
+
+[[v6-21-35]]
+
+^<<v6-21-35,35>>^ Dimʹnah^&#42;1^ and its pasture ground, Na·halʹal and its pasture ground; four cities.
+
+[NOTE]
+====
+. “Rimmono” in 1Ch 6:77.
+====
+
+[[v6-21-36]]
+
+^<<v6-21-36,36>>^ And out of the tribe of Reuʹben, Beʹzer and its pasture ground, and Jaʹhaz and its pasture ground,
+
+[[v6-21-37]]
+
+^<<v6-21-37,37>>^ Kedʹe·moth and its pasture ground, and Mephʹa·ath and its pasture ground; four cities.^&#42;1^
+
+[NOTE]
+====
+. Vss 36, 37 are according to some Heb. mss, LXXSyVgc and 1Ch 6:63, 78, 79 (Sy names these four cities after vs 34); Al, Ca and Leningrad B 19A omit vss 36, 37, apparently due to a scribal error made because vss 35, 37 both end with “four cities.”
+====
+
+[[v6-21-38]]
+
+^<<v6-21-38,38>>^ And out of the tribe of Gad, the city of refuge for the manslayer, namely, Raʹmoth in Gilʹe·ad, and its pasture ground, and Ma·ha·naʹim and its pasture ground,
+
+[[v6-21-39]]
+
+^<<v6-21-39,39>>^ Heshʹbon and its pasture ground, Jaʹzer and its pasture ground; all the cities being four.
+
+[[v6-21-40]]
+
+^<<v6-21-40,40>>^ All the cities that came to belong to the sons of Me·rarʹi by their families, who were left over from the families of the Levites, were, as their lot, twelve cities.
+
+[[v6-21-41]]
+
+^<<v6-21-41,41>>^ All the cities of the Levites in the midst of the possession of the sons of Israel were forty-eight cities together with their pasture grounds.
+
+[[v6-21-42]]
+
+^<<v6-21-42,42>>^ These cities came to be each a city together with its pasture ground all around it—thus as to all these cities.
+
+[[v6-21-43]]
+
+^<<v6-21-43,43>>^ So Jehovah gave Israel all the land that he had sworn to give to their forefathers, and they proceeded to take possession of it and to dwell in it.
+
+[[v6-21-44]]
+
+^<<v6-21-44,44>>^ Furthermore, Jehovah gave them rest all around, according to everything that he had sworn to their forefathers, and not one of all their enemies stood before them. All their enemies Jehovah gave into their hand.
+
+[[v6-21-45]]
+
+^<<v6-21-45,45>>^ Not a promise failed out of all the good promise that Jehovah had made to the house of Israel; it all came true.
+
+'''
+
+xref:006-joshua/006-joshua-020.adoc#v6-20-0[&#60; Capítulo Anterior] | <<v6-21-0,Topo>> | xref:006-joshua/006-joshua-022.adoc#v6-22-0[Próximo Capítulo &#62;]

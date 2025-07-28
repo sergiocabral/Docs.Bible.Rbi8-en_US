@@ -1,0 +1,305 @@
+include::./index.adoc[]
+
+[[v43-8-0]]
+=== According to John, 8
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v43-8-1]]
+
+^<<v43-8-1,1>>^ But Jesus went to the Mount of Olives.
+
+[[v43-8-2]]
+
+^<<v43-8-2,2>>^ At daybreak, however, he again presented himself at the temple, and all the people began coming to him, and he sat down and began to teach them.
+
+[[v43-8-3]]
+
+^<<v43-8-3,3>>^ Now the scribes and the Pharisees brought a woman caught at adultery, and, after standing her in their midst,
+
+[[v43-8-4]]
+
+^<<v43-8-4,4>>^ they said to him: “Teacher, this woman has been caught in the act of committing adultery.
+
+[[v43-8-5]]
+
+^<<v43-8-5,5>>^ In the Law Moses prescribed for us to stone such sort of women. What, really, do you say?”
+
+[[v43-8-6]]
+
+^<<v43-8-6,6>>^ Of course, they were saying this to put him to the test, in order to have something with which to accuse him. But Jesus bent down and began to write with his finger in the ground.
+
+[[v43-8-7]]
+
+^<<v43-8-7,7>>^ When they persisted in asking him, he straightened up and said to them: “Let the one of YOU that is sinless be the first to throw a stone at her.”
+
+[[v43-8-8]]
+
+^<<v43-8-8,8>>^ And bending over again he kept on writing in the ground.
+
+[[v43-8-9]]
+
+^<<v43-8-9,9>>^ But those who heard this began going out, one by one, starting with the older men, and he was left alone, and the woman that was in their midst.
+
+[[v43-8-10]]
+
+^<<v43-8-10,10>>^ Straightening up, Jesus said to her: “Woman, where are they? Did no one condemn you?”
+
+[[v43-8-11]]
+
+^<<v43-8-11,11>>^ She said: “No one, sir.” Jesus said: “Neither do I condemn you. Go your way; from now on practice sin no more.”
+
+[[v43-8-12]]
+
+^<<v43-8-12,12>>^ Therefore Jesus spoke again to them, saying: “I am the light of the world. He that follows me will by no means walk in darkness, but will possess the light of life.”
+
+[[v43-8-13]]
+
+^<<v43-8-13,13>>^ Hence the Pharisees said to him: “You bear witness about yourself; your witness is not true.”
+
+[[v43-8-14]]
+
+^<<v43-8-14,14>>^ In answer Jesus said to them: “Even if I do bear witness about myself, my witness^&#42;1^ is true, because I know where I came from and where I am going. But YOU do not know where I came from and where I am going.
+
+[NOTE]
+====
+. “Witness.” Gr., mar·ty·riʹa; Lat., te·sti·moʹni·um.
+====
+
+[[v43-8-15]]
+
+^<<v43-8-15,15>>^ YOU judge according to the flesh; I do not judge any man at all.
+
+[[v43-8-16]]
+
+^<<v43-8-16,16>>^ And yet if I do judge, my judgment is truthful, because I am not alone, but the Father^&#42;1^ who sent me is with me.
+
+[NOTE]
+====
+. “The Father,” P66,​75אcBVg; א*DSyc,s, “he.”
+====
+
+[[v43-8-17]]
+
+^<<v43-8-17,17>>^ Also, in YOUR own Law it is written, ‘The witness of two men is true.’
+
+[[v43-8-18]]
+
+^<<v43-8-18,18>>^ I am one that bears witness about myself, and the Father who sent me bears witness about me.”
+
+[[v43-8-19]]
+
+^<<v43-8-19,19>>^ Therefore they went on to say to him: “Where is your Father?” Jesus answered: “YOU know neither me nor my Father. If YOU did know me, YOU would know my Father also.”
+
+[[v43-8-20]]
+
+^<<v43-8-20,20>>^ These sayings he spoke in the treasury as he was teaching in the temple. But no one laid hold of him, because his hour had not yet come.
+
+[[v43-8-21]]
+
+^<<v43-8-21,21>>^ Hence he said to them again: “I am going away, and YOU will look for me, and yet YOU will die in YOUR sin. Where I am going YOU cannot come.”
+
+[[v43-8-22]]
+
+^<<v43-8-22,22>>^ Therefore the Jews began to say: “He will not kill himself, will he? Because he says, ‘Where I am going YOU cannot come.’”
+
+[[v43-8-23]]
+
+^<<v43-8-23,23>>^ So he went on to say to them: “YOU are from the realms^&#42;1^ below; I am from the realms above. YOU are from this world; I am not from this world.
+
+[NOTE]
+====
+. Or, “things.”
+====
+
+[[v43-8-24]]
+
+^<<v43-8-24,24>>^ Therefore I said to YOU, YOU will die in YOUR sins. For if YOU do not believe that I am &#91;he&#93;, YOU will die in YOUR sins.”
+
+[[v43-8-25]]
+
+^<<v43-8-25,25>>^ Therefore they began to say to him: “Who are you?” Jesus said to them: “Why am I even speaking to YOU at all?^&#42;1^
+
+[NOTE]
+====
+. Or, “Just what I have been saying to you.”
+====
+
+[[v43-8-26]]
+
+^<<v43-8-26,26>>^ I have many things to speak concerning YOU and to pass judgment upon. As a matter of fact, he that sent me is true, and the very things I heard from him I am speaking in the world.”
+
+[[v43-8-27]]
+
+^<<v43-8-27,27>>^ They did not grasp that he was talking to them about the Father.
+
+[[v43-8-28]]
+
+^<<v43-8-28,28>>^ Therefore Jesus said: “When once YOU have lifted up the Son of man, then YOU will know that I am &#91;he&#93;, and that I do nothing of my own initiative;^&#42;1^ but just as the Father taught me I speak these things.
+
+[NOTE]
+====
+. Lit., “from myself.”
+====
+
+[[v43-8-29]]
+
+^<<v43-8-29,29>>^ And he that sent me is with me; he did not abandon me to myself, because I always do the things pleasing to him.”
+
+[[v43-8-30]]
+
+^<<v43-8-30,30>>^ As he was speaking these things, many put faith in him.
+
+[[v43-8-31]]
+
+^<<v43-8-31,31>>^ And so Jesus went on to say to the Jews that had believed him: “If YOU remain in my word, YOU are really my disciples,
+
+[[v43-8-32]]
+
+^<<v43-8-32,32>>^ and YOU will know the truth, and the truth will set YOU free.”
+
+[[v43-8-33]]
+
+^<<v43-8-33,33>>^ They replied to him: “We are Abraham’s offspring^&#42;1^ and never have we been slaves to anybody. How is it you say, ‘YOU will become free’?”
+
+[NOTE]
+====
+. Or, “seed.”
+====
+
+[[v43-8-34]]
+
+^<<v43-8-34,34>>^ Jesus answered them: “Most truly I say to YOU, Every doer of sin is a slave of sin.
+
+[[v43-8-35]]
+
+^<<v43-8-35,35>>^ Moreover, the slave does not remain in the household forever; the son remains forever.
+
+[[v43-8-36]]
+
+^<<v43-8-36,36>>^ Therefore if the Son sets YOU free, YOU will be actually free.
+
+[[v43-8-37]]
+
+^<<v43-8-37,37>>^ I know that YOU are Abraham’s offspring; but YOU are seeking to kill me, because my word makes no progress among YOU.
+
+[[v43-8-38]]
+
+^<<v43-8-38,38>>^ What things I have seen with my Father I speak; and YOU, therefore, do the things YOU have heard from &#91;YOUR&#93; father.”
+
+[[v43-8-39]]
+
+^<<v43-8-39,39>>^ In answer they said to him: “Our father is Abraham.” Jesus said to them: “If YOU are Abraham’s children, do the works of Abraham.
+
+[[v43-8-40]]
+
+^<<v43-8-40,40>>^ But now YOU are seeking to kill me, a man that has told YOU the truth that I heard from God. Abraham did not do this.
+
+[[v43-8-41]]
+
+^<<v43-8-41,41>>^ YOU do the works of YOUR father.” They said to him: “We were not born from fornication; we have one Father, God.”
+
+[[v43-8-42]]
+
+^<<v43-8-42,42>>^ Jesus said to them: “If God were YOUR Father, YOU would love me, for from God I came forth and am here. Neither have I come of my own initiative at all, but that One sent me forth.
+
+[[v43-8-43]]
+
+^<<v43-8-43,43>>^ Why is it YOU do not know what I am speaking? Because YOU cannot listen to my word.
+
+[[v43-8-44]]
+
+^<<v43-8-44,44>>^ YOU are from YOUR father the Devil, and YOU wish to do the desires of YOUR father. That one was a manslayer when he began, and he did not stand fast in the truth, because truth is not in him. When he speaks the lie, he speaks according to his own disposition, because he is a liar and the father of &#91;the lie&#93;.^&#42;1^
+
+[NOTE]
+====
+. “The lie,” J17,​22. Lit., “it.”
+====
+
+[[v43-8-45]]
+
+^<<v43-8-45,45>>^ Because I, on the other hand, tell the truth, YOU do not believe me.
+
+[[v43-8-46]]
+
+^<<v43-8-46,46>>^ Who of YOU convicts me of sin? If I speak truth, why is it YOU do not believe me?
+
+[[v43-8-47]]
+
+^<<v43-8-47,47>>^ He that is from God listens to the sayings of God. This is why YOU do not listen, because YOU are not from God.”
+
+[[v43-8-48]]
+
+^<<v43-8-48,48>>^ In answer the Jews said to him: “Do we not rightly say, You are a Sa·marʹi·tan and have a demon?”^&#42;1^
+
+[NOTE]
+====
+. Or, “and are demonized.”
+====
+
+[[v43-8-49]]
+
+^<<v43-8-49,49>>^ Jesus answered: “I do not have a demon,^&#42;1^ but I honor my Father, and YOU dishonor me.
+
+[NOTE]
+====
+. Or, “I am not demonized.”
+====
+
+[[v43-8-50]]
+
+^<<v43-8-50,50>>^ But I am not seeking glory for myself; there is One that is seeking and judging.
+
+[[v43-8-51]]
+
+^<<v43-8-51,51>>^ Most truly I say to YOU, If anyone observes my word, he will never see death at all.”
+
+[[v43-8-52]]
+
+^<<v43-8-52,52>>^ The Jews said to him: “Now we do know you have a demon.^&#42;1^ Abraham died, also the prophets; but you say, ‘If anyone observes my word, he will never taste death at all.’
+
+[NOTE]
+====
+. Or, “you are demonized.”
+====
+
+[[v43-8-53]]
+
+^<<v43-8-53,53>>^ You are not greater than our father Abraham, who died, are you? Also, the prophets died. Who do you claim to be?”
+
+[[v43-8-54]]
+
+^<<v43-8-54,54>>^ Jesus answered: “If I glorify myself, my glory is nothing. It is my Father that glorifies me, he who YOU say is YOUR God;
+
+[[v43-8-55]]
+
+^<<v43-8-55,55>>^ and yet YOU have not known him. But I know him. And if I said I do not know him I should be like YOU, a liar. But I do know him and am observing his word.
+
+[[v43-8-56]]
+
+^<<v43-8-56,56>>^ Abraham YOUR father rejoiced greatly in the prospect of seeing my day, and he saw it and rejoiced.”
+
+[[v43-8-57]]
+
+^<<v43-8-57,57>>^ Therefore the Jews said to him: “You are not yet fifty years old, and still you have seen Abraham?”^&#42;1^
+
+[NOTE]
+====
+. “You have seen Abraham?” P66ACDVg; P75א*Sys, “has Abraham seen you?”
+====
+
+[[v43-8-58]]
+
+^<<v43-8-58,58>>^ Jesus said to them: “Most truly I say to YOU, Before Abraham came into existence, I have been.”^&#42;1^
+
+[NOTE]
+====
+. “I have been.” For a discussion of Jesus’ prehuman existence, see App 6F.
+====
+
+[[v43-8-59]]
+
+^<<v43-8-59,59>>^ Therefore they picked up stones to hurl &#91;them&#93; at him; but Jesus hid and went out of the temple.
+
+'''
+
+xref:043-john/043-john-007.adoc#v43-7-0[&#60; Capítulo Anterior] | <<v43-8-0,Topo>> | xref:043-john/043-john-009.adoc#v43-9-0[Próximo Capítulo &#62;]

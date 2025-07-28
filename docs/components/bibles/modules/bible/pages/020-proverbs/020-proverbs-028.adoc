@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v20-28-0]]
+=== Proverbs, 28
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-28-1]]
+
+^<<v20-28-1,1>>^ The wicked do flee when there is no pursuer, but the righteous are like a young lion that is confident.
+
+[[v20-28-2]]
+
+^<<v20-28-2,2>>^ Because of the transgression of a land many are its &#91;successive&#93; princes, but by a discerning man^&#42;1^ having knowledge of right &#91;the prince&#93;^&#42;2^ will remain long.
+
+[NOTE]
+====
+. Lit., “but by an earthling man discerning.” Heb., u·veʼa·dhamʹ me·vinʹ.
+. Lit., “he.”
+====
+
+[[v20-28-3]]
+
+^<<v20-28-3,3>>^ An able-bodied man that is of little means and that is defrauding the lowly ones is as a rain that washes away so that there is no food.
+
+[[v20-28-4]]
+
+^<<v20-28-4,4>>^ Those who are leaving the law praise the wicked one, but those who are keeping the law excite themselves against them.
+
+[[v20-28-5]]
+
+^<<v20-28-5,5>>^ Men given to badness cannot understand judgment, but those who are seeking Jehovah can understand everything.
+
+[[v20-28-6]]
+
+^<<v20-28-6,6>>^ Better is the one of little means who is walking in his integrity than anyone crooked in &#91;his&#93; ways, although he is rich.
+
+[[v20-28-7]]
+
+^<<v20-28-7,7>>^ An understanding son is observing the law, but one having companionship with gluttons humiliates his father.
+
+[[v20-28-8]]
+
+^<<v20-28-8,8>>^ He that is multiplying his valuables by interest and usury collects them merely for the one showing favor to the lowly ones.
+
+[[v20-28-9]]
+
+^<<v20-28-9,9>>^ He that is turning his ear away from hearing the law—even his prayer is something detestable.
+
+[[v20-28-10]]
+
+^<<v20-28-10,10>>^ He that is causing the upright ones to go astray into the bad way will himself fall into his own pit, but the faultless ones themselves will come into possession of good.
+
+[[v20-28-11]]
+
+^<<v20-28-11,11>>^ A rich man is wise in his own eyes, but the lowly one who is discerning searches him through.
+
+[[v20-28-12]]
+
+^<<v20-28-12,12>>^ When the righteous ones are exulting, there is abundant beauty; but when the wicked ones rise up, a man disguises himself.
+
+[[v20-28-13]]
+
+^<<v20-28-13,13>>^ He that is covering over his transgressions will not succeed, but he that is confessing and leaving &#91;them&#93; will be shown mercy.
+
+[[v20-28-14]]
+
+^<<v20-28-14,14>>^ Happy is the man that is feeling dread constantly, but he that is hardening his heart will fall into calamity.
+
+[[v20-28-15]]
+
+^<<v20-28-15,15>>^ As a growling lion and an onrushing bear is a wicked ruler over a lowly people.
+
+[[v20-28-16]]
+
+^<<v20-28-16,16>>^ A leader that is in want of true discernment is also abundant in fraudulent practices, but he that is hating unjust profit will prolong &#91;his&#93; days.
+
+[[v20-28-17]]
+
+^<<v20-28-17,17>>^ A man burdened with the bloodguilt for a soul will himself flee even to the pit. Let them not get hold of him.
+
+[[v20-28-18]]
+
+^<<v20-28-18,18>>^ He that is walking faultless will be saved, but he that is made crooked in &#91;his&#93; ways will fall at once.
+
+[[v20-28-19]]
+
+^<<v20-28-19,19>>^ He that is cultivating his own ground will have his sufficiency of bread, and he that is pursuing valueless things will have his sufficiency of poverty.
+
+[[v20-28-20]]
+
+^<<v20-28-20,20>>^ A man of faithful acts^&#42;1^ will get many blessings, but he that is hastening to gain riches will not remain innocent.
+
+[NOTE]
+====
+. “A man of faithful acts.” Heb., ʼish ʼemu·nohthʹ.
+====
+
+[[v20-28-21]]
+
+^<<v20-28-21,21>>^ The showing of partiality^&#42;1^ is not good, nor that an able-bodied man should transgress over a mere piece of bread.
+
+[NOTE]
+====
+. Lit., “To discern faces.”
+====
+
+[[v20-28-22]]
+
+^<<v20-28-22,22>>^ A man of envious eye is bestirring himself after valuable things, but he does not know that want itself will come upon him.
+
+[[v20-28-23]]
+
+^<<v20-28-23,23>>^ He that is reproving a man will afterward find more favor than he will that is flattering with his tongue.^&#42;1^
+
+[NOTE]
+====
+. Lit., “making smooth a tongue.” Or, “using a smooth tongue.”
+====
+
+[[v20-28-24]]
+
+^<<v20-28-24,24>>^ He that is robbing his father and his mother and is saying: “It is no transgression,” is a partner of a man causing ruination.
+
+[[v20-28-25]]
+
+^<<v20-28-25,25>>^ He that is arrogant in soul stirs up contention, but he that is relying upon Jehovah will be made fat.
+
+[[v20-28-26]]
+
+^<<v20-28-26,26>>^ He that is trusting in his own heart is stupid, but he that is walking in wisdom is the one that will escape.
+
+[[v20-28-27]]
+
+^<<v20-28-27,27>>^ He that is giving to the one of little means will have no want, but he that is hiding his eyes will get many curses.
+
+[[v20-28-28]]
+
+^<<v20-28-28,28>>^ When the wicked rise up, a man^&#42;1^ conceals himself; but when they perish, the righteous become many.
+
+[NOTE]
+====
+. Lit., “an earthling man.” Heb., ʼa·dhamʹ.
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-027.adoc#v20-27-0[&#60; Capítulo Anterior] | <<v20-28-0,Topo>> | xref:020-proverbs/020-proverbs-029.adoc#v20-29-0[Próximo Capítulo &#62;]

@@ -1,0 +1,38 @@
+include::./index.adoc[]
+
+[[v19-125-0]]
+=== Psalms, 125
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents.^&#42;1^_
+
+[[v19-125-1]]
+
+^<<v19-125-1,1>>^ Those trusting in Jehovah
+Are like Mount Zion, which cannot be made to totter, but dwells even to time indefinite.
+
+[[v19-125-2]]
+
+^<<v19-125-2,2>>^ Jerusalem—as mountains are all around it,
+So Jehovah is all around his people
+From now on and to time indefinite.
+
+[[v19-125-3]]
+
+^<<v19-125-3,3>>^ For the scepter of wickedness will not keep resting upon the lot of the righteous ones,
+In order that the righteous ones may not thrust out their hand upon any wrongdoing.
+
+[[v19-125-4]]
+
+^<<v19-125-4,4>>^ O do good, O Jehovah, to the good ones,
+Even to the ones upright in their hearts.
+
+[[v19-125-5]]
+
+^<<v19-125-5,5>>^ As for those turning aside to their crooked ways,
+Jehovah will make them go away with the practicers of what is hurtful.
+There will be peace upon Israel.
+
+'''
+
+xref:019-psalm/019-psalm-124.adoc#v19-124-0[&#60; Capítulo Anterior] | <<v19-125-0,Topo>> | xref:019-psalm/019-psalm-126.adoc#v19-126-0[Próximo Capítulo &#62;]

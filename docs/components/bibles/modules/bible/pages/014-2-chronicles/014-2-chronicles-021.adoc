@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v14-21-0]]
+=== The Second of Chronicles, 21
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v14-21-1]]
+
+^<<v14-21-1,1>>^ Finally Je·hoshʹa·phat lay down with his forefathers and was buried with his forefathers in the City of David; and Je·hoʹram his son began to reign in place of him.
+
+[[v14-21-2]]
+
+^<<v14-21-2,2>>^ And he had brothers, Je·hoshʹa·phat’s sons, Az·a·riʹah^&#42;1^ and Je·hiʹel and Zech·a·riʹah and Az·a·riʹah^&#42;2^ and Miʹcha·el and Sheph·a·tiʹah, all these being the sons of Je·hoshʹa·phat the king of Israel.^&#42;3^
+
+[NOTE]
+====
+. “Azariah.” Heb., ʽAzar·yahʹ.
+. “And Azariah.” Heb., wa·ʽAzar·yaʹhu.
+. “Israel,” M(Heb., Yis·ra·ʼelʹ)Vg; LXXSyVgc and about 40 Heb. mss, “Judah.”
+====
+
+[[v14-21-3]]
+
+^<<v14-21-3,3>>^ Consequently their father gave them many gifts in silver and in gold and in choice things along with fortified cities in Judah; but the kingdom he gave to Je·hoʹram, for he was the firstborn.
+
+[[v14-21-4]]
+
+^<<v14-21-4,4>>^ When Je·hoʹram rose up over the kingdom of his father he proceeded to make his position strong, and so he killed all his brothers with the sword and also some of the princes of Israel.
+
+[[v14-21-5]]
+
+^<<v14-21-5,5>>^ Thirty-two years old was Je·hoʹram when he began to reign, and for eight years he reigned in Jerusalem.
+
+[[v14-21-6]]
+
+^<<v14-21-6,6>>^ And he went on walking in the way of the kings of Israel, just as those of the house of Aʹhab had done; for Aʹhab’s own daughter had become his wife, and he continued to do what was bad in Jehovah’s eyes.
+
+[[v14-21-7]]
+
+^<<v14-21-7,7>>^ And Jehovah did not want to bring the house of David to ruin, for the sake of the covenant that he had concluded with David, and just as he had said he would give him and his sons a lamp always.
+
+[[v14-21-8]]
+
+^<<v14-21-8,8>>^ In his days Eʹdom revolted from under the hand of Judah and then made a king to reign over them.
+
+[[v14-21-9]]
+
+^<<v14-21-9,9>>^ So Je·hoʹram together with his chiefs passed over and also all the chariots with him. And it came about that he rose up by night and went striking down the Eʹdom·ites that were surrounding him and also the chiefs of the chariots.
+
+[[v14-21-10]]
+
+^<<v14-21-10,10>>^ But Eʹdom kept up its revolt from under the hand of Judah down to this day. It was then that Libʹnah began to revolt at the same time from under his hand, because he had left Jehovah the God of his forefathers.
+
+[[v14-21-11]]
+
+^<<v14-21-11,11>>^ He himself also had made high places on the mountains of Judah, that he might cause the inhabitants of Jerusalem to have immoral intercourse, and that he might drive Judah away.
+
+[[v14-21-12]]
+
+^<<v14-21-12,12>>^ Eventually there came a writing to him from E·liʹjah^&#42;1^ the prophet, saying: “This is what Jehovah the God of David your forefather has said, ‘Due to the fact that you have not walked in the ways of Je·hoshʹa·phat your father or in the ways of Aʹsa the king of Judah,
+
+[NOTE]
+====
+. “From Elijah.” Heb., me·ʼE·li·yaʹhu; the only mention of Elijah in Chronicles. See 1Ki 17:1 ftn, “Elijah.”
+====
+
+[[v14-21-13]]
+
+^<<v14-21-13,13>>^ but you walk in the way of the kings of Israel and cause Judah and the inhabitants of Jerusalem to have immoral intercourse the same way that the house of Aʹhab caused the having of immoral intercourse, and even your own brothers, the household of your father, who were better than you, you have killed;
+
+[[v14-21-14]]
+
+^<<v14-21-14,14>>^ look! Jehovah is dealing a great blow to your people and to your sons and to your wives and to all your goods.
+
+[[v14-21-15]]
+
+^<<v14-21-15,15>>^ And you will be with many sicknesses, with a malady of your intestines, until your intestines have come out because of the sickness day by day.’”
+
+[[v14-21-16]]
+
+^<<v14-21-16,16>>^ Accordingly Jehovah aroused against Je·hoʹram the spirit of the Phi·lisʹtines and the Arabs that were by the side^&#42;1^ of the E·thi·oʹpi·ans.^&#42;2^
+
+[NOTE]
+====
+. Or, “were under the control.”
+. “Ethiopians,” LXXVg; Heb., Ku·shimʹ, “Cushites.”
+====
+
+[[v14-21-17]]
+
+^<<v14-21-17,17>>^ So they came up into Judah and forced it open and took captive all the goods that were to be found in the king’s house and also his sons and his wives, and there was not left to him a son but Je·hoʹa·haz, his youngest son.
+
+[[v14-21-18]]
+
+^<<v14-21-18,18>>^ And after all this Jehovah plagued him in his intestines with a sickness for which there was no healing.
+
+[[v14-21-19]]
+
+^<<v14-21-19,19>>^ And it came about that in the days to come, even when the term of two full years had expired, his intestines came out during his sickness, and he gradually died in his bad maladies; and his people did not make a burning for him like the burning for his forefathers.
+
+[[v14-21-20]]
+
+^<<v14-21-20,20>>^ Thirty-two years old he happened to be when he began to reign, and for eight years he reigned in Jerusalem. Finally he went away without being desired. So they buried him in the City of David, but not in the burial places of the kings.
+
+'''
+
+xref:014-2-chronicles/014-2-chronicles-020.adoc#v14-20-0[&#60; Capítulo Anterior] | <<v14-21-0,Topo>> | xref:014-2-chronicles/014-2-chronicles-022.adoc#v14-22-0[Próximo Capítulo &#62;]

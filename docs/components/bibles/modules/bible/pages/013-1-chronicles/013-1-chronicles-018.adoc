@@ -1,0 +1,128 @@
+include::./index.adoc[]
+
+[[v13-18-0]]
+=== The First of Chronicles, 18
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v13-18-1]]
+
+^<<v13-18-1,1>>^ And it came about afterward that David proceeded to strike down the Phi·lisʹtines and subdue them and take Gath and its dependent towns^&#42;1^ out of the hand of the Phi·lisʹtines.
+
+[NOTE]
+====
+. Lit., “and her daughters.”
+====
+
+[[v13-18-2]]
+
+^<<v13-18-2,2>>^ Then he struck Moʹab down, and the Moʹab·ites came to be David’s servants bearing tribute.^&#42;1^
+
+[NOTE]
+====
+. Lit., “gift.”
+====
+
+[[v13-18-3]]
+
+^<<v13-18-3,3>>^ And David went on to strike down Had·ad·eʹzer the king of Zoʹbah at Haʹmath as he was going his way to set up his control^&#42;1^ at the river Eu·phraʹtes.
+
+[NOTE]
+====
+. Lit., “his hand.”
+====
+
+[[v13-18-4]]
+
+^<<v13-18-4,4>>^ Further, David captured from him a thousand chariots and seven thousand horsemen and twenty thousand men on foot. Then David hamstrung all the chariot horses, but he let a hundred chariot horses^&#42;1^ of them remain.
+
+[NOTE]
+====
+. Possibly, “teams.”
+====
+
+[[v13-18-5]]
+
+^<<v13-18-5,5>>^ When Syria^&#42;1^ of Damascus came to help Had·ad·eʹzer the king of Zoʹbah, David went striking down among the Syrians twenty-two thousand men.
+
+[NOTE]
+====
+. Or, “the Syrians.”
+====
+
+[[v13-18-6]]
+
+^<<v13-18-6,6>>^ After that David put &#91;garrisons&#93;^&#42;1^ in Syria of Damascus, and the Syrians came to be David’s servants bearing tribute. And Jehovah kept giving salvation to David wherever he went.
+
+[NOTE]
+====
+. “Put garrisons,” TLXXVg, one Heb. ms and 2Sa 8:6.
+====
+
+[[v13-18-7]]
+
+^<<v13-18-7,7>>^ Moreover, David took the circular shields of gold that happened to be on the servants of Had·ad·eʹzer and brought them to Jerusalem.
+
+[[v13-18-8]]
+
+^<<v13-18-8,8>>^ And from Tibʹhath and Cun, cities of Had·ad·eʹzer, David took very much copper. With it Solʹo·mon made the copper sea and the pillars and the copper utensils.
+
+[[v13-18-9]]
+
+^<<v13-18-9,9>>^ When Toʹu^&#42;1^ the king of Haʹmath heard that David had struck down all the military force of Had·ad·eʹzer the king of Zoʹbah,
+
+[NOTE]
+====
+. “Tou,” MVg; in 2Sa 8:9, 10, “Toi.”
+====
+
+[[v13-18-10]]
+
+^<<v13-18-10,10>>^ he immediately sent Ha·doʹram his son to King David to ask him about his welfare and congratulate^&#42;1^ him over the fact that he had fought against Had·ad·eʹzer so that he struck him down, (for Had·ad·eʹzer had become trained in warfare against Toʹu,^&#42;2^) and &#91;there were with him&#93; all sorts of articles of gold and silver and copper.
+
+[NOTE]
+====
+. Lit., “bless.”
+. Lit., “become a man of wars of Tou.”
+====
+
+[[v13-18-11]]
+
+^<<v13-18-11,11>>^ These also King David sanctified to Jehovah together with the silver and the gold that he had carried off from all the nations, from Eʹdom and from Moʹab and from the sons of Amʹmon and from the Phi·lisʹtines and from Amʹa·lek.
+
+[[v13-18-12]]
+
+^<<v13-18-12,12>>^ As for A·bishʹai the son of Ze·ruʹiah, he struck down the Eʹdom·ites in the Valley of Salt, eighteen thousand.
+
+[[v13-18-13]]
+
+^<<v13-18-13,13>>^ So he put garrisons in Eʹdom, and all the Eʹdom·ites came to be David’s servants. And Jehovah kept saving David wherever he went.
+
+[[v13-18-14]]
+
+^<<v13-18-14,14>>^ And David continued to reign over all Israel, and he was continually rendering judicial decision and righteousness for all his people.
+
+[[v13-18-15]]
+
+^<<v13-18-15,15>>^ And Joʹab the son of Ze·ruʹiah was over the army, and Je·hoshʹa·phat the son of A·hiʹlud was recorder.^&#42;1^
+
+[NOTE]
+====
+. Lit., “remembrancer.”
+====
+
+[[v13-18-16]]
+
+^<<v13-18-16,16>>^ And Zaʹdok the son of A·hiʹtub and A·himʹe·lech^&#42;1^ the son of A·biʹa·thar were priests, and Shavʹsha was secretary.
+
+[NOTE]
+====
+. “Ahimelech,” LXXSyVg, 12 Heb. mss and 2Sa 8:17; MLXXא, “Abimelech.”
+====
+
+[[v13-18-17]]
+
+^<<v13-18-17,17>>^ And Be·naiʹah the son of Je·hoiʹa·da was over the Cherʹe·thites and the Pelʹe·thites; and the sons of David were the first in position at the side of the king.
+
+'''
+
+xref:013-1-chronicles/013-1-chronicles-017.adoc#v13-17-0[&#60; Capítulo Anterior] | <<v13-18-0,Topo>> | xref:013-1-chronicles/013-1-chronicles-019.adoc#v13-19-0[Próximo Capítulo &#62;]

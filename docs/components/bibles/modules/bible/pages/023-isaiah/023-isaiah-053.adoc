@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v23-53-0]]
+=== Isaiah, 53
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-53-1]]
+
+^<<v23-53-1,1>>^ Who has put faith in the thing heard^&#42;1^ by us? And as for the arm of Jehovah, to whom has it been revealed?
+
+[NOTE]
+====
+. Or, “the report.”
+====
+
+[[v23-53-2]]
+
+^<<v23-53-2,2>>^ And he will come up like a twig before one,^&#42;1^ and like a root out of waterless land. No stately form does he have, nor any splendor; and when we shall see him, there is not the appearance so that we should desire him.
+
+[NOTE]
+====
+. Or, “him.”
+====
+
+[[v23-53-3]]
+
+^<<v23-53-3,3>>^ He was despised and was avoided by men,^&#42;1^ a man meant for pains and for having acquaintance with sickness. And there was as if the concealing of one’s face from us.^&#42;2^ He was despised, and we held him as of no account.
+
+[NOTE]
+====
+. “Men.” Heb., ʼi·shimʹ, pl. of ʼish, “man,” in this same vs. This pl. form occurs only here, and in Ps 141:4 and Pr 8:4.
+. Or, “him.”
+====
+
+[[v23-53-4]]
+
+^<<v23-53-4,4>>^ Truly our sicknesses were what he himself carried; and as for our pains, he bore them. But we ourselves accounted him as plagued, stricken by God^&#42;1^ and afflicted.^&#42;2^
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ.
+. Or, “humbled.”
+====
+
+[[v23-53-5]]
+
+^<<v23-53-5,5>>^ But he was being pierced for our transgression; he was being crushed for our errors. The chastisement meant for our peace was upon him, and because of his wounds there has been a healing for us.
+
+[[v23-53-6]]
+
+^<<v23-53-6,6>>^ Like sheep^&#42;1^ we have all of us wandered about; it was each one to his own way that we have turned; and Jehovah himself has caused the error of us all to meet up with that one.
+
+[NOTE]
+====
+. Or, “Like a flock.” Heb., kats·tsoʼnʹ.
+====
+
+[[v23-53-7]]
+
+^<<v23-53-7,7>>^ He was hard pressed, and he was letting himself be afflicted; yet he would not open his mouth. He was being brought just like a sheep^&#42;1^ to the slaughtering; and like a ewe that before her shearers has become mute, he also would not open his mouth.
+
+[NOTE]
+====
+. Or, “like a lamb.” Heb., kas·sehʹ.
+====
+
+[[v23-53-8]]
+
+^<<v23-53-8,8>>^ Because of restraint^&#42;1^ and of judgment he was taken away;^&#42;2^ and who will concern himself even with &#91;the details of&#93; his generation?^&#42;3^ For he was severed from the land of the living ones. Because of the transgression of my people he had the stroke.^&#42;4^
+
+[NOTE]
+====
+. Or, “oppression; coercion.”
+. “He was taken from oppression and from judgment,” Vg; LXX, “During his humiliation the judgment was taken away from him.” See Ac 8:33.
+. Or, “[the details of] his manner of life.”
+. “He came to be stricken to the death,” by a correction of M in agreement with LXX.
+====
+
+[[v23-53-9]]
+
+^<<v23-53-9,9>>^ And he^&#42;1^ will make^&#42;2^ his burial place even with the wicked ones, and with the rich class^&#42;3^ in his death, despite the fact that he had done no violence and there was no deception in his mouth.
+
+[NOTE]
+====
+. Or, “one.”
+. Lit., “give; furnish.”
+. Lit., “a rich one (man).”
+====
+
+[[v23-53-10]]
+
+^<<v23-53-10,10>>^ But Jehovah himself took delight in crushing him; he made him sick. If you will set his soul^&#42;1^ as a guilt offering, he will see his offspring, he will prolong &#91;his&#93; days, and in his hand what is the delight of Jehovah will succeed.
+
+[NOTE]
+====
+. “His soul.” Heb., naph·shohʹ; Gr., psy·kheʹ; Lat., aʹni·mam. See App 4A.
+====
+
+[[v23-53-11]]
+
+^<<v23-53-11,11>>^ Because of the trouble of his soul he will see,^&#42;1^ he will be satisfied. By means of his knowledge^&#42;2^ the righteous one, my servant, will bring a righteous standing to many people; and their errors he himself will bear.
+
+[NOTE]
+====
+. “He will see,” MVg; LXX, “[he will] show him light.”
+. Or, “By the knowing of him.”
+====
+
+[[v23-53-12]]
+
+^<<v23-53-12,12>>^ For that reason I shall deal him a portion among the many, and it will be with the mighty ones that he will apportion the spoil, due to the fact that he poured out his soul to the very death, and it was with the transgressors that he was counted in; and he himself carried the very sin of many people, and for the transgressors he proceeded to interpose.
+
+'''
+
+xref:023-isaiah/023-isaiah-052.adoc#v23-52-0[&#60; Capítulo Anterior] | <<v23-53-0,Topo>> | xref:023-isaiah/023-isaiah-054.adoc#v23-54-0[Próximo Capítulo &#62;]

@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v2-27-0]]
+=== Exodus, 27
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-27-1]]
+
+^<<v2-27-1,1>>^ “And you must make the altar of acacia wood, five cubits its length and five cubits its width. The altar should be foursquare, and its height three cubits.
+
+[[v2-27-2]]
+
+^<<v2-27-2,2>>^ And you must make its horns upon its four corners. Its horns will proceed out of it, and you must overlay it with copper.
+
+[[v2-27-3]]
+
+^<<v2-27-3,3>>^ And you must make its cans for clearing away its fatty ashes,^&#42;1^ and its shovels, and its bowls, and its forks, and its fire holders; and you will make all its utensils^&#42;2^ of copper.
+
+[NOTE]
+====
+. “Fatty ashes,” that is, the burned wood of the altar, soaked with animal fat.
+. “And all its utensils,” LXXSy; M, “as respects all its utensils.”
+====
+
+[[v2-27-4]]
+
+^<<v2-27-4,4>>^ And you must make a grating for it, a network of copper; and you must make upon the net four rings of copper at its four extremities.
+
+[[v2-27-5]]
+
+^<<v2-27-5,5>>^ And you must put it under the altar’s rim down within, and the net must be toward the center of the altar.
+
+[[v2-27-6]]
+
+^<<v2-27-6,6>>^ And you must make poles for the altar, its poles being of acacia wood, and you must overlay them with copper.
+
+[[v2-27-7]]
+
+^<<v2-27-7,7>>^ And its poles must be put into the rings, and the poles must be upon the two sides of the altar when carrying it.
+
+[[v2-27-8]]
+
+^<<v2-27-8,8>>^ A hollow chest of planks you will make it. Just as he showed you^&#42;1^ in the mountain, so they will make it.
+
+[NOTE]
+====
+. “Just as he showed you,” MSamSy; LXX, “According to what was shown you”; Vg, “Just as it has been shown to you.”
+====
+
+[[v2-27-9]]
+
+^<<v2-27-9,9>>^ “And you must make the courtyard of the tabernacle. For the side toward the Negʹeb, to the south, the courtyard has hangings of fine twisted linen, a hundred cubits being the length for the one side.
+
+[[v2-27-10]]
+
+^<<v2-27-10,10>>^ And its twenty pillars and their twenty socket pedestals are of copper. The pegs of the pillars and their joints^&#42;1^ are of silver.
+
+[NOTE]
+====
+. Or, “rings; hoops; bands; fillets,” for attachments.
+====
+
+[[v2-27-11]]
+
+^<<v2-27-11,11>>^ So, too, it is for the north side in length, the hangings being for a hundred cubits of length, and its twenty pillars and their twenty socket pedestals being of copper, the pegs of the pillars and their joints being of silver.
+
+[[v2-27-12]]
+
+^<<v2-27-12,12>>^ As for the width of the courtyard, on the west side the hangings are of fifty cubits, their pillars being ten and their socket pedestals ten.
+
+[[v2-27-13]]
+
+^<<v2-27-13,13>>^ And the width of the courtyard on the east side toward the sunrising is fifty cubits.
+
+[[v2-27-14]]
+
+^<<v2-27-14,14>>^ And there are fifteen cubits of hangings to one side,^&#42;1^ their pillars being three and their socket pedestals three.
+
+[NOTE]
+====
+. Lit., “shoulder.”
+====
+
+[[v2-27-15]]
+
+^<<v2-27-15,15>>^ And for the other side there are fifteen cubits of hangings, their pillars being three and their socket pedestals three.
+
+[[v2-27-16]]
+
+^<<v2-27-16,16>>^ “And for the gate of the courtyard there is a screen twenty cubits long, of blue thread and wool dyed reddish purple and coccus scarlet material and fine twisted linen, the work of a weaver, their pillars being four and their socket pedestals four.
+
+[[v2-27-17]]
+
+^<<v2-27-17,17>>^ All the pillars of the courtyard round about have fastenings of silver, and their pegs are of silver but their socket pedestals of copper.
+
+[[v2-27-18]]
+
+^<<v2-27-18,18>>^ The length of the courtyard is a hundred cubits, and the width fifty cubits,^&#42;1^ and the height five cubits, of fine twisted linen, and their socket pedestals being of copper.
+
+[NOTE]
+====
+. “Fifty cubits,” Sam; MLXXSy, “fifty by fifty”; Vg, “fifty [cubits].” See App 8A.
+====
+
+[[v2-27-19]]
+
+^<<v2-27-19,19>>^ And all the utensils^&#42;1^ of the tabernacle in all its service, and all its tent pins, and all the pins of the courtyard are of copper.
+
+[NOTE]
+====
+. Or, “furniture; furnishings.”
+====
+
+[[v2-27-20]]
+
+^<<v2-27-20,20>>^ “As for you, you are to command the sons of Israel that they get for you pure, beaten olive oil for the luminary, in order to light up the lamps constantly.
+
+[[v2-27-21]]
+
+^<<v2-27-21,21>>^ In the tent of meeting, outside the curtain that is by the Testimony, Aaron and his sons will set it in order from evening till morning before Jehovah. It is a statute to time indefinite for their generations, to be performed by the sons of Israel.
+
+'''
+
+xref:002-exodus/002-exodus-026.adoc#v2-26-0[&#60; Capítulo Anterior] | <<v2-27-0,Topo>> | xref:002-exodus/002-exodus-028.adoc#v2-28-0[Próximo Capítulo &#62;]

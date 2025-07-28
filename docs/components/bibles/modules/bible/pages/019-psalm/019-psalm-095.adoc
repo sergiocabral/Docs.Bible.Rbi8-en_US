@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v19-95-0]]
+=== Psalms, 95
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-95-1]]
+
+^<<v19-95-1,1>>^ O come let us cry out joyfully to Jehovah!
+Let us shout in triumph to our Rock of salvation.
+
+[[v19-95-2]]
+
+^<<v19-95-2,2>>^ Let us come before his person^&#42;1^ with thanksgiving;
+Let us with melodies shout in triumph to him.
+
+[NOTE]
+====
+. Lit., “face.” Compare Ex 33:14, 15 and 2Sa 17:11 ftns, “Person.”
+====
+
+[[v19-95-3]]
+
+^<<v19-95-3,3>>^ For Jehovah is a great God^&#42;1^
+And a great King over all &#91;other&#93; gods,^&#42;2^
+
+[NOTE]
+====
+. “A great God.” Heb., ʼEl ga·dhohlʹ.
+. “Over all [other] gods.” Heb., ʽal-kol-ʼelo·himʹ.
+====
+
+[[v19-95-4]]
+
+^<<v19-95-4,4>>^ He in whose hand are the inmost depths^&#42;1^ of the earth
+And to whom the peaks of the mountains belong;
+
+[NOTE]
+====
+. Or, “the ranges [for exploration].” LXX and by transposing two letters in the Heb. word, “the distant places.”
+====
+
+[[v19-95-5]]
+
+^<<v19-95-5,5>>^ To whom the sea, which he himself made, belongs
+And whose own hands formed the dry land itself.
+
+[[v19-95-6]]
+
+^<<v19-95-6,6>>^ O come in, let us worship and bow down;
+Let us kneel before Jehovah our Maker.
+
+[[v19-95-7]]
+
+^<<v19-95-7,7>>^ For he is our God, and we are the people of his pasturage and the sheep of his hand.
+Today if YOU people listen to his own voice,
+
+[[v19-95-8]]
+
+^<<v19-95-8,8>>^ Do not harden YOUR heart as at Merʹi·bah,^&#42;1^
+As in the day of Masʹsah^&#42;2^ in the wilderness,
+
+[NOTE]
+====
+. Or, “the quarreling,” M; LXX, “the embittering”; Vg, “the irritating.”
+. “Day of testing,” LXXVg. See Ex 17:7.
+====
+
+[[v19-95-9]]
+
+^<<v19-95-9,9>>^ When YOUR forefathers put me to the proof;
+They examined me, they also saw my activity.
+
+[[v19-95-10]]
+
+^<<v19-95-10,10>>^ For forty years I kept feeling a loathing toward &#91;that&#93;^&#42;1^ generation,
+And I proceeded to say:
+“They are a people wayward at heart,
+And they themselves have not come to know my ways”;
+
+[NOTE]
+====
+. “That,” LXXSyVg; MT omit.
+====
+
+[[v19-95-11]]
+
+^<<v19-95-11,11>>^ Concerning whom I swore in my anger:
+“They shall not enter into my resting-place.”^&#42;1^
+
+[NOTE]
+====
+. “Rest,” LXXVg.
+====
+
+'''
+
+xref:019-psalm/019-psalm-094.adoc#v19-94-0[&#60; Capítulo Anterior] | <<v19-95-0,Topo>> | xref:019-psalm/019-psalm-096.adoc#v19-96-0[Próximo Capítulo &#62;]

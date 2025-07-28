@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v19-29-0]]
+=== Psalms, 29
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody of David.^&#42;1^_
+
+[[v19-29-1]]
+
+^<<v19-29-1,1>>^ Ascribe to Jehovah,^&#42;1^ O YOU sons of strong ones,^&#42;2^
+Ascribe to Jehovah^&#42;3^ glory and strength.
+
+[NOTE]
+====
+. See App 1C §10.
+. Or, “sons of gods”; or, “godlike ones”; or, “sons of God.” Heb., benehʹ ʼe·limʹ. If the Heb. word ʼe·limʹ is pl. of ʼel to denote majesty, then it means “God.” T, “you bands of angels, the sons of God”; LXX, “you sons of God”; SyVg, “you sons of rams.” Compare 89:6 ftn and Da 11:36 where the expression ʼEl ʼe·limʹ, “God of gods,” occurs.
+. See App 1C §10.
+====
+
+[[v19-29-2]]
+
+^<<v19-29-2,2>>^ Ascribe to Jehovah^&#42;1^ the glory of his name.
+Bow down to Jehovah^&#42;2^ in holy adornment.
+
+[NOTE]
+====
+. See App 1C §10.
+. See App 1C §10.
+====
+
+[[v19-29-3]]
+
+^<<v19-29-3,3>>^ The voice^&#42;1^ of Jehovah^&#42;2^ is over the waters;
+The glorious God^&#42;3^ himself has thundered.
+Jehovah^&#42;4^ is over many waters.
+
+[NOTE]
+====
+. “The voice.” This expression occurs seven times in this psalm.
+. See App 1C §10.
+. “God.” Heb., ʼEl.
+. See App 1C §10.
+====
+
+[[v19-29-4]]
+
+^<<v19-29-4,4>>^ The voice of Jehovah is powerful;
+The voice of Jehovah is splendid.
+
+[[v19-29-5]]
+
+^<<v19-29-5,5>>^ The voice of Jehovah is breaking the cedars;
+Yes, Jehovah breaks the cedars of Lebʹa·non in pieces,
+
+[[v19-29-6]]
+
+^<<v19-29-6,6>>^ And he makes them skip about like a calf,
+Lebʹa·non and Sirʹi·on^&#42;1^ like the sons of wild bulls.^&#42;2^
+
+[NOTE]
+====
+. “Sirion.” The old Sidonian name for Mount Hermon. See De 3:9.
+. “Of unicorns,” LXXVgc, lit., “of one-horned ones,” but referring to wild bulls.
+====
+
+[[v19-29-7]]
+
+^<<v19-29-7,7>>^ The voice of Jehovah is hewing with the flames of fire;
+
+[[v19-29-8]]
+
+^<<v19-29-8,8>>^ The voice of Jehovah itself makes the wilderness writhe,
+Jehovah makes the wilderness of Kaʹdesh writhe.
+
+[[v19-29-9]]
+
+^<<v19-29-9,9>>^ The voice of Jehovah itself makes the hinds writhe with birth pains
+And strips bare the forests.^&#42;1^
+And in his temple each one is saying: “Glory!”
+
+[NOTE]
+====
+. “And it causes a hurried delivery by the mountain goats,” by a correction of M.
+====
+
+[[v19-29-10]]
+
+^<<v19-29-10,10>>^ Upon the deluge^&#42;1^ Jehovah has seated himself;
+And Jehovah sits as king to time indefinite.
+
+[NOTE]
+====
+. Or, “heavenly ocean.” See Ge 6:17 ftn, “Deluge.”
+====
+
+[[v19-29-11]]
+
+^<<v19-29-11,11>>^ Jehovah himself will give strength indeed to his people.
+Jehovah himself will bless his people with peace.
+
+'''
+
+xref:019-psalm/019-psalm-028.adoc#v19-28-0[&#60; Capítulo Anterior] | <<v19-29-0,Topo>> | xref:019-psalm/019-psalm-030.adoc#v19-30-0[Próximo Capítulo &#62;]

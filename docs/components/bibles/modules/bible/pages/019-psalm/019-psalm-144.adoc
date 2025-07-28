@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v19-144-0]]
+=== Psalms, 144
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David.^&#42;1^_
+
+[[v19-144-1]]
+
+^<<v19-144-1,1>>^ Blessed be Jehovah my Rock,
+Who is teaching my hands for fighting,
+My fingers for warfare;
+
+[[v19-144-2]]
+
+^<<v19-144-2,2>>^ My loving-kindness and my stronghold,
+My secure height and my Provider of escape for me,
+My shield and the One in whom I have taken refuge,
+The One subduing peoples^&#42;1^ under me.
+
+[NOTE]
+====
+. “Peoples,” TSy and many Heb. mss; MLXXVg, “my people.”
+====
+
+[[v19-144-3]]
+
+^<<v19-144-3,3>>^ O Jehovah, what is man^&#42;1^ that you should notice him,
+The son of mortal man^&#42;2^ that you should take account of him?
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+. “Mortal man.” Heb., ʼenohshʹ.
+====
+
+[[v19-144-4]]
+
+^<<v19-144-4,4>>^ Man himself bears resemblance to a mere exhalation;
+His days are like a passing shadow.
+
+[[v19-144-5]]
+
+^<<v19-144-5,5>>^ O Jehovah, bend down your heavens that you may descend;
+Touch the mountains that they may smoke.
+
+[[v19-144-6]]
+
+^<<v19-144-6,6>>^ Lighten with lightning that you may scatter them;
+Send out your arrows that you may throw them into confusion.
+
+[[v19-144-7]]
+
+^<<v19-144-7,7>>^ Thrust your hands out from the height;
+Set me free and deliver me from the many waters,
+From the hand of the foreigners,^&#42;1^
+
+[NOTE]
+====
+. Lit., “sons of a foreign (country).”
+====
+
+[[v19-144-8]]
+
+^<<v19-144-8,8>>^ Whose mouth has spoken what is untrue
+And whose right hand is a right hand of falsehood.
+
+[[v19-144-9]]
+
+^<<v19-144-9,9>>^ O God, a new song I will sing to you.
+On an instrument of ten strings I will make melody to you,
+
+[[v19-144-10]]
+
+^<<v19-144-10,10>>^ The One giving salvation to kings,
+The One setting David his servant free from the injurious sword.
+
+[[v19-144-11]]
+
+^<<v19-144-11,11>>^ Set me free and deliver me from the hand of the foreigners,
+Whose mouth has spoken what is untrue
+And whose right hand is a right hand of falsehood,
+
+[[v19-144-12]]
+
+^<<v19-144-12,12>>^ Who &#91;say&#93;: “Our sons are like little plants grown up in their youth,
+Our daughters like corners carved in palace style,
+
+[[v19-144-13]]
+
+^<<v19-144-13,13>>^ Our garners full, furnishing products of one sort after another,^&#42;1^
+Our flocks multiplying by thousands, ten thousand to one, in our streets,
+
+[NOTE]
+====
+. Lit., “from sort to sort.”
+====
+
+[[v19-144-14]]
+
+^<<v19-144-14,14>>^ Our cattle loaded down, without any rupture and with no abortion,
+And with no outcry in our public squares.
+
+[[v19-144-15]]
+
+^<<v19-144-15,15>>^ Happy is the people for whom it is just like &#91;that&#93;!”
+Happy is the people whose God is Jehovah!
+
+'''
+
+xref:019-psalm/019-psalm-143.adoc#v19-143-0[&#60; Capítulo Anterior] | <<v19-144-0,Topo>> | xref:019-psalm/019-psalm-145.adoc#v19-145-0[Próximo Capítulo &#62;]

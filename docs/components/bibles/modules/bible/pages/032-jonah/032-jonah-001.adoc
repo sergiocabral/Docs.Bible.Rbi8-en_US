@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v32-1-0]]
+=== Jonah, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v32-1-1]]
+
+^<<v32-1-1,1>>^ And the word of Jehovah began to occur to Joʹnah the son of A·mitʹtai, saying:
+
+[[v32-1-2]]
+
+^<<v32-1-2,2>>^ “Get up, go to Ninʹe·veh the great city, and proclaim against her that their badness has come up before me.”
+
+[[v32-1-3]]
+
+^<<v32-1-3,3>>^ And Joʹnah proceeded to get up and run away to Tarʹshish from before Jehovah; and he finally came down to Jopʹpa^&#42;1^ and found a ship going to Tarʹshish. So he paid its fare and went down into it, in order to go with them to Tarʹshish from before Jehovah.
+
+[NOTE]
+====
+. “Joppa.” Heb., Ya·phohʹ; Gr., I·opʹpen; Lat., Iopʹpen.
+====
+
+[[v32-1-4]]
+
+^<<v32-1-4,4>>^ And Jehovah himself hurled forth a great wind^&#42;1^ at the sea, and there came to be a great tempest on the sea; and as for the ship, it was about to be wrecked.
+
+[NOTE]
+====
+. “Wind.” Heb., ruʹach; Gr., pneuʹma; Lat., venʹtum. See Ge 1:2 ftn, “Force.”
+====
+
+[[v32-1-5]]
+
+^<<v32-1-5,5>>^ And the mariners began to fear and to call for aid, each one to his god.^&#42;1^ And they kept hurling out the articles that were in the ship to the sea, in order to lighten &#91;it&#93; of them. But Joʹnah himself had gone down to the innermost parts of the decked vessel, and he proceeded to lie down and go fast asleep.
+
+[NOTE]
+====
+. “His god.” Heb., ʼelo·havʹ; Gr., the·onʹ; Lat., deʹum.
+====
+
+[[v32-1-6]]
+
+^<<v32-1-6,6>>^ At length the ship captain^&#42;1^ came near to him and said to him: “What is the matter with you, sleeper? Get up, call out to your god!^&#42;2^ Perhaps the &#91;true&#93; God^&#42;3^ will show himself caring about us, and we shall not perish.”
+
+[NOTE]
+====
+. Lit., “the principal one of the sailors.”
+. “Your god!” Heb., ʼelo·heyʹkha; Gr., the·onʹ; Lat., deʹum.
+. “The [true] God.” Heb., ha·ʼElo·himʹ. See App 1F.
+====
+
+[[v32-1-7]]
+
+^<<v32-1-7,7>>^ And they began to say to one another: “Come, and let us cast lots, that we may know on whose account we have this calamity.” And they kept casting lots, and finally the lot fell upon Joʹnah.
+
+[[v32-1-8]]
+
+^<<v32-1-8,8>>^ So they said to him: “Do tell us, please, on whose account it is that we are having this calamity? What is your work, and from where do you come? What is your country, and from which people are you?”
+
+[[v32-1-9]]
+
+^<<v32-1-9,9>>^ At that he said to them: “I am a Hebrew, and Jehovah the God of the heavens I am fearing, the One who made the sea and the dry land.”
+
+[[v32-1-10]]
+
+^<<v32-1-10,10>>^ And the men^&#42;1^ began to fear greatly, and they went on to say to him: “What is this that you have done?” For the men had come to know that it was from before Jehovah that he was running away, because he had told them.
+
+[NOTE]
+====
+. “The men.” Heb., ha·ʼana·shimʹ, pl. of ʼish.
+====
+
+[[v32-1-11]]
+
+^<<v32-1-11,11>>^ Finally they said to him: “What should we do to you, in order that the sea may become still for us?” For the sea was continually growing more tempestuous.
+
+[[v32-1-12]]
+
+^<<v32-1-12,12>>^ So he said to them: “Lift me up and hurl me into the sea, and the sea will become still for YOU; because I am aware that it is on my account that this great tempest is upon YOU.”
+
+[[v32-1-13]]
+
+^<<v32-1-13,13>>^ But the men tried to work their way through, in order to bring &#91;the ship&#93; back to the dry land; yet they were unable, because the sea was continually growing more tempestuous against them.
+
+[[v32-1-14]]
+
+^<<v32-1-14,14>>^ And they proceeded to call out to Jehovah and to say: “Ah, now, O Jehovah, may we, please, not perish because of the soul^&#42;1^ of this man! And do not put upon us innocent blood, since you yourself, O Jehovah, have done according to what you have delighted in!”
+
+[NOTE]
+====
+. “Because of the soul.” Heb., beneʹphesh; Gr., psy·khesʹ; Lat., aʹni·ma. See App 4A.
+====
+
+[[v32-1-15]]
+
+^<<v32-1-15,15>>^ Then they lifted up Joʹnah and hurled him into the sea; and the sea began to halt from its raging.
+
+[[v32-1-16]]
+
+^<<v32-1-16,16>>^ At that the men began to fear Jehovah greatly, and so they offered a sacrifice to Jehovah and made vows.
+
+[[v32-1-17]]
+
+^<<v32-1-17,17>>^ ^&#42;1^ Now Jehovah appointed a great fish^&#42;2^ to swallow Joʹnah, so that Joʹnah came to be in the inward parts of the fish three days and three nights.
+
+[NOTE]
+====
+. MLXXVg begin chap. 2 here.
+. “Fish.” Heb., dagh; Gr., keʹtei, “sea monster; huge fish”; Lat., piʹscem.
+====
+
+'''
+
+xref:031-obadiah/031-obadiah-001.adoc#v31-1-0[&#60; Capítulo Anterior] | <<v32-1-0,Topo>> | xref:032-jonah/032-jonah-002.adoc#v32-2-0[Próximo Capítulo &#62;]

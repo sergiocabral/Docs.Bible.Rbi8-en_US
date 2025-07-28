@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v19-45-0]]
+=== Psalms, 45
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director upon The Lilies.^&#42;1^ Of the sons of Koʹrah. Masʹkil.^&#42;2^ A song of the beloved women._
+
+[[v19-45-1]]
+
+^<<v19-45-1,1>>^ My heart has become astir with a goodly matter.
+I am saying: “My works are concerning a king.”
+May my tongue be the stylus of a skilled copyist.
+
+[[v19-45-2]]
+
+^<<v19-45-2,2>>^ You are indeed more handsome than the sons of men.^&#42;1^
+Charm has been poured out upon your lips.
+That is why God^&#42;2^ has blessed you to time indefinite.
+
+[NOTE]
+====
+. Or, “mankind.” Heb., ʼa·dhamʹ.
+. “God.” Heb., ʼElo·himʹ.
+====
+
+[[v19-45-3]]
+
+^<<v19-45-3,3>>^ Gird your sword upon &#91;your&#93;^&#42;1^ thigh, O mighty one,^&#42;2^
+&#91;With&#93; your dignity and your splendor.
+
+[NOTE]
+====
+. “Your,” TLXXSyVg; M omits.
+. “O mighty one,” M(Heb., gib·bohrʹ)­TLXXSy; Lat., po·ten·tisʹsi·me, “O most powerful one.”
+====
+
+[[v19-45-4]]
+
+^<<v19-45-4,4>>^ And in your splendor go on to success;
+Ride in the cause of truth and humility &#91;and&#93; righteousness,
+And your right hand will instruct you in fear-inspiring things.
+
+[[v19-45-5]]
+
+^<<v19-45-5,5>>^ Your arrows are sharp—under you peoples keep falling—
+In the heart of the enemies of the king.
+
+[[v19-45-6]]
+
+^<<v19-45-6,6>>^ God is your throne^&#42;1^ to time indefinite, even forever;
+The scepter of your kingship is a scepter of uprightness.
+
+[NOTE]
+====
+. Or, “Your throne is of God; Your throne of God is.”
+====
+
+[[v19-45-7]]
+
+^<<v19-45-7,7>>^ You have loved righteousness and you hate wickedness.
+That is why God, your God, has anointed you^&#42;1^ with the oil of exultation more than your partners.
+
+[NOTE]
+====
+. “Has anointed you.” Heb., mesha·chakhaʹ. From this verb comes ma·shiʹach, “messiah.”
+====
+
+[[v19-45-8]]
+
+^<<v19-45-8,8>>^ All your garments are myrrh and aloeswood &#91;and&#93; cassia;
+Out from the grand ivory palace^&#42;1^ stringed instruments themselves have made you rejoice.
+
+[NOTE]
+====
+. Lit., “out from the ivory palaces (habitations; dwellings; temples).” Heb., min-hehʹkheleh shen, pl. to denote grandeur. Compare Mt 23:16 ftn.
+====
+
+[[v19-45-9]]
+
+^<<v19-45-9,9>>^ The daughters of kings are among your precious women.^&#42;1^
+The queenly consort has taken her stand at your right hand in gold of Oʹphir.
+
+[NOTE]
+====
+. Or, “in your precious things.”
+====
+
+[[v19-45-10]]
+
+^<<v19-45-10,10>>^ Listen, O daughter, and see, and incline your ear;
+And forget your people and your father’s house.
+
+[[v19-45-11]]
+
+^<<v19-45-11,11>>^ And the king will long for your prettiness,
+For he is your lord,^&#42;1^
+So bow down to him.
+
+[NOTE]
+====
+. “Your lord.” Heb., ʼadho·naʹyikh, pl. of ʼa·dhohnʹ, to denote excellence. See Ge 39:2 ftn.
+====
+
+[[v19-45-12]]
+
+^<<v19-45-12,12>>^ The daughter of Tyre also with a gift—
+The rich ones of the people will soften your^&#42;1^ own face.
+
+[NOTE]
+====
+. “Your,” fem., referring to the daughter in vs 10.
+====
+
+[[v19-45-13]]
+
+^<<v19-45-13,13>>^ The king’s daughter is all glorious within &#91;the house&#93;;
+Her clothing is with settings of gold.
+
+[[v19-45-14]]
+
+^<<v19-45-14,14>>^ In woven apparel she will be brought to the king.
+The virgins in her train as her companions are being brought in to you.
+
+[[v19-45-15]]
+
+^<<v19-45-15,15>>^ They will be brought with rejoicing and joyfulness;
+They will enter into the palace of the king.
+
+[[v19-45-16]]
+
+^<<v19-45-16,16>>^ In place of your^&#42;1^ forefathers there will come to be your sons,
+Whom you will appoint as princes^&#42;2^ in all the earth.
+
+[NOTE]
+====
+. “Your,” masc., referring to the “king.”
+. “As princes.” Heb., lesa·rimʹ; Gr., arʹkhon·tas; Lat., prinʹci·pes.
+====
+
+[[v19-45-17]]
+
+^<<v19-45-17,17>>^ I will make mention of your^&#42;1^ name throughout all generations to come.
+That is why peoples themselves will laud you to time indefinite, even forever.
+
+[NOTE]
+====
+. See vs 16 ftn, “Your.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-044.adoc#v19-44-0[&#60; Capítulo Anterior] | <<v19-45-0,Topo>> | xref:019-psalm/019-psalm-046.adoc#v19-46-0[Próximo Capítulo &#62;]

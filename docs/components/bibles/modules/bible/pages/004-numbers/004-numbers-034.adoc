@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v4-34-0]]
+=== Numbers, 34
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-34-1]]
+
+^<<v4-34-1,1>>^ And Jehovah spoke further to Moses, saying:
+
+[[v4-34-2]]
+
+^<<v4-34-2,2>>^ “Command the sons of Israel, and you must say to them, ‘YOU are going into the land of Caʹnaan. This is the land that^&#42;1^ will fall to YOU by inheritance, the land of Caʹnaan according to its boundaries.
+
+[NOTE]
+====
+. “You are going into the land of Canaan. This is (will be) the land that,” MLXX; Vg, “When you will enter the land of Canaan, and it.”
+====
+
+[[v4-34-3]]
+
+^<<v4-34-3,3>>^ “‘And YOUR south side must prove to be from the wilderness of Zin alongside Eʹdom, and YOUR south boundary must prove to be from the extremity of the Salt Sea on the east.
+
+[[v4-34-4]]
+
+^<<v4-34-4,4>>^ And YOUR boundary must change direction from the south of the ascent^&#42;1^ of A·krabʹbim and cross over to Zin, and its termination^&#42;2^ must prove to be on the south of Kaʹdesh-barʹne·a; and it must go out to Haʹzar-adʹdar and pass over to Azʹmon.
+
+[NOTE]
+====
+. Or, “pass.”
+. Lit., “outgoings; exits.”
+====
+
+[[v4-34-5]]
+
+^<<v4-34-5,5>>^ And the boundary must change direction at Azʹmon to the torrent valley of Egypt, and its termination must prove to be at the Sea.^&#42;1^
+
+[NOTE]
+====
+. That is, the Great Sea, the Mediterranean.
+====
+
+[[v4-34-6]]
+
+^<<v4-34-6,6>>^ “‘As for a west boundary, it must prove to be for YOU the Great Sea and the shoreland. This will become YOUR west boundary.
+
+[[v4-34-7]]
+
+^<<v4-34-7,7>>^ “‘Now this will become YOUR north boundary: From the Great Sea YOU will mark out to Mount Hor^&#42;1^ as a boundary for yourselves.
+
+[NOTE]
+====
+. The identity is uncertain; perhaps a prominent peak of the Lebanon range.
+====
+
+[[v4-34-8]]
+
+^<<v4-34-8,8>>^ From Mount Hor YOU will mark out the boundary to the entering in of Haʹmath, and the termination of the boundary must prove to be at Zeʹdad.
+
+[[v4-34-9]]
+
+^<<v4-34-9,9>>^ And the boundary must go out to Ziphʹron,^&#42;1^ and its termination must prove to be Haʹzar-eʹnan. This will become YOUR north boundary.
+
+[NOTE]
+====
+. An unknown site.
+====
+
+[[v4-34-10]]
+
+^<<v4-34-10,10>>^ “‘Then YOU must mark for yourselves as YOUR boundary on the east from Haʹzar-eʹnan to Sheʹpham.
+
+[[v4-34-11]]
+
+^<<v4-34-11,11>>^ And the boundary must go down from Sheʹpham^&#42;1^ to Ribʹlah^&#42;2^ on the east of Aʹin, and the border must go down and strike upon the eastern slope of the sea of Chinʹne·reth.^&#42;3^
+
+[NOTE]
+====
+. An unknown site.
+. Riblah on the east boundary of the land of Canaan; not the Riblah in the land of Hamath.
+. That is, the lake of Gennesaret, or the Sea of Galilee.
+====
+
+[[v4-34-12]]
+
+^<<v4-34-12,12>>^ And the border must go down to the Jordan, and its termination must prove to be the Salt Sea. This will become YOUR land according to its boundaries all around.’”
+
+[[v4-34-13]]
+
+^<<v4-34-13,13>>^ So Moses commanded the sons of Israel, saying: “This is the land that YOU will apportion to yourselves as a possession by lot, just as Jehovah has commanded to give to the nine and a half tribes.
+
+[[v4-34-14]]
+
+^<<v4-34-14,14>>^ For the tribe of the sons of the Reuʹben·ites by the house of their fathers and the tribe of the sons of the Gadʹites by the house of their fathers have already taken, and the half tribe of Ma·nasʹseh have already taken their inheritance.
+
+[[v4-34-15]]
+
+^<<v4-34-15,15>>^ The two and a half tribes have already taken their inheritance from the region of the Jordan by Jerʹi·cho eastward toward the sunrising.”
+
+[[v4-34-16]]
+
+^<<v4-34-16,16>>^ And Jehovah spoke further to Moses, saying:
+
+[[v4-34-17]]
+
+^<<v4-34-17,17>>^ “These are the names of the men who will divide the land to YOU people for a possession, El·e·aʹzar the priest and Joshua the son of Nun.
+
+[[v4-34-18]]
+
+^<<v4-34-18,18>>^ And YOU will take one chieftain out of each tribe to divide the land for a possession.
+
+[[v4-34-19]]
+
+^<<v4-34-19,19>>^ And these are the names of the men: Of the tribe of Judah, Caʹleb the son of Je·phunʹneh;
+
+[[v4-34-20]]
+
+^<<v4-34-20,20>>^ and of the tribe of the sons of Simʹe·on, She·muʹel the son of Am·miʹhud;
+
+[[v4-34-21]]
+
+^<<v4-34-21,21>>^ of the tribe of Benjamin, E·liʹdad the son of Chisʹlon;
+
+[[v4-34-22]]
+
+^<<v4-34-22,22>>^ and of the tribe of the sons of Dan a chieftain, Bukʹki the son of Jogʹli;
+
+[[v4-34-23]]
+
+^<<v4-34-23,23>>^ of the sons of Joseph, of the tribe of the sons of Ma·nasʹseh a chieftain, Hanʹni·el the son of Eʹphod;
+
+[[v4-34-24]]
+
+^<<v4-34-24,24>>^ and of the tribe of the sons of Eʹphra·im a chieftain, Kem·uʹel the son of Shiphʹtan;
+
+[[v4-34-25]]
+
+^<<v4-34-25,25>>^ and of the tribe of the sons of Zebʹu·lun a chieftain, E·li·zaʹphan the son of Parʹnach;
+
+[[v4-34-26]]
+
+^<<v4-34-26,26>>^ and of the tribe of the sons of Isʹsa·char a chieftain, Palʹti·el the son of Azʹzan;
+
+[[v4-34-27]]
+
+^<<v4-34-27,27>>^ and of the tribe of the sons of Ashʹer a chieftain, A·hiʹhud the son of She·loʹmi;
+
+[[v4-34-28]]
+
+^<<v4-34-28,28>>^ and of the tribe of the sons of Naphʹta·li a chieftain,^&#42;1^ Ped·ahʹel the son of Am·miʹhud.”
+
+[NOTE]
+====
+. “A chieftain.” In M this expression occurs seven times in vss 22-28; Sy omits all seven occurrences; Vg omits all except in vs 26, where it has dux, “leader.” Vs 18 shows that all 12 men were chieftains.
+====
+
+[[v4-34-29]]
+
+^<<v4-34-29,29>>^ These are the ones whom Jehovah commanded to make the sons of Israel landholders in the land of Caʹnaan.
+
+'''
+
+xref:004-numbers/004-numbers-033.adoc#v4-33-0[&#60; Capítulo Anterior] | <<v4-34-0,Topo>> | xref:004-numbers/004-numbers-035.adoc#v4-35-0[Próximo Capítulo &#62;]

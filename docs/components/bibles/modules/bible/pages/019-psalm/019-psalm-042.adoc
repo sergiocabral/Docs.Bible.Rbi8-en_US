@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v19-42-0]]
+=== Psalms, 42
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_BOOK TWO_
+
+_(Psalms 42 – 72)_
+
+_To the director. Masʹkil^&#42;1^ for the sons of Koʹrah._
+
+[[v19-42-1]]
+
+^<<v19-42-1,1>>^ As the hind that longs for the water streams,
+So my very soul longs for you, O God.^&#42;1^
+
+[NOTE]
+====
+. “O God,” MLXXVg; TSy, “O Jehovah.”
+====
+
+[[v19-42-2]]
+
+^<<v19-42-2,2>>^ My soul indeed thirsts for God, for the living God.^&#42;1^
+When shall I come and appear &#91;before&#93;^&#42;2^ God?
+
+[NOTE]
+====
+. “For the living God.” Heb., leʼElʹ chai.
+. “And appear [before].” Heb., weʼe·ra·ʼehʹ penehʹ. Here, penehʹ is not translated “before,” but it combines with ʼe·ra·ʼehʹ for the rendering “appear.” LXXVg, “appear before”; TSy, “see [the face of].”
+====
+
+[[v19-42-3]]
+
+^<<v19-42-3,3>>^ To me my tears have become food day and night,
+While &#91;they&#93;^&#42;1^ say to me all day long: “Where is your God?”
+
+[NOTE]
+====
+. “They,” Sy and four Heb. mss.
+====
+
+[[v19-42-4]]
+
+^<<v19-42-4,4>>^ These things I will remember, and I will pour out my soul within me.
+For I used to pass along with the throng,
+I used to walk slowly before them to the house of God,^&#42;1^
+With the voice of a joyful cry and thanksgiving,
+Of a crowd celebrating a festival.
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ.
+====
+
+[[v19-42-5]]
+
+^<<v19-42-5,5>>^ Why are you in despair, O my soul,
+And why are you boisterous within me?
+Wait for God,
+For I shall yet laud him as the grand salvation^&#42;1^ of my person.^&#42;2^
+
+[NOTE]
+====
+. Lit., “the salvations.” Heb., yeshu·ʽohthʹ, pl. to denote majesty.
+. “My face,” LXXSyVg and vs 11; MT, “his face.” See 2Sa 17:11 ftn, “Person.”
+====
+
+[[v19-42-6]]
+
+^<<v19-42-6,6>>^ O my God,^&#42;1^ within me my very soul is in despair.
+That is why I remember you,
+From the land of Jordan and the peaks of Herʹmon,^&#42;2^
+From the little mountain.^&#42;3^
+
+[NOTE]
+====
+. “O my God.” Heb., ʼElo·haiʹ.
+. Or, “and the sacred places (peaks).”
+. Lit., “from the mountain of littleness.” Heb., me·harʹ mits·ʽarʹ; by a correction, “Zion.”
+====
+
+[[v19-42-7]]
+
+^<<v19-42-7,7>>^ Watery deep to watery deep^&#42;1^ is calling
+At the sound of your (water-) spouts.^&#42;2^
+All your breakers and your waves—
+Over me they have passed.
+
+[NOTE]
+====
+. Or, “Surging waters to surging waters,” M; LXXVg, “Abyss to abyss.”
+. “Your cataracts,” LXXVg.
+====
+
+[[v19-42-8]]
+
+^<<v19-42-8,8>>^ By day Jehovah will command his loving-kindness,^&#42;1^
+And by night his song will be with me;
+There will be prayer to the God of my life.^&#42;2^
+
+[NOTE]
+====
+. Or, “loyal love.”
+. “To the God of my life,” M(Heb., leʼElʹ chai·yaiʹ)TLXXVg; Sy and many Heb. mss, “to the living God.” See vs 2.
+====
+
+[[v19-42-9]]
+
+^<<v19-42-9,9>>^ I will say to God my crag:
+“Why have you forgotten me?
+Why do I walk sad because of the oppression of the enemy?”
+
+[[v19-42-10]]
+
+^<<v19-42-10,10>>^ With murder against my bones those showing hostility to me have reproached me,
+While they say to me all day long: “Where is your God?”
+
+[[v19-42-11]]
+
+^<<v19-42-11,11>>^ Why are you in despair, O my soul,
+And why are you boisterous within me?
+Wait for God,
+For I shall yet laud him as the grand salvation of my person^&#42;1^ and as my God.^&#42;2^
+
+[NOTE]
+====
+. Lit., “my face.” See vs 5 ftn, “Person.”
+. “And as my God.” Heb., wEʼ·lo·haiʹ.
+====
+
+'''
+
+xref:019-psalm/019-psalm-041.adoc#v19-41-0[&#60; Capítulo Anterior] | <<v19-42-0,Topo>> | xref:019-psalm/019-psalm-043.adoc#v19-43-0[Próximo Capítulo &#62;]

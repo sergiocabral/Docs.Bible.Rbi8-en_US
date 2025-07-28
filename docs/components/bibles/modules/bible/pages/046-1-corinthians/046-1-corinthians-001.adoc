@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v46-1-0]]
+=== The First to the Corinthians, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v46-1-1]]
+
+^<<v46-1-1,1>>^ Paul, called to be an apostle of Jesus Christ through God’s will, and Sosʹthe·nes our brother
+
+[[v46-1-2]]
+
+^<<v46-1-2,2>>^ to the congregation of God that is in Corinth, to YOU who have been sanctified in union with Christ Jesus, called to be holy ones, together with all who everywhere are calling upon the name of our Lord, Jesus Christ, their Lord and ours:
+
+[[v46-1-3]]
+
+^<<v46-1-3,3>>^ May YOU have undeserved kindness and peace from God our Father and &#91;the&#93; Lord Jesus Christ.
+
+[[v46-1-4]]
+
+^<<v46-1-4,4>>^ I always thank God for YOU in view of the undeserved kindness of God given to YOU in Christ Jesus;
+
+[[v46-1-5]]
+
+^<<v46-1-5,5>>^ that in everything YOU have been enriched in him, in full ability to speak and in full knowledge,
+
+[[v46-1-6]]
+
+^<<v46-1-6,6>>^ even as the witness^&#42;1^ about the Christ has been rendered firm among YOU,
+
+[NOTE]
+====
+. “Witness.” Gr., mar·tyʹri·on; Lat., te·sti·moʹni·um.
+====
+
+[[v46-1-7]]
+
+^<<v46-1-7,7>>^ so that YOU do not fall short in any gift at all, while YOU are eagerly waiting for the revelation of our Lord Jesus Christ.
+
+[[v46-1-8]]
+
+^<<v46-1-8,8>>^ He will also make YOU firm to the end,^&#42;1^ that YOU may be open to no accusation in the day^&#42;2^ of our Lord Jesus Christ.^&#42;3^
+
+[NOTE]
+====
+. Or, “finish.” Gr., teʹlous.
+. “Day,” אAB; D, “presence”; Vg, “day of the advent.”
+. “Christ,” אACDVgSyh,hi,p; P46B omit.
+====
+
+[[v46-1-9]]
+
+^<<v46-1-9,9>>^ God is faithful, by whom YOU were called into a sharing with his Son Jesus Christ our Lord.
+
+[[v46-1-10]]
+
+^<<v46-1-10,10>>^ Now I exhort YOU, brothers, through the name of our Lord Jesus Christ that YOU should all speak in agreement, and that there should not be divisions^&#42;1^ among YOU, but that YOU may be fitly united in the same mind and in the same line of thought.
+
+[NOTE]
+====
+. Or, “splits.” Gr., skhiʹsma·ta, “schisms”; Lat., sciʹsma·ta.
+====
+
+[[v46-1-11]]
+
+^<<v46-1-11,11>>^ For the disclosure was made to me about YOU, my brothers, by those of &#91;the house of&#93; Chloʹe, that dissensions exist among YOU.
+
+[[v46-1-12]]
+
+^<<v46-1-12,12>>^ What I mean is this, that each one of YOU says: “I belong to Paul,” “But I to A·polʹlos,” “But I to Ceʹphas,” “But I to Christ.”
+
+[[v46-1-13]]
+
+^<<v46-1-13,13>>^ The Christ exists divided. Paul was not impaled^&#42;1^ for YOU, was he? Or were YOU baptized in the name of Paul?
+
+[NOTE]
+====
+. Or, “fastened on a stake (pole).” See App 5C.
+====
+
+[[v46-1-14]]
+
+^<<v46-1-14,14>>^ I am thankful I baptized none of YOU except Crisʹpus and Gaʹius,
+
+[[v46-1-15]]
+
+^<<v46-1-15,15>>^ so that no one may say that YOU were baptized in my name.
+
+[[v46-1-16]]
+
+^<<v46-1-16,16>>^ Yes, I also baptized the household of Stephʹa·nas. As for the rest, I do not know whether I baptized anybody else.
+
+[[v46-1-17]]
+
+^<<v46-1-17,17>>^ For Christ dispatched me, not to go baptizing, but to go declaring the good news, not with wisdom of speech, that the torture stake^&#42;1^ of the Christ should not be made useless.
+
+[NOTE]
+====
+. See App 5C.
+====
+
+[[v46-1-18]]
+
+^<<v46-1-18,18>>^ For the speech about the torture stake is foolishness to those who are perishing, but to us who are being saved it is God’s power.
+
+[[v46-1-19]]
+
+^<<v46-1-19,19>>^ For it is written: “I will make the wisdom of the wise &#91;men&#93; perish, and the intelligence of the intellectual &#91;men&#93; I will shove aside.”
+
+[[v46-1-20]]
+
+^<<v46-1-20,20>>^ Where is the wise man? Where the scribe? Where the debater of this system of things?^&#42;1^ Did not God make the wisdom of the world foolish?
+
+[NOTE]
+====
+. Or, “order of things.” Gr., ai·oʹnos; Lat., saeʹcu·li; J17,​22(Heb.), ha·ʽoh·lamʹ haz·zehʹ, “this order of things.”
+====
+
+[[v46-1-21]]
+
+^<<v46-1-21,21>>^ For since, in the wisdom of God, the world through its wisdom did not get to know God, God saw good through the foolishness of what is preached to save those believing.
+
+[[v46-1-22]]
+
+^<<v46-1-22,22>>^ For both the Jews ask for signs and the Greeks look for wisdom;
+
+[[v46-1-23]]
+
+^<<v46-1-23,23>>^ but we preach Christ impaled, to the Jews a cause for stumbling but to the nations foolishness;
+
+[[v46-1-24]]
+
+^<<v46-1-24,24>>^ however, to those who are the called, both Jews and Greeks, Christ the power of God and the wisdom of God.
+
+[[v46-1-25]]
+
+^<<v46-1-25,25>>^ Because a foolish thing^&#42;1^ of God is wiser than men, and a weak thing^&#42;2^ of God is stronger than men.
+
+[NOTE]
+====
+. Or, “the foolishness.”
+. Or, “the weakness.”
+====
+
+[[v46-1-26]]
+
+^<<v46-1-26,26>>^ For YOU behold his calling of YOU, brothers, that not many wise in a fleshly way were called, not many powerful, not many of noble birth;
+
+[[v46-1-27]]
+
+^<<v46-1-27,27>>^ but God chose the foolish things of the world, that he might put the wise men to shame; and God chose the weak things of the world, that he might put the strong things to shame;
+
+[[v46-1-28]]
+
+^<<v46-1-28,28>>^ and God chose the ignoble things of the world and the things looked down upon, the things that are not, that he might bring to nothing the things that are,
+
+[[v46-1-29]]
+
+^<<v46-1-29,29>>^ in order that no flesh might boast in the sight of God.
+
+[[v46-1-30]]
+
+^<<v46-1-30,30>>^ But it is due to him that YOU are in union with Christ Jesus, who has become to us wisdom from God, also righteousness and sanctification and release by ransom;
+
+[[v46-1-31]]
+
+^<<v46-1-31,31>>^ that it may be just as it is written: “He that boasts, let him boast in Jehovah.”^&#42;1^
+
+[NOTE]
+====
+. See App 1D.
+====
+
+'''
+
+xref:045-romans/045-romans-016.adoc#v45-16-0[&#60; Capítulo Anterior] | <<v46-1-0,Topo>> | xref:046-1-corinthians/046-1-corinthians-002.adoc#v46-2-0[Próximo Capítulo &#62;]

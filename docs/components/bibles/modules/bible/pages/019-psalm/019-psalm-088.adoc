@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v19-88-0]]
+=== Psalms, 88
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A song, a melody of the sons of Koʹrah. To the director over Maʹha·lath^&#42;1^ for making responses. Masʹkil^&#42;2^ of Heʹman the Ezʹra·hite._
+
+[[v19-88-1]]
+
+^<<v19-88-1,1>>^ O Jehovah, the God of my salvation,
+By day I have cried out,
+In the night &#91;also&#93; in front of you.
+
+[[v19-88-2]]
+
+^<<v19-88-2,2>>^ Before you my prayer will come.
+Incline your ear to my entreating cry.
+
+[[v19-88-3]]
+
+^<<v19-88-3,3>>^ For my soul has had enough of calamities,
+And my very life has come in touch even with Sheʹol.^&#42;1^
+
+[NOTE]
+====
+. “With Sheol.” Heb., lish·ʼohlʹ; Gr., haiʹdei; Lat., in·ferʹno. See App 4B.
+====
+
+[[v19-88-4]]
+
+^<<v19-88-4,4>>^ I have been reckoned in among those going down to the pit;
+I have become like an able-bodied man without strength,
+
+[[v19-88-5]]
+
+^<<v19-88-5,5>>^ Set free among the dead themselves,
+Like slain ones lying in the burial place,
+Whom you have remembered no longer
+And who have been severed from your own &#91;helping&#93; hand.
+
+[[v19-88-6]]
+
+^<<v19-88-6,6>>^ You have put me in a pit of the lowest depths,
+In dark places, in a large abyss.^&#42;1^
+
+[NOTE]
+====
+. Lit., “abysses,” pl., likely to denote grandioseness.
+====
+
+[[v19-88-7]]
+
+^<<v19-88-7,7>>^ Upon me your rage has thrown itself,
+And with all your breaking waves you have afflicted &#91;me&#93;. Seʹlah.
+
+[[v19-88-8]]
+
+^<<v19-88-8,8>>^ You have put my acquaintances far away from me;
+You have set me as something very detestable to them.
+I am under restraint and cannot go forth.
+
+[[v19-88-9]]
+
+^<<v19-88-9,9>>^ My own eye has languished because of my affliction.
+I have called on you, O Jehovah, all day long;
+To you I have spread out my palms.
+
+[[v19-88-10]]
+
+^<<v19-88-10,10>>^ For those who are dead will you do a marvel?
+Or will those impotent in death^&#42;1^ themselves arise,
+Will they laud you? Seʹlah.
+
+[NOTE]
+====
+. “Those impotent in death.” Heb., repha·ʼimʹ; T, “bodies dissolved in the dust”; LXXVg, “healers (medical doctors)”; Sy, “mighty ones (giants).” Compare Job 26:5 ftn.
+====
+
+[[v19-88-11]]
+
+^<<v19-88-11,11>>^ Will your loving-kindness be declared in the burial place^&#42;1^ itself,
+Your faithfulness in &#91;the place of&#93; destruction?^&#42;2^
+
+[NOTE]
+====
+. “The grave,” LXX; Vg, “sepulcher.”
+. “In [the place of] destruction.” Heb., ba·ʼavad·dohnʹ; Syr., baʼv·da·naʼ; LXX, “in destruction”; Lat., in per·di·ti·oʹne, “in perdition.” See Job 26:6 ftn.
+====
+
+[[v19-88-12]]
+
+^<<v19-88-12,12>>^ Will a marvel by you be known in the darkness itself,
+Or your righteousness in the land of oblivion?
+
+[[v19-88-13]]
+
+^<<v19-88-13,13>>^ And yet to you, O Jehovah, I myself have cried for help,
+And in the morning my own prayer keeps confronting you.
+
+[[v19-88-14]]
+
+^<<v19-88-14,14>>^ Why is it, O Jehovah, that you cast off my soul?
+Why do you keep your face concealed from me?
+
+[[v19-88-15]]
+
+^<<v19-88-15,15>>^ I am afflicted and about to expire from boyhood on;
+I have borne frightful things from you very much.^&#42;1^
+
+[NOTE]
+====
+. “Very much.” Heb., ʼa·phuʹnah, of uncertain meaning; LXXSyVg, “I am embarrassed (confused).”
+====
+
+[[v19-88-16]]
+
+^<<v19-88-16,16>>^ Over me your flashes of burning anger have passed;
+Terrors from you yourself have brought me to silence.
+
+[[v19-88-17]]
+
+^<<v19-88-17,17>>^ They have surrounded me like waters all day long;
+They have closed in upon me all at one time.
+
+[[v19-88-18]]
+
+^<<v19-88-18,18>>^ You have put far away from me friend and companion;
+My acquaintances are a dark place.
+
+'''
+
+xref:019-psalm/019-psalm-087.adoc#v19-87-0[&#60; Capítulo Anterior] | <<v19-88-0,Topo>> | xref:019-psalm/019-psalm-089.adoc#v19-89-0[Próximo Capítulo &#62;]

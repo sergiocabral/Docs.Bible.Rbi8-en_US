@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v19-46-0]]
+=== Psalms, 46
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. Of the sons of Koʹrah upon The Maidens.^&#42;1^ A song._
+
+[[v19-46-1]]
+
+^<<v19-46-1,1>>^ God^&#42;1^ is for us a refuge and strength,
+A help that is readily to be found during distresses.
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ.
+====
+
+[[v19-46-2]]
+
+^<<v19-46-2,2>>^ That is why we shall not fear, though the earth undergo change
+And though the mountains totter into the heart of the vast sea;
+
+[[v19-46-3]]
+
+^<<v19-46-3,3>>^ Though its waters be boisterous, foam over,
+Though the mountains rock at its uproar. Seʹlah.
+
+[[v19-46-4]]
+
+^<<v19-46-4,4>>^ There is a river the streams of which make the city of God rejoice,
+The holiest grand tabernacle^&#42;1^ of the Most High.
+
+[NOTE]
+====
+. “Grand tabernacle.” Lit., “tabernacles,” pl. to denote grandeur. Compare 42:5 ftn, “Salvation.”
+====
+
+[[v19-46-5]]
+
+^<<v19-46-5,5>>^ God is in the midst of &#91;the city&#93;;^&#42;1^ it will not be made to totter.
+God will help it at the appearance of morning.
+
+[NOTE]
+====
+. Lit., “her,” referring to the city.
+====
+
+[[v19-46-6]]
+
+^<<v19-46-6,6>>^ The nations became boisterous, the kingdoms tottered;
+He sounded^&#42;1^ with his voice, the earth proceeded to melt.
+
+[NOTE]
+====
+. Lit., “gave.”
+====
+
+[[v19-46-7]]
+
+^<<v19-46-7,7>>^ Jehovah^&#42;1^ of armies is with us;
+The God^&#42;2^ of Jacob is a secure height for us. Seʹlah.
+
+[NOTE]
+====
+. See App 1C §10.
+. “The God of.” Heb., ʼElo·hehʹ.
+====
+
+[[v19-46-8]]
+
+^<<v19-46-8,8>>^ Come, YOU people, behold the activities of Jehovah,^&#42;1^
+How he has set astonishing events on the earth.
+
+[NOTE]
+====
+. See App 1C §10.
+====
+
+[[v19-46-9]]
+
+^<<v19-46-9,9>>^ He is making wars to cease to the extremity^&#42;1^ of the earth.
+The bow he breaks apart and does cut the spear in pieces;
+The wagons^&#42;2^ he burns in the fire.
+
+[NOTE]
+====
+. See Jer 25:31, 33 ftns.
+. “Wagons,” MSy; LXXVg, “large shields.”
+====
+
+[[v19-46-10]]
+
+^<<v19-46-10,10>>^ “Give in, YOU people, and know that I am God.
+I will be exalted among the nations,
+I will be exalted in the earth.”
+
+[[v19-46-11]]
+
+^<<v19-46-11,11>>^ Jehovah^&#42;1^ of armies is with us;
+The God of Jacob is a secure height for us. Seʹlah.
+
+[NOTE]
+====
+. See App 1C §10.
+====
+
+'''
+
+xref:019-psalm/019-psalm-045.adoc#v19-45-0[&#60; Capítulo Anterior] | <<v19-46-0,Topo>> | xref:019-psalm/019-psalm-047.adoc#v19-47-0[Próximo Capítulo &#62;]

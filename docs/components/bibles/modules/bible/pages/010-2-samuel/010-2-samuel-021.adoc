@@ -1,0 +1,152 @@
+include::./index.adoc[]
+
+[[v10-21-0]]
+=== The Second of Samuel, 21
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v10-21-1]]
+
+^<<v10-21-1,1>>^ Now there came to be a famine in the days of David for three years, year after year; and David proceeded to consult the face of Jehovah. Then Jehovah said: “Upon Saul and upon his house there is bloodguilt,^&#42;1^ because he put the Gibʹe·on·ites to death.”
+
+[NOTE]
+====
+. Lit., “the bloods.” Heb., had·da·mimʹ.
+====
+
+[[v10-21-2]]
+
+^<<v10-21-2,2>>^ So the king called the Gibʹe·on·ites and talked to them. (Incidentally, the Gibʹe·on·ites were not of the sons of Israel, but of the remainder of the Amʹor·ites; and the sons of Israel themselves had sworn to them, but Saul sought to strike them down in his feeling jealous for the sons of Israel and Judah.)
+
+[[v10-21-3]]
+
+^<<v10-21-3,3>>^ And David went on to say to the Gibʹe·on·ites: “What shall I do to YOU, and with what shall I make atonement,^&#42;1^ that YOU may certainly bless the inheritance of Jehovah?”
+
+[NOTE]
+====
+. Or, “amends.”
+====
+
+[[v10-21-4]]
+
+^<<v10-21-4,4>>^ So the Gibʹe·on·ites said to him: “It is not a matter of silver or gold for us^&#42;1^ in connection with Saul and his household, neither is it ours to put a man to death in Israel.” At that he said: “Whatever YOU are saying I shall do for YOU.”
+
+[NOTE]
+====
+. Lit., “me,” M, in a collective sense; Mmargin, “us.”
+====
+
+[[v10-21-5]]
+
+^<<v10-21-5,5>>^ At this they said to the king: “The man that exterminated us and that schemed to annihilate us from subsisting in any of the territory of Israel,
+
+[[v10-21-6]]
+
+^<<v10-21-6,6>>^ let there be given to us seven men of his sons; and we must expose^&#42;1^ them to Jehovah in Gibʹe·ah of Saul, the chosen one^&#42;2^ of Jehovah.” Accordingly the king said: “I myself shall give them.”
+
+[NOTE]
+====
+. “Expose,” M, that is, with arms and legs broken; LXX, “hang in the sun”; Sy, “sacrifice”; Vg, “crucify.”
+. “The chosen one,” M; LXX, “the ones chosen”; Vg, “the one once chosen.” Probably to be read, “on the mountain.” Compare vs 9.
+====
+
+[[v10-21-7]]
+
+^<<v10-21-7,7>>^ However, the king felt compassion upon Me·phibʹo·sheth the son of Jonʹa·than the son of Saul on account of the oath of Jehovah that was between them, between David and Jonʹa·than the son of Saul.
+
+[[v10-21-8]]
+
+^<<v10-21-8,8>>^ Consequently the king took the two sons of Rizʹpah the daughter of Aʹiah whom she bore to Saul, Ar·moʹni and Me·phibʹo·sheth, and the five sons of Miʹchal^&#42;1^ the daughter of Saul whom she bore to Aʹdri·el the son of Bar·zilʹlai the Me·holʹath·ite.
+
+[NOTE]
+====
+. “Merab,” LXXLSy and two Heb. mss. The Targums read: “The five sons of Merab (which Michal, Saul’s daughter, brought up) which she bare.” Compare 6:23.
+====
+
+[[v10-21-9]]
+
+^<<v10-21-9,9>>^ Then he gave them into the hand of the Gibʹe·on·ites and they proceeded to expose them on the mountain before Jehovah, so that the seven of them fell together; and they themselves were put to death in the first days of harvest, at the start of the barley harvest.
+
+[[v10-21-10]]
+
+^<<v10-21-10,10>>^ However, Rizʹpah the daughter of Aʹiah took sackcloth and spread it for herself upon the rock from the start of harvest until water poured down upon them from the heavens; and she did not allow the fowls of the heavens to rest upon them by day nor the wild beasts of the field by night.
+
+[[v10-21-11]]
+
+^<<v10-21-11,11>>^ At length it was reported to David what Rizʹpah the daughter of Aʹiah, Saul’s concubine, had done.
+
+[[v10-21-12]]
+
+^<<v10-21-12,12>>^ So David went and took the bones of Saul and the bones of Jonʹa·than his son from the landowners of Jaʹbesh-gilʹe·ad, who had stolen them from the public square of Beth-shan, where the Phi·lisʹtines had hanged them on the day that the Phi·lisʹtines struck down Saul on Gil·boʹa.
+
+[[v10-21-13]]
+
+^<<v10-21-13,13>>^ And he proceeded to bring up from there the bones of Saul and the bones of Jonʹa·than his son; furthermore, they gathered the bones of the men being exposed.
+
+[[v10-21-14]]
+
+^<<v10-21-14,14>>^ Then they buried the bones of Saul and of Jonʹa·than his son^&#42;1^ in the land of Benjamin in Zeʹla^&#42;2^ in the burial place of Kish his father, that they might do everything that the king had commanded. So God let himself be entreated for the land after this.
+
+[NOTE]
+====
+. LXX adds, “and of those hanged in the sun.”
+. Or, “Zelah.”
+====
+
+[[v10-21-15]]
+
+^<<v10-21-15,15>>^ And the Phi·lisʹtines came to have war again with Israel. Accordingly David and his servants with him went down and fought the Phi·lisʹtines; and David grew tired.
+
+[[v10-21-16]]
+
+^<<v10-21-16,16>>^ And Ishʹbi-beʹnob, who was among those born of the Rephʹa·im,^&#42;1^ the weight of whose spear was three hundred shekels^&#42;2^ of copper and who was girded with a new sword,^&#42;3^ got to think of striking David down.
+
+[NOTE]
+====
+. Lit., “the Raphah.” Heb., ha·Ra·phahʹ. The father’s name here is taken to stand for the entire race of giants.
+. About 3.42 kg (7.5 lb).
+. “A new sword,” MVg; Gr., ko·ryʹnen, “a club,” frequently shod with iron for fighting.
+====
+
+[[v10-21-17]]
+
+^<<v10-21-17,17>>^ At once A·bishʹai the son of Ze·ruʹiah came to his help and struck the Phi·lisʹtine down and put him to death. At that time the men of David swore to him, saying: “You must not go out with us to the battle anymore, that you may not extinguish the lamp of Israel!”
+
+[[v10-21-18]]
+
+^<<v10-21-18,18>>^ And it came about after this that war arose once more with the Phi·lisʹtines at Gob.^&#42;1^ Then it was that Sibʹbe·cai the Huʹshath·ite struck down Saph, who was among those born of the Rephʹa·im.
+
+[NOTE]
+====
+. “Gezer” in 1Ch 20:4.
+====
+
+[[v10-21-19]]
+
+^<<v10-21-19,19>>^ And war arose once again with the Phi·lisʹtines at Gob, and El·haʹnan the son of Jaʹa·re-orʹe·gim the Bethʹle·hem·ite got to strike down Go·liʹath^&#42;1^ the Gitʹtite,^&#42;2^ the shaft of whose spear was like the beam of loom workers.
+
+[NOTE]
+====
+. “The son of Jaare-oregim the Bethlehemite got to strike down Goliath,” M; in 1Ch 20:5, “the son of Jair got to strike down Lahmi the brother of Goliath.”
+. Or, “Goliath the man of Gath.”
+====
+
+[[v10-21-20]]
+
+^<<v10-21-20,20>>^ And war arose yet again at Gath, when there happened to be a man of extraordinary size, with six fingers on each of his hands and six toes on each of his feet, twenty-four in number; and he too had been born to the Rephʹa·im.
+
+[[v10-21-21]]
+
+^<<v10-21-21,21>>^ And he kept taunting Israel. Finally Jonʹa·than the son of Shimʹe·i,^&#42;1^ David’s brother, struck him down.
+
+[NOTE]
+====
+. “Shimea” in 1Ch 20:7; in 1Sa 16:9, “Shammah.”
+====
+
+[[v10-21-22]]
+
+^<<v10-21-22,22>>^ These four had been born to the Rephʹa·im in Gath; and they came to fall by the hand of David and by the hand of his servants.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-020.adoc#v10-20-0[&#60; Capítulo Anterior] | <<v10-21-0,Topo>> | xref:010-2-samuel/010-2-samuel-022.adoc#v10-22-0[Próximo Capítulo &#62;]

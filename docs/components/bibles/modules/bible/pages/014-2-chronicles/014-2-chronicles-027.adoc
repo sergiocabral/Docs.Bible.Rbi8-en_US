@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v14-27-0]]
+=== The Second of Chronicles, 27
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v14-27-1]]
+
+^<<v14-27-1,1>>^ Twenty-five years old was Joʹtham when he began to reign, and for sixteen years he reigned in Jerusalem. And his mother’s name was Je·ruʹshah the daughter of Zaʹdok.
+
+[[v14-27-2]]
+
+^<<v14-27-2,2>>^ And he kept doing what was right in Jehovah’s eyes, according to all that Uz·ziʹah^&#42;1^ his father had done. Only he did not invade the temple of Jehovah. However, the people were yet acting ruinously.
+
+[NOTE]
+====
+. See 26:1 ftn.
+====
+
+[[v14-27-3]]
+
+^<<v14-27-3,3>>^ He himself built the upper gate of Jehovah’s house, and on the wall of Oʹphel he did a great deal of building.
+
+[[v14-27-4]]
+
+^<<v14-27-4,4>>^ And cities he built in the mountainous region of Judah, and in the woodlands he built fortified places and towers.
+
+[[v14-27-5]]
+
+^<<v14-27-5,5>>^ And he himself warred against the king of the sons of Amʹmon and eventually proved stronger than they were, so that the sons of Amʹmon gave him in that year a hundred silver talents^&#42;1^ and ten thousand cor^&#42;2^ measures of wheat and ten thousand of barley. This was what the sons of Amʹmon paid to him, also in the second year and the third.
+
+[NOTE]
+====
+. See App 8A.
+. A cor equaled 220 L (200 dry qt).
+====
+
+[[v14-27-6]]
+
+^<<v14-27-6,6>>^ So Joʹtham kept strengthening himself, for he prepared his ways before Jehovah his God.
+
+[[v14-27-7]]
+
+^<<v14-27-7,7>>^ As for the rest of the affairs of Joʹtham and all his wars and his ways, there they are written in the Book of the Kings of Israel and of Judah.
+
+[[v14-27-8]]
+
+^<<v14-27-8,8>>^ Twenty-five years old he happened to be when he began to reign, and for sixteen years he reigned in Jerusalem.
+
+[[v14-27-9]]
+
+^<<v14-27-9,9>>^ Finally Joʹtham lay down with his forefathers, and they buried him in the City of David. And Aʹhaz his son began to reign in place of him.
+
+'''
+
+xref:014-2-chronicles/014-2-chronicles-026.adoc#v14-26-0[&#60; Capítulo Anterior] | <<v14-27-0,Topo>> | xref:014-2-chronicles/014-2-chronicles-028.adoc#v14-28-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v20-9-0]]
+=== Proverbs, 9
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-9-1]]
+
+^<<v20-9-1,1>>^ True wisdom has built its house; it has hewn out its seven pillars.
+
+[[v20-9-2]]
+
+^<<v20-9-2,2>>^ It has organized its meat slaughtering;^&#42;1^ it has mixed its wine; more than that, it has set in order its table.
+
+[NOTE]
+====
+. Lit., “She slaughtered her slaughtering.”
+====
+
+[[v20-9-3]]
+
+^<<v20-9-3,3>>^ It has sent forth its lady attendants, that it may call out on top of the heights of the town:
+
+[[v20-9-4]]
+
+^<<v20-9-4,4>>^ “Whoever is inexperienced, let him turn aside here.” Whoever is in want of heart^&#42;1^—she has said to him:
+
+[NOTE]
+====
+. Or, “Whoever is lacking good motive.” Heb., chasar-levʹ.
+====
+
+[[v20-9-5]]
+
+^<<v20-9-5,5>>^ “Come, feed yourselves with my bread and share in drinking the wine that I have mixed.
+
+[[v20-9-6]]
+
+^<<v20-9-6,6>>^ Leave the inexperienced ones and keep living, and walk straight in the way of understanding.”
+
+[[v20-9-7]]
+
+^<<v20-9-7,7>>^ He that is correcting the ridiculer is taking to himself dishonor, and he that is giving a reproof to someone wicked—a defect in him.
+
+[[v20-9-8]]
+
+^<<v20-9-8,8>>^ Do not reprove a ridiculer, that he may not hate you. Give a reproof to a wise person and he will love you.
+
+[[v20-9-9]]
+
+^<<v20-9-9,9>>^ Give to a wise person and he will become still wiser. Impart knowledge to someone righteous and he will increase in learning.
+
+[[v20-9-10]]
+
+^<<v20-9-10,10>>^ The fear of Jehovah is the start of wisdom, and the knowledge of the Most Holy One^&#42;1^ is what understanding is.
+
+[NOTE]
+====
+. “Most Holy One.” Lit., “the holy ones.” Heb., Qedho·shimʹ, pl. of qa·dhohshʹ, to denote excellence and referring to “Jehovah.” See GK, § 124 h.
+====
+
+[[v20-9-11]]
+
+^<<v20-9-11,11>>^ For by me your days will become many, and to you years of life will be added.
+
+[[v20-9-12]]
+
+^<<v20-9-12,12>>^ If you have become wise, you have become wise in your own behalf; and if you have ridiculed, you will bear &#91;it&#93;, just you alone.
+
+[[v20-9-13]]
+
+^<<v20-9-13,13>>^ A woman of stupidity is boisterous. She is simplemindedness itself and has come to know nothing whatever.
+
+[[v20-9-14]]
+
+^<<v20-9-14,14>>^ And she has seated herself at the entrance of her house, upon a seat, &#91;in&#93; the high places of the town,
+
+[[v20-9-15]]
+
+^<<v20-9-15,15>>^ to call out to those passing along the way, those who are going straight ahead on their paths:
+
+[[v20-9-16]]
+
+^<<v20-9-16,16>>^ “Whoever is inexperienced, let him turn aside here.” And whoever is in want of heart^&#42;1^—she has also said to him:
+
+[NOTE]
+====
+. Or, “And whoever is lacking good motive.” Heb., wa·chasar-levʹ.
+====
+
+[[v20-9-17]]
+
+^<<v20-9-17,17>>^ “Stolen waters themselves are sweet, and bread &#91;eaten&#93; in secrecy—it is pleasant.”
+
+[[v20-9-18]]
+
+^<<v20-9-18,18>>^ But he has not come to know that those impotent in death^&#42;1^ are there, that those called in by her are in the low places of Sheʹol.^&#42;2^
+
+[NOTE]
+====
+. “Those impotent in death.” Heb., repha·ʼimʹ; TSyVg(Lat., gi·ganʹtes), “the gi­ants”; LXX, “the earthborn ones.” Compare 2:18 ftn.
+. “Sheol.” Heb., sheʼohlʹ; Gr., haiʹdou; Lat., in·ferʹni.
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-008.adoc#v20-8-0[&#60; Capítulo Anterior] | <<v20-9-0,Topo>> | xref:020-proverbs/020-proverbs-010.adoc#v20-10-0[Próximo Capítulo &#62;]

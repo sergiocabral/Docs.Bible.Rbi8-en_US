@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-24-0]]
+=== Psalms, 24
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David. A melody._
+
+[[v19-24-1]]
+
+^<<v19-24-1,1>>^ To Jehovah belong the earth and that which fills it,
+The productive land^&#42;1^ and those dwelling in it.
+
+[NOTE]
+====
+. “The inhabited earth,” Gr., he oi·kou·meʹne; Lat., orʹbis ter·raʹrum, “circle of the whole earth.”
+====
+
+[[v19-24-2]]
+
+^<<v19-24-2,2>>^ For upon the seas he himself has solidly fixed it,
+And upon the rivers^&#42;1^ he keeps it firmly established.
+
+[NOTE]
+====
+. Or, “the oceans,” which encircle the great landmasses of the globe.
+====
+
+[[v19-24-3]]
+
+^<<v19-24-3,3>>^ Who may ascend into the mountain of Jehovah,
+And who may rise up in his holy place?
+
+[[v19-24-4]]
+
+^<<v19-24-4,4>>^ Anyone innocent in his hands and clean in heart,
+Who has not carried My^&#42;1^ soul^&#42;2^ to sheer worthlessness,
+Nor taken an oath deceitfully.
+
+[NOTE]
+====
+. “My,” M; TLXXSyVg and many Heb. mss, “His.”
+. Or, “My life,” referring to Jehovah’s life by which an individual swears. Compare Ex 20:7 ftns.
+====
+
+[[v19-24-5]]
+
+^<<v19-24-5,5>>^ He will carry away blessing from Jehovah
+And righteousness from his God of salvation.
+
+[[v19-24-6]]
+
+^<<v19-24-6,6>>^ This is the generation of those seeking him,
+Of those searching for your face, O &#91;God of&#93; Jacob.^&#42;1^ Seʹlah.
+
+[NOTE]
+====
+. “God of Jacob,” LXXSyVg; M, “O Jacob.”
+====
+
+[[v19-24-7]]
+
+^<<v19-24-7,7>>^ Raise YOUR heads, O YOU gates,
+And raise yourselves up, O YOU long-lasting^&#42;1^ entrances,
+That the glorious King may come in!
+
+[NOTE]
+====
+. Or, “indefinitely lasting.” Heb., ʽoh·lamʹ.
+====
+
+[[v19-24-8]]
+
+^<<v19-24-8,8>>^ Who, then, is this glorious King?
+Jehovah strong and mighty,
+Jehovah mighty in battle.^&#42;1^
+
+[NOTE]
+====
+. Or, “war.”
+====
+
+[[v19-24-9]]
+
+^<<v19-24-9,9>>^ Raise YOUR heads, O YOU gates;
+Yes, raise &#91;them&#93; up, O YOU long-lasting entrances,
+That the glorious King may come in!
+
+[[v19-24-10]]
+
+^<<v19-24-10,10>>^ Who, then, is he, this glorious King?
+Jehovah of armies^&#42;1^—he is the glorious King. Seʹlah.
+
+[NOTE]
+====
+. See 1Sa 1:3 ftn, “Armies.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-023.adoc#v19-23-0[&#60; Capítulo Anterior] | <<v19-24-0,Topo>> | xref:019-psalm/019-psalm-025.adoc#v19-25-0[Próximo Capítulo &#62;]

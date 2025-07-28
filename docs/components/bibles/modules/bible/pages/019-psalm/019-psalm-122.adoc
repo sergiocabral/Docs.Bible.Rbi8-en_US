@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v19-122-0]]
+=== Psalms, 122
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents. Of David._
+
+[[v19-122-1]]
+
+^<<v19-122-1,1>>^ I rejoiced when they were saying to me:
+“To the house of Jehovah let us go.”
+
+[[v19-122-2]]
+
+^<<v19-122-2,2>>^ Our feet proved to be standing
+Within your gates, O Jerusalem.
+
+[[v19-122-3]]
+
+^<<v19-122-3,3>>^ Jerusalem is one that is built like a city
+That has been joined together in oneness,
+
+[[v19-122-4]]
+
+^<<v19-122-4,4>>^ To which the tribes have gone up,
+The tribes of Jah,^&#42;1^
+As a reminder to Israel
+To give thanks to the name of Jehovah.
+
+[NOTE]
+====
+. “Jah.” See 68:4 ftn.
+====
+
+[[v19-122-5]]
+
+^<<v19-122-5,5>>^ For there the thrones^&#42;1^ for judgment have been sitting,
+Thrones for the house of David.
+
+[NOTE]
+====
+. Or, “the grand throne,” if pl. to denote excellence.
+====
+
+[[v19-122-6]]
+
+^<<v19-122-6,6>>^ Ask, O YOU people, for the peace of Jerusalem.
+Those loving you,^&#42;1^ &#91;O city,&#93; will be free from care.
+
+[NOTE]
+====
+. “You,” fem. sing., referring to “Jerusalem.”
+====
+
+[[v19-122-7]]
+
+^<<v19-122-7,7>>^ May peace continue within your rampart,
+Freedom from care within your dwelling towers.
+
+[[v19-122-8]]
+
+^<<v19-122-8,8>>^ For the sake of my brothers and my companions I will now speak:
+“May there be peace within you.”
+
+[[v19-122-9]]
+
+^<<v19-122-9,9>>^ For the sake of the house of Jehovah our God
+I will keep seeking good for you.^&#42;1^
+
+[NOTE]
+====
+. See vs 6 ftn.
+====
+
+'''
+
+xref:019-psalm/019-psalm-121.adoc#v19-121-0[&#60; Capítulo Anterior] | <<v19-122-0,Topo>> | xref:019-psalm/019-psalm-123.adoc#v19-123-0[Próximo Capítulo &#62;]

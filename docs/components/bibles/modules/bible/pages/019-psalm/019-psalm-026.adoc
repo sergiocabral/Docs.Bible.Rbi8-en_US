@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-26-0]]
+=== Psalms, 26
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David._
+
+[[v19-26-1]]
+
+^<<v19-26-1,1>>^ Judge me, O Jehovah, for I myself have walked in my own integrity,
+And in Jehovah I have trusted, that I may not wobble.
+
+[[v19-26-2]]
+
+^<<v19-26-2,2>>^ Examine me, O Jehovah, and put me to the test;
+Refine my kidneys^&#42;1^ and my heart.
+
+[NOTE]
+====
+. Or, “my deepest emotions.” Heb., khil·yoh·thaiʹ.
+====
+
+[[v19-26-3]]
+
+^<<v19-26-3,3>>^ For your loving-kindness is in front of my eyes,
+And I have walked in your truth.
+
+[[v19-26-4]]
+
+^<<v19-26-4,4>>^ I have not sat with men of untruth;
+And with those who hide what they are I do not come in.
+
+[[v19-26-5]]
+
+^<<v19-26-5,5>>^ I have hated the congregation^&#42;1^ of evildoers,
+And with the wicked ones I do not sit.
+
+[NOTE]
+====
+. “Congregation of.” Heb., qehalʹ; Gr., ek·kle·siʹan; Lat., ec·cleʹsi·am.
+====
+
+[[v19-26-6]]
+
+^<<v19-26-6,6>>^ I shall wash my hands in innocency itself,
+And I will march around your altar, O Jehovah,
+
+[[v19-26-7]]
+
+^<<v19-26-7,7>>^ To cause thanksgiving to be heard aloud,^&#42;1^
+And to declare all your wonderful works.
+
+[NOTE]
+====
+. Lit., “with a voice.”
+====
+
+[[v19-26-8]]
+
+^<<v19-26-8,8>>^ Jehovah, I have loved the dwelling of your house
+And the place of the residing of your glory.
+
+[[v19-26-9]]
+
+^<<v19-26-9,9>>^ Do not take away^&#42;1^ my soul along with sinners,
+Nor my life along with bloodguilty men,
+
+[NOTE]
+====
+. Lit., “Do not gather.”
+====
+
+[[v19-26-10]]
+
+^<<v19-26-10,10>>^ In whose hands there is loose conduct,
+And whose right hand is full of bribery.
+
+[[v19-26-11]]
+
+^<<v19-26-11,11>>^ As for me, in my integrity I shall walk.
+O redeem me and show me favor.
+
+[[v19-26-12]]
+
+^<<v19-26-12,12>>^ My own foot will certainly stand on a level place;
+Among the congregated throngs^&#42;1^ I shall bless Jehovah.^&#42;2^
+
+[NOTE]
+====
+. “Among the congregated throngs.” Heb., bemaq·he·limʹ; Gr., ek·kle·siʹais; Lat., ec·cleʹsi·is.
+. “Bless Jehovah,” MTSy; LXXVg, “bless you, O Jehovah.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-025.adoc#v19-25-0[&#60; Capítulo Anterior] | <<v19-26-0,Topo>> | xref:019-psalm/019-psalm-027.adoc#v19-27-0[Próximo Capítulo &#62;]

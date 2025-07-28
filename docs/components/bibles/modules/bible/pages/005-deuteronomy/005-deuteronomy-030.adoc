@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v5-30-0]]
+=== Deuteronomy, 30
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-30-1]]
+
+^<<v5-30-1,1>>^ “And it must occur that when all these words will come upon you, the blessing and the malediction, which I have put before you, and you have brought them back to your heart^&#42;1^ among all the nations where Jehovah your God has dispersed you,
+
+[NOTE]
+====
+. Or, “you have recalled them to your heart.”
+====
+
+[[v5-30-2]]
+
+^<<v5-30-2,2>>^ and you have returned to Jehovah your God and listened to his voice according to all that I am commanding you today, you and your sons, with all your heart and all your soul,
+
+[[v5-30-3]]
+
+^<<v5-30-3,3>>^ Jehovah your God must also bring back your captives^&#42;1^ and show you mercy and collect you again from all the peoples where Jehovah your God has scattered you.
+
+[NOTE]
+====
+. Or, “captivity,” that is, a body of captives.
+====
+
+[[v5-30-4]]
+
+^<<v5-30-4,4>>^ If your dispersed people should be at the end of the heavens, from there Jehovah your God will collect you and from there he will take you.
+
+[[v5-30-5]]
+
+^<<v5-30-5,5>>^ Jehovah your God will indeed bring you into the land of which your fathers took possession, and you will certainly take possession of it; and he will indeed do you good and multiply you more than your fathers.
+
+[[v5-30-6]]
+
+^<<v5-30-6,6>>^ And Jehovah your God will have to circumcise your heart and the heart of your offspring, that you may love Jehovah your God with all your heart and all your soul for the sake of your life.
+
+[[v5-30-7]]
+
+^<<v5-30-7,7>>^ And Jehovah your God will certainly put all these oaths upon your enemies and those who hate you, who have persecuted you.
+
+[[v5-30-8]]
+
+^<<v5-30-8,8>>^ “As for you, you will turn and certainly listen to the voice of Jehovah and do all his commandments that I am commanding you today.
+
+[[v5-30-9]]
+
+^<<v5-30-9,9>>^ And Jehovah your God will indeed make you have more than enough in every work of your hand, in the fruit of your belly and the fruit of your domestic animals and the fruitage of your soil, resulting in prosperity; because Jehovah^&#42;1^ will again exult over you for good, just as he exulted over your forefathers;
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-30-10]]
+
+^<<v5-30-10,10>>^ for you will listen to the voice of Jehovah your God so as to keep his commandments and his statutes written in this book of the law, because you will return to Jehovah your God with all your heart and all your soul.
+
+[[v5-30-11]]
+
+^<<v5-30-11,11>>^ “For this commandment that I am commanding you today is not too difficult for you, nor is it far away.
+
+[[v5-30-12]]
+
+^<<v5-30-12,12>>^ It is not in the heavens, so as to result in saying, ‘Who will ascend for us into the heavens and get it for us, that he may let us hear it that we may do it?’
+
+[[v5-30-13]]
+
+^<<v5-30-13,13>>^ Neither is it on the other side of the sea, so as to result in saying, ‘Who will pass over for us to the other side of the sea and get it for us, that he may let us hear it that we may do it?’
+
+[[v5-30-14]]
+
+^<<v5-30-14,14>>^ For the word is very near you, in your own mouth and in your own heart, that you may do it.
+
+[[v5-30-15]]
+
+^<<v5-30-15,15>>^ “See, I do put before you today life and good, and death and bad.
+
+[[v5-30-16]]
+
+^<<v5-30-16,16>>^ &#91;If you will listen to the commandments of Jehovah your God,&#93;^&#42;1^ which I am commanding you today, so as to love Jehovah your God, to walk in his ways and to keep his commandments and his statutes and his judicial decisions, then you will be bound to keep alive and to multiply, and Jehovah your God must bless you in the land to which you are going to take possession of it.
+
+[NOTE]
+====
+. “If you will listen to the commandments of Jehovah your God,” LXX; MSamSyVg omit.
+====
+
+[[v5-30-17]]
+
+^<<v5-30-17,17>>^ “But if your heart turns away and you do not listen, and you are actually seduced and bow down to other gods and serve them,
+
+[[v5-30-18]]
+
+^<<v5-30-18,18>>^ I do tell YOU today that YOU will positively perish. YOU will not lengthen YOUR days on the ground to which you are crossing the Jordan to go to take possession of it.
+
+[[v5-30-19]]
+
+^<<v5-30-19,19>>^ I do take the heavens and the earth as witnesses against YOU today, that I have put life and death before you, the blessing and the malediction; and you must choose life in order that you may keep alive, you and your offspring,
+
+[[v5-30-20]]
+
+^<<v5-30-20,20>>^ by loving Jehovah^&#42;1^ your God, by listening to his voice and by sticking to him; for he is your life and the length of your days, that you may dwell upon the ground that Jehovah swore to your forefathers Abraham, Isaac and Jacob to give to them.”
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-029.adoc#v5-29-0[&#60; Capítulo Anterior] | <<v5-30-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-031.adoc#v5-31-0[Próximo Capítulo &#62;]

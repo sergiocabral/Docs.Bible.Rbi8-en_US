@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v9-21-0]]
+=== The First of Samuel, 21
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-21-1]]
+
+^<<v9-21-1,1>>^ Later David came into Nob to A·himʹe·lech the priest; and A·himʹe·lech began to tremble at meeting David and then said to him: “Why is it you are by yourself, and no one is with you?”
+
+[[v9-21-2]]
+
+^<<v9-21-2,2>>^ At this David said to A·himʹe·lech the priest: “The king himself commanded me as to a matter, and he went on to say to me, ‘Let no one know anything at all of the matter concerning which I am sending you and concerning which I have commanded you.’ And I have made an appointment with the young men^&#42;1^ for such and such a place.
+
+[NOTE]
+====
+. “Young men,” that is, of his escort.
+====
+
+[[v9-21-3]]
+
+^<<v9-21-3,3>>^ And now, if there are five loaves of bread at your disposal, just give them into my hand, or^&#42;1^ whatever may be found.”
+
+[NOTE]
+====
+. “If there are five loaves of bread under your hand, give into my hand,” LXX; MSy, “what is there under your hand? Just give five loaves of bread into my hand.”
+====
+
+[[v9-21-4]]
+
+^<<v9-21-4,4>>^ But the priest answered David and said: “There is no ordinary bread under my hand, but there is holy bread; provided that the young men have at least kept themselves from womankind.”
+
+[[v9-21-5]]
+
+^<<v9-21-5,5>>^ So David answered the priest and said to him: “But womankind has been kept away from us the same as formerly when I went out,^&#42;1^ and the organisms^&#42;2^ of the young men continue holy, although the mission itself is ordinary. And how much more so today, when one becomes holy in &#91;his&#93; organism?”
+
+[NOTE]
+====
+. That is, on a military expedition.
+. Or, “vessels.”
+====
+
+[[v9-21-6]]
+
+^<<v9-21-6,6>>^ At that the priest gave him what was holy, because there happened to be no bread there but the showbread^&#42;1^ that had been removed from before Jehovah so as to place fresh^&#42;2^ bread there on the day of its being taken away.
+
+[NOTE]
+====
+. Or, “bread of Presence,” M; Vg, “bread of presentation.”
+. Lit., “hot,” that is, freshly baked.
+====
+
+[[v9-21-7]]
+
+^<<v9-21-7,7>>^ Now one of Saul’s servants was there on that day, detained before Jehovah, and his name was Doʹeg the Eʹdom·ite, the principal one of the shepherds^&#42;1^ that belonged to Saul.
+
+[NOTE]
+====
+. “The mightiest one of the runners,” by a change of one letter in M.
+====
+
+[[v9-21-8]]
+
+^<<v9-21-8,8>>^ And David went on to say to A·himʹe·lech: “And is there nothing here at your disposal, a spear or a sword? For neither my own sword nor my weapons did I take in my hand, because the king’s matter proved to be urgent.”
+
+[[v9-21-9]]
+
+^<<v9-21-9,9>>^ To this the priest said: “The sword of Go·liʹath the Phi·lisʹtine, whom you struck down in the low plain of Eʹlah—here it is, wrapped up in a mantle, behind the ephʹod. If it is what you would take for yourself, take it, because there is no other here except it.” And David went on to say: “There is none like it. Give it to me.”
+
+[[v9-21-10]]
+
+^<<v9-21-10,10>>^ Then David rose up and continued running away on account of Saul on that day, and at length came to Aʹchish the king of Gath.
+
+[[v9-21-11]]
+
+^<<v9-21-11,11>>^ And the servants of Aʹchish began to say to him: “Is not this David the king of the land? Was it not to this one that they kept responding with^&#42;1^ dances, saying,
+‘Saul has struck down his thousands,
+And David his tens of thousands’?”^&#42;2^
+
+[NOTE]
+====
+. Lit., “in the.”
+. Or, “his myriads.”
+====
+
+[[v9-21-12]]
+
+^<<v9-21-12,12>>^ And David began to take these words to his heart, and he became very much afraid on account of Aʹchish the king of Gath.
+
+[[v9-21-13]]
+
+^<<v9-21-13,13>>^ So he disguised his sanity under their eyes and began acting insane in their hand and kept making cross marks^&#42;1^ on the doors of the gate^&#42;2^ and let his saliva run down upon his beard.
+
+[NOTE]
+====
+. “And kept drumming,” LXX.
+. Or, “city,” as represented by the gate. LXX, “city.”
+====
+
+[[v9-21-14]]
+
+^<<v9-21-14,14>>^ Finally Aʹchish said to his servants: “Here YOU see a man behaving crazy. Why should YOU bring him to me?
+
+[[v9-21-15]]
+
+^<<v9-21-15,15>>^ Am I in need of people driven crazy, so that YOU have brought this one to behave crazy by me? Should this one come into my home?”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-020.adoc#v9-20-0[&#60; Capítulo Anterior] | <<v9-21-0,Topo>> | xref:009-1-samuel/009-1-samuel-022.adoc#v9-22-0[Próximo Capítulo &#62;]

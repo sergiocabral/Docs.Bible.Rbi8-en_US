@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v20-21-0]]
+=== Proverbs, 21
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-21-1]]
+
+^<<v20-21-1,1>>^ A king’s heart is as streams of water in the hand of Jehovah. Everywhere that he delights to, he turns it.
+
+[[v20-21-2]]
+
+^<<v20-21-2,2>>^ Every way of a man is upright in his own eyes, but Jehovah is making an estimate of hearts.
+
+[[v20-21-3]]
+
+^<<v20-21-3,3>>^ To carry on righteousness and judgment is more preferable to Jehovah than sacrifice.
+
+[[v20-21-4]]
+
+^<<v20-21-4,4>>^ Haughty eyes and an arrogant heart, the lamp of the wicked ones, are sin.^&#42;1^
+
+[NOTE]
+====
+. Or, “are [more preferable to them than] a sin offering.”
+====
+
+[[v20-21-5]]
+
+^<<v20-21-5,5>>^ The plans of the diligent one surely make for advantage, but everyone that is hasty surely heads for want.
+
+[[v20-21-6]]
+
+^<<v20-21-6,6>>^ The getting of treasures by a false tongue is an exhalation driven away, in the case of those seeking death.
+
+[[v20-21-7]]
+
+^<<v20-21-7,7>>^ The very despoiling by the wicked ones will drag them away, for they have refused to do justice.
+
+[[v20-21-8]]
+
+^<<v20-21-8,8>>^ A man, even a stranger, is crooked in &#91;his&#93; way;^&#42;1^ but the pure one is upright in his activity.
+
+[NOTE]
+====
+. Or, “The way of a man, even a stranger, is crooked”; or, “The way of a man is crooked and strange.”
+====
+
+[[v20-21-9]]
+
+^<<v20-21-9,9>>^ Better is it to dwell upon a corner of a roof than with a contentious wife, although in a house in common.
+
+[[v20-21-10]]
+
+^<<v20-21-10,10>>^ The very soul of the wicked one has craved what is bad; his fellow will be shown no favor in his eyes.
+
+[[v20-21-11]]
+
+^<<v20-21-11,11>>^ By the laying of a fine on the ridiculer the inexperienced becomes wise; and by one’s giving insight to a wise person he gets knowledge.^&#42;1^
+
+[NOTE]
+====
+. “And by acting with discretion the wise one gets knowledge,” T.
+====
+
+[[v20-21-12]]
+
+^<<v20-21-12,12>>^ The Righteous One is giving consideration to the house^&#42;1^ of the wicked one, subverting the wicked ones to &#91;their&#93; calamity.
+
+[NOTE]
+====
+. Or, “is acting discreetly toward the house.”
+====
+
+[[v20-21-13]]
+
+^<<v20-21-13,13>>^ As for anyone stopping up his ear from the complaining cry of the lowly one, he himself also will call and not be answered.
+
+[[v20-21-14]]
+
+^<<v20-21-14,14>>^ A gift made in secrecy subdues anger; and a bribe in the bosom, strong rage.
+
+[[v20-21-15]]
+
+^<<v20-21-15,15>>^ It is a rejoicing for the righteous one to do justice, but there is something terrible for those practicing what is hurtful.
+
+[[v20-21-16]]
+
+^<<v20-21-16,16>>^ As for a man^&#42;1^ wandering from the way of insight, he will rest in the very congregation of those impotent in death.^&#42;2^
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+. “Those impotent in death.” Heb., repha·ʼimʹ; TSy, “the sons of earth”; LXXVg, “giants.”
+====
+
+[[v20-21-17]]
+
+^<<v20-21-17,17>>^ He that is loving merriment will be an individual in want; he that is loving wine and oil will not gain riches.
+
+[[v20-21-18]]
+
+^<<v20-21-18,18>>^ The wicked is a ransom for the righteous one; and the one dealing treacherously takes the place of the upright ones.
+
+[[v20-21-19]]
+
+^<<v20-21-19,19>>^ Better is it to dwell in a wilderness land than with a contentious wife along with vexation.
+
+[[v20-21-20]]
+
+^<<v20-21-20,20>>^ Desirable treasure and oil are in the abode of the wise one, but the man that is stupid will swallow it up.
+
+[[v20-21-21]]
+
+^<<v20-21-21,21>>^ He that is pursuing righteousness and loving-kindness will find life, righteousness and glory.
+
+[[v20-21-22]]
+
+^<<v20-21-22,22>>^ A wise one has scaled even the city of mighty men, that he might bring down the strength of its confidence.
+
+[[v20-21-23]]
+
+^<<v20-21-23,23>>^ He that is keeping his mouth and his tongue is keeping his soul from distresses.
+
+[[v20-21-24]]
+
+^<<v20-21-24,24>>^ Presumptuous, self-assuming braggart is the name of the one who is acting in a fury of presumptuousness.
+
+[[v20-21-25]]
+
+^<<v20-21-25,25>>^ The very craving of the lazy will put him to death, for his hands have refused to work.
+
+[[v20-21-26]]
+
+^<<v20-21-26,26>>^ All the day he has shown himself eagerly craving, but the righteous one gives and holds nothing back.
+
+[[v20-21-27]]
+
+^<<v20-21-27,27>>^ The sacrifice of the wicked ones is something detestable. How much more so when one brings it along with loose conduct.
+
+[[v20-21-28]]
+
+^<<v20-21-28,28>>^ A lying witness will perish, but the man that is listening will speak even forever.
+
+[[v20-21-29]]
+
+^<<v20-21-29,29>>^ A wicked man has put on a bold face, but the upright is the one that will firmly establish his ways.
+
+[[v20-21-30]]
+
+^<<v20-21-30,30>>^ There is no wisdom, nor any discernment, nor any counsel in opposition to Jehovah.
+
+[[v20-21-31]]
+
+^<<v20-21-31,31>>^ The horse is something prepared for the day of battle, but salvation belongs to Jehovah.
+
+'''
+
+xref:020-proverbs/020-proverbs-020.adoc#v20-20-0[&#60; Capítulo Anterior] | <<v20-21-0,Topo>> | xref:020-proverbs/020-proverbs-022.adoc#v20-22-0[Próximo Capítulo &#62;]

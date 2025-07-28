@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v21-9-0]]
+=== Ecclesiastes, 9
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v21-9-1]]
+
+^<<v21-9-1,1>>^ For I took all this to my heart, even to search out all this, that the righteous ones and the wise ones and their works are in the hand of the &#91;true&#93; God. Mankind are not aware of either the love or the hate that were all prior to them.
+
+[[v21-9-2]]
+
+^<<v21-9-2,2>>^ All are the same in what all have. One eventuality there is to the righteous one and the wicked one, the good one and the clean one and the unclean one, and the one sacrificing and the one that is not sacrificing. The good one is the same as the sinner; the one swearing is the same as whoever has been afraid of a sworn oath.
+
+[[v21-9-3]]
+
+^<<v21-9-3,3>>^ This is what is calamitous in all that has been done under the sun, that, because there is one eventuality to all, the heart of the sons of men is also full of bad; and there is madness in their heart during their lifetime, and after it—to the dead ones!
+
+[[v21-9-4]]
+
+^<<v21-9-4,4>>^ For as respects whoever is joined^&#42;1^ to all the living there exists confidence, because a live dog is better off than a dead lion.
+
+[NOTE]
+====
+. “Is joined,” MmarginLXXSy and many Heb. mss.
+====
+
+[[v21-9-5]]
+
+^<<v21-9-5,5>>^ For the living are conscious that they will die;^&#42;1^ but as for the dead, they are conscious of nothing at all,^&#42;2^ neither do they anymore have wages, because the remembrance of them has been forgotten.
+
+[NOTE]
+====
+. Lit., “For the living ones are knowing that they will die.” Heb., ki ha·chai·yimʹ yoh·dheʽimʹ shey·ya·muʹthu.
+. Lit., “and the dead ones, they are not knowing anything.” Heb., weham·me·thimʹ ʼeh·namʹ yoh·dheʽimʹ meʼuʹmah.
+====
+
+[[v21-9-6]]
+
+^<<v21-9-6,6>>^ Also, their love and their hate and their jealousy have already perished, and they have no portion anymore to time indefinite in anything that has to be done under the sun.
+
+[[v21-9-7]]
+
+^<<v21-9-7,7>>^ Go, eat your food^&#42;1^ with rejoicing and drink your wine with a good heart, because already the &#91;true&#93; God has found pleasure in your works.
+
+[NOTE]
+====
+. Lit., “your bread.” Heb., lach·meʹkha.
+====
+
+[[v21-9-8]]
+
+^<<v21-9-8,8>>^ On every occasion let your garments prove to be white, and let oil not be lacking upon your head.
+
+[[v21-9-9]]
+
+^<<v21-9-9,9>>^ See life with the wife whom you love all the days of your vain life that He has given you under the sun, all the days of your vanity, for that is your portion in life and in your hard work with which you are working hard under the sun.
+
+[[v21-9-10]]
+
+^<<v21-9-10,10>>^ All that your hand finds to do, do with your very power, for there is no work nor devising nor knowledge nor wisdom in Sheʹol,^&#42;1^ the place to which you are going.
+
+[NOTE]
+====
+. “In Sheol.” Heb., bish·ʼohlʹ; T, “the house of the grave”; Gr., haiʹdei; Lat., inʹfe·ros. See App 4B.
+====
+
+[[v21-9-11]]
+
+^<<v21-9-11,11>>^ I returned to see^&#42;1^ under the sun that the swift do not have the race, nor the mighty ones the battle, nor do the wise also have the food,^&#42;2^ nor do the understanding ones also have the riches, nor do even those having knowledge have the favor; because time and unforeseen occurrence befall them all.^&#42;3^
+
+[NOTE]
+====
+. “To see.” In Heb. this verb is in the infinitive absolute, indefinite as to time and impersonal.
+. Lit., “bread.” Heb., leʹchem.
+. Or, “time and unpredictable occurrence happen to them all.”
+====
+
+[[v21-9-12]]
+
+^<<v21-9-12,12>>^ For man also does not know his time. Just like fishes that are being taken in an evil net, and like birds that are being taken in a trap, so the sons of men themselves are being ensnared at a calamitous time, when it falls upon them suddenly.
+
+[[v21-9-13]]
+
+^<<v21-9-13,13>>^ Also this I saw as respects wisdom under the sun—and it^&#42;1^ was great to me:
+
+[NOTE]
+====
+. “It,” fem., evidently referring to “wisdom.” The adjective “great” is also fem.
+====
+
+[[v21-9-14]]
+
+^<<v21-9-14,14>>^ There was a little city, and the men^&#42;1^ in it were few; and there came to it a great king, and he surrounded it and built against it great strongholds.
+
+[NOTE]
+====
+. Lit., “and men.” Heb., wa·ʼana·shimʹ, pl. of ʼish.
+====
+
+[[v21-9-15]]
+
+^<<v21-9-15,15>>^ And there was found in it a man,^&#42;1^ needy &#91;but&#93;^&#42;2^ wise, and that one provided escape for the city by his wisdom. But no man remembered that needy man.
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+. “But,” TVg and many Heb. mss.
+====
+
+[[v21-9-16]]
+
+^<<v21-9-16,16>>^ And I myself said: “Wisdom is better than mightiness; yet the wisdom of the needy one is despised, and his words are not listened to.”
+
+[[v21-9-17]]
+
+^<<v21-9-17,17>>^ The words of the wise ones in quietness are more to be heard than the cry of one ruling among stupid people.
+
+[[v21-9-18]]
+
+^<<v21-9-18,18>>^ Wisdom is better than implements for fighting, and merely one sinner can destroy much good.
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-008.adoc#v21-8-0[&#60; Capítulo Anterior] | <<v21-9-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-010.adoc#v21-10-0[Próximo Capítulo &#62;]

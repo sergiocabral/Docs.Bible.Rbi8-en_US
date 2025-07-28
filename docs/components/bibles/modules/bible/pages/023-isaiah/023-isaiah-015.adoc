@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v23-15-0]]
+=== Isaiah, 15
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-15-1]]
+
+^<<v23-15-1,1>>^ The pronouncement against Moʹab: Because in the night it has been despoiled, Ar of Moʹab itself has been silenced. Because in the night it has been despoiled, Kir of Moʹab itself has been silenced.
+
+[[v23-15-2]]
+
+^<<v23-15-2,2>>^ He has gone up to The House and to Diʹbon,^&#42;1^ to the high places, to a weeping. Over Neʹbo and over Medʹe·ba Moʹab itself howls. On all heads in it there is baldness; every beard is clipped.
+
+[NOTE]
+====
+. According to 1QIsaM; T, “to the houses of Dibon”; Sy, “to the house of Ribon”; Vg, “The House and Dibon.”
+====
+
+[[v23-15-3]]
+
+^<<v23-15-3,3>>^ In its streets they have girded on sackcloth. Upon the roofs thereof^&#42;1^ and in the public squares thereof everyone thereof howls, going down with weeping.
+
+[NOTE]
+====
+. Lit., “of her.”
+====
+
+[[v23-15-4]]
+
+^<<v23-15-4,4>>^ And Heshʹbon and E·le·aʹleh cry out. As far as Jaʹhaz their voice has been heard. That is why the armed men of Moʹab themselves keep shouting. His very soul has quivered within him.
+
+[[v23-15-5]]
+
+^<<v23-15-5,5>>^ My own heart cries out over Moʹab himself. The runaways thereof are as far along as Zoʹar &#91;and&#93; Egʹlath-she·liʹshi·yah. For on the ascent of Luʹhith—with weeping &#91;each&#93; one goes up on it; for on the way to Hor·o·naʹim they arouse the outcry about the catastrophe.
+
+[[v23-15-6]]
+
+^<<v23-15-6,6>>^ For the very waters of Nimʹrim become sheer desolations. For the green grass has dried up, the grass has come to an end; nothing has become green.
+
+[[v23-15-7]]
+
+^<<v23-15-7,7>>^ That is why the leftovers and their stored goods that they have put up, they keep carrying them away right over the torrent valley of the poplars.
+
+[[v23-15-8]]
+
+^<<v23-15-8,8>>^ For the outcry has gone around the territory of Moʹab. The howling thereof is clear to Eg·laʹim; the howling thereof is clear to Beʹer-eʹlim,
+
+[[v23-15-9]]
+
+^<<v23-15-9,9>>^ because the very waters of Diʹmon have become full of blood. For upon Diʹmon I shall place additional things, such as a lion for the escapees of Moʹab who escape and for the remaining ones of the ground.
+
+'''
+
+xref:023-isaiah/023-isaiah-014.adoc#v23-14-0[&#60; Capítulo Anterior] | <<v23-15-0,Topo>> | xref:023-isaiah/023-isaiah-016.adoc#v23-16-0[Próximo Capítulo &#62;]

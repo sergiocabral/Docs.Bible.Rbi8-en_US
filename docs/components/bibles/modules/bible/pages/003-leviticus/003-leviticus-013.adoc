@@ -1,0 +1,270 @@
+include::./index.adoc[]
+
+[[v3-13-0]]
+=== Leviticus, 13
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-13-1]]
+
+^<<v3-13-1,1>>^ And Jehovah proceeded to speak to Moses and Aaron, saying:
+
+[[v3-13-2]]
+
+^<<v3-13-2,2>>^ “In case a man develops in the skin of his flesh an eruption or a scab or a blotch and it does develop in the skin of his flesh into the plague of leprosy,^&#42;1^ he must then be brought to Aaron the priest or to one of his sons the priests.
+
+[NOTE]
+====
+. The Biblical term for “leprosy” includes what is today medically called Hansen’s disease.
+====
+
+[[v3-13-3]]
+
+^<<v3-13-3,3>>^ And the priest must look at the plague in the skin of the flesh. When the hair in the plague has turned white and the appearance of the plague is deeper than the skin of his flesh, it is the plague of leprosy. And the priest must look at it, and he must declare him unclean.
+
+[[v3-13-4]]
+
+^<<v3-13-4,4>>^ But if the blotch is white in the skin of his flesh and its appearance is not deeper than the skin and its hair has not turned white, the priest must then quarantine the plague seven days.
+
+[[v3-13-5]]
+
+^<<v3-13-5,5>>^ And the priest must look at him on the seventh day, and if in the way it looks the plague has stopped, the plague has not spread in the skin, the priest must also quarantine him another seven days.
+
+[[v3-13-6]]
+
+^<<v3-13-6,6>>^ “And the priest must look at him on the seventh day the second time, and if the plague has grown dull and the plague has not spread in the skin, the priest must also pronounce him clean. It was a scab. And he must wash his garments and be clean.
+
+[[v3-13-7]]
+
+^<<v3-13-7,7>>^ But if the scab has unquestionably spread in the skin after his appearing before the priest for the establishment of his purification, he must then appear the second time before the priest,
+
+[[v3-13-8]]
+
+^<<v3-13-8,8>>^ and the priest must take a look; and if the scab has spread in the skin, the priest must then declare him unclean. It is leprosy.
+
+[[v3-13-9]]
+
+^<<v3-13-9,9>>^ “In case the plague of leprosy develops in a man, he must then be brought to the priest.
+
+[[v3-13-10]]
+
+^<<v3-13-10,10>>^ And the priest must take a look; and if there is a white eruption in the skin and it has turned the hair white and the raw of the living flesh is in the eruption,
+
+[[v3-13-11]]
+
+^<<v3-13-11,11>>^ it is chronic leprosy in the skin of his flesh; and the priest must declare him unclean. He should not quarantine him, for he is unclean.
+
+[[v3-13-12]]
+
+^<<v3-13-12,12>>^ Now if the leprosy unquestionably breaks out in the skin, and the leprosy does cover all the skin of the one with the plague from his head to his feet to the full sight of the priest’s eyes;
+
+[[v3-13-13]]
+
+^<<v3-13-13,13>>^ and the priest has looked and there the leprosy has covered all his flesh, he must then pronounce the plague clean.^&#42;1^ All of it has turned white. He is clean.
+
+[NOTE]
+====
+. Or, “not contagious.”
+====
+
+[[v3-13-14]]
+
+^<<v3-13-14,14>>^ But on the day the living flesh appears in it, he will be unclean.
+
+[[v3-13-15]]
+
+^<<v3-13-15,15>>^ And the priest must see the living flesh, and he must declare him unclean. The living flesh is unclean. It is leprosy.
+
+[[v3-13-16]]
+
+^<<v3-13-16,16>>^ Or in case the living flesh goes back and it does change to white, he must then come to the priest.
+
+[[v3-13-17]]
+
+^<<v3-13-17,17>>^ And the priest must look at him, and if the plague has been changed to white, the priest must then pronounce the plague clean. He is clean.
+
+[[v3-13-18]]
+
+^<<v3-13-18,18>>^ “As for the flesh, in case a boil develops in its skin and it does get healed,
+
+[[v3-13-19]]
+
+^<<v3-13-19,19>>^ and in the place of the boil a white eruption has developed or a reddish-white blotch, he must then show himself to the priest.
+
+[[v3-13-20]]
+
+^<<v3-13-20,20>>^ And the priest must look, and if its appearance is lower than the skin and its hair has turned white, the priest must then declare him unclean. It is the plague of leprosy. It has broken out in the boil.
+
+[[v3-13-21]]
+
+^<<v3-13-21,21>>^ But if the priest looks at it, and, there now, there is no white hair in it and it is not deeper than the skin and it is dull, the priest must then quarantine him seven days.
+
+[[v3-13-22]]
+
+^<<v3-13-22,22>>^ And if it unmistakably spreads in the skin, the priest must then declare him unclean. It is a plague.
+
+[[v3-13-23]]
+
+^<<v3-13-23,23>>^ But if in its place the blotch should stand, it has not spread, it is the inflammation of the boil; and the priest must pronounce him clean.
+
+[[v3-13-24]]
+
+^<<v3-13-24,24>>^ “Or in case there comes to be a scar in the skin of the flesh from the fire, and the raw flesh of the scar does become a reddish-white blotch or a white one,
+
+[[v3-13-25]]
+
+^<<v3-13-25,25>>^ the priest must then look at it; and if the hair has been changed white in the blotch and its appearance is deeper than the skin, it is leprosy. It has broken out in the scar, and the priest must declare him unclean. It is the plague of leprosy.
+
+[[v3-13-26]]
+
+^<<v3-13-26,26>>^ But if the priest looks at it, and, there now, there is no white hair in the blotch and it is not lower than the skin and it is dull, the priest must then quarantine him seven days.
+
+[[v3-13-27]]
+
+^<<v3-13-27,27>>^ And the priest must look at him on the seventh day. If it unmistakably spreads in the skin, the priest must then declare him unclean. It is the plague of leprosy.
+
+[[v3-13-28]]
+
+^<<v3-13-28,28>>^ But if the blotch stands in its place, it has not spread in the skin and it is dull, it is an eruption of the scar; and the priest must pronounce him clean, because it is an inflammation of the scar.
+
+[[v3-13-29]]
+
+^<<v3-13-29,29>>^ “As for a man or a woman, in case a plague develops in such one on the head or on the chin,
+
+[[v3-13-30]]
+
+^<<v3-13-30,30>>^ the priest must then see the plague; and if its appearance is deeper than the skin, and the hair is yellow and scarce in it, the priest must then declare such one unclean. It is an abnormal falling off of hair. It is leprosy of the head or of the chin.
+
+[[v3-13-31]]
+
+^<<v3-13-31,31>>^ But in case the priest sees the plague of abnormal falling off of hair, and, look! its appearance is not deeper than the skin and there is no black hair in it, the priest must then quarantine the plague of abnormal falling off of hair seven days.
+
+[[v3-13-32]]
+
+^<<v3-13-32,32>>^ And the priest must look at the plague on the seventh day; and if the abnormal falling off of hair has not spread, and no yellow hair has developed in it and the appearance of the abnormal falling off of hair is not deeper than the skin,
+
+[[v3-13-33]]
+
+^<<v3-13-33,33>>^ he must then have himself shaved, but he will not have the abnormal falling off of hair shaved; and the priest must quarantine the abnormal falling off of hair seven days again.
+
+[[v3-13-34]]
+
+^<<v3-13-34,34>>^ “And the priest must look at the abnormal falling off of hair on the seventh day; and if the abnormal falling off of hair has not spread in the skin, and its appearance is not deeper than the skin, the priest must then pronounce him clean, and he must wash his garments and be clean.
+
+[[v3-13-35]]
+
+^<<v3-13-35,35>>^ But if the abnormal falling off of hair unmistakably spreads in the skin after the establishment of his purification,
+
+[[v3-13-36]]
+
+^<<v3-13-36,36>>^ the priest must then see him; and if the abnormal falling off of hair has spread in the skin, the priest need not make examination for yellow hair; he is unclean.
+
+[[v3-13-37]]
+
+^<<v3-13-37,37>>^ But if in its look the abnormal falling off of hair has stood and black hair has grown in it, the abnormal falling off of hair has been healed. He is clean, and the priest must pronounce him clean.
+
+[[v3-13-38]]
+
+^<<v3-13-38,38>>^ “As for a man or a woman, in case blotches develop in the skin of their flesh, white blotches,
+
+[[v3-13-39]]
+
+^<<v3-13-39,39>>^ the priest must then take a look; and if the blotches in the skin of their flesh are dull white, it is a harmless eruption. It has broken out in the skin. He is clean.
+
+[[v3-13-40]]
+
+^<<v3-13-40,40>>^ “As for a man, in case his head grows bald, it is baldness. He is clean.
+
+[[v3-13-41]]
+
+^<<v3-13-41,41>>^ And if his head grows bald up in front,^&#42;1^ it is forehead baldness. He is clean.
+
+[NOTE]
+====
+. Lit., “bald from the extremity of his face.”
+====
+
+[[v3-13-42]]
+
+^<<v3-13-42,42>>^ But in case a reddish-white plague develops in the baldness of the crown or of the forehead, it is leprosy breaking out in the baldness of his crown or of his forehead.
+
+[[v3-13-43]]
+
+^<<v3-13-43,43>>^ And the priest must look at him; and if there is an eruption of the reddish-white plague in the baldness of his crown or of his forehead like the appearance of leprosy in the skin of the flesh,
+
+[[v3-13-44]]
+
+^<<v3-13-44,44>>^ he is a leper.^&#42;1^ He is unclean. Unclean is what the priest should declare him. His plague is on his head.
+
+[NOTE]
+====
+. Lit., “leprous man.”
+====
+
+[[v3-13-45]]
+
+^<<v3-13-45,45>>^ As for the leprous one in whom the plague is, his garments should be torn, and his head should become ungroomed, and he should cover over the mustache^&#42;1^ and call out, ‘Unclean, unclean!’
+
+[NOTE]
+====
+. Or, “upper lip.”
+====
+
+[[v3-13-46]]
+
+^<<v3-13-46,46>>^ All the days that the plague is in him he will be unclean. He is unclean. He should dwell isolated. Outside the camp is his dwelling place.
+
+[[v3-13-47]]
+
+^<<v3-13-47,47>>^ “As for a garment, in case the plague of leprosy develops in it, whether in a woolen garment or in a linen garment,
+
+[[v3-13-48]]
+
+^<<v3-13-48,48>>^ or in the warp or in the woof of the linen and of the wool, or in a skin or in anything made of skin,
+
+[[v3-13-49]]
+
+^<<v3-13-49,49>>^ and the yellowish-green or reddish plague does develop in the garment or in the skin or in the warp or in the woof or in any article of skin, it is the plague of leprosy, and it must be shown to the priest.
+
+[[v3-13-50]]
+
+^<<v3-13-50,50>>^ And the priest must see the plague, and he must quarantine the plague seven days.
+
+[[v3-13-51]]
+
+^<<v3-13-51,51>>^ When he has seen the plague on the seventh day, that the plague has spread in the garment or in the warp or in the woof or in the skin for any use for which the skin may be made, the plague is malignant leprosy. It is unclean.
+
+[[v3-13-52]]
+
+^<<v3-13-52,52>>^ And he must burn the garment or the warp or the woof in the wool or in the linen, or any article of skin in which the plague may develop, because it is malignant leprosy. It should be burned in the fire.
+
+[[v3-13-53]]
+
+^<<v3-13-53,53>>^ “But if the priest takes a look, and, there now, the plague has not spread in the garment or in the warp or in the woof or in any article of skin,
+
+[[v3-13-54]]
+
+^<<v3-13-54,54>>^ the priest must also command that they should wash that in which the plague is, and he must quarantine it a second seven days.
+
+[[v3-13-55]]
+
+^<<v3-13-55,55>>^ And the priest must look at the plague after it has been washed out, and if the plague has not changed its look and yet the plague has not spread, it is unclean. You should burn it in the fire. It is a low spot in a threadbare patch on either its underside or its outside.
+
+[[v3-13-56]]
+
+^<<v3-13-56,56>>^ “But if the priest has taken a look, and, there now, the plague is dull after it has been washed out, he must then tear it out of the garment or the skin or the warp or the woof.
+
+[[v3-13-57]]
+
+^<<v3-13-57,57>>^ However, if it still appears in the garment or in the warp or in the woof or in any article of skin, it is breaking out. You should burn in the fire whatever it is in which the plague is.
+
+[[v3-13-58]]
+
+^<<v3-13-58,58>>^ As for the garment or the warp or the woof or any article of skin that you may wash, when the plague has disappeared from them, it must then be washed a second time; and it must be clean.
+
+[[v3-13-59]]
+
+^<<v3-13-59,59>>^ “This is the law of the plague of leprosy in a garment of wool or of linen, or in the warp or in the woof, or in any article of skin, in order to pronounce it clean or to declare it unclean.”
+
+'''
+
+xref:003-leviticus/003-leviticus-012.adoc#v3-12-0[&#60; Capítulo Anterior] | <<v3-13-0,Topo>> | xref:003-leviticus/003-leviticus-014.adoc#v3-14-0[Próximo Capítulo &#62;]

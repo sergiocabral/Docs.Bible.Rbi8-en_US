@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v6-4-0]]
+=== Joshua, 4
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v6-4-1]]
+
+^<<v6-4-1,1>>^ And it came about that as soon as the whole nation had completed passing over the Jordan, Jehovah proceeded to say to Joshua:
+
+[[v6-4-2]]
+
+^<<v6-4-2,2>>^ “Take for yourselves twelve men from the people, one man from each tribe,
+
+[[v6-4-3]]
+
+^<<v6-4-3,3>>^ and command them, saying, ‘Take up for yourselves from the very middle of the Jordan, from the place where the priests’ feet stood motionless, twelve stones, and YOU must carry them over with YOU and deposit them in the lodging place in which you will lodge tonight.’”
+
+[[v6-4-4]]
+
+^<<v6-4-4,4>>^ So Joshua called twelve men whom he had appointed from the sons of Israel, one man from each tribe;
+
+[[v6-4-5]]
+
+^<<v6-4-5,5>>^ and Joshua went on to say to them: “Pass ahead of the ark of Jehovah YOUR God to the middle of the Jordan, and lift up for yourselves each one a stone upon his shoulder, according to the number of the tribes of the sons of Israel,
+
+[[v6-4-6]]
+
+^<<v6-4-6,6>>^ in order that this may serve as a sign in YOUR midst. In case YOUR sons should ask in time to come, saying, ‘Why do you have these stones?’
+
+[[v6-4-7]]
+
+^<<v6-4-7,7>>^ YOU must also say to them, ‘Because the waters of the Jordan were cut off from before the ark of Jehovah’s covenant. When it passed through the Jordan the waters of the Jordan were cut off, and these stones must serve as a memorial to the sons of Israel to time indefinite.’”
+
+[[v6-4-8]]
+
+^<<v6-4-8,8>>^ Accordingly the sons of Israel did so, just as Joshua had commanded, and they took up twelve stones from the middle of the Jordan, just as Jehovah had stated to Joshua, to correspond with the number of the tribes of the sons of Israel; and they went taking them over with them to the lodging place and depositing them there.
+
+[[v6-4-9]]
+
+^<<v6-4-9,9>>^ There were also twelve stones that Joshua set up in the middle of the Jordan on the standing place of the feet of the priests carrying the ark of the covenant, and they continue there until this day.
+
+[[v6-4-10]]
+
+^<<v6-4-10,10>>^ And the priests carrying the Ark were standing in the middle of the Jordan until the whole matter had been completed that Jehovah had commanded Joshua to speak to the people, according to all that Moses had commanded Joshua. All the while the people hurried up and passed over.
+
+[[v6-4-11]]
+
+^<<v6-4-11,11>>^ And it came about that as soon as all the people had completed passing over, then the ark of Jehovah passed over, and the priests, before the people.
+
+[[v6-4-12]]
+
+^<<v6-4-12,12>>^ And the sons of Reuʹben and the sons of Gad and the half tribe of Ma·nasʹseh proceeded to pass over in battle formation in the sight of the sons of Israel, just as Moses had stated to them.
+
+[[v6-4-13]]
+
+^<<v6-4-13,13>>^ About forty thousand equipped for the army passed over before Jehovah for the war onto the desert plains of Jerʹi·cho.
+
+[[v6-4-14]]
+
+^<<v6-4-14,14>>^ On that day Jehovah made Joshua great in the eyes of all Israel, and they began to fear him just as they had feared Moses all the days of his life.
+
+[[v6-4-15]]
+
+^<<v6-4-15,15>>^ Then Jehovah said to Joshua:
+
+[[v6-4-16]]
+
+^<<v6-4-16,16>>^ “Command the priests carrying the ark of the testimony that they go up out of the Jordan.”
+
+[[v6-4-17]]
+
+^<<v6-4-17,17>>^ So Joshua commanded the priests, saying: “Go up out of the Jordan.”
+
+[[v6-4-18]]
+
+^<<v6-4-18,18>>^ And it came about that when the priests carrying the ark of the covenant of Jehovah came up out of the middle of the Jordan and the soles of the feet of the priests were drawn out onto the dry ground, then the waters of the Jordan began returning to their place and went overflowing all its banks as formerly.
+
+[[v6-4-19]]
+
+^<<v6-4-19,19>>^ And the people came up out of the Jordan on the tenth of the first month and took up camping at Gilʹgal on the eastern border of Jerʹi·cho.
+
+[[v6-4-20]]
+
+^<<v6-4-20,20>>^ As for the twelve stones that they had taken out of the Jordan, Joshua set these up at Gilʹgal.
+
+[[v6-4-21]]
+
+^<<v6-4-21,21>>^ And he went on to say to the sons of Israel: “When YOUR sons ask their fathers in time to come, saying, ‘What do these stones mean?’
+
+[[v6-4-22]]
+
+^<<v6-4-22,22>>^ YOU must then let YOUR sons know, saying, ‘On the dry land it was that Israel passed over this Jordan,
+
+[[v6-4-23]]
+
+^<<v6-4-23,23>>^ when Jehovah YOUR God dried up the waters of the Jordan from before them^&#42;1^ until they^&#42;2^ had passed over, just as Jehovah YOUR God had done to the Red Sea when he dried it up from before us until we had passed over;
+
+[NOTE]
+====
+. “Them,” LXXSy; MVg, “you.”
+. “They,” LXXSy; MVg, “you.”
+====
+
+[[v6-4-24]]
+
+^<<v6-4-24,24>>^ in order that all the peoples of the earth may know Jehovah’s hand, that it is strong; in order that YOU may indeed fear Jehovah YOUR God always.’”
+
+'''
+
+xref:006-joshua/006-joshua-003.adoc#v6-3-0[&#60; Capítulo Anterior] | <<v6-4-0,Topo>> | xref:006-joshua/006-joshua-005.adoc#v6-5-0[Próximo Capítulo &#62;]

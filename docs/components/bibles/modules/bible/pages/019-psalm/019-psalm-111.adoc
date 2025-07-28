@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v19-111-0]]
+=== Psalms, 111
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-111-1]]
+
+^<<v19-111-1,1>>^ ^&#42;1^ Praise Jah, YOU people!^&#42;2^
+
+[NOTE]
+====
+. This psalm is arranged in acrostic, or Heb. alphabetic, order.
+. See 104:35 ftns.
+====
+
+_א &#91;ʼAʹleph&#93;_
+
+I shall laud Jehovah with all &#91;my&#93; heart
+
+[NOTE]
+====
+. This psalm is arranged in acrostic, or Heb. alphabetic, order.
+. See 104:35 ftns.
+====
+
+_ב &#91;Behth&#93;_
+
+In the intimate group of upright ones and the assembly.
+
+[NOTE]
+====
+. This psalm is arranged in acrostic, or Heb. alphabetic, order.
+. See 104:35 ftns.
+====
+
+_ג &#91;Giʹmel&#93;_
+
+[[v19-111-2]]
+
+^<<v19-111-2,2>>^ The works of Jehovah are great,
+
+_ד &#91;Daʹleth&#93;_
+
+Searched for on the part of all those delighting in them.
+
+_ה &#91;Heʼ&#93;_
+
+[[v19-111-3]]
+
+^<<v19-111-3,3>>^ His activity is dignity and splendor themselves,
+
+_ו &#91;Waw&#93;_
+
+And his righteousness is standing forever.
+
+_ז &#91;Zaʹyin&#93;_
+
+[[v19-111-4]]
+
+^<<v19-111-4,4>>^ A memorial he has made for his wonderful works.
+
+_ח &#91;Chehth&#93;_
+
+Jehovah is gracious and merciful.
+
+_ט &#91;Tehth&#93;_
+
+[[v19-111-5]]
+
+^<<v19-111-5,5>>^ Food he has given to those fearing him.
+
+_י &#91;Yohdh&#93;_
+
+To time indefinite he will remember his covenant.
+
+_כ &#91;Kaph&#93;_
+
+[[v19-111-6]]
+
+^<<v19-111-6,6>>^ The power of his works he has told to his people,
+
+_ל &#91;Laʹmedh&#93;_
+
+In giving them the inheritance of the nations.
+
+_מ &#91;Mem&#93;_
+
+[[v19-111-7]]
+
+^<<v19-111-7,7>>^ The works of his hands are truth and judgment;
+
+_נ &#91;Nun&#93;_
+
+Trustworthy are all the orders he gives,
+
+_ס &#91;Saʹmekh&#93;_
+
+[[v19-111-8]]
+
+^<<v19-111-8,8>>^ Well supported forever, to time indefinite,
+
+_ע &#91;ʽAʹyin&#93;_
+
+Done in truth and uprightness.
+
+_פ &#91;Peʼ&#93;_
+
+[[v19-111-9]]
+
+^<<v19-111-9,9>>^ He has sent redemption itself to his people.
+
+_צ &#91;Tsa·dhehʹ&#93;_
+
+To time indefinite he has commanded his covenant.
+
+_ק &#91;Qohph&#93;_
+
+His name is holy and fear-inspiring.
+
+_ר &#91;Rehsh&#93;_
+
+[[v19-111-10]]
+
+^<<v19-111-10,10>>^ The fear of Jehovah is the beginning of wisdom.
+
+_ש &#91;Sin&#93;_
+
+All those doing them have a good insight.
+
+_ת &#91;Taw&#93;_
+
+His praise is standing forever.
+
+'''
+
+xref:019-psalm/019-psalm-110.adoc#v19-110-0[&#60; Capítulo Anterior] | <<v19-111-0,Topo>> | xref:019-psalm/019-psalm-112.adoc#v19-112-0[Próximo Capítulo &#62;]

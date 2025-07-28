@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v19-128-0]]
+=== Psalms, 128
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents._
+
+[[v19-128-1]]
+
+^<<v19-128-1,1>>^ Happy is everyone fearing Jehovah,
+Who is walking in his ways.
+
+[[v19-128-2]]
+
+^<<v19-128-2,2>>^ For you will eat the toil of your own hands.
+Happy you will be and it will be well with you.
+
+[[v19-128-3]]
+
+^<<v19-128-3,3>>^ Your wife will be like a fruit-bearing vine
+In the innermost parts of your house.
+Your sons will be like slips of olive trees all around your table.
+
+[[v19-128-4]]
+
+^<<v19-128-4,4>>^ Look! That is how the able-bodied man will be blessed
+Who fears Jehovah.
+
+[[v19-128-5]]
+
+^<<v19-128-5,5>>^ Jehovah will bless you out of Zion.
+See also^&#42;1^ the good of Jerusalem all the days of your life,
+
+[NOTE]
+====
+. Or, “So see.”
+====
+
+[[v19-128-6]]
+
+^<<v19-128-6,6>>^ And see the sons of your sons.
+May there be peace upon Israel.
+
+'''
+
+xref:019-psalm/019-psalm-127.adoc#v19-127-0[&#60; Capítulo Anterior] | <<v19-128-0,Topo>> | xref:019-psalm/019-psalm-129.adoc#v19-129-0[Próximo Capítulo &#62;]

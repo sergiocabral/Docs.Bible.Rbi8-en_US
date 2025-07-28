@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v5-13-0]]
+=== Deuteronomy, 13
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-13-1]]
+
+^<<v5-13-1,1>>^ “In case a prophet or a dreamer of a dream arises in your midst and does give you a sign or a portent,
+
+[[v5-13-2]]
+
+^<<v5-13-2,2>>^ and the sign or the portent does come true of which he spoke to you, saying, ‘Let us walk after other gods, whom you have not known, and let us serve them,’
+
+[[v5-13-3]]
+
+^<<v5-13-3,3>>^ you must not listen to the words of that prophet or to the dreamer of that dream, because Jehovah YOUR God is testing YOU to know whether YOU are loving Jehovah YOUR God with all YOUR heart and all YOUR soul.
+
+[[v5-13-4]]
+
+^<<v5-13-4,4>>^ After Jehovah YOUR God YOU should walk, and him YOU should fear, and his commandments YOU should keep, and to his voice YOU should listen, and him YOU should serve, and to him YOU should cling.
+
+[[v5-13-5]]
+
+^<<v5-13-5,5>>^ And that prophet or that dreamer of the dream should be put to death, because he has spoken of revolt against Jehovah YOUR God, who has brought YOU out of the land of Egypt and has redeemed you from the house of slaves, to turn you from the way in which Jehovah your God has commanded you to walk; and you must clear out what is evil from your midst.
+
+[[v5-13-6]]
+
+^<<v5-13-6,6>>^ “In case your brother, the son of your mother, or your son or your daughter or your cherished wife^&#42;1^ or your companion who is like your own soul, should try to allure you in secrecy, saying, ‘Let us go and serve other gods,’ whom you have not known, neither you nor your forefathers,
+
+[NOTE]
+====
+. Lit., “or the wife of your bosom.”
+====
+
+[[v5-13-7]]
+
+^<<v5-13-7,7>>^ some of the gods of the peoples who are all around YOU, the ones near you or those far away from you, from one end of the land to the other end of the land,
+
+[[v5-13-8]]
+
+^<<v5-13-8,8>>^ you must not accede to his wish or listen to him, nor should your eye feel sorry for him, nor must you feel compassion, nor cover him &#91;protectively&#93;;
+
+[[v5-13-9]]
+
+^<<v5-13-9,9>>^ but you should kill him without fail. Your hand first of all should come upon him to put him to death, and the hand of all the people afterward.
+
+[[v5-13-10]]
+
+^<<v5-13-10,10>>^ And you must stone him with stones, and he must die, because he has sought to turn you away from Jehovah your God, who has brought you out of the land of Egypt, out of the house of slaves.
+
+[[v5-13-11]]
+
+^<<v5-13-11,11>>^ Then all Israel will hear and become afraid, and they will not do anything like this bad thing again in your midst.
+
+[[v5-13-12]]
+
+^<<v5-13-12,12>>^ “In case you hear it said in one of your cities, which Jehovah your God is giving you to dwell there,
+
+[[v5-13-13]]
+
+^<<v5-13-13,13>>^ ‘Good-for-nothing men^&#42;1^ have gone out from your midst that they may try to turn away the inhabitants of their city, saying: “Let us go and serve other gods,” whom you have not known,’
+
+[NOTE]
+====
+. Lit., “Men, sons of belial (worthlessness).”
+====
+
+[[v5-13-14]]
+
+^<<v5-13-14,14>>^ you must also search and investigate and inquire thoroughly; and if the thing is established as the truth, this detestable thing has been done in your midst,
+
+[[v5-13-15]]
+
+^<<v5-13-15,15>>^ you should without fail strike the inhabitants of that city with the edge of the sword. Devote it and everything that is in it, and its domestic animals, to destruction at the edge of the sword.
+
+[[v5-13-16]]
+
+^<<v5-13-16,16>>^ And all its spoil you should collect into the middle of its public square, and you must burn in the fire the city and all its spoil as a whole offering to Jehovah your God, and it must become a heap of ruins to time indefinite. It should never be rebuilt.
+
+[[v5-13-17]]
+
+^<<v5-13-17,17>>^ And nothing at all should stick to your hand of the thing made sacred by ban,^&#42;1^ in order that Jehovah may turn from his burning anger and may indeed give you mercy and he may certainly show you mercy and multiply you, just as he has sworn to your forefathers.
+
+[NOTE]
+====
+. “The thing made sacred by ban.” Heb., ha·cheʹrem; Gr., tou a·na·theʹma·tos, “the thing made accursed.” See Ga 1:8 ftn.
+====
+
+[[v5-13-18]]
+
+^<<v5-13-18,18>>^ For you should listen to the voice of Jehovah your God by keeping all his commandments that I am commanding you today, so as to do what is right in the eyes of Jehovah your God.
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-012.adoc#v5-12-0[&#60; Capítulo Anterior] | <<v5-13-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-014.adoc#v5-14-0[Próximo Capítulo &#62;]

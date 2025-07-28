@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v23-21-0]]
+=== Isaiah, 21
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-21-1]]
+
+^<<v23-21-1,1>>^ The pronouncement against the wilderness of the sea: Like storm winds in the south^&#42;1^ in moving onward, from the wilderness it is coming, from a fear-inspiring land.
+
+[NOTE]
+====
+. Or, “Negeb.”
+====
+
+[[v23-21-2]]
+
+^<<v23-21-2,2>>^ There is a hard vision that has been told to me: The treacherous dealer is dealing treacherously, and the despoiler is despoiling. Go up, O Eʹlam! Lay siege, O Meʹdi·a! All sighing due to her I have caused to cease.
+
+[[v23-21-3]]
+
+^<<v23-21-3,3>>^ That is why my hips have become full of severe pains. Convulsions themselves have grabbed hold of me, like the convulsions of a woman that is giving birth. I have become disconcerted so that I do not hear; I have become disturbed so that I do not see.
+
+[[v23-21-4]]
+
+^<<v23-21-4,4>>^ My heart has wandered about; a shuddering itself has terrified me. The twilight for which I had an attachment has been made for me a trembling.
+
+[[v23-21-5]]
+
+^<<v23-21-5,5>>^ Let there be a setting of the table in order, an arranging of the location of seats, an eating, a drinking!^&#42;1^ Get up, YOU princes, anoint the shield.
+
+[NOTE]
+====
+. In Heb. these four verbs are in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v23-21-6]]
+
+^<<v23-21-6,6>>^ For this is what Jehovah^&#42;1^ has said to me:
+“Go, post a lookout that he may tell just what he sees.”
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v23-21-7]]
+
+^<<v23-21-7,7>>^ And he saw a war chariot &#91;with&#93; a span of steeds,^&#42;1^ a war chariot of asses, a war chariot of camels. And he paid strict attention,^&#42;2^ with much attentiveness.
+
+[NOTE]
+====
+. Or, “a couple of horsemen.”
+. Lit., “he paid attention with attentiveness.”
+====
+
+[[v23-21-8]]
+
+^<<v23-21-8,8>>^ And he proceeded to call out like a lion: “Upon the watchtower,^&#42;1^ O Jehovah,^&#42;2^ I am standing constantly by day, and at my guardpost I am stationed all the nights.
+
+[NOTE]
+====
+. Or, “lookout post.” Heb., mits·pehʹ.
+. See vs 6 ftn.
+====
+
+[[v23-21-9]]
+
+^<<v23-21-9,9>>^ And here, now, there is coming a war chariot of men,^&#42;1^ &#91;with&#93; a span of steeds!”
+And he began to speak up and say: “She has fallen! Babylon has fallen, and all the graven images of her gods^&#42;2^ he has broken to the earth!”
+
+[NOTE]
+====
+. “Men.” Heb., ʼish, sing. but in a collective sense.
+. “Her gods.” Heb., ʼelo·heyʹha.
+====
+
+[[v23-21-10]]
+
+^<<v23-21-10,10>>^ O my threshed ones^&#42;1^ and the son of my threshing floor,^&#42;2^ what I have heard from Jehovah of armies, the God^&#42;3^ of Israel, I have reported to YOU people.
+
+[NOTE]
+====
+. Lit., “O that which is trampled down [in threshing] belonging to me!”
+. Or, “and my threshed one!”
+. “The God of.” Heb., ʼElo·hehʹ.
+====
+
+[[v23-21-11]]
+
+^<<v23-21-11,11>>^ The pronouncement against Duʹmah:^&#42;1^ To me there is one calling out from Seʹir: “Watchman, what about the night? Watchman, what about the night?”
+
+[NOTE]
+====
+. “Dumah” (meaning “Silence”), MTSyVg; LXX, “Idumea,” that is, the land of the Edomites.
+====
+
+[[v23-21-12]]
+
+^<<v23-21-12,12>>^ The watchman said: “The morning has to come, and also the night. If YOU people would inquire, inquire. Come again!”
+
+[[v23-21-13]]
+
+^<<v23-21-13,13>>^ The pronouncement against the desert plain:^&#42;1^ In the forest in the desert plain YOU will spend the night, O caravans of men of Deʹdan.
+
+[NOTE]
+====
+. “Against the desert plain.” Heb., baʽ·ravʹ (ʽaravʹ corresponds to ʽara·vahʹ, according to KB, p. 733); SyVg, “Arabia.”
+====
+
+[[v23-21-14]]
+
+^<<v23-21-14,14>>^ To meet the thirsty one BRING water. O YOU inhabitants of the land of Teʹma, confront the one fleeing away with bread for him.
+
+[[v23-21-15]]
+
+^<<v23-21-15,15>>^ For because of the swords they have fled away, because of the drawn sword, and because of the bent bow and because of the heaviness of the war.
+
+[[v23-21-16]]
+
+^<<v23-21-16,16>>^ For this is what Jehovah^&#42;1^ has said to me: “Within yet a year, according to the years of a hired laborer, all the glory of Keʹdar must even come to its end.
+
+[NOTE]
+====
+. See vs 6 ftn.
+====
+
+[[v23-21-17]]
+
+^<<v23-21-17,17>>^ And the ones remaining over of the number of bow&#91;men&#93;, the mighty men of the sons of Keʹdar, will become few, for Jehovah himself, the God of Israel, has spoken &#91;it&#93;.”
+
+'''
+
+xref:023-isaiah/023-isaiah-020.adoc#v23-20-0[&#60; Capítulo Anterior] | <<v23-21-0,Topo>> | xref:023-isaiah/023-isaiah-022.adoc#v23-22-0[Próximo Capítulo &#62;]

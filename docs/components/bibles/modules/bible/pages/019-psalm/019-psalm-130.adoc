@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-130-0]]
+=== Psalms, 130
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents._
+
+[[v19-130-1]]
+
+^<<v19-130-1,1>>^ Out of the depths I have called upon you, O Jehovah.
+
+[[v19-130-2]]
+
+^<<v19-130-2,2>>^ O Jehovah,^&#42;1^ do hear my voice.
+May your ears prove to be attentive to the voice of my entreaties.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-130-3]]
+
+^<<v19-130-3,3>>^ If errors were what you watch, O Jah,^&#42;1^
+O Jehovah,^&#42;2^ who could stand?
+
+[NOTE]
+====
+. “Jah.” Heb. and T(Aram.), Yah; LXXVg, “Jehovah.” See 68:4 ftn.
+. See vs 2 ftn.
+====
+
+[[v19-130-4]]
+
+^<<v19-130-4,4>>^ For there is the &#91;true&#93; forgiveness with you,
+In order that you may be feared.
+
+[[v19-130-5]]
+
+^<<v19-130-5,5>>^ I have hoped, O Jehovah, my soul has hoped,
+And for his word I have waited.
+
+[[v19-130-6]]
+
+^<<v19-130-6,6>>^ My soul &#91;has waited&#93; for Jehovah^&#42;1^
+More than watchmen for the morning,
+Watching for the morning.
+
+[NOTE]
+====
+. See vs 2 ftn.
+====
+
+[[v19-130-7]]
+
+^<<v19-130-7,7>>^ Let Israel keep waiting for Jehovah.
+For there is loving-kindness^&#42;1^ with Jehovah,
+And abundantly so is there redemption with him.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v19-130-8]]
+
+^<<v19-130-8,8>>^ And he himself will redeem Israel out of all his errors.
+
+'''
+
+xref:019-psalm/019-psalm-129.adoc#v19-129-0[&#60; Capítulo Anterior] | <<v19-130-0,Topo>> | xref:019-psalm/019-psalm-131.adoc#v19-131-0[Próximo Capítulo &#62;]

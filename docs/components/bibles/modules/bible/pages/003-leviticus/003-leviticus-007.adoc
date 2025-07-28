@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v3-7-0]]
+=== Leviticus, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-7-1]]
+
+^<<v3-7-1,1>>^ “‘And this is the law of the guilt offering: It is something most holy.
+
+[[v3-7-2]]
+
+^<<v3-7-2,2>>^ In the place where they regularly slaughter the burnt offering they will slaughter the guilt offering, and its blood one will sprinkle round about upon the altar.
+
+[[v3-7-3]]
+
+^<<v3-7-3,3>>^ As for all its fat, he will present of it the fatty tail and the fat that covers the intestines,
+
+[[v3-7-4]]
+
+^<<v3-7-4,4>>^ and the two kidneys and the fat that is upon them the same as that upon the loins. And as for the appendage upon the liver, he will remove it along with the kidneys.
+
+[[v3-7-5]]
+
+^<<v3-7-5,5>>^ And the priest must make them smoke on the altar as an offering made by fire to Jehovah. It is a guilt offering.
+
+[[v3-7-6]]
+
+^<<v3-7-6,6>>^ Every male among the priests will eat it. In a holy place it will be eaten. It is something most holy.
+
+[[v3-7-7]]
+
+^<<v3-7-7,7>>^ Like the sin offering, so is the guilt offering. There is one law for them. The priest who will make atonement with it, his it will become.
+
+[[v3-7-8]]
+
+^<<v3-7-8,8>>^ “‘As for the priest who presents the burnt offering of any man, the skin of the burnt offering that he has presented to the priest will become his.
+
+[[v3-7-9]]
+
+^<<v3-7-9,9>>^ “‘And every grain offering that may be baked in the oven and every one made in the deep-fat kettle and upon the griddle belongs to the priest who presents it. It will become his.
+
+[[v3-7-10]]
+
+^<<v3-7-10,10>>^ But every grain offering that is moistened with oil or dry will come to be for all of Aaron’s sons, for the one the same as for the other.
+
+[[v3-7-11]]
+
+^<<v3-7-11,11>>^ “‘Now this is the law of the communion sacrifice that anyone will present to Jehovah:
+
+[[v3-7-12]]
+
+^<<v3-7-12,12>>^ If he would present it in expression of thanksgiving,^&#42;1^ then he must present along with the sacrifice of thanksgiving unfermented ring-shaped cakes moistened with oil and unfermented wafers smeared with oil and well-mixed fine flour as ring-shaped cakes moistened with oil.
+
+[NOTE]
+====
+. Or, “praise.”
+====
+
+[[v3-7-13]]
+
+^<<v3-7-13,13>>^ Along with ring-shaped cakes of leavened bread he will present his offering together with the thanksgiving sacrifice of his communion sacrifices.
+
+[[v3-7-14]]
+
+^<<v3-7-14,14>>^ And out of it he must present one of each offering as a sacred portion^&#42;1^ to Jehovah; as for the priest who sprinkles the blood of the communion sacrifices, it will become his.
+
+[NOTE]
+====
+. Or, “heave offering; contribution.”
+====
+
+[[v3-7-15]]
+
+^<<v3-7-15,15>>^ And the flesh of the thanksgiving sacrifice of his communion sacrifices is to be eaten on the day of his offering. He must not save up any of it until morning.
+
+[[v3-7-16]]
+
+^<<v3-7-16,16>>^ “‘And if the sacrifice of his offering is a vow or a voluntary offering, it is to be eaten on the day of his presenting his sacrifice, and on the next day what is left of it also may be eaten.
+
+[[v3-7-17]]
+
+^<<v3-7-17,17>>^ But what is left of the flesh of the sacrifice on the third day is to be burned with fire.
+
+[[v3-7-18]]
+
+^<<v3-7-18,18>>^ However, if any of the flesh of his communion sacrifice should at all be eaten on the third day, the one presenting it will not be accepted with approval. It will not be put to his account. It will become a foul thing, and the soul that eats some of it will answer for his error.
+
+[[v3-7-19]]
+
+^<<v3-7-19,19>>^ And the flesh that may touch anything unclean is not to be eaten. It is to be burned with fire. As for the flesh, everybody clean may eat the flesh.
+
+[[v3-7-20]]
+
+^<<v3-7-20,20>>^ “‘And the soul who eats the flesh of the communion sacrifice, which is for Jehovah, while his uncleanness is upon him, that soul must be cut off from his people.
+
+[[v3-7-21]]
+
+^<<v3-7-21,21>>^ And in case a soul touches anything unclean, the uncleanness of a man^&#42;1^ or an unclean beast or any unclean loathsome thing, and actually eats some of the flesh of the communion sacrifice, which is for Jehovah, that soul must be cut off from his people.’”
+
+[NOTE]
+====
+. “Man.” Heb., ʼa·dhamʹ, a human creature, an earthling.
+====
+
+[[v3-7-22]]
+
+^<<v3-7-22,22>>^ And Jehovah continued to speak to Moses, saying:
+
+[[v3-7-23]]
+
+^<<v3-7-23,23>>^ “Speak to the sons of Israel, saying, ‘YOU must not eat any fat of a bull or a young ram or a goat.
+
+[[v3-7-24]]
+
+^<<v3-7-24,24>>^ Now the fat of a body &#91;already&#93; dead and the fat of an animal torn to pieces may be used for anything else conceivable, but YOU must not eat it at all.
+
+[[v3-7-25]]
+
+^<<v3-7-25,25>>^ For anyone eating fat from the beast from which he presents it as an offering made by fire to Jehovah, the soul that eats must be cut off from his people.
+
+[[v3-7-26]]
+
+^<<v3-7-26,26>>^ “‘And YOU must not eat any blood in any places where YOU dwell, whether that of fowl or that of beast.
+
+[[v3-7-27]]
+
+^<<v3-7-27,27>>^ Any soul who eats any blood, that soul must be cut off from his people.’”
+
+[[v3-7-28]]
+
+^<<v3-7-28,28>>^ And Jehovah went on to speak to Moses, saying:
+
+[[v3-7-29]]
+
+^<<v3-7-29,29>>^ “Speak to the sons of Israel, saying, ‘He who presents his communion sacrifice to Jehovah will bring his offering to Jehovah from his communion sacrifice.
+
+[[v3-7-30]]
+
+^<<v3-7-30,30>>^ His hands will bring as Jehovah’s offerings made by fire the fat upon the breast. He will bring it with the breast to wave it to and fro as a wave offering before Jehovah.
+
+[[v3-7-31]]
+
+^<<v3-7-31,31>>^ And the priest must make the fat smoke upon the altar, but the breast must become Aaron’s and his sons’.
+
+[[v3-7-32]]
+
+^<<v3-7-32,32>>^ “‘And YOU will give the right leg as a sacred portion to the priest from YOUR communion sacrifices.
+
+[[v3-7-33]]
+
+^<<v3-7-33,33>>^ That one of Aaron’s sons who presents the blood of the communion sacrifices and the fat, the right leg will become his as a portion.
+
+[[v3-7-34]]
+
+^<<v3-7-34,34>>^ For the breast of the wave offering and the leg of the sacred portion I do take from the sons of Israel from their communion sacrifices, and I shall give them to Aaron the priest and his sons, as a regulation to time indefinite, from the sons of Israel.
+
+[[v3-7-35]]
+
+^<<v3-7-35,35>>^ “‘This was the priestly share of Aaron and the priestly share of his sons from Jehovah’s offerings made by fire, on the day that he presented them to act as priests to Jehovah,
+
+[[v3-7-36]]
+
+^<<v3-7-36,36>>^ just as Jehovah had commanded to give it to them on the day of his anointing them from among the sons of Israel. It is a statute to time indefinite for their generations.’”
+
+[[v3-7-37]]
+
+^<<v3-7-37,37>>^ This is the law concerning the burnt offering, the grain offering and the sin offering and the guilt offering and the installation sacrifice and the communion sacrifice,
+
+[[v3-7-38]]
+
+^<<v3-7-38,38>>^ just as Jehovah had commanded Moses in Mount Siʹnai in the day of his commanding the sons of Israel to present their offerings to Jehovah in the wilderness of Siʹnai.
+
+'''
+
+xref:003-leviticus/003-leviticus-006.adoc#v3-6-0[&#60; Capítulo Anterior] | <<v3-7-0,Topo>> | xref:003-leviticus/003-leviticus-008.adoc#v3-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v18-3-0]]
+=== Job, 3
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-3-1]]
+
+^<<v18-3-1,1>>^ It was after this that Job opened his mouth and began to call down evil upon his day.
+
+[[v18-3-2]]
+
+^<<v18-3-2,2>>^ Job now answered and said:
+
+[[v18-3-3]]
+
+^<<v18-3-3,3>>^ “Let the day perish on which I came to be born,
+Also the night that someone said, ‘An able-bodied man^&#42;1^ has been conceived!’
+
+[NOTE]
+====
+. “An able-bodied man.” Heb., ghaʹver.
+====
+
+[[v18-3-4]]
+
+^<<v18-3-4,4>>^ As for that day, let it become darkness.
+Let not God^&#42;1^ look for it from above,
+Nor let daylight beam upon it.
+
+[NOTE]
+====
+. “God.” Heb., ʼElohʹah, sing. of ʼElo·himʹ. ʼElohʹah occurs 41 times in Job and 16 times in other books of M. See De 32:15 ftn, “God.”
+====
+
+[[v18-3-5]]
+
+^<<v18-3-5,5>>^ Let darkness and deep shadow^&#42;1^ reclaim it.
+Let a rain cloud reside over it.
+Let the things that darken a day terrorize it.
+
+[NOTE]
+====
+. Lit., “death shadow.”
+====
+
+[[v18-3-6]]
+
+^<<v18-3-6,6>>^ That night—let gloom take it;
+Let it not feel glad among the days of a year;
+Among the number of the lunar months let it not enter.
+
+[[v18-3-7]]
+
+^<<v18-3-7,7>>^ Look! That night—let it become sterile;
+Let no joyful cry come in it.
+
+[[v18-3-8]]
+
+^<<v18-3-8,8>>^ Let cursers^&#42;1^ of the day execrate it,
+Those ready to awaken Le·viʹa·than.^&#42;2^
+
+[NOTE]
+====
+. “Cursers of.” Heb., ʼo·rerehʹ; not the same as in 1:5, 11; 2:5, 9.
+. “Leviathan,” MSyVg; LXX, “the great sea monster.”
+====
+
+[[v18-3-9]]
+
+^<<v18-3-9,9>>^ Let the stars of its twilight grow dark;
+Let it wait for the light and there be none;
+And let it not see the beams of dawn.
+
+[[v18-3-10]]
+
+^<<v18-3-10,10>>^ For it did not close the doors of my &#91;mother’s&#93; belly,
+And so conceal trouble from my eyes.
+
+[[v18-3-11]]
+
+^<<v18-3-11,11>>^ Why from the womb did I not proceed to die?
+&#91;Why did I not&#93; come forth from the belly itself and then expire?
+
+[[v18-3-12]]
+
+^<<v18-3-12,12>>^ Why was it that knees confronted me,
+And why breasts that I should take suck?
+
+[[v18-3-13]]
+
+^<<v18-3-13,13>>^ For by now I should have lain down that I might be undisturbed;
+I should have slept then; I should be at rest
+
+[[v18-3-14]]
+
+^<<v18-3-14,14>>^ With kings and counselors of the earth,
+Those building desolate places^&#42;1^ for themselves,
+
+[NOTE]
+====
+. “Pyramids,” by a correction.
+====
+
+[[v18-3-15]]
+
+^<<v18-3-15,15>>^ Or with princes who have gold,
+Those who fill their houses with silver;
+
+[[v18-3-16]]
+
+^<<v18-3-16,16>>^ Or, like a hidden miscarriage, I should not come to be,
+Like children that have seen no light.
+
+[[v18-3-17]]
+
+^<<v18-3-17,17>>^ There the wicked themselves have ceased from agitation,
+And there those weary in power are at rest.
+
+[[v18-3-18]]
+
+^<<v18-3-18,18>>^ Together prisoners themselves are at ease;
+They actually do not hear the voice of one driving them to work.
+
+[[v18-3-19]]
+
+^<<v18-3-19,19>>^ Small and great are there the same,
+And the slave is set free from his master.^&#42;1^
+
+[NOTE]
+====
+. “From his master.” Heb., me·ʼadho·navʹ, pl. of ʼa·dhohnʹ, to denote excellence.
+====
+
+[[v18-3-20]]
+
+^<<v18-3-20,20>>^ Why does he give light to one having trouble,
+And life to those bitter of soul?
+
+[[v18-3-21]]
+
+^<<v18-3-21,21>>^ Why are there those waiting for death, and it is not,
+Although they keep digging for it more than for hidden treasures?
+
+[[v18-3-22]]
+
+^<<v18-3-22,22>>^ Those who are rejoicing to gleefulness,^&#42;1^
+They exult because they find a burial place.
+
+[NOTE]
+====
+. “At a stone heap,” by a slight correction of M, to correspond with “burial place” in the same vs.
+====
+
+[[v18-3-23]]
+
+^<<v18-3-23,23>>^ &#91;Why does he give light&#93; to able-bodied man,^&#42;1^ whose way has been concealed,
+And whom God^&#42;2^ hedges in?
+
+[NOTE]
+====
+. “To able-bodied man.” Heb., legheʹver. See vs 3 ftn.
+. See vs 4 ftn.
+====
+
+[[v18-3-24]]
+
+^<<v18-3-24,24>>^ For before my food my sighing comes,
+And like waters my roaring cries pour forth;
+
+[[v18-3-25]]
+
+^<<v18-3-25,25>>^ Because a dreadful thing I have dreaded, and it comes upon me;
+And what I have been scared of comes to me.
+
+[[v18-3-26]]
+
+^<<v18-3-26,26>>^ I have not been carefree, nor have I been undisturbed,
+Nor been at rest, and yet agitation comes.”
+
+'''
+
+xref:018-job/018-job-002.adoc#v18-2-0[&#60; Capítulo Anterior] | <<v18-3-0,Topo>> | xref:018-job/018-job-004.adoc#v18-4-0[Próximo Capítulo &#62;]

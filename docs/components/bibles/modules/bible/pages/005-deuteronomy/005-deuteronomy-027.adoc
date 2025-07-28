@@ -1,0 +1,164 @@
+include::./index.adoc[]
+
+[[v5-27-0]]
+=== Deuteronomy, 27
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-27-1]]
+
+^<<v5-27-1,1>>^ And Moses together with the older men of Israel went on to command the people, saying: “There should be an observing^&#42;1^ of every commandment that I am commanding YOU today.
+
+[NOTE]
+====
+. “There should be an observing.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v5-27-2]]
+
+^<<v5-27-2,2>>^ And it must occur that in the day when YOU will cross the Jordan into the land that Jehovah^&#42;1^ your God is giving you, you must also set up for yourself great stones and whitewash them with lime.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-27-3]]
+
+^<<v5-27-3,3>>^ And you must write upon them all the words of this law when you have crossed, in order that you may enter into the land that Jehovah^&#42;1^ your God is giving you, a land flowing with milk and honey, according to what Jehovah the God of your forefathers has spoken to you.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-27-4]]
+
+^<<v5-27-4,4>>^ And it must occur that when YOU have crossed the Jordan, YOU should set up these stones, just as I am commanding YOU today, in Mount Eʹbal,^&#42;1^ and you must whitewash them with lime.
+
+[NOTE]
+====
+. “Ebal,” MLXXSyVg; Sam, “Gerizim.”
+====
+
+[[v5-27-5]]
+
+^<<v5-27-5,5>>^ You must also build an altar there to Jehovah your God, an altar of stones. You must not wield an iron tool upon them.
+
+[[v5-27-6]]
+
+^<<v5-27-6,6>>^ With whole stones you should build the altar of Jehovah your God, and you must offer burnt offerings to Jehovah your God on it.
+
+[[v5-27-7]]
+
+^<<v5-27-7,7>>^ And you must sacrifice communion sacrifices and eat them there, and you must rejoice before Jehovah^&#42;1^ your God.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-27-8]]
+
+^<<v5-27-8,8>>^ And you must write on the stones all the words of this law, making them quite clear.”^&#42;1^
+
+[NOTE]
+====
+. Or, “explaining them well”; or, “there should be an explaining of them well.” In Heb. this phrase is two verbs in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v5-27-9]]
+
+^<<v5-27-9,9>>^ Then Moses and the priests, the Levites, spoke to all Israel, saying: “Keep silent and listen, O Israel. This day you have become^&#42;1^ the people of Jehovah your God.
+
+[NOTE]
+====
+. Lit., “you have been brought to be.”
+====
+
+[[v5-27-10]]
+
+^<<v5-27-10,10>>^ And you must listen to the voice of Jehovah^&#42;1^ your God and carry out his commandments and his regulations, which I am commanding you today.”
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-27-11]]
+
+^<<v5-27-11,11>>^ And Moses went on to command the people on that day, saying:
+
+[[v5-27-12]]
+
+^<<v5-27-12,12>>^ “The following are the ones who will stand to bless the people on Mount Gerʹi·zim when YOU have crossed the Jordan: Simʹe·on and Leʹvi and Judah and Isʹsa·char and Joseph and Benjamin.
+
+[[v5-27-13]]
+
+^<<v5-27-13,13>>^ And the following are the ones who will stand for the malediction on Mount Eʹbal: Reuʹben, Gad and Ashʹer and Zebʹu·lun, Dan and Naphʹta·li.
+
+[[v5-27-14]]
+
+^<<v5-27-14,14>>^ And the Levites must answer and say with raised voice to every man of Israel:
+
+[[v5-27-15]]
+
+^<<v5-27-15,15>>^ “‘Cursed is the man who makes a carved image or a molten statue, a thing detestable to Jehovah,^&#42;1^ the manufacture of the hands of a wood-and-metal worker, and who has put it in a hiding place.’ (And all the people must answer and say, ‘Amen!’^&#42;2^)
+
+[NOTE]
+====
+. See App 1C §1.
+. Or, “So be it!” Heb., ʼa·menʹ.
+====
+
+[[v5-27-16]]
+
+^<<v5-27-16,16>>^ “‘Cursed is the one who treats his father or his mother with contempt.’ (And all the people must say, ‘Amen!’)
+
+[[v5-27-17]]
+
+^<<v5-27-17,17>>^ “‘Cursed is the one who moves back the boundary mark of his fellowman.’ (And all the people must say, ‘Amen!’)
+
+[[v5-27-18]]
+
+^<<v5-27-18,18>>^ “‘Cursed is the one who causes the blind to go astray in the way.’ (And all the people must say, ‘Amen!’)
+
+[[v5-27-19]]
+
+^<<v5-27-19,19>>^ “‘Cursed is the one who perverts the judgment of an alien resident, a fatherless boy and a widow.’ (And all the people must say, ‘Amen!’)
+
+[[v5-27-20]]
+
+^<<v5-27-20,20>>^ “‘Cursed is the one who lies down with his father’s wife, because he has uncovered the skirt of his father.’ (And all the people must say, ‘Amen!’)
+
+[[v5-27-21]]
+
+^<<v5-27-21,21>>^ “‘Cursed is the one who lies down with any beast.’ (And all the people must say, ‘Amen!’)
+
+[[v5-27-22]]
+
+^<<v5-27-22,22>>^ “‘Cursed is the one who lies down with his sister, the daughter of his father or the daughter of his mother.’ (And all the people must say, ‘Amen!’)
+
+[[v5-27-23]]
+
+^<<v5-27-23,23>>^ “‘Cursed is the one who lies down with his mother-in-law.’ (And all the people must say, ‘Amen!’)
+
+[[v5-27-24]]
+
+^<<v5-27-24,24>>^ “‘Cursed is the one who fatally strikes his fellowman from a hiding place.’ (And all the people must say, ‘Amen!’)
+
+[[v5-27-25]]
+
+^<<v5-27-25,25>>^ “‘Cursed is the one who accepts a bribe to strike a soul fatally, when it is innocent blood.’^&#42;1^ (And all the people must say, ‘Amen!’)
+
+[NOTE]
+====
+. Lit., “a soul of innocent blood,” MSamLXXSyVg.
+====
+
+[[v5-27-26]]
+
+^<<v5-27-26,26>>^ “‘Cursed is the one who will not put the words of this law in force by doing them.’ (And all the people must say, ‘Amen!’)
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-026.adoc#v5-26-0[&#60; Capítulo Anterior] | <<v5-27-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-028.adoc#v5-28-0[Próximo Capítulo &#62;]

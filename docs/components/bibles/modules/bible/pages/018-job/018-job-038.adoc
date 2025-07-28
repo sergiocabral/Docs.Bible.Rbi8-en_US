@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v18-38-0]]
+=== Job, 38
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-38-1]]
+
+^<<v18-38-1,1>>^ And Jehovah proceeded to answer Job out of the windstorm and say:
+
+[[v18-38-2]]
+
+^<<v18-38-2,2>>^ “Who is this that is obscuring counsel
+By words without knowledge?
+
+[[v18-38-3]]
+
+^<<v18-38-3,3>>^ Gird up your loins, please, like an able-bodied man,
+And let me question you, and you inform me.
+
+[[v18-38-4]]
+
+^<<v18-38-4,4>>^ Where did you happen to be when I founded the earth?
+Tell &#91;me&#93;, if you do know understanding.
+
+[[v18-38-5]]
+
+^<<v18-38-5,5>>^ Who set its measurements, in case you know,
+Or who stretched out upon it the measuring line?
+
+[[v18-38-6]]
+
+^<<v18-38-6,6>>^ Into what have its socket pedestals been sunk down,
+Or who laid its cornerstone,
+
+[[v18-38-7]]
+
+^<<v18-38-7,7>>^ When the morning stars joyfully cried out together,
+And all the sons of God^&#42;1^ began shouting in applause?
+
+[NOTE]
+====
+. “Sons of God.” Or, “godlike ones.” Heb., benehʹ ʼElo·himʹ; T, “the bands of angels”; LXX, “my angels.”
+====
+
+[[v18-38-8]]
+
+^<<v18-38-8,8>>^ And &#91;who&#93; barricaded the sea with doors,^&#42;1^
+Which began to go forth as when it burst out from the womb;
+
+[NOTE]
+====
+. Or, “double doors,” as in 2Ch 14:7.
+====
+
+[[v18-38-9]]
+
+^<<v18-38-9,9>>^ When I put the cloud as its^&#42;1^ garment
+And thick gloom as its swaddling band,
+
+[NOTE]
+====
+. That is, the sea’s.
+====
+
+[[v18-38-10]]
+
+^<<v18-38-10,10>>^ And I proceeded to break up^&#42;1^ my regulation upon it
+And to set a bar and doors,
+
+[NOTE]
+====
+. “Break up,” M; LXX, “put.”
+====
+
+[[v18-38-11]]
+
+^<<v18-38-11,11>>^ And I went on to say, ‘This far you may come, and no farther;
+And here your proud waves are limited’?
+
+[[v18-38-12]]
+
+^<<v18-38-12,12>>^ Was it from your days onward that you commanded the morning?
+Did you cause the dawn to know its place,
+
+[[v18-38-13]]
+
+^<<v18-38-13,13>>^ To take hold on the extremities^&#42;1^ of the earth,
+That the wicked ones^&#42;2^ might be shaken out from it?
+
+[NOTE]
+====
+. Lit., “wings.”
+. “The wicked ones.” Here in M the Heb. letter ʽAʹyin (ע) is suspended as an insertion to indicate that the word should read “wicked ones” instead of “poor ones.” Compare Jg 18:30 ftn, “Moses’.”
+====
+
+[[v18-38-14]]
+
+^<<v18-38-14,14>>^ It transforms itself like clay under a seal,
+And things^&#42;1^ take their station as in clothing.
+
+[NOTE]
+====
+. Lit., “they.”
+====
+
+[[v18-38-15]]
+
+^<<v18-38-15,15>>^ And from the wicked ones^&#42;1^ their light is held back,
+And the high arm itself gets broken.
+
+[NOTE]
+====
+. See vs 13 ftn, “Ones.”
+====
+
+[[v18-38-16]]
+
+^<<v18-38-16,16>>^ Have you come to the sources^&#42;1^ of the sea,
+Or in search of the watery deep^&#42;2^ have you walked about?
+
+[NOTE]
+====
+. Or, “sandy ground.”
+. Or, “surging waters.” See 28:14 ftn.
+====
+
+[[v18-38-17]]
+
+^<<v18-38-17,17>>^ Have the gates of death been uncovered to you,
+Or the gates of deep shadow^&#42;1^ can you see?
+
+[NOTE]
+====
+. Lit., “death shadow,” M; LXX, “Hades,” that is, the common grave; T, “death of Gehenna.”
+====
+
+[[v18-38-18]]
+
+^<<v18-38-18,18>>^ Have you intelligently considered the broad spaces of the earth?
+Tell, if you have come to know it all.
+
+[[v18-38-19]]
+
+^<<v18-38-19,19>>^ Where, now, is the way to where light resides?
+As for darkness, where, now, is its place,
+
+[[v18-38-20]]
+
+^<<v18-38-20,20>>^ That you should take it to its boundary
+And that you should understand the roadways to its house?
+
+[[v18-38-21]]
+
+^<<v18-38-21,21>>^ Have you come to know because at that time you were being born,
+And &#91;because&#93; in number your days are many?
+
+[[v18-38-22]]
+
+^<<v18-38-22,22>>^ Have you entered into the storehouses of the snow,
+Or do you see even the storehouses of the hail,
+
+[[v18-38-23]]
+
+^<<v18-38-23,23>>^ Which I have kept back for the time of distress,
+For the day of fight and war?
+
+[[v18-38-24]]
+
+^<<v18-38-24,24>>^ Where, now, is the way by which the light^&#42;1^ distributes itself,
+&#91;And&#93; the east wind scatters about upon the earth?
+
+[NOTE]
+====
+. “Hoarfrost,” LXX.
+====
+
+[[v18-38-25]]
+
+^<<v18-38-25,25>>^ Who has divided a channel for the flood
+And a way for the thunderous storm cloud,
+
+[[v18-38-26]]
+
+^<<v18-38-26,26>>^ To make it rain upon the land where there is no man,^&#42;1^
+&#91;Upon&#93; the wilderness in which there is no earthling man,^&#42;2^
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+. “Earthling man.” Heb., ʼa·dhamʹ. See Ge 1:26 ftn, “Man.”
+====
+
+[[v18-38-27]]
+
+^<<v18-38-27,27>>^ To satisfy storm-stricken and desolate places
+And to cause the growth of grass to sprout?
+
+[[v18-38-28]]
+
+^<<v18-38-28,28>>^ Does there exist a father for the rain,
+Or who gave birth to the dewdrops?
+
+[[v18-38-29]]
+
+^<<v18-38-29,29>>^ Out of whose belly does the ice actually come forth,
+And as for the hoarfrost of heaven, who indeed brings it to birth?
+
+[[v18-38-30]]
+
+^<<v18-38-30,30>>^ The very waters keep themselves hidden as by stone,
+And the surface of the watery deep makes itself compact.
+
+[[v18-38-31]]
+
+^<<v18-38-31,31>>^ Can you tie fast the bonds of the Kiʹmah constellation,^&#42;1^
+Or can you loosen the very cords of the Keʹsil constellation?^&#42;2^
+
+[NOTE]
+====
+. See 9:9 ftn, “Kimah constellation.”
+. See 9:9 ftn, “Kesil constellation.”
+====
+
+[[v18-38-32]]
+
+^<<v18-38-32,32>>^ Can you bring forth the Mazʹza·roth constellation^&#42;1^ in its appointed time?
+And as for the Ash constellation^&#42;2^ alongside its sons, can you conduct them?
+
+[NOTE]
+====
+. “The Mazzaroth constellation.” Heb., Maz·za·rohthʹ; Gr., Ma·zou·rothʹ (as in 2Ki 23:5 where it is translated “constellations of the zodiac”); Sy, “the Wagon constellation”; Lat., lu·ciʹfe·rum, “the light bearer.”
+. See 9:9 ftn, “Ash constellation.”
+====
+
+[[v18-38-33]]
+
+^<<v18-38-33,33>>^ Have you come to know the statutes of the heavens,
+Or could you put its authority in the earth?
+
+[[v18-38-34]]
+
+^<<v18-38-34,34>>^ Can you raise your voice even to the cloud,
+So that a heaving mass of water itself may cover you?
+
+[[v18-38-35]]
+
+^<<v18-38-35,35>>^ Can you send forth lightnings that they may go
+And say to you, ‘Here we are!’?
+
+[[v18-38-36]]
+
+^<<v18-38-36,36>>^ Who put wisdom in the cloud layers,^&#42;1^
+Or who gave understanding to the sky phenomenon?^&#42;2^
+
+[NOTE]
+====
+. “In the cloud layers.” Heb., bat·tu·chohthʹ, the meaning is uncertain.
+. “To the sky phenomenon.” Heb., las·sekhʹwi, the meaning is uncertain but appears to refer to some heavenly phenomenon.
+====
+
+[[v18-38-37]]
+
+^<<v18-38-37,37>>^ Who can exactly number the clouds in wisdom,
+Or the water jars of heaven—who can tip &#91;them&#93; over,
+
+[[v18-38-38]]
+
+^<<v18-38-38,38>>^ When the dust pours out as into a molten mass,
+And the clods of earth themselves get stuck together?
+
+[[v18-38-39]]
+
+^<<v18-38-39,39>>^ Can you hunt prey for a lion itself
+And can you satisfy^&#42;1^ the lively appetite of young lions,
+
+[NOTE]
+====
+. Lit., “fill.”
+====
+
+[[v18-38-40]]
+
+^<<v18-38-40,40>>^ When they crouch in the hiding places,
+&#91;Or&#93; keep lying in the covert for an ambush?
+
+[[v18-38-41]]
+
+^<<v18-38-41,41>>^ Who prepares for the raven its food
+When its own young ones cry to God^&#42;1^ for help,
+&#91;When&#93; they keep wandering about because there is nothing to eat?
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+'''
+
+xref:018-job/018-job-037.adoc#v18-37-0[&#60; Capítulo Anterior] | <<v18-38-0,Topo>> | xref:018-job/018-job-039.adoc#v18-39-0[Próximo Capítulo &#62;]

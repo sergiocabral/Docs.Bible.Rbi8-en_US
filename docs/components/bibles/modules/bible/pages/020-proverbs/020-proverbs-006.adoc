@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v20-6-0]]
+=== Proverbs, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-6-1]]
+
+^<<v20-6-1,1>>^ My son, if you have gone surety for your fellowman, &#91;if&#93; you have given your handshake even to the stranger,
+
+[[v20-6-2]]
+
+^<<v20-6-2,2>>^ &#91;if&#93; you have been ensnared by the sayings of your mouth, &#91;if&#93; you have been caught by the sayings of your mouth,
+
+[[v20-6-3]]
+
+^<<v20-6-3,3>>^ take this action then, my son, and deliver yourself, for you have come into the palm of your fellowman: Go humble yourself^&#42;1^ and storm your fellowman with importunities.
+
+[NOTE]
+====
+. Lit., “stamp yourself down.”
+====
+
+[[v20-6-4]]
+
+^<<v20-6-4,4>>^ Do not give any sleep to your eyes, nor any slumber to your beaming eyes.
+
+[[v20-6-5]]
+
+^<<v20-6-5,5>>^ Deliver yourself like a gazelle from the hand and like a bird from the hand of the birdcatcher.
+
+[[v20-6-6]]
+
+^<<v20-6-6,6>>^ Go to the ant, you lazy one; see its ways and become wise.
+
+[[v20-6-7]]
+
+^<<v20-6-7,7>>^ Although it has no commander, officer or ruler,
+
+[[v20-6-8]]
+
+^<<v20-6-8,8>>^ it prepares its food even in the summer; it has gathered its food supplies even in the harvest.
+
+[[v20-6-9]]
+
+^<<v20-6-9,9>>^ How long, you lazy one, will you keep lying down? When will you rise up from your sleep?
+
+[[v20-6-10]]
+
+^<<v20-6-10,10>>^ A little more sleep, a little more slumbering, a little more folding of the hands in lying down,
+
+[[v20-6-11]]
+
+^<<v20-6-11,11>>^ and your poverty will certainly come just like some rover, and your want like an armed man.^&#42;1^
+
+[NOTE]
+====
+. Or, “like an insolent man.” Lit., “like a man of a shield.” Heb., keʼishʹ ma·ghenʹ.
+====
+
+[[v20-6-12]]
+
+^<<v20-6-12,12>>^ A good-for-nothing man,^&#42;1^ a man of hurtfulness,^&#42;2^ is walking with crookedness of speech,^&#42;3^
+
+[NOTE]
+====
+. Lit., “A man of belial.” Heb., ʼa·dhamʹ beli·yaʹʽal.
+. “A man of hurtfulness.” Heb., ʼish ʼaʹwen.
+. Lit., “mouth.”
+====
+
+[[v20-6-13]]
+
+^<<v20-6-13,13>>^ winking with his eye, making signs with his foot, making indications with his fingers.
+
+[[v20-6-14]]
+
+^<<v20-6-14,14>>^ Perverseness is in his heart. He is fabricating something bad all the time. He keeps sending out merely contentions.
+
+[[v20-6-15]]
+
+^<<v20-6-15,15>>^ That is why suddenly there will come his disaster; in an instant he will be broken, and there will be no healing.
+
+[[v20-6-16]]
+
+^<<v20-6-16,16>>^ There are six things that Jehovah does hate; yes, seven are things detestable to his soul:
+
+[[v20-6-17]]
+
+^<<v20-6-17,17>>^ lofty eyes, a false tongue, and hands that are shedding innocent blood,
+
+[[v20-6-18]]
+
+^<<v20-6-18,18>>^ a heart fabricating hurtful schemes, feet that are in a hurry to run to badness,
+
+[[v20-6-19]]
+
+^<<v20-6-19,19>>^ a false witness that launches forth lies, and anyone sending forth contentions among brothers.
+
+[[v20-6-20]]
+
+^<<v20-6-20,20>>^ Observe, O my son, the commandment of your father, and do not forsake the law of your mother.
+
+[[v20-6-21]]
+
+^<<v20-6-21,21>>^ Tie them^&#42;1^ upon your heart constantly; bind them upon your throat.
+
+[NOTE]
+====
+. “Them,” masc., therefore not referring to “commandment” and “law” (in vs 20), both fem., but may be referring to the father’s “sayings” (as in 4:10, 20), masc. pl.
+====
+
+[[v20-6-22]]
+
+^<<v20-6-22,22>>^ When you walk about, it^&#42;1^ will lead you; when you lie down, it will stand guard over you; and when you have waked up, it itself will make you its concern.
+
+[NOTE]
+====
+. Or, “she,” fem.
+====
+
+[[v20-6-23]]
+
+^<<v20-6-23,23>>^ For the commandment is a lamp, and a light the law is, and the reproofs of discipline are the way of life,
+
+[[v20-6-24]]
+
+^<<v20-6-24,24>>^ to guard you against the bad woman,^&#42;1^ against the smoothness of the tongue of the foreign woman.
+
+[NOTE]
+====
+. “Bad woman,” MTSyVg; LXX, “married woman.”
+====
+
+[[v20-6-25]]
+
+^<<v20-6-25,25>>^ Do not desire her prettiness in your heart, and may she not take you with her lustrous eyes,
+
+[[v20-6-26]]
+
+^<<v20-6-26,26>>^ because in behalf of a woman prostitute &#91;one comes down&#93; to a round loaf of bread; but as regards another man’s wife, she hunts even for a precious soul.
+
+[[v20-6-27]]
+
+^<<v20-6-27,27>>^ Can a man rake together fire into his bosom and yet his very garments not be burned?
+
+[[v20-6-28]]
+
+^<<v20-6-28,28>>^ Or can a man walk upon the coals and his feet themselves not be scorched?
+
+[[v20-6-29]]
+
+^<<v20-6-29,29>>^ Likewise with anyone having relations with the wife of his fellowman, no one touching her will remain unpunishable.
+
+[[v20-6-30]]
+
+^<<v20-6-30,30>>^ People do not despise a thief just because he commits thievery to fill his soul when he is hungry.
+
+[[v20-6-31]]
+
+^<<v20-6-31,31>>^ But, when found, he will make it good with seven times as much; all the valuables of his house he will give.
+
+[[v20-6-32]]
+
+^<<v20-6-32,32>>^ Anyone committing adultery with a woman is in want of heart;^&#42;1^ he that does it is bringing his own soul to ruin.^&#42;2^
+
+[NOTE]
+====
+. Or, “is lacking good motive.” Heb., chasar-levʹ.
+. Or, “destruction.”
+====
+
+[[v20-6-33]]
+
+^<<v20-6-33,33>>^ A plague^&#42;1^ and dishonor he will find, and his reproach itself will not be wiped out.
+
+[NOTE]
+====
+. Or, “stroke.”
+====
+
+[[v20-6-34]]
+
+^<<v20-6-34,34>>^ For the rage of an able-bodied man is jealousy, and he will not show compassion in the day of vengeance.
+
+[[v20-6-35]]
+
+^<<v20-6-35,35>>^ He will have no consideration for any sort of ransom, neither will he show willingness, no matter how large you make the present.
+
+'''
+
+xref:020-proverbs/020-proverbs-005.adoc#v20-5-0[&#60; Capítulo Anterior] | <<v20-6-0,Topo>> | xref:020-proverbs/020-proverbs-007.adoc#v20-7-0[Próximo Capítulo &#62;]

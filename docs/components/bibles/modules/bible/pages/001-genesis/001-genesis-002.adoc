@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v1-2-0]]
+=== Genesis, 2
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-2-1]]
+
+^<<v1-2-1,1>>^ Thus the heavens and the earth and all their army came to their completion.
+
+[[v1-2-2]]
+
+^<<v1-2-2,2>>^ And by the seventh day God came to the completion of his work that he had made, and he proceeded to rest^&#42;1^ on the seventh day from all his work that he had made.
+
+[NOTE]
+====
+. “And he proceeded to rest.” Heb., wai·yish·bothʹ. The verb is in the imperfect state denoting incomplete or continuous action, or action in progress. See App 3C.
+====
+
+[[v1-2-3]]
+
+^<<v1-2-3,3>>^ And God proceeded to bless the seventh day and make it sacred,^&#42;1^ because on it he has been resting^&#42;2^ from all his work that God has created for the purpose of making.^&#42;3^
+
+[NOTE]
+====
+. “And make it sacred.” Or, “and proceeded to sanctify it (treat it as holy).” Heb., wai·qad·deshʹ ʼo·thohʹ; Lat., et sanc·ti·fi·caʹvit ilʹlum. See Ex 31:13 ftn.
+. Or, “he does rest (desist).” Heb., sha·vathʹ, perfect state. It shows the characteristic of an individual, namely, God, on the seventh day of his creative week. This rendering of sha·vathʹ agrees with the inspired writer’s argument in Heb 4:3-11. See vs 2 ftn.
+. “Making,” that is, all definite things in heaven and earth.
+====
+
+[[v1-2-4]]
+
+^<<v1-2-4,4>>^ This is a history^&#42;1^ of the heavens and the earth in the time of their being created, in the day that Jehovah^&#42;2^ God^&#42;3^ made earth and heaven.
+
+[NOTE]
+====
+. Or, “These are the historical origins.” Heb., ʼelʹleh thoh·ledhohthʹ, “These are the begettings of”; Gr., hauʹte he biʹblos ge·neʹse·os, “This is the book of origin (source)”; Lat., iʹstae ge·ne·ra·ti·oʹnes, “These are the generations.” Compare Mt 1:1 ftn.
+. “Jehovah.” Heb., יְהוָה (YHWH, here vowel-pointed as Yehwahʹ), meaning “He Causes to Become” (from Heb., הָוָה [ha·wahʹ, “to become”]); LXXA(Gr.), Kyʹri·os; Syr., Mar·yaʼ; Lat., Doʹmi·nus. The first occurrence of God’s distinctive personal name, יהוה (YHWH); these four Heb. letters are referred to as the Tetragrammaton. The divine name identifies Jehovah as the Purposer. Only the true God could rightly and authentically bear this name. See App 1A.
+. “Jehovah God.” Heb., Yehwahʹ ʼElo·himʹ. This expression, without the definite Heb. article ha before ʼElo·himʹ, is used 20 times in Ge 1–3. The first occurrence of the expression Yehwahʹ ha·ʼElo·himʹ is in 1Ch 22:1, where it is rendered “Jehovah the [true] God.” See App 1A.
+====
+
+[[v1-2-5]]
+
+^<<v1-2-5,5>>^ Now there was as yet no bush of the field found in the earth and no vegetation of the field was as yet sprouting, because Jehovah God had not made it rain upon the earth and there was no man to cultivate the ground.
+
+[[v1-2-6]]
+
+^<<v1-2-6,6>>^ But a mist^&#42;1^ would go up from the earth and it watered the entire surface of the ground.
+
+[NOTE]
+====
+. Or, “But a vapor.” Heb., weʼedhʹ; LXX(Gr., pe·geʹ)Vg(Lat., fons)Sy, “fountain,” suggesting an underground fresh-water stream; T, “cloud.”
+====
+
+[[v1-2-7]]
+
+^<<v1-2-7,7>>^ And Jehovah God proceeded to form the man out of dust^&#42;1^ from the ground and to blow into his nostrils the breath of life,^&#42;2^ and the man came to be a living soul.^&#42;3^
+
+[NOTE]
+====
+. Or, “clay,” according to the later usage of the Heb. word in pottery making. Heb., ʽa·pharʹ.
+. “Breath of life.” Heb., nish·mathʹ (from nesha·mahʹ) chai·yimʹ.
+. “A living soul [breathing creature].” Heb., leneʹphesh chai·yahʹ; Gr., ψυχὴν ζῶσαν (psy·khenʹ zoʹsan, “living soul”); Lat., aʹni·mam vi·venʹtem. See 1:20, 21, 30; 1Co 15:45; App 4A.
+====
+
+[[v1-2-8]]
+
+^<<v1-2-8,8>>^ Further, Jehovah^&#42;1^ God planted a garden in Eʹden,^&#42;2^ toward the east,^&#42;3^ and there he put the man whom he had formed.
+
+[NOTE]
+====
+. “Jehovah.” Heb., Yehwahʹ; LXX​P. Oxy. VII.1007. This vellum leaf of the third cent. C.E. abbreviated the Tetragrammaton in vss 8 and 18 by doubling the first letter Yohdh, which was written as a “Z,” with a horizontal line extended through the center of both letters. See App 1C §6.
+. “A garden [or, park] in Eden.” Heb., gan-beʽEʹdhen (“Eden,” meaning “Pleasure; Delight”); LXXBagster(Gr.), pa·raʹdei·son en E·demʹ; Lat., pa·ra·diʹsum vo·lu·ptaʹtis, “paradise of pleasure.”
+. “From the beginning,” Vg.
+====
+
+[[v1-2-9]]
+
+^<<v1-2-9,9>>^ Thus Jehovah God made to grow out of the ground every tree desirable to one’s sight and good for food and also the tree of life in the middle of the garden and the tree of the knowledge of good and bad.
+
+[[v1-2-10]]
+
+^<<v1-2-10,10>>^ Now there was a river issuing^&#42;1^ out of Eʹden to water the garden, and from there it began to be parted and it became, as it were, four heads.
+
+[NOTE]
+====
+. This Heb. participle denotes a continuous stream.
+====
+
+[[v1-2-11]]
+
+^<<v1-2-11,11>>^ The first one’s name is Piʹshon; it is the one encircling the entire land of Havʹi·lah, where there is gold.
+
+[[v1-2-12]]
+
+^<<v1-2-12,12>>^ And the gold of that land is good. There also are the bdellium gum and the onyx stone.
+
+[[v1-2-13]]
+
+^<<v1-2-13,13>>^ And the name of the second river is Giʹhon; it is the one encircling the entire land of Cush.^&#42;1^
+
+[NOTE]
+====
+. Heb., Kush; LXXVg, “Ethiopia.”
+====
+
+[[v1-2-14]]
+
+^<<v1-2-14,14>>^ And the name of the third river is Hidʹde·kel;^&#42;1^ it is the one going to the east of As·syrʹi·a.^&#42;2^ And the fourth river is the Eu·phraʹtes.^&#42;3^
+
+[NOTE]
+====
+. Heb., Chid·deʹqel; LXXVg, “Tigris.”
+. “Assyria.” Heb., ʼAsh·shurʹ; LXXVg, “Assyrians.”
+. “Euphrates,” LXXVg; Heb., Pherathʹ.
+====
+
+[[v1-2-15]]
+
+^<<v1-2-15,15>>^ And Jehovah God proceeded to take the man and settle him in the garden of Eʹden to cultivate it and to take care of it.
+
+[[v1-2-16]]
+
+^<<v1-2-16,16>>^ And Jehovah God also laid this command upon the man: “From every tree of the garden you may eat to satisfaction.
+
+[[v1-2-17]]
+
+^<<v1-2-17,17>>^ But as for the tree of the knowledge of good and bad you must not eat from it, for in the day you eat from it you will positively die.”^&#42;1^
+
+[NOTE]
+====
+. “You will positively die.” Lit., “dying you [sing.] will die.” Heb., mohth ta·muthʹ; the first reference to death in the Bible. See Eze 3:18 ftn.
+====
+
+[[v1-2-18]]
+
+^<<v1-2-18,18>>^ And Jehovah^&#42;1^ God went on to say: “It is not good for the man to continue by himself. I am going to make a helper for him, as a complement^&#42;2^ of him.”
+
+[NOTE]
+====
+. See App 1C §6.
+. Or, “counterpart,” something fitting for him.
+====
+
+[[v1-2-19]]
+
+^<<v1-2-19,19>>^ Now Jehovah God was forming^&#42;1^ from the ground every wild beast of the field and every flying creature of the heavens, and he began bringing them to the man to see what he would call each one; and whatever the man would call it, each living soul, that was its name.
+
+[NOTE]
+====
+. In point of time it was still the sixth creative day. The verb “form” in the imperfect here denotes continued, progressive action. See App 3C.
+====
+
+[[v1-2-20]]
+
+^<<v1-2-20,20>>^ So the man was calling the names of all the domestic animals and of the flying creatures of the heavens and of every wild beast of the field, but for man there was found no helper^&#42;1^ as a complement of him.
+
+[NOTE]
+====
+. Lit., “he did not find a helper.”
+====
+
+[[v1-2-21]]
+
+^<<v1-2-21,21>>^ Hence Jehovah God had a deep sleep fall upon the man and, while he was sleeping, he took one of his ribs and then closed up the flesh over its place.
+
+[[v1-2-22]]
+
+^<<v1-2-22,22>>^ And Jehovah^&#42;1^ God proceeded to build the rib that he had taken from the man into a woman and to bring her to the man.
+
+[NOTE]
+====
+. Heb., Yehwahʹ.
+====
+
+[[v1-2-23]]
+
+^<<v1-2-23,23>>^ Then the man said:
+“This is at last bone of my bones
+And flesh of my flesh.
+This one will be called Woman,^&#42;1^
+Because from man^&#42;2^ this one was taken.”
+
+[NOTE]
+====
+. Lit., “a female man.” Heb., ʼish·shahʹ.
+. “From man.” Heb., me·ʼishʹ.
+====
+
+[[v1-2-24]]
+
+^<<v1-2-24,24>>^ That is why a man will leave his father and his mother and he must stick to his wife^&#42;1^ and they must become one flesh.
+
+[NOTE]
+====
+. Or, “woman.”
+====
+
+[[v1-2-25]]
+
+^<<v1-2-25,25>>^ And both of them continued to be naked, the man and his wife, and yet they did not become ashamed.
+
+'''
+
+xref:001-genesis/001-genesis-001.adoc#v1-1-0[&#60; Capítulo Anterior] | <<v1-2-0,Topo>> | xref:001-genesis/001-genesis-003.adoc#v1-3-0[Próximo Capítulo &#62;]

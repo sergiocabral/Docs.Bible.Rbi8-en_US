@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v19-135-0]]
+=== Psalms, 135
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-135-1]]
+
+^<<v19-135-1,1>>^ Praise Jah, YOU people!^&#42;1^
+Praise the name of Jehovah,
+Offer praise, O servants of Jehovah,
+
+[NOTE]
+====
+. See 104:35 ftns.
+====
+
+[[v19-135-2]]
+
+^<<v19-135-2,2>>^ YOU who are standing in the house of Jehovah,
+In the courtyards of the house of our God.
+
+[[v19-135-3]]
+
+^<<v19-135-3,3>>^ Praise Jah,^&#42;1^ for Jehovah is good.
+Make melody to his name, for it is pleasant.
+
+[NOTE]
+====
+. See 68:4 ftn.
+====
+
+[[v19-135-4]]
+
+^<<v19-135-4,4>>^ For Jah has chosen even Jacob for himself,
+Israel for his special property.
+
+[[v19-135-5]]
+
+^<<v19-135-5,5>>^ For I myself well know that Jehovah is great,
+And our Lord^&#42;1^ is more than all &#91;other&#93; gods.^&#42;2^
+
+[NOTE]
+====
+. “And our Lord.” Heb., wa·ʼAdho·nehʹnu, pl. of ʼA·dhohnʹ, to denote excellence or grandeur.
+. “Gods.” Heb. and T(Aram.), ʼelo·himʹ; Gr., the·ousʹ; Lat., diʹis.
+====
+
+[[v19-135-6]]
+
+^<<v19-135-6,6>>^ Everything that Jehovah delighted &#91;to do&#93; he has done
+In the heavens and in the earth, in the seas and all the watery deeps.^&#42;1^
+
+[NOTE]
+====
+. Or, “surging waters.” Heb., tehoh·mohthʹ; LXXVg, “abysses.” See 33:7 ftn, “Waters.”
+====
+
+[[v19-135-7]]
+
+^<<v19-135-7,7>>^ He is causing vapors to ascend from the extremity^&#42;1^ of the earth;
+He has made even sluices^&#42;2^ for the rain;
+He is bringing forth the wind^&#42;3^ from his storehouses,
+
+[NOTE]
+====
+. See Jer 25:31, 33 ftns.
+. Lit., “lightnings.” Heb., bera·qimʹ; by reading bedha·qimʹ instead of bera·qimʹ, “sluices”; TLXXSyVg, “lightnings.” See JTS, Vol. 3, 1952, pp. 214-216.
+. “Wind.” Heb., ruʹach; Gr., a·neʹmous; Lat., venʹtos. See Ge 1:2 ftn, “Force.”
+====
+
+[[v19-135-8]]
+
+^<<v19-135-8,8>>^ He who struck down the firstborn ones of Egypt,
+Both man^&#42;1^ and beast.
+
+[NOTE]
+====
+. Lit., “from earthling man.” Heb., me·ʼa·dhamʹ.
+====
+
+[[v19-135-9]]
+
+^<<v19-135-9,9>>^ He sent signs and miracles into the midst of you, O Egypt,
+Upon Pharʹaoh and upon all his servants;
+
+[[v19-135-10]]
+
+^<<v19-135-10,10>>^ He who struck down many nations
+And killed potent kings,
+
+[[v19-135-11]]
+
+^<<v19-135-11,11>>^ Even Siʹhon the king of the Amʹor·ites
+And Og the king of Baʹshan
+And all the kingdoms of Caʹnaan,
+
+[[v19-135-12]]
+
+^<<v19-135-12,12>>^ And who gave their land as an inheritance,
+An inheritance to Israel his people.
+
+[[v19-135-13]]
+
+^<<v19-135-13,13>>^ O Jehovah, your name is to time indefinite.
+O Jehovah, your memorial is to generation after generation.^&#42;1^
+
+[NOTE]
+====
+. Or, “to all generations.”
+====
+
+[[v19-135-14]]
+
+^<<v19-135-14,14>>^ For Jehovah will plead the cause of his people,
+And he will feel regret even over his servants.
+
+[[v19-135-15]]
+
+^<<v19-135-15,15>>^ The idols of the nations are silver and gold,
+The work of the hands of earthling man.^&#42;1^
+
+[NOTE]
+====
+. Or, “of man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-135-16]]
+
+^<<v19-135-16,16>>^ A mouth they have, but they can speak nothing;
+Eyes they have, but they can see nothing;
+
+[[v19-135-17]]
+
+^<<v19-135-17,17>>^ Ears they have, but they can give ear to nothing.
+Also there exists no spirit^&#42;1^ in their mouth.
+
+[NOTE]
+====
+. Or, “breath.” Heb., ruʹach; Gr., pneuʹma; Lat., spiʹri·tus. Compare vs 7 ftn, “Wind”; 104:29 ftn.
+====
+
+[[v19-135-18]]
+
+^<<v19-135-18,18>>^ Those making them will become just like them,
+Everyone who is trusting in them.
+
+[[v19-135-19]]
+
+^<<v19-135-19,19>>^ O house of Israel, do YOU men bless Jehovah.
+O house of Aaron, do YOU men bless Jehovah.
+
+[[v19-135-20]]
+
+^<<v19-135-20,20>>^ O house of Leʹvi, do YOU men bless Jehovah.
+YOU fearers of Jehovah, bless Jehovah.
+
+[[v19-135-21]]
+
+^<<v19-135-21,21>>^ Blessed out of Zion be Jehovah,
+Who is residing in Jerusalem.
+Praise Jah, YOU people!^&#42;1^
+
+[NOTE]
+====
+. See 104:35 ftns.
+====
+
+'''
+
+xref:019-psalm/019-psalm-134.adoc#v19-134-0[&#60; Capítulo Anterior] | <<v19-135-0,Topo>> | xref:019-psalm/019-psalm-136.adoc#v19-136-0[Próximo Capítulo &#62;]

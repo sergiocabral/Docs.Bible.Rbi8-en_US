@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-13-0]]
+=== Psalms, 13
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. A melody of David._
+
+[[v19-13-1]]
+
+^<<v19-13-1,1>>^ How long, O Jehovah, will you forget me? Forever?
+How long will you conceal your face from me?
+
+[[v19-13-2]]
+
+^<<v19-13-2,2>>^ How long shall I set resistance in my soul,
+Grief in my heart by day?
+How long will my enemy be exalted over me?
+
+[[v19-13-3]]
+
+^<<v19-13-3,3>>^ Do look &#91;upon me&#93;; answer me, O Jehovah my God.
+Do make my eyes shine, that I may not fall asleep in death,
+
+[[v19-13-4]]
+
+^<<v19-13-4,4>>^ That my enemy may not say: “I have won out over him!”
+&#91;That&#93; my adversaries themselves may &#91;not&#93; be joyful because I am made to stagger.
+
+[[v19-13-5]]
+
+^<<v19-13-5,5>>^ As for me, in your loving-kindness^&#42;1^ I have trusted;
+Let my heart be joyful in your salvation.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v19-13-6]]
+
+^<<v19-13-6,6>>^ I will sing to Jehovah, for he has dealt rewardingly with me.^&#42;1^
+
+[NOTE]
+====
+. LXXVg add: “And I shall make melody to the name of Jehovah the Most High.” See 7:17.
+====
+
+'''
+
+xref:019-psalm/019-psalm-012.adoc#v19-12-0[&#60; Capítulo Anterior] | <<v19-13-0,Topo>> | xref:019-psalm/019-psalm-014.adoc#v19-14-0[Próximo Capítulo &#62;]

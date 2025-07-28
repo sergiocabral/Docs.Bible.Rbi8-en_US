@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v1-23-0]]
+=== Genesis, 23
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-23-1]]
+
+^<<v1-23-1,1>>^ And Sarah’s life got to be a hundred and twenty-seven years long. They were the years of Sarah’s life.
+
+[[v1-23-2]]
+
+^<<v1-23-2,2>>^ So Sarah died in Kirʹi·ath-arʹba, that is to say, Heʹbron, in the land of Caʹnaan, and Abraham came in to bewail Sarah and to weep over her.
+
+[[v1-23-3]]
+
+^<<v1-23-3,3>>^ Then Abraham got up from before his dead and proceeded to speak to the sons of Heth,^&#42;1^ saying:
+
+[NOTE]
+====
+. “The sons of Heth.” Heb., beneh-Chethʹ. Or, “the Hittites.”
+====
+
+[[v1-23-4]]
+
+^<<v1-23-4,4>>^ “An alien resident and settler I am among YOU. Give me the possession of a burial place among YOU that I may bury my dead out of my sight.”
+
+[[v1-23-5]]
+
+^<<v1-23-5,5>>^ At this the sons of Heth answered Abraham, saying to him:
+
+[[v1-23-6]]
+
+^<<v1-23-6,6>>^ “Hear us, my lord.^&#42;1^ A chieftain of God^&#42;2^ you are in the midst of us. In the choicest^&#42;3^ of our burial places bury your dead. None of us will hold back his burial place from you to prevent burying your dead.”
+
+[NOTE]
+====
+. “My lord.” Heb., ʼadho·niʹ, the word ʼa·dhohnʹ, “lord; master,” with the pronominal suffix i, “my.”
+. Or, “A mighty chieftain.”
+. Lit., “choice.”
+====
+
+[[v1-23-7]]
+
+^<<v1-23-7,7>>^ Thereupon Abraham got up and bowed down to the natives,^&#42;1^ to the sons of Heth,
+
+[NOTE]
+====
+. Lit., “to the people of the land.” Heb., leʽam-ha·ʼaʹrets.
+====
+
+[[v1-23-8]]
+
+^<<v1-23-8,8>>^ and spoke with them, saying: “If YOUR souls agree^&#42;1^ to bury my dead out of my sight, listen to me and urge Eʹphron the son of Zoʹhar for me,
+
+[NOTE]
+====
+. Lit., “with your soul,” used collectively. Heb., ʼeth-naph·shekhemʹ; Gr., psy·kheiʹ.
+====
+
+[[v1-23-9]]
+
+^<<v1-23-9,9>>^ that he may give me the cave of Mach·peʹlah,^&#42;1^ which is his, which is at the extremity of his field. For the full amount of silver let him give it to me in the midst of YOU for the possession of a burial place.”
+
+[NOTE]
+====
+. Lit., “the Doubling,” possibly from the double entrance or from the two recesses or receptacles. Heb., ham·Makh·pe·lahʹ.
+====
+
+[[v1-23-10]]
+
+^<<v1-23-10,10>>^ As it was, Eʹphron was sitting among the sons of Heth. So Eʹphron the Hitʹtite answered Abraham in the hearing^&#42;1^ of the sons of Heth with all those entering the gate of his city, saying:
+
+[NOTE]
+====
+. Lit., “ears.”
+====
+
+[[v1-23-11]]
+
+^<<v1-23-11,11>>^ “No, my lord! Listen to me. The field I do give to you, and the cave that is in it to you I do give it. Before the eyes of the sons of my people I do give it to you. Bury your dead.”
+
+[[v1-23-12]]
+
+^<<v1-23-12,12>>^ At that Abraham bowed down before the natives
+
+[[v1-23-13]]
+
+^<<v1-23-13,13>>^ and spoke to Eʹphron in the hearing of the natives, saying: “Only if you—no, listen to me! I will give you the amount of silver for the field. Take it from me, that I may bury my dead there.”
+
+[[v1-23-14]]
+
+^<<v1-23-14,14>>^ Then Eʹphron answered Abraham, saying to him:
+
+[[v1-23-15]]
+
+^<<v1-23-15,15>>^ “My lord, listen to me. A land plot worth four hundred silver shekels,^&#42;1^ what is that between me and you? So bury your dead.”
+
+[NOTE]
+====
+. To calculate value, see App 8A.
+====
+
+[[v1-23-16]]
+
+^<<v1-23-16,16>>^ Accordingly Abraham listened to Eʹphron, and Abraham weighed out to Eʹphron the amount of silver that he had spoken in the hearing of the sons of Heth, four hundred silver shekels current with the merchants.
+
+[[v1-23-17]]
+
+^<<v1-23-17,17>>^ Thus the field of Eʹphron that was in Mach·peʹlah, which is in front of Mamʹre, the field and the cave that was in it and all the trees that were in the field, which were within all its boundaries round about, became confirmed
+
+[[v1-23-18]]
+
+^<<v1-23-18,18>>^ to Abraham as his purchased property before the eyes of the sons of Heth among all those entering the gate of his city.
+
+[[v1-23-19]]
+
+^<<v1-23-19,19>>^ And after that Abraham buried Sarah his wife in the cave of the field of Mach·peʹlah in front of Mamʹre, that is to say, Heʹbron, in the land of Caʹnaan.
+
+[[v1-23-20]]
+
+^<<v1-23-20,20>>^ Thus the field and the cave that was in it became confirmed to Abraham for the possession of a burial place at the hands of the sons of Heth.
+
+'''
+
+xref:001-genesis/001-genesis-022.adoc#v1-22-0[&#60; Capítulo Anterior] | <<v1-23-0,Topo>> | xref:001-genesis/001-genesis-024.adoc#v1-24-0[Próximo Capítulo &#62;]

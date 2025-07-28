@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v1-15-0]]
+=== Genesis, 15
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-15-1]]
+
+^<<v1-15-1,1>>^ After these things the word of Jehovah came to Aʹbram in a vision, saying: “Do not fear, Aʹbram. I am a shield for you. Your reward will be very great.”^&#42;1^
+
+[NOTE]
+====
+. “I am a protector for you and your very great reward,” Vg.
+====
+
+[[v1-15-2]]
+
+^<<v1-15-2,2>>^ At this Aʹbram said: “Sovereign Lord Jehovah,^&#42;1^ what will you give me, seeing that I am going childless and the one who will possess my house is a man of Damascus, E·li·eʹzer?”
+
+[NOTE]
+====
+. “Sovereign Lord Jehovah.” Heb., ʼAdho·naiʹ Yehwihʹ. Where God’s name follows the title ʼAdho·naiʹ, as occurs here, note that the vowel pointing for YHWH changes. Here BHK reads Yehwihʹ instead of Yehwahʹ; whereas Gins. reads Yeho·wihʹ instead of Yeho·wahʹ. See App 1E.
+====
+
+[[v1-15-3]]
+
+^<<v1-15-3,3>>^ And Aʹbram added: “Look! You have given me no seed, and, look! a son of my household is succeeding me as heir.”
+
+[[v1-15-4]]
+
+^<<v1-15-4,4>>^ But, look! the word of Jehovah to him was in these words: “This man will not succeed you as heir, but one who will come out of your own inward parts^&#42;1^ will succeed you as heir.”
+
+[NOTE]
+====
+. “Inward parts.” Lit., “bowels.”
+====
+
+[[v1-15-5]]
+
+^<<v1-15-5,5>>^ He now brought him outside and said: “Look up, please, to the heavens and count the stars, if you are possibly able to count them.” And he went on to say to him: “So your seed will become.”
+
+[[v1-15-6]]
+
+^<<v1-15-6,6>>^ And he put faith^&#42;1^ in Jehovah; and he proceeded to count it to him as righteousness.
+
+[NOTE]
+====
+. “Put faith.” This is the first mention of exercising faith, and properly so, because Ro 4:11 pronounces Abraham “the father of all those having faith while in uncircumcision.”
+====
+
+[[v1-15-7]]
+
+^<<v1-15-7,7>>^ Then he added to him: “I am Jehovah, who brought you out of Ur of the Chal·deʹans to give you this land to take it in possession.”
+
+[[v1-15-8]]
+
+^<<v1-15-8,8>>^ To this he said: “Sovereign Lord Jehovah,^&#42;1^ by what shall I know that I shall take it in possession?”
+
+[NOTE]
+====
+. Heb., Yehwihʹ; LXXP. Oxy. IV.656 originally left a blank space sufficient for four letters where the Tetragrammaton occurs in this vs in M. See The Oxyrhynchus Papyri, Part IV, edited by B. P. Grenfell and A. S. Hunt, London, 1904, pp. 30, 33.
+====
+
+[[v1-15-9]]
+
+^<<v1-15-9,9>>^ In turn he said to him: “Take for me^&#42;1^ a three-year-old heifer and a three-year-old she-goat and a three-year-old ram and a turtledove and a young pigeon.”
+
+[NOTE]
+====
+. “Me,” MLXXVg; Sy, “yourself.”
+====
+
+[[v1-15-10]]
+
+^<<v1-15-10,10>>^ So he took all these to himself and cut them in two and put each part of them so as to match the other, but the birds he did not cut in pieces.
+
+[[v1-15-11]]
+
+^<<v1-15-11,11>>^ And the birds of prey began to descend upon the carcasses, but Aʹbram kept driving them away.
+
+[[v1-15-12]]
+
+^<<v1-15-12,12>>^ After a while the sun was about to set, and a deep sleep fell upon Aʹbram, and, look! a frightfully great darkness^&#42;1^ was falling upon him.
+
+[NOTE]
+====
+. Lit., “a fright, great darkness.”
+====
+
+[[v1-15-13]]
+
+^<<v1-15-13,13>>^ And he began to say to Aʹbram: “You may know for sure that your seed will become an alien resident in a land not theirs, and they will have to serve them, and these will certainly afflict them for four hundred years.
+
+[[v1-15-14]]
+
+^<<v1-15-14,14>>^ But the nation that they will serve I am judging, and after that they will go out with many goods.
+
+[[v1-15-15]]
+
+^<<v1-15-15,15>>^ As for you, you will go to your forefathers in peace; you will be buried at a good old age.
+
+[[v1-15-16]]
+
+^<<v1-15-16,16>>^ But in the fourth generation they will return here, because the error of the Amʹor·ites has not yet come to completion.”
+
+[[v1-15-17]]
+
+^<<v1-15-17,17>>^ The sun was now setting and a dense darkness came and, look! a smoking furnace and a fiery torch that passed in between these pieces.
+
+[[v1-15-18]]
+
+^<<v1-15-18,18>>^ On that day Jehovah concluded^&#42;1^ with Aʹbram a covenant, saying: “To your seed I will give this land, from the river of Egypt to the great river, the river Eu·phraʹtes:
+
+[NOTE]
+====
+. Lit., “cut.” LXX, “covenanted.”
+====
+
+[[v1-15-19]]
+
+^<<v1-15-19,19>>^ the Kenʹites and the Kenʹiz·zites and the Kadʹmon·ites
+
+[[v1-15-20]]
+
+^<<v1-15-20,20>>^ and the Hitʹtites and the Perʹiz·zites and the Rephʹa·im
+
+[[v1-15-21]]
+
+^<<v1-15-21,21>>^ and the Amʹor·ites and the Caʹnaan·ites and the Girʹga·shites and the Jebʹu·sites.”
+
+'''
+
+xref:001-genesis/001-genesis-014.adoc#v1-14-0[&#60; Capítulo Anterior] | <<v1-15-0,Topo>> | xref:001-genesis/001-genesis-016.adoc#v1-16-0[Próximo Capítulo &#62;]

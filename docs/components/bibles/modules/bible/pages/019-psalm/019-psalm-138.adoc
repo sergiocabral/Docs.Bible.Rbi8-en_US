@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v19-138-0]]
+=== Psalms, 138
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David._
+
+[[v19-138-1]]
+
+^<<v19-138-1,1>>^ I shall laud you with all my heart.
+In front of other gods^&#42;1^ I shall make melody to you.
+
+[NOTE]
+====
+. “Gods.” Heb., ʼelo·himʹ; LXXSyVg, “angels”; T, “judges.”
+====
+
+[[v19-138-2]]
+
+^<<v19-138-2,2>>^ I shall bow down toward your holy temple,
+And I shall laud your name,
+Because of your loving-kindness^&#42;1^ and because of your trueness.^&#42;2^
+For you have magnified your saying even above all your name.
+
+[NOTE]
+====
+. Or, “loyal love.”
+. “Your trueness (truthfulness; truth).” Heb., ʼamit·teʹkha (from ʼemethʹ).
+====
+
+[[v19-138-3]]
+
+^<<v19-138-3,3>>^ On the day that I called, you also proceeded to answer me;
+You began to make me bold in my soul with strength.
+
+[[v19-138-4]]
+
+^<<v19-138-4,4>>^ All the kings of the earth will laud you, O Jehovah,
+For they will have heard the sayings of your mouth.
+
+[[v19-138-5]]
+
+^<<v19-138-5,5>>^ And they will sing about the ways of Jehovah,
+For the glory of Jehovah is great.
+
+[[v19-138-6]]
+
+^<<v19-138-6,6>>^ For Jehovah is high, and yet the humble one he sees;
+But the lofty one he knows only from a distance.
+
+[[v19-138-7]]
+
+^<<v19-138-7,7>>^ If I should walk in the midst of distress, you will preserve me alive.
+Because of^&#42;1^ the anger of my enemies you will thrust out your hand,
+And your right hand will save me.
+
+[NOTE]
+====
+. Or, “Against.”
+====
+
+[[v19-138-8]]
+
+^<<v19-138-8,8>>^ Jehovah himself will complete what is in my behalf.
+O Jehovah, to time indefinite is your loving-kindness.
+Do not desert the works of your own hands.
+
+'''
+
+xref:019-psalm/019-psalm-137.adoc#v19-137-0[&#60; Capítulo Anterior] | <<v19-138-0,Topo>> | xref:019-psalm/019-psalm-139.adoc#v19-139-0[Próximo Capítulo &#62;]

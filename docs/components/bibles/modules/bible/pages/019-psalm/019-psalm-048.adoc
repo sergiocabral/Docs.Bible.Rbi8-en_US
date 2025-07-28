@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v19-48-0]]
+=== Psalms, 48
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A song. A melody of the sons of Koʹrah._
+
+[[v19-48-1]]
+
+^<<v19-48-1,1>>^ Jehovah is great and much to be praised
+In the city of our God, &#91;in&#93; his holy mountain.
+
+[[v19-48-2]]
+
+^<<v19-48-2,2>>^ Pretty for loftiness, the exultation of the whole earth,
+Is Mount Zion on the remote sides of the north,
+The town of the grand King.
+
+[[v19-48-3]]
+
+^<<v19-48-3,3>>^ In her dwelling towers God himself has become known as a secure height.
+
+[[v19-48-4]]
+
+^<<v19-48-4,4>>^ For, look! the kings themselves have met by appointment,
+They have passed by together.
+
+[[v19-48-5]]
+
+^<<v19-48-5,5>>^ They themselves saw; &#91;and&#93; so they were amazed.
+They got disturbed, they were sent running in panic.
+
+[[v19-48-6]]
+
+^<<v19-48-6,6>>^ Trembling itself took hold of them there,
+Birth pangs like those of a woman giving birth.
+
+[[v19-48-7]]
+
+^<<v19-48-7,7>>^ With an east wind you wreck the ships of Tarʹshish.
+
+[[v19-48-8]]
+
+^<<v19-48-8,8>>^ Just as we have heard, so we have seen
+In the city of Jehovah of armies, in the city of our God.
+God himself will firmly establish it^&#42;1^ to time indefinite. Seʹlah.
+
+[NOTE]
+====
+. “It,” fem., referring to the “city.”
+====
+
+[[v19-48-9]]
+
+^<<v19-48-9,9>>^ We have pondered, O God, over your loving-kindness
+In the midst of your temple.
+
+[[v19-48-10]]
+
+^<<v19-48-10,10>>^ Like your name, O God, so your praise is
+To the borders of the earth.
+Your right hand is full of righteousness itself.
+
+[[v19-48-11]]
+
+^<<v19-48-11,11>>^ May Mount Zion rejoice,
+May the dependent towns^&#42;1^ of Judah be joyful, on account of your judicial decisions.
+
+[NOTE]
+====
+. Lit., “the daughters.” Compare Nu 21:25 ftn.
+====
+
+[[v19-48-12]]
+
+^<<v19-48-12,12>>^ March around Zion, YOU people, and go about it,
+Count its towers.
+
+[[v19-48-13]]
+
+^<<v19-48-13,13>>^ Set YOUR hearts upon its rampart.
+Inspect^&#42;1^ its dwelling towers,
+In order that YOU may recount it to the future generation.
+
+[NOTE]
+====
+. “Inspect,” by a correction; Heb., pas·seghuʹ, the meaning of which is uncertain; LXXVg, “Distribute.”
+====
+
+[[v19-48-14]]
+
+^<<v19-48-14,14>>^ For this God is our God to time indefinite, even forever.
+He himself will guide us until &#91;we&#93; die.^&#42;1^
+
+[NOTE]
+====
+. “Until [we] die,” MSy; LXXVg, “forever.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-047.adoc#v19-47-0[&#60; Capítulo Anterior] | <<v19-48-0,Topo>> | xref:019-psalm/019-psalm-049.adoc#v19-49-0[Próximo Capítulo &#62;]

@@ -1,0 +1,265 @@
+include::./index.adoc[]
+
+[[v3-11-0]]
+=== Leviticus, 11
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-11-1]]
+
+^<<v3-11-1,1>>^ And Jehovah proceeded to speak to Moses and Aaron, saying to them:
+
+[[v3-11-2]]
+
+^<<v3-11-2,2>>^ “Speak to the sons of Israel, saying, ‘This is the living creature that YOU may eat of all the beasts that are upon the earth:
+
+[[v3-11-3]]
+
+^<<v3-11-3,3>>^ Every creature that splits the hoof and forms a cleft in the hoofs and chews^&#42;1^ the cud among the beasts, that is what YOU may eat.
+
+[NOTE]
+====
+. Lit., “brings up [regurgitates].”
+====
+
+[[v3-11-4]]
+
+^<<v3-11-4,4>>^ “‘Only this is what YOU must not eat among the chewers of the cud and the splitters of the hoof: the camel, because it is a chewer of the cud but is no splitter of the hoof. It is unclean for YOU.
+
+[[v3-11-5]]
+
+^<<v3-11-5,5>>^ Also the rock badger,^&#42;1^ because it is a chewer of the cud but does not split the hoof. It is unclean for YOU.
+
+[NOTE]
+====
+. Or, “daman; coney.”
+====
+
+[[v3-11-6]]
+
+^<<v3-11-6,6>>^ Also the hare,^&#42;1^ because it is a chewer of the cud but it does not have the hoof split. It is unclean for YOU.
+
+[NOTE]
+====
+. Or, “rabbit.”
+====
+
+[[v3-11-7]]
+
+^<<v3-11-7,7>>^ Also the pig, because it is a splitter of the hoof and a former of a cleft in the hoof, but it itself does not chew the cud. It is unclean for YOU.
+
+[[v3-11-8]]
+
+^<<v3-11-8,8>>^ YOU must not eat any of their flesh, and YOU must not touch their dead body. They are unclean for YOU.
+
+[[v3-11-9]]
+
+^<<v3-11-9,9>>^ “‘This is what YOU may eat of everything that is in the waters: Everything that has fins and scales in the waters, in the seas and in the torrents, those YOU may eat.
+
+[[v3-11-10]]
+
+^<<v3-11-10,10>>^ And everything in the seas and the torrents that has no fins and scales, out of every swarming creature of the waters and out of every living soul^&#42;1^ that is in the waters, they are a loathsome thing for YOU.
+
+[NOTE]
+====
+. “Soul.” Heb., neʹphesh; Gr., psy·khesʹ; Syr., naph·shaʼ.
+====
+
+[[v3-11-11]]
+
+^<<v3-11-11,11>>^ Yes, they will become a loathsome thing to YOU. YOU must not eat any of their flesh, and YOU are to loathe their dead body.
+
+[[v3-11-12]]
+
+^<<v3-11-12,12>>^ Everything in the waters that has no fins and scales is a loathsome thing to YOU.
+
+[[v3-11-13]]
+
+^<<v3-11-13,13>>^ “‘And these are what YOU will loathe among the flying creatures. They should not be eaten. They are a loathsome thing: the eagle and the osprey^&#42;1^ and the black vulture,
+
+[NOTE]
+====
+. Lit., “the breaker,” a bird of prey.
+====
+
+[[v3-11-14]]
+
+^<<v3-11-14,14>>^ and the red kite and the black kite according to its kind,^&#42;1^
+
+[NOTE]
+====
+. See Ge 1:11 ftn.
+====
+
+[[v3-11-15]]
+
+^<<v3-11-15,15>>^ and every raven according to its kind,
+
+[[v3-11-16]]
+
+^<<v3-11-16,16>>^ and the ostrich^&#42;1^ and the owl^&#42;2^ and the gull and the falcon according to its kind,
+
+[NOTE]
+====
+. Lit., “the daughter of the desert [hard, stony tract of land]”; or, “the daughter of greed.”
+. “Night owl,” LXXVg.
+====
+
+[[v3-11-17]]
+
+^<<v3-11-17,17>>^ and the little owl and the cormorant and the long-eared owl,
+
+[[v3-11-18]]
+
+^<<v3-11-18,18>>^ and the swan^&#42;1^ and the pelican and the vulture,
+
+[NOTE]
+====
+. “Swan,” Vg; LXX, “purple-colored bird.”
+====
+
+[[v3-11-19]]
+
+^<<v3-11-19,19>>^ and the stork, the heron according to its kind, and the hoopoe and the bat.
+
+[[v3-11-20]]
+
+^<<v3-11-20,20>>^ Every winged swarming creature that goes on all fours is a loathsome thing to YOU.
+
+[[v3-11-21]]
+
+^<<v3-11-21,21>>^ “‘Only this is what YOU may eat of all the winged swarming creatures that go upon all fours, those that have^&#42;1^ leaper legs above their feet with which to leap upon the earth.
+
+[NOTE]
+====
+. “That have,” LXXSyVg; M, “what does not [have].” Compare vs 23.
+====
+
+[[v3-11-22]]
+
+^<<v3-11-22,22>>^ These are the ones of them YOU may eat of: the migratory locust^&#42;1^ according to its kind, and the edible locust after its kind, and the cricket according to its kind, and the grasshopper^&#42;2^ according to its kind.
+
+[NOTE]
+====
+. A locust in the fully developed, winged stage.
+. A species of locust; possibly a leaper and not a flier.
+====
+
+[[v3-11-23]]
+
+^<<v3-11-23,23>>^ And every other winged swarming creature that does have four legs is a loathsome thing to YOU.
+
+[[v3-11-24]]
+
+^<<v3-11-24,24>>^ So by these YOU would make yourselves unclean. Everyone touching their dead bodies will be unclean until the evening.
+
+[[v3-11-25]]
+
+^<<v3-11-25,25>>^ And everyone carrying any of their dead bodies will wash his garments, and he must be unclean until the evening.
+
+[[v3-11-26]]
+
+^<<v3-11-26,26>>^ “‘As for any beast that is a splitter of the hoof but is not a former of a cleft and is not a chewer of the cud, they are unclean for YOU. Everyone touching them will be unclean.
+
+[[v3-11-27]]
+
+^<<v3-11-27,27>>^ As for every creature going upon its paws among all the living creatures that go on all fours, they are unclean to YOU. Everyone touching their dead bodies will be unclean until the evening.
+
+[[v3-11-28]]
+
+^<<v3-11-28,28>>^ And he who carries their dead bodies will wash his garments, and he must be unclean until the evening. They are unclean to YOU.
+
+[[v3-11-29]]
+
+^<<v3-11-29,29>>^ “‘And this is what is unclean to YOU among the swarming creatures that swarm upon the earth: the mole rat and the jerboa and the lizard^&#42;1^ according to its kind,
+
+[NOTE]
+====
+. “Lizard,” M; LXX, “lizard; [desert] monitor; [land] crocodile”; Vg, “crocodile.”
+====
+
+[[v3-11-30]]
+
+^<<v3-11-30,30>>^ and the gecko fanfoot and the large lizard and the newt^&#42;1^ and the sand lizard and the chameleon.^&#42;2^
+
+[NOTE]
+====
+. “Newt,” Vg.
+. “Mole,” LXXVg.
+====
+
+[[v3-11-31]]
+
+^<<v3-11-31,31>>^ These are unclean to YOU among all the swarming creatures. Everyone touching them in their death state will be unclean until the evening.
+
+[[v3-11-32]]
+
+^<<v3-11-32,32>>^ “‘Now anything upon which any of them should fall in its death state will be unclean, whether it be some wooden vessel or a garment or a skin or sackcloth. Any vessel of which some use is made will be put in water, and it must be unclean until the evening and then be clean.
+
+[[v3-11-33]]
+
+^<<v3-11-33,33>>^ As for any earthenware vessel into which any of them should fall, anything that is within it will be unclean, and YOU will smash it.
+
+[[v3-11-34]]
+
+^<<v3-11-34,34>>^ Any sort of food that may be eaten upon which water may come from it will be unclean, and any drink that may be drunk in any vessel will be unclean.
+
+[[v3-11-35]]
+
+^<<v3-11-35,35>>^ And everything upon which any of their dead bodies may fall will be unclean. Whether oven or jar stand, it is to be broken down. They are unclean, and they will become unclean to YOU.
+
+[[v3-11-36]]
+
+^<<v3-11-36,36>>^ Only a spring and a pit of impounded waters will continue clean, but anyone touching their dead bodies will be unclean.
+
+[[v3-11-37]]
+
+^<<v3-11-37,37>>^ And should any of their dead bodies fall upon any seed of a plant that is to be sown, it is clean.
+
+[[v3-11-38]]
+
+^<<v3-11-38,38>>^ But in case water should be put upon seed and something of their dead bodies had fallen upon it, it is unclean to YOU.
+
+[[v3-11-39]]
+
+^<<v3-11-39,39>>^ “‘Now in case any beast that is YOURS for food should die, he who touches its dead body will be unclean until the evening.
+
+[[v3-11-40]]
+
+^<<v3-11-40,40>>^ And he who eats any of its dead body will wash his garments, and he must be unclean until the evening; and he who carries off its dead body will wash his garments, and he must be unclean until the evening.
+
+[[v3-11-41]]
+
+^<<v3-11-41,41>>^ And every swarming creature that swarms upon the earth is a loathsome thing. It must not be eaten.
+
+[[v3-11-42]]
+
+^<<v3-11-42,42>>^ As for any creature that goes upon the belly^&#42;1^ and any creature that goes on all fours or any great number of feet of all the swarming creatures that swarm upon the earth, YOU must not eat them, because they are a loathsome thing.
+
+[NOTE]
+====
+. “Belly.” Gins., BHS and many Heb. mss have the third letter, Waw (ו), in the word for “belly” enlarged to make it stand out as the middle letter of the Pentateuch, showing that the Sopherim counted the very letters. The small Masorah calls attention to this.
+====
+
+[[v3-11-43]]
+
+^<<v3-11-43,43>>^ Do not make YOUR souls loathsome with any swarming creature that swarms, and YOU must not make yourselves unclean by them and actually get unclean by them.
+
+[[v3-11-44]]
+
+^<<v3-11-44,44>>^ For I am Jehovah YOUR God; and YOU must sanctify yourselves and YOU must prove yourselves holy, because I am holy. So YOU must not make YOUR souls unclean by any swarming creature that moves upon the earth.
+
+[[v3-11-45]]
+
+^<<v3-11-45,45>>^ For I am Jehovah who is leading YOU up out of the land of Egypt to prove myself God to YOU; and YOU must prove yourselves holy, because I am holy.
+
+[[v3-11-46]]
+
+^<<v3-11-46,46>>^ “‘This is the law about the beast and the flying creature and every living soul that moves about in the waters and concerning every soul that swarms upon the earth,
+
+[[v3-11-47]]
+
+^<<v3-11-47,47>>^ in order to make a distinction between the unclean and the clean and between the living creature that is eatable and the living creature that may not be eaten.’”
+
+'''
+
+xref:003-leviticus/003-leviticus-010.adoc#v3-10-0[&#60; Capítulo Anterior] | <<v3-11-0,Topo>> | xref:003-leviticus/003-leviticus-012.adoc#v3-12-0[Próximo Capítulo &#62;]

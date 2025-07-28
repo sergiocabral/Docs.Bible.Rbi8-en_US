@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-98-0]]
+=== Psalms, 98
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody.^&#42;1^_
+
+[[v19-98-1]]
+
+^<<v19-98-1,1>>^ SING to Jehovah a new song,
+For wonderful are the things that he has done.
+His right hand, even his holy arm, has gained salvation^&#42;1^ for him.
+
+[NOTE]
+====
+. Or, “victory.”
+====
+
+[[v19-98-2]]
+
+^<<v19-98-2,2>>^ Jehovah has made his salvation known;
+In the eyes of the nations he has revealed his righteousness.
+
+[[v19-98-3]]
+
+^<<v19-98-3,3>>^ He has remembered his loving-kindness^&#42;1^ and his faithfulness to the house of Israel.
+All the ends of the earth have seen the salvation by our God.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v19-98-4]]
+
+^<<v19-98-4,4>>^ Shout in triumph to Jehovah, all &#91;YOU people of&#93; the earth.^&#42;1^
+Be cheerful and cry out joyfully and make melody.
+
+[NOTE]
+====
+. See 96:1 ftn, “Earth.”
+====
+
+[[v19-98-5]]
+
+^<<v19-98-5,5>>^ Make melody to Jehovah with the harp,
+With the harp and the voice of melody.
+
+[[v19-98-6]]
+
+^<<v19-98-6,6>>^ With the trumpets^&#42;1^ and the sound of the horn^&#42;2^
+Shout in triumph before the King, Jehovah.
+
+[NOTE]
+====
+. That is, straight trumpets. See Nu 10:2 ftn.
+. Or, “shofar,” an animal’s curved horn.
+====
+
+[[v19-98-7]]
+
+^<<v19-98-7,7>>^ Let the sea thunder and that which fills it,
+The productive land^&#42;1^ and those dwelling in it.
+
+[NOTE]
+====
+. “The productive land.” Heb., te·velʹ; LXX, “the inhabited earth”; Lat., orʹbis ter·raʹrum, “the circle of the whole earth.”
+====
+
+[[v19-98-8]]
+
+^<<v19-98-8,8>>^ Let the rivers themselves clap their hands;^&#42;1^
+All together let the very mountains cry out joyfully
+
+[NOTE]
+====
+. Lit., “clap the palm.”
+====
+
+[[v19-98-9]]
+
+^<<v19-98-9,9>>^ Before Jehovah, for he has come to judge the earth.
+He will judge the productive land with righteousness
+And the peoples with uprightness.
+
+'''
+
+xref:019-psalm/019-psalm-097.adoc#v19-97-0[&#60; Capítulo Anterior] | <<v19-98-0,Topo>> | xref:019-psalm/019-psalm-099.adoc#v19-99-0[Próximo Capítulo &#62;]

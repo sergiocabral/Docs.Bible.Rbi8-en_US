@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v1-22-0]]
+=== Genesis, 22
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-22-1]]
+
+^<<v1-22-1,1>>^ Now after these things it came about that the &#91;true&#93; God put Abraham to the test. Accordingly he said to him: “Abraham!” to which he said: “Here I am!”
+
+[[v1-22-2]]
+
+^<<v1-22-2,2>>^ And he went on to say: “Take, please, your son, your only son whom you so love, Isaac, and make a trip to the land of Mo·riʹah and there offer him up as a burnt offering on one of the mountains that I shall designate to you.”
+
+[[v1-22-3]]
+
+^<<v1-22-3,3>>^ So Abraham got up early in the morning and saddled his ass and took two of his attendants^&#42;1^ with him and Isaac his son; and he split the wood for the burnt offering. Then he rose and went on the trip to the place that the &#91;true&#93; God designated to him.
+
+[NOTE]
+====
+. Or, “boys.”
+====
+
+[[v1-22-4]]
+
+^<<v1-22-4,4>>^ It was first on the third day that Abraham raised his eyes and began to see the place from a distance.
+
+[[v1-22-5]]
+
+^<<v1-22-5,5>>^ Abraham now said to his attendants: “YOU stay here with the ass, but I and the boy want to go on over there and worship and return to YOU.”
+
+[[v1-22-6]]
+
+^<<v1-22-6,6>>^ After that Abraham took the wood of the burnt offering and put it upon Isaac his son and took in his hands the fire and the slaughtering knife, and both of them went on together.
+
+[[v1-22-7]]
+
+^<<v1-22-7,7>>^ And Isaac began to say to Abraham his father:^&#42;1^ “My father!” In turn he said: “Here I am, my son!” So he continued: “Here are the fire and the wood, but where is the sheep for the burnt offering?”
+
+[NOTE]
+====
+. M adds “and said,” but this is either an insertion by a scribe or stands as a sign of direct discourse, which we have indicated by using quotation marks.
+====
+
+[[v1-22-8]]
+
+^<<v1-22-8,8>>^ To this Abraham said: “God will provide himself the sheep for the burnt offering, my son.” And both of them walked on together.
+
+[[v1-22-9]]
+
+^<<v1-22-9,9>>^ Finally they reached the place that the &#91;true&#93; God had designated to him, and Abraham built an altar there and set the wood in order and bound Isaac his son hand and foot and put him upon the altar on top of the wood.
+
+[[v1-22-10]]
+
+^<<v1-22-10,10>>^ Then Abraham put out his hand and took the slaughtering knife to kill his son.
+
+[[v1-22-11]]
+
+^<<v1-22-11,11>>^ But Jehovah’s angel began calling to him out of the heavens and saying: “Abraham, Abraham!” to which he answered: “Here I am!”
+
+[[v1-22-12]]
+
+^<<v1-22-12,12>>^ And he went on to say: “Do not put out your hand against the boy and do not do anything at all to him, for now I do know that you are God-fearing^&#42;1^ in that you have not withheld your son, your only one, from me.”
+
+[NOTE]
+====
+. Or, “you are a fearer of God.”
+====
+
+[[v1-22-13]]
+
+^<<v1-22-13,13>>^ At that Abraham raised his eyes and looked and there, deep in the foreground, there was a ram caught by its horns in a thicket. So Abraham went and took the ram and offered it up for a burnt offering in place of his son.
+
+[[v1-22-14]]
+
+^<<v1-22-14,14>>^ And Abraham began to call the name of that place Je·hoʹvah-jiʹreh.^&#42;1^ This is why it is customarily said today: “In the mountain of Jehovah it will be provided.”^&#42;2^
+
+[NOTE]
+====
+. Meaning “Jehovah Will See to [It]; Jehovah Will Provide.” Heb., Yehwahʹ yir·ʼehʹ.
+. “In the mountain of Jehovah it will be provided.” Heb., beharʹ Yehwahʹ ye·ra·ʼehʹ; LXX, “In the mountain the Lord has been seen”; Sy, “In this mountain the Lord will see”; Vg, “In the mountain the Lord will see.” Some would slightly emend the entire sentence to read: “As the mountain where Jehovah appears is called at the present day.”
+====
+
+[[v1-22-15]]
+
+^<<v1-22-15,15>>^ And Jehovah’s angel proceeded to call to Abraham the second time out of the heavens
+
+[[v1-22-16]]
+
+^<<v1-22-16,16>>^ and to say: “‘By myself I do swear,’ is the utterance of Jehovah, ‘that by reason of the fact that you have done this thing and you have not withheld your son, your only one,
+
+[[v1-22-17]]
+
+^<<v1-22-17,17>>^ I shall surely bless you and I shall surely multiply your seed like the stars of the heavens and like the grains of sand that are on the seashore; and your seed will take possession of the gate^&#42;1^ of his enemies.
+
+[NOTE]
+====
+. That is, of the city.
+====
+
+[[v1-22-18]]
+
+^<<v1-22-18,18>>^ And by means of your seed all nations of the earth will certainly bless themselves^&#42;1^ due to the fact that you have listened to my voice.’”
+
+[NOTE]
+====
+. “Will certainly bless themselves.” The Heb. verb is in the reflexive, or hith·pa·ʽelʹ form, and so differs from the same verb in the niphʹʽal form in 12:3b, which at times has the passive meaning but more frequently has the reflexive meaning as it is rendered there. LXXSyVg, “will be blessed,” the same as in 12:3b. Compare De 29:19.
+====
+
+[[v1-22-19]]
+
+^<<v1-22-19,19>>^ After that Abraham returned to his attendants, and they got up and went their way together to Beʹer-sheʹba; and Abraham continued to dwell at Beʹer-sheʹba.
+
+[[v1-22-20]]
+
+^<<v1-22-20,20>>^ Now it came about after these things that the report got through to Abraham: “Here Milʹcah herself has also borne sons to Naʹhor your brother:
+
+[[v1-22-21]]
+
+^<<v1-22-21,21>>^ Uz his firstborn and Buz his brother and Kem·uʹel the father of Aʹram,
+
+[[v1-22-22]]
+
+^<<v1-22-22,22>>^ and Cheʹsed and Haʹzo and Pilʹdash and Jidʹlaph and Be·thuʹel.”
+
+[[v1-22-23]]
+
+^<<v1-22-23,23>>^ And Be·thuʹel became the father of Re·bekʹah. These eight Milʹcah bore to Naʹhor the brother of Abraham.
+
+[[v1-22-24]]
+
+^<<v1-22-24,24>>^ There was his concubine too, whose name was Reuʹmah. In time she herself also gave birth to Teʹbah and Gaʹham and Taʹhash and Maʹa·cah.
+
+'''
+
+xref:001-genesis/001-genesis-021.adoc#v1-21-0[&#60; Capítulo Anterior] | <<v1-22-0,Topo>> | xref:001-genesis/001-genesis-023.adoc#v1-23-0[Próximo Capítulo &#62;]

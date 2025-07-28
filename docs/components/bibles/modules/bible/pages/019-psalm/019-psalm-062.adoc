@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v19-62-0]]
+=== Psalms, 62
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director of Je·duʹthun.^&#42;1^ A melody of David._
+
+[[v19-62-1]]
+
+^<<v19-62-1,1>>^ Indeed toward God is my soul &#91;waiting in&#93; silence.^&#42;1^
+From him my salvation is.
+
+[NOTE]
+====
+. “Silence,” M; by a slight adjustment in vowel pointing, “keeping silent.”
+====
+
+[[v19-62-2]]
+
+^<<v19-62-2,2>>^ Indeed he is my rock and my salvation, my secure height;
+I shall not be made to totter very much.
+
+[[v19-62-3]]
+
+^<<v19-62-3,3>>^ How long will YOU carry on frantically against the man whom YOU would murder?
+All of YOU are like a leaning wall, a stone wall that is being pushed in.
+
+[[v19-62-4]]
+
+^<<v19-62-4,4>>^ Indeed they give advice so as to allure from one’s own dignity;
+They take pleasure in a lie.
+With their mouth they bless, but inside themselves they call down evil. Seʹlah.
+
+[[v19-62-5]]
+
+^<<v19-62-5,5>>^ Indeed toward God wait silently, O my soul,
+Because from him is my hope.
+
+[[v19-62-6]]
+
+^<<v19-62-6,6>>^ Indeed he is my rock and my salvation, my secure height;
+I shall not be made to totter.
+
+[[v19-62-7]]
+
+^<<v19-62-7,7>>^ Upon God are my salvation and my glory.
+My strong rock, my refuge is in God.
+
+[[v19-62-8]]
+
+^<<v19-62-8,8>>^ Trust in him at all times, O people.
+Before him pour out YOUR heart.
+God is a refuge for us. Seʹlah.
+
+[[v19-62-9]]
+
+^<<v19-62-9,9>>^ Indeed the sons of earthling man^&#42;1^ are an exhalation,
+The sons of mankind^&#42;2^ are a lie.
+When laid upon the scales they are all together lighter than an exhalation.
+
+[NOTE]
+====
+. “Earthling man.” Heb., ʼa·dhamʹ.
+. Or, “man.” Heb., ʼish.
+====
+
+[[v19-62-10]]
+
+^<<v19-62-10,10>>^ Do not put YOUR trust in defrauding,
+Nor become vain in sheer robbery.
+In case the means of maintenance should thrive, do not set YOUR heart &#91;on them&#93;.
+
+[[v19-62-11]]
+
+^<<v19-62-11,11>>^ Once God has spoken, twice I have heard even this,
+That strength belongs to God.
+
+[[v19-62-12]]
+
+^<<v19-62-12,12>>^ Also loving-kindness belongs to you, O Jehovah,^&#42;1^
+For you yourself pay back to each one^&#42;2^ according to his work.
+
+[NOTE]
+====
+. One of 134 scrib­al changes from YHWH to ʼAdho·naiʹ. See App 1B.
+. Or, “to a man.” Heb., leʼishʹ.
+====
+
+'''
+
+xref:019-psalm/019-psalm-061.adoc#v19-61-0[&#60; Capítulo Anterior] | <<v19-62-0,Topo>> | xref:019-psalm/019-psalm-063.adoc#v19-63-0[Próximo Capítulo &#62;]

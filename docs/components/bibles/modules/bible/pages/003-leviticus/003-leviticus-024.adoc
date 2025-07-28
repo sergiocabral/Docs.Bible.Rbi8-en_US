@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v3-24-0]]
+=== Leviticus, 24
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-24-1]]
+
+^<<v3-24-1,1>>^ And Jehovah proceeded to speak to Moses, saying:
+
+[[v3-24-2]]
+
+^<<v3-24-2,2>>^ “Command the sons of Israel that they get for you pure, beaten olive oil for the luminary, to light up the lamp constantly.
+
+[[v3-24-3]]
+
+^<<v3-24-3,3>>^ Outside the curtain of the Testimony in the tent of meeting Aaron should set it in order from evening to morning before Jehovah constantly. It is a statute to time indefinite during YOUR generations.
+
+[[v3-24-4]]
+
+^<<v3-24-4,4>>^ Upon the lampstand of pure gold^&#42;1^ he should set the lamps in order before Jehovah constantly.
+
+[NOTE]
+====
+. Lit., “the pure lampstand.”
+====
+
+[[v3-24-5]]
+
+^<<v3-24-5,5>>^ “And you must take fine flour and bake it up into twelve ring-shaped cakes. Two tenths of an eʹphah should go to each ring-shaped cake.
+
+[[v3-24-6]]
+
+^<<v3-24-6,6>>^ And you must place them in two sets of layers, six to the layer set, upon the table of pure gold^&#42;1^ before Jehovah.
+
+[NOTE]
+====
+. Lit., “the pure table.”
+====
+
+[[v3-24-7]]
+
+^<<v3-24-7,7>>^ And you must put pure frankincense upon each layer set, and it must serve as the bread for a remembrancer, an offering made by fire to Jehovah.
+
+[[v3-24-8]]
+
+^<<v3-24-8,8>>^ On one sabbath day after another he should set it in order before Jehovah constantly. It is a covenant to time indefinite with the sons of Israel.
+
+[[v3-24-9]]
+
+^<<v3-24-9,9>>^ And it must become Aaron’s and his sons’, and they must eat it in a holy place, because it is something most holy for him from Jehovah’s offerings made by fire, as a regulation to time indefinite.”
+
+[[v3-24-10]]
+
+^<<v3-24-10,10>>^ Now a son of an Israelite woman, who, however, was the son of an Egyptian man, went out into the midst of the sons of Israel, and the son of the Israelitess and an Israelite man began to struggle with each other in the camp.
+
+[[v3-24-11]]
+
+^<<v3-24-11,11>>^ And the son of the Israelite woman began to abuse the Name^&#42;1^ and to call down evil upon it. So they brought him to Moses. Incidentally, his mother’s name was She·loʹmith, the daughter of Dibʹri of the tribe of Dan.
+
+[NOTE]
+====
+. “The Name.” Heb., hash·Shemʹ; that is, the name “Jehovah” as indicated by vss 15, 16. Post-Biblical use of this expression is found in the Mishnah, as in Yoma 3, 8; 4, 1, 2; 6, 2. It is believed that the expression “the Name” was substituted for “Jehovah” by the Sopherim to avoid what seemed to them to be flagrant blasphemy in saying, “began to abuse Jehovah.”
+====
+
+[[v3-24-12]]
+
+^<<v3-24-12,12>>^ Then they committed him into custody till there should be a distinct declaration to them according to the saying^&#42;1^ of Jehovah.
+
+[NOTE]
+====
+. Lit., “mouth.”
+====
+
+[[v3-24-13]]
+
+^<<v3-24-13,13>>^ And Jehovah proceeded to speak to Moses, saying:
+
+[[v3-24-14]]
+
+^<<v3-24-14,14>>^ “Bring forth the one who called down evil to the outside of the camp; and all those who heard him must lay their hands upon his head, and the entire assembly must pelt him &#91;with stones&#93;.
+
+[[v3-24-15]]
+
+^<<v3-24-15,15>>^ And you should speak to the sons of Israel, saying, ‘In case any man calls down evil upon his God, he must then answer for his sin.
+
+[[v3-24-16]]
+
+^<<v3-24-16,16>>^ So the abuser of Jehovah’s name should be put to death without fail. The entire assembly should without fail pelt him with stones. The alien resident the same as the native should be put to death for his abusing the Name.^&#42;1^
+
+[NOTE]
+====
+. “The Name,” Sam; M, “a name”; LXXVg, “the name of Jehovah.”
+====
+
+[[v3-24-17]]
+
+^<<v3-24-17,17>>^ “‘And in case a man strikes any soul of mankind fatally,^&#42;1^ he should be put to death without fail.
+
+[NOTE]
+====
+. Or, “strikes any man fatally; kills any man.” Lat., per·cusʹse·rit et oc·ciʹde·rit hoʹmi·nem.
+====
+
+[[v3-24-18]]
+
+^<<v3-24-18,18>>^ And the fatal striker of the soul of a domestic animal should make compensation for it, soul for soul.
+
+[[v3-24-19]]
+
+^<<v3-24-19,19>>^ And in case a man should cause a defect in his associate, then just as he has done, so it should be done to him.
+
+[[v3-24-20]]
+
+^<<v3-24-20,20>>^ Fracture for fracture, eye for eye, tooth for tooth; the same sort of defect he may cause in the man, that is what should be caused in him.
+
+[[v3-24-21]]
+
+^<<v3-24-21,21>>^ And the fatal striker of a beast should make compensation for it, but the fatal striker of a man should be put to death.
+
+[[v3-24-22]]
+
+^<<v3-24-22,22>>^ “‘One judicial decision should hold good for YOU. The alien resident should prove to be the same as the native, because I am Jehovah YOUR God.’”
+
+[[v3-24-23]]
+
+^<<v3-24-23,23>>^ After that Moses spoke to the sons of Israel, and they brought forth the one who had called down evil to the outside of the camp, and they pelted him with stones. Thus the sons of Israel did just as Jehovah had commanded Moses.
+
+'''
+
+xref:003-leviticus/003-leviticus-023.adoc#v3-23-0[&#60; Capítulo Anterior] | <<v3-24-0,Topo>> | xref:003-leviticus/003-leviticus-025.adoc#v3-25-0[Próximo Capítulo &#62;]

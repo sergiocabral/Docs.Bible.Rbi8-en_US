@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-65-0]]
+=== Psalms, 65
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. A melody of David. A song._
+
+[[v19-65-1]]
+
+^<<v19-65-1,1>>^ For you there is praise—silence—, O God, in Zion;
+And to you the vow will be paid.
+
+[[v19-65-2]]
+
+^<<v19-65-2,2>>^ O Hearer of prayer, even to you people of all flesh will come.
+
+[[v19-65-3]]
+
+^<<v19-65-3,3>>^ Things of error have proved mightier than I am.
+As for our transgressions, you yourself will cover them.
+
+[[v19-65-4]]
+
+^<<v19-65-4,4>>^ Happy is the one you choose and cause to approach,
+That he may reside in your courtyards.
+We^&#42;1^ will certainly be satisfied with the goodness of your house,
+The holy place of your temple.
+
+[NOTE]
+====
+. “We,” M; Sy, “He.”
+====
+
+[[v19-65-5]]
+
+^<<v19-65-5,5>>^ With fear-inspiring things in righteousness you will answer us,
+O God of our salvation,
+The Trust of all the borders of the earth and those far away on the sea.
+
+[[v19-65-6]]
+
+^<<v19-65-6,6>>^ He is firmly establishing the mountains with his power;
+He is indeed girded with mightiness.
+
+[[v19-65-7]]
+
+^<<v19-65-7,7>>^ He is stilling the noise of the seas,
+The noise of their waves and the turmoil of the national groups.
+
+[[v19-65-8]]
+
+^<<v19-65-8,8>>^ And the inhabitants of the uttermost parts will be afraid of your signs;
+The goings forth of the morning and evening you cause to cry out joyfully.
+
+[[v19-65-9]]
+
+^<<v19-65-9,9>>^ You have turned your attention to the earth, that you may give it abundance;
+You enrich it very much.
+The stream from God is full of water.
+You prepare their grain,
+For that is the way you prepare the earth.^&#42;1^
+
+[NOTE]
+====
+. Lit., “it,” fem., referring to the “earth.”
+====
+
+[[v19-65-10]]
+
+^<<v19-65-10,10>>^ There is a drenching of its furrows, a leveling off of its clods;
+With copious showers you soften it; you bless its very sprouts.
+
+[[v19-65-11]]
+
+^<<v19-65-11,11>>^ You have crowned the year with^&#42;1^ your goodness,
+And your very tracks drip with fatness.
+
+[NOTE]
+====
+. Lit., “of.”
+====
+
+[[v19-65-12]]
+
+^<<v19-65-12,12>>^ The pasture grounds of the wilderness keep dripping,
+And with joyfulness the very hills gird themselves.
+
+[[v19-65-13]]
+
+^<<v19-65-13,13>>^ The pastures have become clothed with flocks,
+And the low plains themselves are enveloped with grain.
+They shout in triumph, yes, they sing.
+
+'''
+
+xref:019-psalm/019-psalm-064.adoc#v19-64-0[&#60; Capítulo Anterior] | <<v19-65-0,Topo>> | xref:019-psalm/019-psalm-066.adoc#v19-66-0[Próximo Capítulo &#62;]

@@ -1,0 +1,236 @@
+include::./index.adoc[]
+
+[[v40-10-0]]
+=== According to Matthew, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v40-10-1]]
+
+^<<v40-10-1,1>>^ So he summoned his twelve disciples and gave them authority over unclean spirits, in order to expel these and to cure every sort of disease and every sort of infirmity.
+
+[[v40-10-2]]
+
+^<<v40-10-2,2>>^ The names of the twelve apostles are these: First, Simon, the one called Peter,^&#42;1^ and Andrew his brother; and James the &#91;son&#93; of Zebʹe·dee and John his brother;
+
+[NOTE]
+====
+. “Peter” is named five different ways: here as “Simon, the one called Peter”; in 16:16, “Simon Peter”; in Ac 15:14, “Symeon”; in Joh 1:42, “Cephas”; and most frequently “Peter,” as in Mt 14:28.
+====
+
+[[v40-10-3]]
+
+^<<v40-10-3,3>>^ Philip and Bar·tholʹo·mew;^&#42;1^ Thomas and Matthew^&#42;2^ the tax collector; James the &#91;son&#93; of Al·phaeʹus, and Thad·daeʹus;^&#42;3^
+
+[NOTE]
+====
+. Meaning “Son of Tolmai.” At times he was called Nathanael, presumably his surname. See Joh 1:46; Joh 21:2.
+. Also known as Levi. See Lu 5:27.
+. Also known as “Judas the son of James.” See Lu 6:16; Joh 14:22; Ac 1:13.
+====
+
+[[v40-10-4]]
+
+^<<v40-10-4,4>>^ Simon the Ca·na·naeʹan, and Judas Is·carʹi·ot, who later betrayed him.
+
+[[v40-10-5]]
+
+^<<v40-10-5,5>>^ These twelve Jesus sent forth, giving them these orders: “Do not go off into the road of the nations, and do not enter into a Sa·marʹi·tan city;
+
+[[v40-10-6]]
+
+^<<v40-10-6,6>>^ but, instead, go continually to the lost sheep of the house of Israel.
+
+[[v40-10-7]]
+
+^<<v40-10-7,7>>^ As YOU go, preach, saying, ‘The kingdom of the heavens has drawn near.’
+
+[[v40-10-8]]
+
+^<<v40-10-8,8>>^ Cure sick people, raise up dead persons, make lepers clean, expel demons. YOU received free, give free.
+
+[[v40-10-9]]
+
+^<<v40-10-9,9>>^ Do not procure gold or silver or copper for YOUR girdle purses,
+
+[[v40-10-10]]
+
+^<<v40-10-10,10>>^ or a food pouch for the trip, or two undergarments,^&#42;1^ or sandals or a staff; for the worker deserves his food.
+
+[NOTE]
+====
+. Or, “or an extra undergarment.”
+====
+
+[[v40-10-11]]
+
+^<<v40-10-11,11>>^ “Into whatever city or village YOU enter, search out who in it is deserving, and stay there until YOU leave.
+
+[[v40-10-12]]
+
+^<<v40-10-12,12>>^ When YOU are entering into the house, greet the household;
+
+[[v40-10-13]]
+
+^<<v40-10-13,13>>^ and if the house is deserving, let the peace YOU wish it come upon it; but if it is not deserving, let the peace from YOU return upon YOU.
+
+[[v40-10-14]]
+
+^<<v40-10-14,14>>^ Wherever anyone does not take YOU in or listen to YOUR words, on going out of that house or that city shake the dust off YOUR feet.
+
+[[v40-10-15]]
+
+^<<v40-10-15,15>>^ Truly I say to YOU, It will be more endurable for the land of Sodʹom and Go·morʹrah on Judgment Day than for that city.
+
+[[v40-10-16]]
+
+^<<v40-10-16,16>>^ “Look! I am sending YOU forth as sheep amidst wolves; therefore prove yourselves cautious as serpents and yet innocent as doves.
+
+[[v40-10-17]]
+
+^<<v40-10-17,17>>^ Be on YOUR guard against men; for they will deliver YOU up to local courts,^&#42;1^ and they will scourge YOU in their synagogues.
+
+[NOTE]
+====
+. Or, “to Lesser San­he­drins.” J17,​22(Heb.), leSan·hedh·ri·yohthʹ.
+====
+
+[[v40-10-18]]
+
+^<<v40-10-18,18>>^ Why, YOU will be haled before governors and kings for my sake, for a witness^&#42;1^ to them and the nations.
+
+[NOTE]
+====
+. “A witness.” Gr., mar·tyʹri·on; Lat., te·sti·moʹni·um.
+====
+
+[[v40-10-19]]
+
+^<<v40-10-19,19>>^ However, when they deliver YOU up, do not become anxious about how or what YOU are to speak; for what YOU are to speak will be given YOU in that hour;
+
+[[v40-10-20]]
+
+^<<v40-10-20,20>>^ for the ones speaking are not just YOU, but it is the spirit of YOUR Father that speaks by YOU.
+
+[[v40-10-21]]
+
+^<<v40-10-21,21>>^ Further, brother will deliver up brother to death, and a father his child, and children will rise up against parents and will have them put to death.
+
+[[v40-10-22]]
+
+^<<v40-10-22,22>>^ And YOU will be objects of hatred by all people on account of my name; but he that has endured to the end is the one that will be saved.
+
+[[v40-10-23]]
+
+^<<v40-10-23,23>>^ When they persecute YOU in one city, flee to another; for truly I say to YOU, YOU will by no means complete the circuit of the cities of Israel until the Son of man arrives.
+
+[[v40-10-24]]
+
+^<<v40-10-24,24>>^ “A disciple is not above his teacher, nor a slave above his lord.
+
+[[v40-10-25]]
+
+^<<v40-10-25,25>>^ It is enough for the disciple to become as his teacher, and the slave as his lord. If people have called the householder Be·elʹze·bub,^&#42;1^ how much more &#91;will they call&#93; those of his household so?
+
+[NOTE]
+====
+. “Beelzebub,” VgSyp,s; אB(Gr.), Be·e·ze·boulʹ; CW(Gr.), Be·el·ze·boulʹ. See 12:24 ftn.
+====
+
+[[v40-10-26]]
+
+^<<v40-10-26,26>>^ Therefore do not fear them; for there is nothing covered over that will not become uncovered, and secret that will not become known.
+
+[[v40-10-27]]
+
+^<<v40-10-27,27>>^ What I tell YOU in the darkness, say in the light;^&#42;1^ and what YOU hear whispered,^&#42;2^ preach from the housetops.
+
+[NOTE]
+====
+. Or, “in public; publicly.”
+. Lit., “into the ear.”
+====
+
+[[v40-10-28]]
+
+^<<v40-10-28,28>>^ And do not become fearful of those who kill the body but cannot kill the soul;^&#42;1^ but rather be in fear of him that can destroy both soul and body in Ge·henʹna.^&#42;2^
+
+[NOTE]
+====
+. Or, “life.” See App 4A.
+. See App 4C.
+====
+
+[[v40-10-29]]
+
+^<<v40-10-29,29>>^ Do not two sparrows sell for a coin of small value?^&#42;1^ Yet not one of them will fall to the ground without YOUR Father’s &#91;knowledge&#93;.
+
+[NOTE]
+====
+. Lit., “sell for an assarion”; one sixteenth of a denarius. See App 8A.
+====
+
+[[v40-10-30]]
+
+^<<v40-10-30,30>>^ But the very hairs of YOUR head are all numbered.
+
+[[v40-10-31]]
+
+^<<v40-10-31,31>>^ Therefore have no fear: YOU are worth more than many sparrows.
+
+[[v40-10-32]]
+
+^<<v40-10-32,32>>^ “Everyone, then, that confesses union with me before men, I will also confess union with him before my Father who is in the heavens;
+
+[[v40-10-33]]
+
+^<<v40-10-33,33>>^ but whoever disowns me before men, I will also disown him before my Father who is in the heavens.
+
+[[v40-10-34]]
+
+^<<v40-10-34,34>>^ Do not think I came to put peace upon the earth; I came to put, not peace, but a sword.
+
+[[v40-10-35]]
+
+^<<v40-10-35,35>>^ For I came to cause division, with a man against his father, and a daughter against her mother, and a young wife against her mother-in-law.
+
+[[v40-10-36]]
+
+^<<v40-10-36,36>>^ Indeed, a man’s enemies will be persons of his own household.
+
+[[v40-10-37]]
+
+^<<v40-10-37,37>>^ He that has greater affection for father or mother than for me is not worthy of me; and he that has greater affection for son or daughter than for me is not worthy of me.
+
+[[v40-10-38]]
+
+^<<v40-10-38,38>>^ And whoever does not accept his torture stake^&#42;1^ and follow after me is not worthy of me.
+
+[NOTE]
+====
+. “Torture stake.” Gr., σταυρόν (stau·ronʹ); Lat., cruʹcem (from crux). See App 5C.
+====
+
+[[v40-10-39]]
+
+^<<v40-10-39,39>>^ He that finds his soul^&#42;1^ will lose it, and he that loses his soul for my sake will find it.
+
+[NOTE]
+====
+. Or, “life.” See App 4A.
+====
+
+[[v40-10-40]]
+
+^<<v40-10-40,40>>^ “He that receives YOU receives me also, and he that receives me receives him also that sent me forth.
+
+[[v40-10-41]]
+
+^<<v40-10-41,41>>^ He that receives a prophet because he is a prophet will get a prophet’s reward, and he that receives a righteous man because he is a righteous man will get a righteous man’s reward.
+
+[[v40-10-42]]
+
+^<<v40-10-42,42>>^ And whoever gives one of these little ones only a cup of cold water to drink because he is a disciple, I tell YOU truly, he will by no means lose his reward.”
+
+'''
+
+xref:040-matthew/040-matthew-009.adoc#v40-9-0[&#60; Capítulo Anterior] | <<v40-10-0,Topo>> | xref:040-matthew/040-matthew-011.adoc#v40-11-0[Próximo Capítulo &#62;]

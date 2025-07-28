@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v19-94-0]]
+=== Psalms, 94
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-94-1]]
+
+^<<v19-94-1,1>>^ ^&#42;1^ O God^&#42;2^ of acts of vengeance, Jehovah,
+O God of acts of vengeance, beam forth!
+
+[NOTE]
+====
+. LXX has the superscription: “A psalm of David, for the fourth day of the week”; Vg is similar.
+. “God of.” Heb., ʼEl.
+====
+
+[[v19-94-2]]
+
+^<<v19-94-2,2>>^ Raise yourself up, O Judge of the earth.
+Bring back a retribution upon the haughty ones.
+
+[[v19-94-3]]
+
+^<<v19-94-3,3>>^ How long are the wicked, O Jehovah,
+How long are the wicked themselves going to exult?
+
+[[v19-94-4]]
+
+^<<v19-94-4,4>>^ They keep bubbling forth, they keep speaking unrestrained;
+All the practicers of what is hurtful keep bragging about themselves.
+
+[[v19-94-5]]
+
+^<<v19-94-5,5>>^ Your people, O Jehovah, they keep crushing,
+And your inheritance they keep afflicting.
+
+[[v19-94-6]]
+
+^<<v19-94-6,6>>^ The widow and the alien resident they kill,
+And the fatherless boys they murder.
+
+[[v19-94-7]]
+
+^<<v19-94-7,7>>^ And they keep saying: “Jah^&#42;1^ does not see;
+And the God^&#42;2^ of Jacob does not understand &#91;it&#93;.”
+
+[NOTE]
+====
+. “Jah.” Heb., Yah. See 68:4 ftn.
+. “God of.” Heb., ʼElo·hehʹ.
+====
+
+[[v19-94-8]]
+
+^<<v19-94-8,8>>^ Understand, YOU who are unreasoning among the people;
+And as for YOU stupid ones, when will YOU have any insight?
+
+[[v19-94-9]]
+
+^<<v19-94-9,9>>^ The One planting the ear, can he not hear?
+Or the One forming the eye, can he not look?
+
+[[v19-94-10]]
+
+^<<v19-94-10,10>>^ The One correcting the nations, can he not reprove,
+Even the One teaching men knowledge?
+
+[[v19-94-11]]
+
+^<<v19-94-11,11>>^ Jehovah is knowing the thoughts of men,^&#42;1^ that they are as an exhalation.
+
+[NOTE]
+====
+. Lit., “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-94-12]]
+
+^<<v19-94-12,12>>^ Happy is the able-bodied man^&#42;1^ whom you correct, O Jah,
+And whom you teach out of your own law,
+
+[NOTE]
+====
+. “The able-bodied man.” Heb., hag·geʹver.
+====
+
+[[v19-94-13]]
+
+^<<v19-94-13,13>>^ To give him quietness from days of calamity,
+Until for the wicked one a pit is excavated.
+
+[[v19-94-14]]
+
+^<<v19-94-14,14>>^ For Jehovah will not forsake his people,
+Nor will he leave his own inheritance.
+
+[[v19-94-15]]
+
+^<<v19-94-15,15>>^ For judicial decision will return even to righteousness,
+And all the upright in heart will follow it.
+
+[[v19-94-16]]
+
+^<<v19-94-16,16>>^ Who will rise up for me against the evildoers?
+Who will take his stand for me against the practicers of hurtfulness?
+
+[[v19-94-17]]
+
+^<<v19-94-17,17>>^ Unless Jehovah had been of assistance to me,
+In a little while my soul would have resided in silence.
+
+[[v19-94-18]]
+
+^<<v19-94-18,18>>^ When I said: “My foot will certainly move unsteadily,”
+Your own loving-kindness, O Jehovah, kept sustaining me.
+
+[[v19-94-19]]
+
+^<<v19-94-19,19>>^ When my disquieting thoughts became many inside of me,
+Your own consolations began to fondle my soul.
+
+[[v19-94-20]]
+
+^<<v19-94-20,20>>^ Will the throne causing adversities be allied with you
+While it is framing trouble by decree?
+
+[[v19-94-21]]
+
+^<<v19-94-21,21>>^ They make sharp attacks on the soul of the righteous one
+And pronounce wicked even the blood of the innocent one.
+
+[[v19-94-22]]
+
+^<<v19-94-22,22>>^ But Jehovah will become a secure height for me,
+And my God the rock of my refuge.
+
+[[v19-94-23]]
+
+^<<v19-94-23,23>>^ And he will turn back upon them their hurtfulness
+And will silence them with their own calamity.
+Jehovah our God will silence them.
+
+'''
+
+xref:019-psalm/019-psalm-093.adoc#v19-93-0[&#60; Capítulo Anterior] | <<v19-94-0,Topo>> | xref:019-psalm/019-psalm-095.adoc#v19-95-0[Próximo Capítulo &#62;]

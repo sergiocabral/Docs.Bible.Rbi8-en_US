@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v23-31-0]]
+=== Isaiah, 31
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-31-1]]
+
+^<<v23-31-1,1>>^ Woe to those going down to Egypt for assistance, those who rely on mere horses, and who put their trust in war chariots, because they are numerous, and in steeds,^&#42;1^ because they are very mighty, but who have not looked to the Holy One of Israel and have not searched for Jehovah himself.
+
+[NOTE]
+====
+. Or, “horsemen.”
+====
+
+[[v23-31-2]]
+
+^<<v23-31-2,2>>^ And he is also wise and will bring in what is calamitous, and he has not called back his own words; and he will certainly rise up against the house of evildoers and against the assistance of those practicing what is hurtful.
+
+[[v23-31-3]]
+
+^<<v23-31-3,3>>^ The Egyptians, though, are earthling men,^&#42;1^ and not God;^&#42;2^ and their horses are flesh, and not spirit. And Jehovah himself will stretch out his hand, and he that is offering help will have to stumble, and he that is being helped will have to fall, and at the same time they will all of them come to an end.
+
+[NOTE]
+====
+. Or, “humans.” Heb., ʼa·dhamʹ.
+. “God.” Heb., ʼEl.
+====
+
+[[v23-31-4]]
+
+^<<v23-31-4,4>>^ For this is what Jehovah has said to me: “Just as the lion growls, even the maned young lion, over its prey, when there is called out against it a full number of shepherds, &#91;and&#93; in spite of their voice he will not be terrified and in spite of their commotion he will not stoop; in the same way Jehovah of armies will come down to wage war over Mount Zion and over her hill.
+
+[[v23-31-5]]
+
+^<<v23-31-5,5>>^ Like birds flying, Jehovah of armies will in the same way defend Jerusalem. Defending &#91;her&#93;, he will also certainly deliver &#91;her&#93;. Sparing^&#42;1^ &#91;her&#93;, he must also cause &#91;her&#93; to escape.”
+
+[NOTE]
+====
+. Or, “Passing over.” Heb., pa·soʹach, a form of pa·sachʹ, from which Passover (Peʹsach) is derived.
+====
+
+[[v23-31-6]]
+
+^<<v23-31-6,6>>^ “Return, YOU people, to the One against whom the sons of Israel have gone deep in their revolt.
+
+[[v23-31-7]]
+
+^<<v23-31-7,7>>^ For in that day they will reject each one his worthless gods of silver and his valueless gods of gold, that YOUR hands have made for yourselves as a sin.
+
+[[v23-31-8]]
+
+^<<v23-31-8,8>>^ And the As·syrʹi·an must fall by the sword, not &#91;that of&#93; a man;^&#42;1^ and a sword, not &#91;that of&#93; earthling man,^&#42;2^ will devour him. And he must flee because of the sword, and his own young men will come to be for forced labor itself.
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+. “Earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v23-31-9]]
+
+^<<v23-31-9,9>>^ And his own crag will pass away out of sheer fright, and because of the signal^&#42;1^ his princes must be terrified,” is the utterance of Jehovah, whose light is in Zion and whose furnace is in Jerusalem.
+
+[NOTE]
+====
+. “Because of the signal.” Heb., min·nesʹ.
+====
+
+'''
+
+xref:023-isaiah/023-isaiah-030.adoc#v23-30-0[&#60; Capítulo Anterior] | <<v23-31-0,Topo>> | xref:023-isaiah/023-isaiah-032.adoc#v23-32-0[Próximo Capítulo &#62;]

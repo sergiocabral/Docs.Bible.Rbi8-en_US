@@ -1,0 +1,356 @@
+include::./index.adoc[]
+
+[[v15-2-0]]
+=== Ezra, 2
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v15-2-1]]
+
+^<<v15-2-1,1>>^ And these were the sons of the jurisdictional district^&#42;1^ that went up out of the captivity of the exiled people whom Neb·u·chad·nezʹzar the king of Babylon had taken into exile at Babylon and who later returned to Jerusalem and Judah, each one to his own city;
+
+[NOTE]
+====
+. “Jurisdictional district.” Lat., pro·vinʹci·ae.
+====
+
+[[v15-2-2]]
+
+^<<v15-2-2,2>>^ those who came with Ze·rubʹba·bel, Jeshʹu·a,^&#42;1^ Ne·he·miʹah, Se·raiʹah,^&#42;2^ Re·el·aiʹah,^&#42;3^ Morʹde·cai, Bilʹshan, Misʹpar,^&#42;4^ Bigʹvai, Reʹhum,^&#42;5^ Baʹa·nah.
+The number of the men of the people of Israel:
+
+[NOTE]
+====
+. “Jeshua.” Heb., Ye·shuʹaʽ; in Hag 1:1 and Zec 3:1, “Joshua”; LXX, “Jesus.”
+. “Azariah” in Ne 7:7.
+. “Raamiah” in Ne 7:7.
+. “Mispereth” in Ne 7:7.
+. “Nehum” in Ne 7:7.
+====
+
+[[v15-2-3]]
+
+^<<v15-2-3,3>>^ The sons of Paʹrosh, two thousand one hundred and seventy-two;
+
+[[v15-2-4]]
+
+^<<v15-2-4,4>>^ the sons of Sheph·a·tiʹah, three hundred and seventy-two;
+
+[[v15-2-5]]
+
+^<<v15-2-5,5>>^ the sons of Aʹrah, seven hundred and seventy-five;
+
+[[v15-2-6]]
+
+^<<v15-2-6,6>>^ the sons of Paʹhath-moʹab,^&#42;1^ of the sons of Jeshʹu·a &#91;and&#93; Joʹab, two thousand eight hundred and twelve;
+
+[NOTE]
+====
+. Meaning “Governor of Moab.”
+====
+
+[[v15-2-7]]
+
+^<<v15-2-7,7>>^ the sons of Eʹlam, a thousand two hundred and fifty-four;
+
+[[v15-2-8]]
+
+^<<v15-2-8,8>>^ the sons of Zatʹtu, nine hundred and forty-five;
+
+[[v15-2-9]]
+
+^<<v15-2-9,9>>^ the sons of Zacʹcai, seven hundred and sixty;
+
+[[v15-2-10]]
+
+^<<v15-2-10,10>>^ the sons of Baʹni,^&#42;1^ six hundred and forty-two;
+
+[NOTE]
+====
+. “Binnui” in Ne 7:15.
+====
+
+[[v15-2-11]]
+
+^<<v15-2-11,11>>^ the sons of Beʹbai, six hundred and twenty-three;
+
+[[v15-2-12]]
+
+^<<v15-2-12,12>>^ the sons of Azʹgad, a thousand two hundred and twenty-two;
+
+[[v15-2-13]]
+
+^<<v15-2-13,13>>^ the sons of Ad·o·niʹkam, six hundred and sixty-six;
+
+[[v15-2-14]]
+
+^<<v15-2-14,14>>^ the sons of Bigʹvai, two thousand and fifty-six;
+
+[[v15-2-15]]
+
+^<<v15-2-15,15>>^ the sons of Aʹdin, four hundred and fifty-four;
+
+[[v15-2-16]]
+
+^<<v15-2-16,16>>^ the sons of Aʹter, of Hez·e·kiʹah, ninety-eight;
+
+[[v15-2-17]]
+
+^<<v15-2-17,17>>^ the sons of Beʹzai, three hundred and twenty-three;
+
+[[v15-2-18]]
+
+^<<v15-2-18,18>>^ the sons of Joʹrah,^&#42;1^ a hundred and twelve;
+
+[NOTE]
+====
+. “Hariph” in Ne 7:24.
+====
+
+[[v15-2-19]]
+
+^<<v15-2-19,19>>^ the sons of Haʹshum, two hundred and twenty-three;
+
+[[v15-2-20]]
+
+^<<v15-2-20,20>>^ the sons of Gibʹbar,^&#42;1^ ninety-five;
+
+[NOTE]
+====
+. “Gibeon” in Ne 7:25.
+====
+
+[[v15-2-21]]
+
+^<<v15-2-21,21>>^ the sons of Bethʹle·hem, a hundred and twenty-three;
+
+[[v15-2-22]]
+
+^<<v15-2-22,22>>^ the men of Ne·toʹphah, fifty-six;
+
+[[v15-2-23]]
+
+^<<v15-2-23,23>>^ the men of Anʹa·thoth, a hundred and twenty-eight;
+
+[[v15-2-24]]
+
+^<<v15-2-24,24>>^ the sons of Azʹma·veth, forty-two;
+
+[[v15-2-25]]
+
+^<<v15-2-25,25>>^ the sons of Kirʹi·ath-jeʹa·rim, Che·phiʹrah and Be·erʹoth, seven hundred and forty-three;
+
+[[v15-2-26]]
+
+^<<v15-2-26,26>>^ the sons of Raʹmah and Geʹba, six hundred and twenty-one;
+
+[[v15-2-27]]
+
+^<<v15-2-27,27>>^ the men of Michʹmas, a hundred and twenty-two;
+
+[[v15-2-28]]
+
+^<<v15-2-28,28>>^ the men of Bethʹel and Aʹi, two hundred and twenty-three;
+
+[[v15-2-29]]
+
+^<<v15-2-29,29>>^ the sons of Neʹbo,^&#42;1^ fifty-two;
+
+[NOTE]
+====
+. “The other Nebo” in Ne 7:33.
+====
+
+[[v15-2-30]]
+
+^<<v15-2-30,30>>^ the sons of Magʹbish, a hundred and fifty-six;
+
+[[v15-2-31]]
+
+^<<v15-2-31,31>>^ the sons of the other Eʹlam, a thousand two hundred and fifty-four;
+
+[[v15-2-32]]
+
+^<<v15-2-32,32>>^ the sons of Haʹrim, three hundred and twenty;
+
+[[v15-2-33]]
+
+^<<v15-2-33,33>>^ the sons of Lod, Haʹdid and Oʹno, seven hundred and twenty-five;
+
+[[v15-2-34]]
+
+^<<v15-2-34,34>>^ the sons of Jerʹi·cho, three hundred and forty-five;
+
+[[v15-2-35]]
+
+^<<v15-2-35,35>>^ the sons of Se·naʹah, three thousand six hundred and thirty.
+
+[[v15-2-36]]
+
+^<<v15-2-36,36>>^ The priests: The sons of Je·daʹiah of the house of Jeshʹu·a nine hundred and seventy-three;
+
+[[v15-2-37]]
+
+^<<v15-2-37,37>>^ the sons of Imʹmer, a thousand and fifty-two;
+
+[[v15-2-38]]
+
+^<<v15-2-38,38>>^ the sons of Pashʹhur, a thousand two hundred and forty-seven;
+
+[[v15-2-39]]
+
+^<<v15-2-39,39>>^ the sons of Haʹrim, a thousand and seventeen.
+
+[[v15-2-40]]
+
+^<<v15-2-40,40>>^ The Levites: The sons of Jeshʹu·a and Kadʹmi·el, of the sons of Hod·a·viʹah, seventy-four.
+
+[[v15-2-41]]
+
+^<<v15-2-41,41>>^ The singers, the sons of Aʹsaph, a hundred and twenty-eight.
+
+[[v15-2-42]]
+
+^<<v15-2-42,42>>^ The sons of the gatekeepers, the sons of Shalʹlum, the sons of Aʹter, the sons of Talʹmon, the sons of Akʹkub, the sons of Ha·tiʹta, the sons of Shoʹbai, all together, a hundred and thirty-nine.
+
+[[v15-2-43]]
+
+^<<v15-2-43,43>>^ The Nethʹi·nim:^&#42;1^ The sons of Ziʹha, the sons of Ha·suʹpha, the sons of Tab·baʹoth,
+
+[NOTE]
+====
+. “The Nethinim.” Or, “The temple slaves.” Lit., “The given ones.” Heb., han·Nethi·nimʹ. Compare Nu 3:9 ftn.
+====
+
+[[v15-2-44]]
+
+^<<v15-2-44,44>>^ the sons of Keʹros, the sons of Siʹa·ha, the sons of Paʹdon,
+
+[[v15-2-45]]
+
+^<<v15-2-45,45>>^ the sons of Le·baʹnah, the sons of Hagʹa·bah, the sons of Akʹkub,
+
+[[v15-2-46]]
+
+^<<v15-2-46,46>>^ the sons of Haʹgab, the sons of Salʹmai, the sons of Haʹnan,
+
+[[v15-2-47]]
+
+^<<v15-2-47,47>>^ the sons of Gidʹdel, the sons of Gaʹhar, the sons of Re·aʹiah,
+
+[[v15-2-48]]
+
+^<<v15-2-48,48>>^ the sons of Reʹzin, the sons of Ne·koʹda, the sons of Gazʹzam,
+
+[[v15-2-49]]
+
+^<<v15-2-49,49>>^ the sons of Uzʹza, the sons of Pa·seʹah, the sons of Beʹsai,
+
+[[v15-2-50]]
+
+^<<v15-2-50,50>>^ the sons of Asʹnah, the sons of Me·uʹnim, the sons of Ne·phuʹsim;
+
+[[v15-2-51]]
+
+^<<v15-2-51,51>>^ the sons of Bakʹbuk, the sons of Ha·kuʹpha, the sons of Harʹhur,
+
+[[v15-2-52]]
+
+^<<v15-2-52,52>>^ the sons of Bazʹluth, the sons of Me·hiʹda, the sons of Harʹsha,
+
+[[v15-2-53]]
+
+^<<v15-2-53,53>>^ the sons of Barʹkos, the sons of Sisʹe·ra, the sons of Teʹmah,
+
+[[v15-2-54]]
+
+^<<v15-2-54,54>>^ the sons of Ne·ziʹah, the sons of Ha·tiʹpha.
+
+[[v15-2-55]]
+
+^<<v15-2-55,55>>^ The sons of the servants of Solʹo·mon: The sons of Soʹtai, the sons of So·pheʹreth, the sons of Pe·ruʹda,
+
+[[v15-2-56]]
+
+^<<v15-2-56,56>>^ the sons of Jaʹa·lah, the sons of Darʹkon, the sons of Gidʹdel,
+
+[[v15-2-57]]
+
+^<<v15-2-57,57>>^ the sons of Sheph·a·tiʹah, the sons of Hatʹtil, the sons of Poʹche·reth-haz·ze·baʹim, the sons of Aʹmi.
+
+[[v15-2-58]]
+
+^<<v15-2-58,58>>^ All the Nethʹi·nim and the sons of the servants of Solʹo·mon were three hundred and ninety-two.
+
+[[v15-2-59]]
+
+^<<v15-2-59,59>>^ And these were the ones going up from Tel-meʹlah, Tel-harʹsha, Cheʹrub, Adʹdon &#91;and&#93; Imʹmer, and they proved unable to tell the house of their fathers and their origin,^&#42;1^ whether they were of Israel:
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v15-2-60]]
+
+^<<v15-2-60,60>>^ the sons of De·laʹiah, the sons of To·biʹah, the sons of Ne·koʹda, six hundred and fifty-two.
+
+[[v15-2-61]]
+
+^<<v15-2-61,61>>^ And of the sons of the priests: the sons of Ha·baiʹah, the sons of Hakʹkoz, the sons of Bar·zilʹlai, who took a wife from the daughters of Bar·zilʹlai the Gilʹe·ad·ite and came to be called by their name.
+
+[[v15-2-62]]
+
+^<<v15-2-62,62>>^ These were the ones that looked for their register to establish their genealogy publicly, and they did not find themselves, so that they were barred as polluted from the priesthood.
+
+[[v15-2-63]]
+
+^<<v15-2-63,63>>^ Consequently the Tir·shaʹtha^&#42;1^ said to them that they could not eat from the most holy things until a priest stood up with Uʹrim and Thumʹmim.^&#42;2^
+
+[NOTE]
+====
+. “The Tirshatha.” Heb., hat·Tir·shaʹthaʼ, the Persian title for a governor of a jurisdictional district.
+. See Ex 28:30 ftn, “Thummim.”
+====
+
+[[v15-2-64]]
+
+^<<v15-2-64,64>>^ The entire congregation^&#42;1^ as one group was forty-two thousand three hundred and sixty,
+
+[NOTE]
+====
+. “The entire congregation.” Heb., kol-haq·qa·halʹ; Gr., ek·kle·siʹa.
+====
+
+[[v15-2-65]]
+
+^<<v15-2-65,65>>^ apart from their men slaves and their slave girls, these being seven thousand three hundred and thirty-seven; and they had two hundred male singers and female singers.
+
+[[v15-2-66]]
+
+^<<v15-2-66,66>>^ Their horses were seven hundred and thirty-six, their mules two hundred and forty-five,
+
+[[v15-2-67]]
+
+^<<v15-2-67,67>>^ their camels four hundred and thirty-five, &#91;their&#93; asses six thousand seven hundred and twenty.
+
+[[v15-2-68]]
+
+^<<v15-2-68,68>>^ And certain ones of the heads of the paternal houses, on coming to the house of Jehovah, which was in Jerusalem, made voluntary offerings to the house of the &#91;true&#93; God, to cause it to stand on its own site.
+
+[[v15-2-69]]
+
+^<<v15-2-69,69>>^ According to their power they gave gold for the working supplies, sixty-one thousand drachmas,^&#42;1^ and silver, five thousand miʹnas,^&#42;2^ and a hundred robes of priests.
+
+[NOTE]
+====
+. A drachma was generally equated with the Persian gold daric that weighed 8.4 g (0.27 oz t). Not the drachma of the Greek Scriptures.
+. A mina weighed 570 g (18.35 oz t). Not the mina of the Greek Scriptures.
+====
+
+[[v15-2-70]]
+
+^<<v15-2-70,70>>^ And the priests and the Levites and some of the people, and the singers and the gatekeepers and the Nethʹi·nim took up dwelling in their cities, and all Israel in their cities.
+
+'''
+
+xref:015-ezra/015-ezra-001.adoc#v15-1-0[&#60; Capítulo Anterior] | <<v15-2-0,Topo>> | xref:015-ezra/015-ezra-003.adoc#v15-3-0[Próximo Capítulo &#62;]

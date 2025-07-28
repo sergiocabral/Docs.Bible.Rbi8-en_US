@@ -1,0 +1,201 @@
+include::./index.adoc[]
+
+[[v19-25-0]]
+=== Psalms, 25
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David._
+
+_א &#91;ʼAʹleph&#93;^&#42;1^_
+
+[[v19-25-1]]
+
+^<<v19-25-1,1>>^ To you, O Jehovah, I raise my very soul.
+
+_ב &#91;Behth&#93;_
+
+[[v19-25-2]]
+
+^<<v19-25-2,2>>^ O my God,^&#42;1^ in you have I put my trust;
+O may I not be ashamed.
+May my enemies not exult over me.
+
+[NOTE]
+====
+. “O my God.” Heb., ʼElo·haiʹ. This expression in M begins this vs with another ʼAʹleph. “In you” begins with the Heb. letter Behth.
+====
+
+_ג &#91;Giʹmel&#93;_
+
+[[v19-25-3]]
+
+^<<v19-25-3,3>>^ Also, none of those hoping in you will be ashamed.
+They will be ashamed who are dealing treacherously without success.
+
+_ד &#91;Daʹleth&#93;_
+
+[[v19-25-4]]
+
+^<<v19-25-4,4>>^ Make me know your own ways, O Jehovah;
+Teach me your own paths.
+
+_ה &#91;Heʼ&#93;_
+
+[[v19-25-5]]
+
+^<<v19-25-5,5>>^ Make me walk in your truth and teach me,
+For you are my God of salvation.
+
+_ו &#91;Waw&#93;^&#42;1^_
+
+In you I have hoped all day long.
+
+_ז &#91;Zaʹyin&#93;_
+
+[[v19-25-6]]
+
+^<<v19-25-6,6>>^ Remember your mercies, O Jehovah, and your loving-kindnesses,^&#42;1^
+For they are from time indefinite.
+
+[NOTE]
+====
+. Or, “your acts of loyal love.”
+====
+
+_ח &#91;Chehth&#93;_
+
+[[v19-25-7]]
+
+^<<v19-25-7,7>>^ The sins of my youth and my revolts O do not remember.
+According to your loving-kindness do you yourself remember me,
+For the sake of your goodness, O Jehovah.
+
+_ט &#91;Tehth&#93;_
+
+[[v19-25-8]]
+
+^<<v19-25-8,8>>^ Good and upright is Jehovah.
+That is why he instructs sinners in the way.
+
+_י &#91;Yohdh&#93;_
+
+[[v19-25-9]]
+
+^<<v19-25-9,9>>^ He will cause the meek ones to walk in &#91;his&#93; judicial decision,
+And he will teach the meek ones his way.
+
+_כ &#91;Kaph&#93;_
+
+[[v19-25-10]]
+
+^<<v19-25-10,10>>^ All the paths of Jehovah are loving-kindness and trueness^&#42;1^
+For those observing his covenant^&#42;2^ and his reminders.
+
+[NOTE]
+====
+. Or, “truthfulness; truth.”
+. “His covenant.” Heb., veri·thohʹ, the first occurrence of this word in Psalms; Gr., di·a·theʹken; Lat., te·sta·menʹtum. See App 7E.
+====
+
+_ל &#91;Laʹmedh&#93;_
+
+[[v19-25-11]]
+
+^<<v19-25-11,11>>^ For your name’s sake, O Jehovah,
+You must even forgive my error, for it is considerable.
+
+_מ &#91;Mem&#93;_
+
+[[v19-25-12]]
+
+^<<v19-25-12,12>>^ Who, now, is the man fearful of Jehovah?
+He will instruct him in the way &#91;that&#93; he will choose.
+
+_נ &#91;Nun&#93;_
+
+[[v19-25-13]]
+
+^<<v19-25-13,13>>^ His own soul will lodge in goodness itself,
+And his own offspring^&#42;1^ will take possession of the earth.
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+_ס &#91;Saʹmekh&#93;_
+
+[[v19-25-14]]
+
+^<<v19-25-14,14>>^ The intimacy with Jehovah belongs to those fearful of him,
+Also his covenant, to cause them to know it.
+
+_ע &#91;ʽAʹyin&#93;_
+
+[[v19-25-15]]
+
+^<<v19-25-15,15>>^ My eyes are constantly toward Jehovah,
+For he it is that brings my feet out of the net.
+
+_פ &#91;Peʼ&#93;_
+
+[[v19-25-16]]
+
+^<<v19-25-16,16>>^ Turn your face to me, and show me favor;
+For I am solitary^&#42;1^ and afflicted.
+
+[NOTE]
+====
+. Or, “the only one.” Gr., mo·no·ge·nesʹ, “the only-begotten,” the same word as in Lu 7:12; Lu 8:42; Joh 3:16.
+====
+
+_צ &#91;Tsa·dhehʹ&#93;_
+
+[[v19-25-17]]
+
+^<<v19-25-17,17>>^ Distresses of my heart have multiplied;
+From the stresses upon me O bring me out.
+
+_ר &#91;Rehsh&#93;^&#42;1^_
+
+[[v19-25-18]]
+
+^<<v19-25-18,18>>^ See my affliction and my trouble,
+And pardon all my sins.
+
+[[v19-25-19]]
+
+^<<v19-25-19,19>>^ ^&#42;1^ See how many my enemies have become,
+And with a violent hatred they have hated me.
+
+[NOTE]
+====
+. This vs, like vs 18, begins with the Heb. letter Rehsh, giving twofold emphasis in the acrostic to ‘seeing.’
+====
+
+_ש &#91;Shin&#93;_
+
+[[v19-25-20]]
+
+^<<v19-25-20,20>>^ Do guard my soul and deliver me.
+May I not be ashamed, for I have taken refuge in you.
+
+_ת &#91;Taw&#93;_
+
+[[v19-25-21]]
+
+^<<v19-25-21,21>>^ Let integrity and uprightness themselves safeguard me,
+For I have hoped in you.
+
+[[v19-25-22]]
+
+^<<v19-25-22,22>>^ O God,^&#42;1^ redeem Israel out of all his distresses.
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ.
+====
+
+'''
+
+xref:019-psalm/019-psalm-024.adoc#v19-24-0[&#60; Capítulo Anterior] | <<v19-25-0,Topo>> | xref:019-psalm/019-psalm-026.adoc#v19-26-0[Próximo Capítulo &#62;]

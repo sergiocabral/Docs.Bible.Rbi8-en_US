@@ -1,0 +1,54 @@
+include::./index.adoc[]
+
+[[v24-24-0]]
+=== Jeremiah, 24
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v24-24-1]]
+
+^<<v24-24-1,1>>^ And Jehovah showed me, and, look! two baskets of figs set before the temple of Jehovah, after Neb·u·chad·rezʹzar the king of Babylon had carried into exile Jec·o·niʹah^&#42;1^ the son of Je·hoiʹa·kim, the king of Judah, and the princes of Judah and the craftsmen and the builders of bulwarks, from Jerusalem that he might bring them to Babylon.
+
+[NOTE]
+====
+. “Jeconiah.” Heb., Yekhon·yaʹhu, meaning “Jehovah Firmly Establishes”; abbreviated to “Coniah” in 22:24, 28 and 37:1; same as “Jehoiachin” in 2Ki 24:8.
+====
+
+[[v24-24-2]]
+
+^<<v24-24-2,2>>^ As for the one basket, the figs were very good, like early figs; and as for the other basket, the figs were very bad, so that they could not be eaten for badness.
+
+[[v24-24-3]]
+
+^<<v24-24-3,3>>^ And Jehovah proceeded to say to me: “What are you seeing, Jeremiah?” So I said: “Figs, the good figs being very good, and the bad ones being very bad, so that they cannot be eaten for badness.”
+
+[[v24-24-4]]
+
+^<<v24-24-4,4>>^ Then the word of Jehovah occurred to me, saying:
+
+[[v24-24-5]]
+
+^<<v24-24-5,5>>^ “This is what Jehovah the God of Israel has said, ‘Like these good figs, so I shall regard the exiles of Judah, whom I will send away from this place to the land of the Chal·deʹans, in a good way.
+
+[[v24-24-6]]
+
+^<<v24-24-6,6>>^ And I will set my eye upon them in a good way, and I shall certainly cause them to return to this land. And I will build them up, and I shall not tear down; and I will plant them, and I shall not uproot.
+
+[[v24-24-7]]
+
+^<<v24-24-7,7>>^ And I will give them a heart to know me, that I am Jehovah; and they must become my people, and I myself shall become their God, for they will return to me with all their heart.
+
+[[v24-24-8]]
+
+^<<v24-24-8,8>>^ “‘And like the bad figs that cannot be eaten for badness, this in fact is what Jehovah has said: “So I shall give Zed·e·kiʹah the king of Judah and his princes and the remnant of Jerusalem who are remaining over in this land and those who are dwelling in the land of Egypt—
+
+[[v24-24-9]]
+
+^<<v24-24-9,9>>^ I will also give them over for quaking, for calamity, in all the kingdoms of the earth, for reproach and for a proverbial saying, for a taunt and for a malediction, in all the places to which I shall disperse them.
+
+[[v24-24-10]]
+
+^<<v24-24-10,10>>^ And I will send against them the sword, the famine and the pestilence, until they come to their finish off the ground that I gave to them and to their forefathers.”’”
+
+'''
+
+xref:024-jeremiah/024-jeremiah-023.adoc#v24-23-0[&#60; Capítulo Anterior] | <<v24-24-0,Topo>> | xref:024-jeremiah/024-jeremiah-025.adoc#v24-25-0[Próximo Capítulo &#62;]

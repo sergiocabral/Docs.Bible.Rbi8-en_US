@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v2-17-0]]
+=== Exodus, 17
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-17-1]]
+
+^<<v2-17-1,1>>^ And the entire assembly of the sons of Israel proceeded to depart from the wilderness of Sin by stages, which they took according to the order^&#42;1^ of Jehovah, and went camping at Rephʹi·dim. But there was no water for the people to drink.
+
+[NOTE]
+====
+. Lit., “mouth.”
+====
+
+[[v2-17-2]]
+
+^<<v2-17-2,2>>^ And the people fell to quarreling with Moses and saying: “Give us water that we may drink.” But Moses said to them: “Why are YOU quarreling with me? Why do YOU keep putting Jehovah to the test?”
+
+[[v2-17-3]]
+
+^<<v2-17-3,3>>^ And the people went on thirsting there for water, and the people kept murmuring against Moses and saying: “Why is it that you have brought us up out of Egypt to put us and our sons and our^&#42;1^ livestock to death by thirst?”
+
+[NOTE]
+====
+. “Us . . . our . . . our.” Lit., “me . . . my . . . my,” referring to the “people.”
+====
+
+[[v2-17-4]]
+
+^<<v2-17-4,4>>^ Finally Moses cried out to Jehovah, saying: “What shall I do with this people? A little longer and they will stone me!”
+
+[[v2-17-5]]
+
+^<<v2-17-5,5>>^ Then Jehovah said to Moses: “Pass in front of the people and take with you some of the older men of Israel and your rod with which you struck the Nile River. Take it in your hand and you must walk on.
+
+[[v2-17-6]]
+
+^<<v2-17-6,6>>^ Look! I am standing before you there on the rock in Hoʹreb.^&#42;1^ And you must strike on the rock, and water must come out of it, and the people must drink it.” Subsequently Moses did so under the eyes of the older men of Israel.
+
+[NOTE]
+====
+. “Horeb.” Here, not the mountain on which the Ten Commandments were given, but the mountainous region around Mount Sinai, otherwise called the wilderness of Sinai.
+====
+
+[[v2-17-7]]
+
+^<<v2-17-7,7>>^ So he called the name of the place Masʹsah^&#42;1^ and Merʹi·bah,^&#42;2^ because of the quarreling of the sons of Israel and because of their putting Jehovah to the test, saying: “Is Jehovah in our midst or not?”
+
+[NOTE]
+====
+. Meaning “Testing; Trial.”
+. Meaning “Quarreling; Strife; Contention.”
+====
+
+[[v2-17-8]]
+
+^<<v2-17-8,8>>^ And the A·malʹek·ites^&#42;1^ proceeded to come and fight against Israel in Rephʹi·dim.
+
+[NOTE]
+====
+. Or, “Amalek,” in a collective sense.
+====
+
+[[v2-17-9]]
+
+^<<v2-17-9,9>>^ At this Moses said to Joshua:^&#42;1^ “Choose men for us and go out, fight against the A·malʹek·ites. Tomorrow I am stationing myself upon the top of the hill, with the rod of the &#91;true&#93; God in my hand.”
+
+[NOTE]
+====
+. Lit., “Jehoshua,” meaning “Jehovah Is Salvation”; Gr., Ἰησοῦ (I·e·souʹ, “Jesus”).
+====
+
+[[v2-17-10]]
+
+^<<v2-17-10,10>>^ Then Joshua did just as Moses had said to him, in order to fight against the A·malʹek·ites; and Moses, Aaron and Hur went up to the top of the hill.
+
+[[v2-17-11]]
+
+^<<v2-17-11,11>>^ And it occurred that as soon as Moses would lift his hand up, the Israelites proved superior; but as soon as he would let down his hand, the A·malʹek·ites proved superior.
+
+[[v2-17-12]]
+
+^<<v2-17-12,12>>^ When the hands of Moses were heavy, then they took a stone and put it under him, and he sat upon it; and Aaron and Hur supported his hands, one on this side and the other on that side, so that his hands held steady^&#42;1^ until the sun set.
+
+[NOTE]
+====
+. Lit., “hands were steadiness.”
+====
+
+[[v2-17-13]]
+
+^<<v2-17-13,13>>^ Hence Joshua vanquished Amʹa·lek and his people with the edge of the sword.
+
+[[v2-17-14]]
+
+^<<v2-17-14,14>>^ Jehovah now said to Moses: “Write this as a memorial in the book and propound it in Joshua’s ears, ‘I shall completely wipe out the remembrance of Amʹa·lek from under the heavens.’”
+
+[[v2-17-15]]
+
+^<<v2-17-15,15>>^ And Moses proceeded to build an altar and to call its name Je·hoʹvah-nisʹsi,^&#42;1^
+
+[NOTE]
+====
+. “Jehovah-nissi,” meaning “Jehovah Is My Signal [Pole],” by deriving nis·siʹ from nes, “signal pole”; LXX, “Jehovah Is My Refuge,” by deriving nis·siʹ from nus, “to flee for refuge”; Vg, “Jehovah Is My Exaltation,” by deriving nis·siʹ from na·sasʹ, “to hoist; to lift up.”
+====
+
+[[v2-17-16]]
+
+^<<v2-17-16,16>>^ saying: “Because a hand is against the throne of Jah, Jehovah will have war^&#42;1^ with Amʹa·lek from generation to generation.”
+
+[NOTE]
+====
+. “Because with a secret hand Jehovah wages war,” LXX; Vgc, “Because the hand of Jehovah’s throne, and Jehovah’s war, will be.”
+====
+
+'''
+
+xref:002-exodus/002-exodus-016.adoc#v2-16-0[&#60; Capítulo Anterior] | <<v2-17-0,Topo>> | xref:002-exodus/002-exodus-018.adoc#v2-18-0[Próximo Capítulo &#62;]

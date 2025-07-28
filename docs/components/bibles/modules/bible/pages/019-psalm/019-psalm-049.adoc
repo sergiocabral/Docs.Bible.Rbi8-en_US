@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v19-49-0]]
+=== Psalms, 49
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. Of the sons of Koʹrah. A melody._
+
+[[v19-49-1]]
+
+^<<v19-49-1,1>>^ Hear this, all YOU peoples.
+Give ear, all YOU inhabitants of the system of things,^&#42;1^
+
+[NOTE]
+====
+. Or, “the duration of life.” Heb., chaʹledh.
+====
+
+[[v19-49-2]]
+
+^<<v19-49-2,2>>^ YOU sons of humankind^&#42;1^ as well as YOU sons of man,^&#42;2^
+You rich one and you poor one together.
+
+[NOTE]
+====
+. “Humankind.” Heb., ʼa·dhamʹ.
+. “Man.” Heb., ʼish.
+====
+
+[[v19-49-3]]
+
+^<<v19-49-3,3>>^ My own mouth will speak things of wisdom,
+And the meditation of my heart will be of things of understanding.
+
+[[v19-49-4]]
+
+^<<v19-49-4,4>>^ To a proverbial utterance I shall incline my ear;
+On a harp I shall open up my riddle.
+
+[[v19-49-5]]
+
+^<<v19-49-5,5>>^ Why should I be afraid in the days of evil,
+&#91;When&#93; the very error of my supplanters^&#42;1^ surrounds me?
+
+[NOTE]
+====
+. “Supplanters,” by a change of vowel pointing; M, “heels.”
+====
+
+[[v19-49-6]]
+
+^<<v19-49-6,6>>^ Those who are trusting in their means of maintenance,
+And who keep boasting about the abundance of their riches,
+
+[[v19-49-7]]
+
+^<<v19-49-7,7>>^ Not one of them^&#42;1^ can by any means redeem even a brother,
+Nor give to God a ransom for him;^&#42;2^
+
+[NOTE]
+====
+. “One of them.” Heb., ʼish.
+. Or, “a ransom for himself.” Lit., “his cover.” Heb., koph·rohʹ.
+====
+
+[[v19-49-8]]
+
+^<<v19-49-8,8>>^ (And the redemption price of their^&#42;1^ soul is so precious
+That it has ceased to time indefinite)
+
+[NOTE]
+====
+. “Their,” MSy; LXXVg, “his.”
+====
+
+[[v19-49-9]]
+
+^<<v19-49-9,9>>^ That he should still live forever &#91;and&#93; not see the pit.
+
+[[v19-49-10]]
+
+^<<v19-49-10,10>>^ For he sees that even the wise ones die,
+Together the stupid one and the unreasoning one perish,
+And they must leave to others their means of maintenance.
+
+[[v19-49-11]]
+
+^<<v19-49-11,11>>^ Their inward wish^&#42;1^ is that their houses may be to time indefinite,
+Their tabernacles to generation after generation.
+They have called their landed estates by their names.
+
+[NOTE]
+====
+. “Their inward wish,” M; LXXSyVg, “Their graves.”
+====
+
+[[v19-49-12]]
+
+^<<v19-49-12,12>>^ And yet earthling man,^&#42;1^ though in honor, cannot keep lodging;
+He is indeed comparable with the beasts that have been destroyed.^&#42;2^
+
+[NOTE]
+====
+. “And yet earthling man.” Heb., weʼa·dhamʹ.
+. Or, “silenced.”
+====
+
+[[v19-49-13]]
+
+^<<v19-49-13,13>>^ This is the way of those who have stupidity,
+And of those coming after them who take pleasure in their very mouthings.^&#42;1^ Seʹlah.
+
+[NOTE]
+====
+. Lit., “mouth.”
+====
+
+[[v19-49-14]]
+
+^<<v19-49-14,14>>^ Like sheep they have been appointed^&#42;1^ to Sheʹol itself;
+Death itself will shepherd^&#42;2^ them;
+And the upright ones will have them in subjection in the morning,
+And their forms^&#42;3^ are due to wear away;
+Sheʹol rather than a lofty abode is for each one.^&#42;4^
+
+[NOTE]
+====
+. Lit., “they have appointed [them].” By a correction of the verb, “they will descend (drop).”
+. Or, “pasture [tend].”
+. “Their rock,” Mmargin.
+. Or, “for him,” that is, for each one in the group.
+====
+
+[[v19-49-15]]
+
+^<<v19-49-15,15>>^ However, God himself will redeem my soul from the hand of Sheʹol,
+For he will receive me. Seʹlah.
+
+[[v19-49-16]]
+
+^<<v19-49-16,16>>^ Do not be afraid because some man gains riches,
+Because the glory of his house increases,
+
+[[v19-49-17]]
+
+^<<v19-49-17,17>>^ For at his death he cannot take along anything at all;
+His glory will not go down along with him himself.
+
+[[v19-49-18]]
+
+^<<v19-49-18,18>>^ For during his lifetime he kept blessing his own soul;
+(And people will laud you because you do well for yourself)
+
+[[v19-49-19]]
+
+^<<v19-49-19,19>>^ &#91;His soul&#93;^&#42;1^ finally comes only as far as the generation of his forefathers.
+Nevermore will they see the light.
+
+[NOTE]
+====
+. Lit., “it,” fem., referring to the “soul.”
+====
+
+[[v19-49-20]]
+
+^<<v19-49-20,20>>^ Earthling man, although in honor, who does not understand,^&#42;1^
+Is indeed comparable with the beasts that have been destroyed.
+
+[NOTE]
+====
+. “Who does not understand,” M; by altering the Heb. verb form in harmony with vs 12a, “even does not keep lodging.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-048.adoc#v19-48-0[&#60; Capítulo Anterior] | <<v19-49-0,Topo>> | xref:019-psalm/019-psalm-050.adoc#v19-50-0[Próximo Capítulo &#62;]

@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-131-0]]
+=== Psalms, 131
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents. Of David._
+
+[[v19-131-1]]
+
+^<<v19-131-1,1>>^ O Jehovah, my heart has not been haughty,
+Nor have my eyes been lofty;
+Nor have I walked in things too great,
+Nor in things too wonderful for me.
+
+[[v19-131-2]]
+
+^<<v19-131-2,2>>^ Surely I have soothed and quieted my soul
+Like a weanling upon his mother.
+My soul is like a weanling upon me.
+
+[[v19-131-3]]
+
+^<<v19-131-3,3>>^ Let Israel wait for Jehovah
+From now on and to time indefinite.
+
+'''
+
+xref:019-psalm/019-psalm-130.adoc#v19-130-0[&#60; Capítulo Anterior] | <<v19-131-0,Topo>> | xref:019-psalm/019-psalm-132.adoc#v19-132-0[Próximo Capítulo &#62;]

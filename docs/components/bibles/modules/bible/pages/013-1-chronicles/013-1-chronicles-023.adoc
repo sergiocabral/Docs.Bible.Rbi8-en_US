@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v13-23-0]]
+=== The First of Chronicles, 23
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v13-23-1]]
+
+^<<v13-23-1,1>>^ And David himself had grown old and satisfied with days, and so he made Solʹo·mon his son king over Israel.
+
+[[v13-23-2]]
+
+^<<v13-23-2,2>>^ And he proceeded to gather all the princes of Israel and the priests and the Levites.
+
+[[v13-23-3]]
+
+^<<v13-23-3,3>>^ Accordingly the Levites were numbered from the age of thirty years upward; and their number, head by head of them, able-bodied man by able-bodied man, came to be thirty-eight thousand.
+
+[[v13-23-4]]
+
+^<<v13-23-4,4>>^ Of these for acting as supervisors over the work of the house of Jehovah there were twenty-four thousand; and as officers and judges six thousand;
+
+[[v13-23-5]]
+
+^<<v13-23-5,5>>^ and four thousand gatekeepers and four thousand givers of praise to Jehovah on the instruments that &#91;David said&#93; “I have made for giving praise.”
+
+[[v13-23-6]]
+
+^<<v13-23-6,6>>^ Then David distributed them in divisions to the sons of Leʹvi, to Gerʹshon, Koʹhath and Me·rarʹi.
+
+[[v13-23-7]]
+
+^<<v13-23-7,7>>^ To the Gerʹshon·ites, Laʹdan and Shimʹe·i.
+
+[[v13-23-8]]
+
+^<<v13-23-8,8>>^ The sons of Laʹdan were Je·hiʹel the headman and Zeʹtham and Joel, three.
+
+[[v13-23-9]]
+
+^<<v13-23-9,9>>^ The sons of Shimʹe·i were She·loʹmoth and Haʹzi·el and Haʹran, three. These were the heads of the fathers for Laʹdan.
+
+[[v13-23-10]]
+
+^<<v13-23-10,10>>^ And the sons of Shimʹe·i were Jaʹhath, Ziʹna^&#42;1^ and Jeʹush and Be·riʹah. These four were the sons of Shimʹe·i.
+
+[NOTE]
+====
+. “Zina,” M; LXXVg, one Heb. ms and vs 11, “Zizah.”
+====
+
+[[v13-23-11]]
+
+^<<v13-23-11,11>>^ And Jaʹhath came to be the head, and Ziʹzah the second. As for Jeʹush and Be·riʹah, they did not have many sons; so they became a paternal house for one official class.
+
+[[v13-23-12]]
+
+^<<v13-23-12,12>>^ The sons of Koʹhath were Amʹram, Izʹhar, Heʹbron and Uzʹzi·el, four.
+
+[[v13-23-13]]
+
+^<<v13-23-13,13>>^ The sons of Amʹram were Aaron and Moses. But Aaron was separated that he might sanctify^&#42;1^ the Most Holy, he and his sons to time indefinite, to make sacrificial smoke before Jehovah, to minister to him and to pronounce blessing in his name to time indefinite.
+
+[NOTE]
+====
+. “That he might sanctify (hold sacred; treat as holy).” Heb., lehaq·di·shohʹ; Gr., tou ha·gi·a·stheʹnai.
+====
+
+[[v13-23-14]]
+
+^<<v13-23-14,14>>^ As for Moses the man of the &#91;true&#93; God,^&#42;1^ his sons themselves continued to be called among the tribe of the Levites.
+
+[NOTE]
+====
+. “Man of the [true] God.” Heb., ʼish ha·ʼElo·himʹ. See App 1F.
+====
+
+[[v13-23-15]]
+
+^<<v13-23-15,15>>^ The sons of Moses were Gerʹshom and E·li·eʹzer.
+
+[[v13-23-16]]
+
+^<<v13-23-16,16>>^ The sons of Gerʹshom were Shebʹu·el^&#42;1^ the head.
+
+[NOTE]
+====
+. Meaning “He Returned to God; Captive of God”; in 24:20, “Shubael.” Understood to refer to a son or descendant of Moses’ son Gershom.
+====
+
+[[v13-23-17]]
+
+^<<v13-23-17,17>>^ And the sons of E·li·eʹzer came to be Re·ha·biʹah the head; and E·li·eʹzer did not come to have other sons, but the sons of Re·ha·biʹah did themselves become exceedingly many.
+
+[[v13-23-18]]
+
+^<<v13-23-18,18>>^ The sons of Izʹhar were She·loʹmith the headman.
+
+[[v13-23-19]]
+
+^<<v13-23-19,19>>^ The sons of Heʹbron were Je·riʹah the head, Am·a·riʹah the second, Ja·ha·ziʹel the third and Jek·a·meʹam the fourth.
+
+[[v13-23-20]]
+
+^<<v13-23-20,20>>^ The sons of Uzʹzi·el were Miʹcah the head and Is·shiʹah the second.
+
+[[v13-23-21]]
+
+^<<v13-23-21,21>>^ The sons of Me·rarʹi were Mahʹli and Muʹshi. The sons of Mahʹli were El·e·aʹzar and Kish.
+
+[[v13-23-22]]
+
+^<<v13-23-22,22>>^ But El·e·aʹzar died; and he had come to have, not sons, but daughters. So the sons of Kish their brothers took them &#91;as wives&#93;.
+
+[[v13-23-23]]
+
+^<<v13-23-23,23>>^ The sons of Muʹshi were Mahʹli and Eʹder and Jerʹe·moth, three.
+
+[[v13-23-24]]
+
+^<<v13-23-24,24>>^ These were the sons of Leʹvi by the house of their fathers, the heads of the fathers, by their commissioned ones, in the number of the names, head by head^&#42;1^ of them, the doers of the work for the service of the house of Jehovah, from the age of twenty years upward.
+
+[NOTE]
+====
+. Lit., “skull.”
+====
+
+[[v13-23-25]]
+
+^<<v13-23-25,25>>^ For David had said: “Jehovah the God of Israel has given rest to his people, and he will reside in Jerusalem to time indefinite.
+
+[[v13-23-26]]
+
+^<<v13-23-26,26>>^ And also the Levites will not have to carry the tabernacle or any of its utensils for its service.”
+
+[[v13-23-27]]
+
+^<<v13-23-27,27>>^ For by the last words of David these were the number of the sons of Leʹvi from the age of twenty years upward.
+
+[[v13-23-28]]
+
+^<<v13-23-28,28>>^ For their function was at the disposition^&#42;1^ of the sons of Aaron for the service of the house of Jehovah over the courtyards and over the dining rooms and over the purification of every holy thing and the work of the service of the house of the &#91;true&#93; God,
+
+[NOTE]
+====
+. Lit., “hand.”
+====
+
+[[v13-23-29]]
+
+^<<v13-23-29,29>>^ even for the layer bread and for the fine flour for the grain offering and for the wafers of unfermented bread and for the griddle &#91;cakes&#93; and for the mixed dough and for all measures of quantity and size;
+
+[[v13-23-30]]
+
+^<<v13-23-30,30>>^ and for standing morning by morning to thank and praise Jehovah, and likewise at evening;
+
+[[v13-23-31]]
+
+^<<v13-23-31,31>>^ and for every offering up of the burnt sacrifices to Jehovah at the sabbaths, at the new moons and at the festival seasons, by number according to the rule concerning them, constantly before Jehovah.
+
+[[v13-23-32]]
+
+^<<v13-23-32,32>>^ And they took care of the guarding of the tent of meeting and the guarding of the holy place and the guarding of the sons of Aaron their brothers for the service of the house of Jehovah.
+
+'''
+
+xref:013-1-chronicles/013-1-chronicles-022.adoc#v13-22-0[&#60; Capítulo Anterior] | <<v13-23-0,Topo>> | xref:013-1-chronicles/013-1-chronicles-024.adoc#v13-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,232 @@
+include::./index.adoc[]
+
+[[v20-31-0]]
+=== Proverbs, 31
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-31-1]]
+
+^<<v20-31-1,1>>^ The words of Lemʹu·el^&#42;1^ the king, the weighty message that his mother gave to him in correction:
+
+[NOTE]
+====
+. Meaning “Belonging to God.”
+====
+
+[[v20-31-2]]
+
+^<<v20-31-2,2>>^ What &#91;am I saying&#93;, O son of mine,^&#42;1^ and what, O son of my belly, and what, O son of my vows?
+
+[NOTE]
+====
+. Lit., “O my son.” Heb., beriʹ (from bar, which is Biblical Aram.). See Ps 2:12 ftn, “Son.”
+====
+
+[[v20-31-3]]
+
+^<<v20-31-3,3>>^ Do not give your vital energy to women, nor your ways to &#91;what leads to&#93; wiping out kings.
+
+[[v20-31-4]]
+
+^<<v20-31-4,4>>^ It is not for kings, O Lemʹu·el, it is not for kings to drink wine or for high officials &#91;to say:&#93; “Where is intoxicating liquor?”
+
+[[v20-31-5]]
+
+^<<v20-31-5,5>>^ that one may not drink and forget what is decreed and pervert the cause of any of the sons of affliction.
+
+[[v20-31-6]]
+
+^<<v20-31-6,6>>^ Give intoxicating liquor, YOU people, to the one about to perish and wine to those who are bitter of soul.
+
+[[v20-31-7]]
+
+^<<v20-31-7,7>>^ Let one drink and forget one’s poverty, and let one remember one’s own trouble no more.
+
+[[v20-31-8]]
+
+^<<v20-31-8,8>>^ Open your mouth for the speechless one, in the cause of all those passing away.^&#42;1^
+
+[NOTE]
+====
+. Lit., “all the sons of the passing away.”
+====
+
+[[v20-31-9]]
+
+^<<v20-31-9,9>>^ Open your mouth, judge righteously and plead the cause of the afflicted one and the poor one.
+
+_א &#91;ʼAʹleph&#93;_
+
+[[v20-31-10]]
+
+^<<v20-31-10,10>>^ A capable wife who can find? Her value is far more than that of corals.
+
+_ב &#91;Behth&#93;_
+
+[[v20-31-11]]
+
+^<<v20-31-11,11>>^ In her the heart of her owner^&#42;1^ has put trust, and there is no gain lacking.
+
+[NOTE]
+====
+. “Her owner.” Heb., baʽ·lahʹ.
+====
+
+_ג &#91;Giʹmel&#93;_
+
+[[v20-31-12]]
+
+^<<v20-31-12,12>>^ She has rewarded him with good, and not bad, all the days of her life.
+
+_ד &#91;Daʹleth&#93;_
+
+[[v20-31-13]]
+
+^<<v20-31-13,13>>^ She has sought wool and linen, and she works at whatever is the delight of her hands.
+
+_ה &#91;Heʼ&#93;_
+
+[[v20-31-14]]
+
+^<<v20-31-14,14>>^ She has proved to be like the ships of a merchant. From far away she brings in her food.^&#42;1^
+
+[NOTE]
+====
+. Or, “her bread.” Heb., lach·mahʹ (from leʹchem, as in vs 27).
+====
+
+_ו &#91;Waw&#93;_
+
+[[v20-31-15]]
+
+^<<v20-31-15,15>>^ She also gets up while it is still night, and gives food^&#42;1^ to her household and the prescribed portion to her young women.
+
+[NOTE]
+====
+. Lit., “things carried off.” Heb., teʹreph.
+====
+
+_ז &#91;Zaʹyin&#93;_
+
+[[v20-31-16]]
+
+^<<v20-31-16,16>>^ She has considered a field and proceeded to obtain it; from the fruitage of her hands she has planted a vineyard.
+
+_ח &#91;Chehth&#93;_
+
+[[v20-31-17]]
+
+^<<v20-31-17,17>>^ She has girded her hips with strength, and she invigorates her arms.
+
+_ט &#91;Tehth&#93;_
+
+[[v20-31-18]]
+
+^<<v20-31-18,18>>^ She has sensed that her trading is good; her lamp does not go out at night.
+
+_י &#91;Yohdh&#93;_
+
+[[v20-31-19]]
+
+^<<v20-31-19,19>>^ Her hands she has thrust out to the distaff, and her own hands take hold of the spindle.
+
+_כ &#91;Kaph&#93;_
+
+[[v20-31-20]]
+
+^<<v20-31-20,20>>^ Her palm she has stretched out to the afflicted one, and her hands she has thrust out to the poor one.
+
+_ל &#91;Laʹmedh&#93;_
+
+[[v20-31-21]]
+
+^<<v20-31-21,21>>^ She does not fear for her household because of the snow, for all her household are clothed with double garments.^&#42;1^
+
+[NOTE]
+====
+. “Double garments,” by a slight change in vowel pointing, to agree with LXX; M, “scarlet garments.”
+====
+
+_מ &#91;Mem&#93;_
+
+[[v20-31-22]]
+
+^<<v20-31-22,22>>^ Coverlets she has made for herself. Her clothing is of linen and wool dyed reddish purple.
+
+_נ &#91;Nun&#93;_
+
+[[v20-31-23]]
+
+^<<v20-31-23,23>>^ Her owner is someone known in the gates, when he sits down with the older men^&#42;1^ of the land.
+
+[NOTE]
+====
+. Or, “elders.”
+====
+
+_ס &#91;Saʹmekh&#93;_
+
+[[v20-31-24]]
+
+^<<v20-31-24,24>>^ She has made even undergarments and proceeded to sell &#91;them&#93;, and belts she has given to the tradesmen.
+
+_ע &#91;ʽAʹyin&#93;_
+
+[[v20-31-25]]
+
+^<<v20-31-25,25>>^ Strength and splendor are her clothing, and she laughs at a future day.
+
+_פ &#91;Peʼ&#93;_
+
+[[v20-31-26]]
+
+^<<v20-31-26,26>>^ Her mouth she has opened in wisdom, and the law of loving-kindness^&#42;1^ is upon her tongue.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+_צ &#91;Tsa·dhehʹ&#93;_
+
+[[v20-31-27]]
+
+^<<v20-31-27,27>>^ She is watching over the goings-on of her household, and the bread of laziness^&#42;1^ she does not eat.
+
+[NOTE]
+====
+. “And the bread of laziness.” Heb., weleʹchem ʽats·luthʹ.
+====
+
+_ק &#91;Qohph&#93;_
+
+[[v20-31-28]]
+
+^<<v20-31-28,28>>^ Her sons have risen up and proceeded to pronounce her happy; her owner &#91;rises up&#93;, and he praises her.
+
+_ר &#91;Rehsh&#93;_
+
+[[v20-31-29]]
+
+^<<v20-31-29,29>>^ There are many daughters that have shown capableness, but you—you have ascended above them all.
+
+_ש &#91;Shin&#93;_
+
+[[v20-31-30]]
+
+^<<v20-31-30,30>>^ Charm may be false, and prettiness may be vain; &#91;but&#93; the woman that fears Jehovah is the one that procures praise for herself.
+
+_ת &#91;Taw&#93;_
+
+[[v20-31-31]]
+
+^<<v20-31-31,31>>^ GIVE her of the fruitage of her hands, and let her works praise her even in the gates.^&#42;1^
+
+[NOTE]
+====
+. Some ed. of the Heb. text display the trigrammaton, or three letters, Chehth, Zaʹyin, Qohph (ח ז ק) that stand as King Hezekiah’s signature to the copy-work done by his scribes to signify that the work had been completed.
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-030.adoc#v20-30-0[&#60; Capítulo Anterior] | <<v20-31-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-001.adoc#v21-1-0[Próximo Capítulo &#62;]

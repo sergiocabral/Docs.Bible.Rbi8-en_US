@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v14-1-0]]
+=== The Second of Chronicles, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v14-1-1]]
+
+^<<v14-1-1,1>>^ And Solʹo·mon the son of David continued to get strength in his kingship, and Jehovah his God was with him and kept making him surpassingly great.
+
+[[v14-1-2]]
+
+^<<v14-1-2,2>>^ And Solʹo·mon proceeded to say the word to all Israel, to the chiefs of the thousands and of the hundreds and to the judges and to all the chieftains of all Israel, the heads of the paternal houses.
+
+[[v14-1-3]]
+
+^<<v14-1-3,3>>^ Then Solʹo·mon and all the congregation^&#42;1^ with him went to the high place that was at Gibʹe·on; for there was where the tent of meeting of the &#91;true&#93; God,^&#42;2^ which Moses the servant of Jehovah had made in the wilderness, happened to be.
+
+[NOTE]
+====
+. “The congregation.” Heb., haq·qa·halʹ; Gr., ek·kle·siʹa.
+. “The [true] God.” Heb., ha·ʼElo·himʹ; Gr., The·ouʹ; Sy, “Jehovah.” See App 1F.
+====
+
+[[v14-1-4]]
+
+^<<v14-1-4,4>>^ However, the ark of the &#91;true&#93; God David had brought up from Kirʹi·ath-jeʹa·rim to the place that David had prepared for it, for he had pitched a tent for it in Jerusalem.
+
+[[v14-1-5]]
+
+^<<v14-1-5,5>>^ And the copper altar that Bezʹal·el the son of Uʹri the son of Hur had made had been put^&#42;1^ before the tabernacle of Jehovah; and Solʹo·mon and the congregation applied as usual to it.
+
+[NOTE]
+====
+. Lit., “he (one) had put,” M; many Heb. mss, “was there.”
+====
+
+[[v14-1-6]]
+
+^<<v14-1-6,6>>^ Solʹo·mon now made offerings there before Jehovah upon the copper altar that belonged to the tent of meeting, and he proceeded to offer upon it a thousand burnt offerings.
+
+[[v14-1-7]]
+
+^<<v14-1-7,7>>^ During that night God appeared to Solʹo·mon and then said to him: “Ask! What shall I give you?”
+
+[[v14-1-8]]
+
+^<<v14-1-8,8>>^ At that Solʹo·mon said to God: “You are the One that exercised great loving-kindness^&#42;1^ toward David my father and that have made me king in place of him.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v14-1-9]]
+
+^<<v14-1-9,9>>^ Now, O Jehovah God, let your promise with David my father prove faithful, for you yourself have made me king over a people as numerous as the dust particles of the earth.
+
+[[v14-1-10]]
+
+^<<v14-1-10,10>>^ Give me now wisdom and knowledge that I may go out before this people and that I may come in, for who could judge this great people of yours?”
+
+[[v14-1-11]]
+
+^<<v14-1-11,11>>^ Then God said to Solʹo·mon: “For the reason that this has proved to be close to your heart and you have not asked for wealth, riches and honor or for the soul^&#42;1^ of those hating you, neither is it even many days that you have asked for, but you ask for wisdom and knowledge for yourself that you may judge my people over whom I have made you king,
+
+[NOTE]
+====
+. Or, “life.”
+====
+
+[[v14-1-12]]
+
+^<<v14-1-12,12>>^ the wisdom and the knowledge are being given you; also wealth and riches and honor I shall give you such as no kings that were prior to you happened to have, and such as no one after you will come to have.”
+
+[[v14-1-13]]
+
+^<<v14-1-13,13>>^ So Solʹo·mon came &#91;from&#93;^&#42;1^ the high place that was at Gibʹe·on, from before the tent of meeting, to Jerusalem and continued to reign over Israel.
+
+[NOTE]
+====
+. “From,” LXXVg.
+====
+
+[[v14-1-14]]
+
+^<<v14-1-14,14>>^ And Solʹo·mon kept gathering chariots and steeds^&#42;1^ so that he came to have a thousand four hundred chariots and twelve thousand steeds, and he kept them stationed in chariot cities and close by the king at Jerusalem.
+
+[NOTE]
+====
+. Or, “horsemen.”
+====
+
+[[v14-1-15]]
+
+^<<v14-1-15,15>>^ And the king came to make the silver and the gold in Jerusalem like the stones; and cedarwood he made like the sycamore trees that are in the She·pheʹlah^&#42;1^ for great quantity.
+
+[NOTE]
+====
+. Or, “the lowland.”
+====
+
+[[v14-1-16]]
+
+^<<v14-1-16,16>>^ And there was the export of the horses that Solʹo·mon had from Egypt, and the company of the king’s merchants would themselves take the horse drove for a price.
+
+[[v14-1-17]]
+
+^<<v14-1-17,17>>^ And they customarily brought up and exported from Egypt a chariot for six hundred silver pieces and a horse for a hundred and fifty; and that was the way it was for all the kings of the Hitʹtites and the kings of Syria. It was by means of them that they did the exporting.
+
+'''
+
+xref:013-1-chronicles/013-1-chronicles-029.adoc#v13-29-0[&#60; Capítulo Anterior] | <<v14-1-0,Topo>> | xref:014-2-chronicles/014-2-chronicles-002.adoc#v14-2-0[Próximo Capítulo &#62;]

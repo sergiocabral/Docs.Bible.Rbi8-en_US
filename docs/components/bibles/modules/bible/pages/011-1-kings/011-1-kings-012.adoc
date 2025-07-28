@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v11-12-0]]
+=== The First of Kings, 12
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v11-12-1]]
+
+^<<v11-12-1,1>>^ And Re·ho·boʹam proceeded to go to Sheʹchem, for it was to Sheʹchem that all Israel came to make him king.
+
+[[v11-12-2]]
+
+^<<v11-12-2,2>>^ And it came about that as soon as Jer·o·boʹam the son of Neʹbat heard of it while he was yet in Egypt (because he had run off on account of King Solʹo·mon, that Jer·o·boʹam might dwell in Egypt),
+
+[[v11-12-3]]
+
+^<<v11-12-3,3>>^ then they sent and called him. After that Jer·o·boʹam and all the congregation of Israel came and began to speak to Re·ho·boʹam, saying:
+
+[[v11-12-4]]
+
+^<<v11-12-4,4>>^ “Your father, for his part, made our yoke hard, and, as for you, now make the hard service of your father and his heavy yoke that he put upon us lighter, and we shall serve you.”
+
+[[v11-12-5]]
+
+^<<v11-12-5,5>>^ At this he said to them: “Go away for three days and return to me.” So the people went away.
+
+[[v11-12-6]]
+
+^<<v11-12-6,6>>^ And King Re·ho·boʹam began to take counsel with the older men who had continued attending upon Solʹo·mon his father while he continued alive, saying: “How are YOU advising to reply to this people?”
+
+[[v11-12-7]]
+
+^<<v11-12-7,7>>^ Accordingly they spoke to him, saying: “If today you would prove yourself a servant to this people and actually serve them, you must also answer them and speak to them with good words; and they will be bound to become your servants always.”
+
+[[v11-12-8]]
+
+^<<v11-12-8,8>>^ However, he left the counsel of the older men with which they had advised him, and he began to take counsel with the young men that had grown up with him, who were the ones attending upon him.
+
+[[v11-12-9]]
+
+^<<v11-12-9,9>>^ And he went on to say to them: “What is it that YOU are offering in counsel that we may reply to this people who have spoken to me, saying, ‘Make the yoke that your father put upon us lighter’?”
+
+[[v11-12-10]]
+
+^<<v11-12-10,10>>^ In turn the young men that had grown up with him spoke to him, saying: “This is what you should say to this people who have spoken to you, saying, ‘Your father, for his part, made our yoke heavy, but, as for you, make it lighter upon us’; this is what you should speak to them, ‘My little finger itself will certainly be thicker than my father’s hips.
+
+[[v11-12-11]]
+
+^<<v11-12-11,11>>^ And now my father, for his part, loaded upon YOU a heavy yoke; but I, for my part, shall add to YOUR yoke. My father, for his part, chastised YOU with whips, but I, for my part, shall chastise YOU with scourges.’”^&#42;1^
+
+[NOTE]
+====
+. “Scourges.” The Heb. word also means “scorpions,” as in De 8:15.
+====
+
+[[v11-12-12]]
+
+^<<v11-12-12,12>>^ And Jer·o·boʹam and all the people proceeded to come to Re·ho·boʹam on the third day, just as the king had spoken, saying: “Return to me on the third day.”
+
+[[v11-12-13]]
+
+^<<v11-12-13,13>>^ And the king began to answer the people harshly, and to leave the counsel of the older men who had counseled him.
+
+[[v11-12-14]]
+
+^<<v11-12-14,14>>^ And he went on to speak to them according to the counsel of the young men, saying: “My father, for his part, made YOUR yoke heavy, but I, for my part, shall add to YOUR yoke. My father, for his part, chastised YOU with whips, but I, for my part, shall chastise YOU with scourges.”
+
+[[v11-12-15]]
+
+^<<v11-12-15,15>>^ And the king did not listen to the people, because the turn of affairs took place at the instance of Jehovah, in order that he might indeed carry out his word that Jehovah had spoken by means of A·hiʹjah the Shiʹlo·nite to Jer·o·boʹam the son of Neʹbat.
+
+[[v11-12-16]]
+
+^<<v11-12-16,16>>^ When all Israel got to see that the king had not listened to them, then the people replied to the king, saying: “What share do we have in David? And there is no inheritance in the son of Jesʹse. To your gods,^&#42;1^ O Israel. Now see to your own house, O David!” With that Israel began to go to their tents.
+
+[NOTE]
+====
+. “To your gods.” Lit., “To your tents.” Heb., leʼo·ha·leyʹkha. One of the Eighteen Emendations of the Sopherim. The original Heb. text is alleged to have used a form of ʼelo·himʹ (“gods”; or, “God”), but by transposing l and h, the second and third consonants of the word, the Jewish Sopherim made M read “tents.” See 2Sa 20:1 ftn, “Gods”; 2Ch 10:16 ftn; App 2B.
+====
+
+[[v11-12-17]]
+
+^<<v11-12-17,17>>^ As for the sons of Israel that were dwelling in the cities of Judah, Re·ho·boʹam continued to reign over them.
+
+[[v11-12-18]]
+
+^<<v11-12-18,18>>^ Subsequently King Re·ho·boʹam sent A·doʹram, who was over those conscripted for forced labor, but all Israel pelted him with stones, so that he died. And King Re·ho·boʹam himself managed to get up into the chariot to flee to Jerusalem.
+
+[[v11-12-19]]
+
+^<<v11-12-19,19>>^ And the Israelites kept up their revolt against the house of David down to this day.
+
+[[v11-12-20]]
+
+^<<v11-12-20,20>>^ And it came about that as soon as all Israel heard that Jer·o·boʹam had returned, they at once sent and called him to the assembly^&#42;1^ and made him king over all Israel. None became a follower of the house of David except the tribe of Judah by itself.
+
+[NOTE]
+====
+. “Assembly.” Gr., sy·na·go·genʹ.
+====
+
+[[v11-12-21]]
+
+^<<v11-12-21,21>>^ When Re·ho·boʹam arrived at Jerusalem, he immediately congregated all the house of Judah and the tribe of Benjamin, a hundred and eighty thousand choice men able-bodied for war,^&#42;1^ to fight against the house of Israel, so as to bring the kingship back to Re·ho·boʹam the son of Solʹo·mon.
+
+[NOTE]
+====
+. “Able-bodied for war.” Lit., “making war.”
+====
+
+[[v11-12-22]]
+
+^<<v11-12-22,22>>^ Then the word of the &#91;true&#93; God^&#42;1^ came to She·maiʹah the man of the &#91;true&#93; God, saying:
+
+[NOTE]
+====
+. “The [true] God.” Heb., ha·ʼElo·himʹ; LXXSyVg, “Jehovah.”
+====
+
+[[v11-12-23]]
+
+^<<v11-12-23,23>>^ “Say to Re·ho·boʹam the son of Solʹo·mon the king of Judah and to all the house of Judah and Benjamin and the rest of the people,
+
+[[v11-12-24]]
+
+^<<v11-12-24,24>>^ ‘This is what Jehovah has said: “YOU must not go up and fight against YOUR brothers the sons of Israel. Go back each one to his house, for it is at the instance of myself that this thing has been brought about.”’” So they obeyed the word of Jehovah, and went back home according to the word of Jehovah.
+
+[[v11-12-25]]
+
+^<<v11-12-25,25>>^ And Jer·o·boʹam proceeded to build Sheʹchem in the mountainous region of Eʹphra·im and to dwell in it. Then he went forth from there and built Pe·nuʹel.
+
+[[v11-12-26]]
+
+^<<v11-12-26,26>>^ And Jer·o·boʹam began to say in his heart: “Now the kingdom will return to the house of David.
+
+[[v11-12-27]]
+
+^<<v11-12-27,27>>^ If this people continues going up to render sacrifices in the house of Jehovah in Jerusalem, the heart of this people will also be bound to return to their lord,^&#42;1^ Re·ho·boʹam the king of Judah; and they will certainly kill me and return to Re·ho·boʹam the king of Judah.”
+
+[NOTE]
+====
+. “Their lord.” Heb., ʼadho·neh·hemʹ, pl. of ʼa·dhohnʹ, to denote excellence.
+====
+
+[[v11-12-28]]
+
+^<<v11-12-28,28>>^ Consequently the king took counsel and made two golden calves and said to the people:^&#42;1^ “It is too much for YOU to go up to Jerusalem. Here is your God,^&#42;2^ O Israel, that brought you up out of the land of Egypt.”
+
+[NOTE]
+====
+. “To the people,” LXXIt; Sy, “to all Israel”; MVg, “to them.”
+. Lit., “your gods.” Heb., ʼelo·heyʹkha, followed by the pl. verb “brought.” Compare Ex 32:1, 4 ftns, “God.”
+====
+
+[[v11-12-29]]
+
+^<<v11-12-29,29>>^ Then he placed the one in Bethʹel, and the other he put in Dan.
+
+[[v11-12-30]]
+
+^<<v11-12-30,30>>^ And this thing came to be a cause for sin, and the people began to go before the one as far as Dan.
+
+[[v11-12-31]]
+
+^<<v11-12-31,31>>^ And he began to make a house of high places and to make priests from the people in general, who did not happen to be of the sons of Leʹvi.
+
+[[v11-12-32]]
+
+^<<v11-12-32,32>>^ And Jer·o·boʹam went on to make a festival in the eighth month on the fifteenth day of the month, like the festival that was in Judah, that he might make offerings upon the altar that he had made in Bethʹel, to sacrifice to the calves that he had made; and he put in attendance at Bethʹel the priests of the high places that he had made.
+
+[[v11-12-33]]
+
+^<<v11-12-33,33>>^ And he began to make offerings upon the altar that he had made in Bethʹel on the fifteenth day in the eighth month, in the month that he had invented by himself;^&#42;1^ and he proceeded to make a festival for the sons of Israel and to make offerings upon the altar to make sacrificial smoke.
+
+[NOTE]
+====
+. “By himself.” Mmargin, “in his heart.”
+====
+
+'''
+
+xref:011-1-kings/011-1-kings-011.adoc#v11-11-0[&#60; Capítulo Anterior] | <<v11-12-0,Topo>> | xref:011-1-kings/011-1-kings-013.adoc#v11-13-0[Próximo Capítulo &#62;]

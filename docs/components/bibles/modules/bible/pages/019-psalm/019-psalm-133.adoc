@@ -1,0 +1,36 @@
+include::./index.adoc[]
+
+[[v19-133-0]]
+=== Psalms, 133
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents. Of David._
+
+[[v19-133-1]]
+
+^<<v19-133-1,1>>^ Look! How good and how pleasant it is
+For brothers to dwell together in unity!
+
+[[v19-133-2]]
+
+^<<v19-133-2,2>>^ It is like the good oil upon the head,
+That is running down^&#42;1^ upon the beard,
+Aaron’s beard,
+That is running down to the collar^&#42;2^ of his garments.
+
+[NOTE]
+====
+. Or, “descending,” as in vs 3.
+. Or, “opening.” Lit., “mouth.”
+====
+
+[[v19-133-3]]
+
+^<<v19-133-3,3>>^ It is like the dew of Herʹmon
+That is descending upon the mountains of Zion.
+For there Jehovah commanded the blessing &#91;to be&#93;,
+&#91;Even&#93; life to time indefinite.
+
+'''
+
+xref:019-psalm/019-psalm-132.adoc#v19-132-0[&#60; Capítulo Anterior] | <<v19-133-0,Topo>> | xref:019-psalm/019-psalm-134.adoc#v19-134-0[Próximo Capítulo &#62;]

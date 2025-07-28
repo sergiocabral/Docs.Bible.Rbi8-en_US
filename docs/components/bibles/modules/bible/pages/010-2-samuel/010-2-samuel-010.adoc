@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v10-10-0]]
+=== The Second of Samuel, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v10-10-1]]
+
+^<<v10-10-1,1>>^ And it came about afterward that the king of the sons of Amʹmon came to die, and Haʹnun his son began to reign instead of him.
+
+[[v10-10-2]]
+
+^<<v10-10-2,2>>^ At this David said: “I shall exercise loving-kindness toward Haʹnun the son of Naʹhash, just as his father exercised loving-kindness toward me.” Accordingly David sent by means of his servants to comfort him over his father, and the servants of David proceeded to come into the land of the sons of Amʹmon.
+
+[[v10-10-3]]
+
+^<<v10-10-3,3>>^ However, the princes of the sons of Amʹmon said to Haʹnun their lord: “Is David honoring your father in your eyes in that he has sent to you comforters? Is it not for the sake of searching through the city^&#42;1^ and to spy it out and to overthrow it that David has sent his servants to you?”
+
+[NOTE]
+====
+. “City,” MLXXSyVg; in 1Ch 19:3, “land.”
+====
+
+[[v10-10-4]]
+
+^<<v10-10-4,4>>^ So Haʹnun took the servants of David and shaved off half their beards and cut their garments in half to their buttocks and sent them away.
+
+[[v10-10-5]]
+
+^<<v10-10-5,5>>^ Later people reported it to David, and he at once sent to meet them, because the men had come to feeling very humiliated; and the king went on to say: “Dwell in Jerʹi·cho until YOUR beards grow abundantly. Then YOU must return.”
+
+[[v10-10-6]]
+
+^<<v10-10-6,6>>^ In time the sons of Amʹmon saw that they had become foul-smelling to David, and the sons of Amʹmon proceeded to send and hire Syrians of Beth-reʹhob and Syrians of Zoʹbah, twenty thousand men on foot, and the king of Maʹa·cah, a thousand men, and Ishʹtob,^&#42;1^ twelve thousand men.
+
+[NOTE]
+====
+. Or, “men of Tob.”
+====
+
+[[v10-10-7]]
+
+^<<v10-10-7,7>>^ When David heard of it, then he sent Joʹab and all the army &#91;and&#93; the mighty men.^&#42;1^
+
+[NOTE]
+====
+. Lit., “all the army—the mighty men.” See 16:6; 20:7; 23:8.
+====
+
+[[v10-10-8]]
+
+^<<v10-10-8,8>>^ And the sons of Amʹmon began to go out and draw up in battle formation at the entrance of the gate,^&#42;1^ also the Syrians of Zoʹbah and of Reʹhob, and Ishʹtob and Maʹa·cah by themselves in the open field.
+
+[NOTE]
+====
+. “Gate,” MLXXSyVg; in 1Ch 19:9, “city.”
+====
+
+[[v10-10-9]]
+
+^<<v10-10-9,9>>^ When Joʹab saw that the battle charges had come to be against him from the front and from the rear, he at once chose some of all the choice men in Israel and drew them up in formation to meet the Syrians.
+
+[[v10-10-10]]
+
+^<<v10-10-10,10>>^ And the rest of the people he gave into the hand of A·bishʹai his brother, that he might draw them up in formation to meet the sons of Amʹmon.
+
+[[v10-10-11]]
+
+^<<v10-10-11,11>>^ And he went on to say: “If the Syrians become too strong for me, then you must serve as a salvation for me; but if the sons of Amʹmon themselves become too strong for you, I must also come to save you.
+
+[[v10-10-12]]
+
+^<<v10-10-12,12>>^ Be strong, that we may show ourselves courageous in behalf of our people and in behalf of the cities of our God; and as for Jehovah, he will do what is good in his own eyes.”
+
+[[v10-10-13]]
+
+^<<v10-10-13,13>>^ Then Joʹab and the people that were with him advanced to the battle against the Syrians, and they went fleeing from before him.
+
+[[v10-10-14]]
+
+^<<v10-10-14,14>>^ As for the sons of Amʹmon, they saw that the Syrians had fled, and they took to flight from before A·bishʹai and hence came into the city. After that Joʹab returned from the sons of Amʹmon and came to Jerusalem.
+
+[[v10-10-15]]
+
+^<<v10-10-15,15>>^ When the Syrians saw that they had been defeated before Israel, they proceeded to gather themselves together.
+
+[[v10-10-16]]
+
+^<<v10-10-16,16>>^ So Had·ad·eʹzer sent and brought out the Syrians that were in the region of the River; and then they came to Heʹlam,^&#42;1^ with Shoʹbach the chief of the army of Had·ad·eʹzer before them.
+
+[NOTE]
+====
+. “Then they came to Helam,” MLXXSy; Vg, “he led their army there.”
+====
+
+[[v10-10-17]]
+
+^<<v10-10-17,17>>^ When the report was made to David, he immediately gathered all Israel and crossed the Jordan and came to Heʹlam. The Syrians now drew up in formation to meet David and began to fight against him.
+
+[[v10-10-18]]
+
+^<<v10-10-18,18>>^ And the Syrians took to flight from before Israel; and David got to kill of the Syrians seven hundred charioteers and forty thousand horsemen, and Shoʹbach the chief of their army he struck down so that he died there.
+
+[[v10-10-19]]
+
+^<<v10-10-19,19>>^ When all the kings, the servants of Had·ad·eʹzer, saw that they had been defeated before Israel, they promptly made peace with Israel and began to serve them; and the Syrians were afraid to try saving the sons of Amʹmon anymore.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-009.adoc#v10-9-0[&#60; Capítulo Anterior] | <<v10-10-0,Topo>> | xref:010-2-samuel/010-2-samuel-011.adoc#v10-11-0[Próximo Capítulo &#62;]

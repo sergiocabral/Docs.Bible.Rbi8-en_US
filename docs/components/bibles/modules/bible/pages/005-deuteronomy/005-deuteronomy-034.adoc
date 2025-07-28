@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v5-34-0]]
+=== Deuteronomy, 34
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-34-1]]
+
+^<<v5-34-1,1>>^ Then Moses proceeded to go up from the desert plains of Moʹab into Mount Neʹbo, to the top of Pisʹgah, which fronts toward Jerʹi·cho. And Jehovah went showing him all the land, Gilʹe·ad as far as Dan,
+
+[[v5-34-2]]
+
+^<<v5-34-2,2>>^ and all Naphʹta·li and the land of Eʹphra·im and Ma·nasʹseh and all the land of Judah as far as the western sea,
+
+[[v5-34-3]]
+
+^<<v5-34-3,3>>^ and the Negʹeb and the District,^&#42;1^ the valley plain of Jerʹi·cho, the city of the palm trees, as far as Zoʹar.^&#42;2^
+
+[NOTE]
+====
+. Or, “the Basin.” Compare Ge 13:10 ftn, “District.”
+. For vss 1b-3, “And Jehovah went showing him . . . as far as Zoar,” Sam reads: “And Jehovah went showing him all the land from the river of Egypt to the great river, the river Euphrates, and to the western sea.” Compare 11:24; Ge 15:18.
+====
+
+[[v5-34-4]]
+
+^<<v5-34-4,4>>^ And Jehovah went on to say to him: “This is the land about which I have sworn to Abraham, Isaac and Jacob, saying, ‘To your seed I shall give it.’ I have caused you to see it with your own eyes, as you will not cross over there.”
+
+[[v5-34-5]]
+
+^<<v5-34-5,5>>^ After that Moses the servant^&#42;1^ of Jehovah died there in the land of Moʹab at the order of Jehovah.
+
+[NOTE]
+====
+. Or, “slave.”
+====
+
+[[v5-34-6]]
+
+^<<v5-34-6,6>>^ And he proceeded to bury him in the valley in the land of Moʹab in front of Beth-peʹor, and nobody has come to know his grave down to this day.
+
+[[v5-34-7]]
+
+^<<v5-34-7,7>>^ And Moses was a hundred and twenty years old at his death. His eye had not grown dim, and his vital strength had not fled.
+
+[[v5-34-8]]
+
+^<<v5-34-8,8>>^ And the sons of Israel proceeded to weep for Moses on the desert plains of Moʹab thirty days. At length the days of weeping of the mourning period for Moses were completed.
+
+[[v5-34-9]]
+
+^<<v5-34-9,9>>^ And Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hand upon him; and the sons of Israel began to listen to him and they went doing just as Jehovah had commanded Moses.
+
+[[v5-34-10]]
+
+^<<v5-34-10,10>>^ But there has never yet risen up a prophet in Israel like Moses, whom Jehovah knew face to face,
+
+[[v5-34-11]]
+
+^<<v5-34-11,11>>^ as respects all the signs and the miracles that Jehovah sent him to do in the land of Egypt to Pharʹaoh and all his servants and all his land,
+
+[[v5-34-12]]
+
+^<<v5-34-12,12>>^ and as regards all the strong hand and all the great awesomeness that Moses exercised before the eyes of all Israel.
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-033.adoc#v5-33-0[&#60; Capítulo Anterior] | <<v5-34-0,Topo>> | xref:006-joshua/006-joshua-001.adoc#v6-1-0[Próximo Capítulo &#62;]

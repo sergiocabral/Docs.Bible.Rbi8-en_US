@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v23-16-0]]
+=== Isaiah, 16
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-16-1]]
+
+^<<v23-16-1,1>>^ Send a ram, YOU men, to the ruler of the land, from Seʹla toward the wilderness, to the mountain of the daughter of Zion.
+
+[[v23-16-2]]
+
+^<<v23-16-2,2>>^ And it must occur &#91;that&#93; like a fleeing winged creature, chased away from &#91;its&#93; nest, the daughters of Moʹab will become at the fords of Arʹnon.
+
+[[v23-16-3]]
+
+^<<v23-16-3,3>>^ “Bring in^&#42;1^ counsel, YOU men, execute the decision.
+“Make^&#42;2^ your shadow just like the night in the midst of noontime. Conceal the dispersed ones; do not betray anyone fleeing.
+
+[NOTE]
+====
+. “Bring in,” masc. pl. in 1QIsaM, but in MmarginLXXVg and 11 Heb. mss it is fem. sing.
+. “Make,” fem. sing.
+====
+
+[[v23-16-4]]
+
+^<<v23-16-4,4>>^ May my dispersed ones reside as aliens even in you, O Moʹab. Become a place of concealment to them because of the despoiler. For the oppressor^&#42;1^ has reached his end; the despoiling has terminated; those trampling down &#91;others&#93; have been finished off the earth.^&#42;2^
+
+[NOTE]
+====
+. “The oppressor,” by a slight correction; M, “the squeezer.”
+. Or, “land.”
+====
+
+[[v23-16-5]]
+
+^<<v23-16-5,5>>^ “And in loving-kindness^&#42;1^ a throne will certainly be firmly established; and one must sit down upon it in trueness^&#42;2^ in the tent of David, judging and seeking justice and being prompt in righteousness.”
+
+[NOTE]
+====
+. Or, “in loyal love.” Heb., ba·cheʹsedh.
+. Or, “in truth.” Heb., be·ʼemethʹ.
+====
+
+[[v23-16-6]]
+
+^<<v23-16-6,6>>^ We have heard of the pride of Moʹab, that he is very proud; his haughtiness and his pride and his fury—his empty talk will not be so.
+
+[[v23-16-7]]
+
+^<<v23-16-7,7>>^ Therefore Moʹab will howl for Moʹab; even all of it will howl. For the raisin cakes of Kir-harʹe·seth the stricken ones indeed will moan,
+
+[[v23-16-8]]
+
+^<<v23-16-8,8>>^ because the terraces themselves of Heshʹbon have withered. The vine of Sibʹmah—the owners^&#42;1^ of the nations themselves have smitten down its bright-red &#91;branches&#93;.^&#42;2^ As far as Jaʹzer they had reached; they had wandered about in the wilderness. Its own shoots had been left to luxuriate for themselves; they had gone over to the sea.
+
+[NOTE]
+====
+. Or, “grand owner.” Heb., ba·ʽalehʹ, a pl. form of baʹʽal, possibly to express grandeur.
+. Or, “[grapes].”
+====
+
+[[v23-16-9]]
+
+^<<v23-16-9,9>>^ That is why I shall weep with the weeping of Jaʹzer over the vine of Sibʹmah. With my tears I shall drench you, O Heshʹbon and E·le·aʹleh, because shouting even over your summer and over your harvest has fallen down.^&#42;1^
+
+[NOTE]
+====
+. Or, “because upon your summer fruit and upon your harvest the [battle] shout has fallen.”
+====
+
+[[v23-16-10]]
+
+^<<v23-16-10,10>>^ And rejoicing and joyfulness have been taken away from the orchard; and in the vineyards there is no joyful crying out, there is no shouting done. No wine in the presses does the treader tread out. Shouting I have caused to cease.
+
+[[v23-16-11]]
+
+^<<v23-16-11,11>>^ That is why my very inwards are boisterous just like a harp even over Moʹab, and the midst of me over Kir-harʹe·seth.^&#42;1^
+
+[NOTE]
+====
+. “Over Kir-hareseth.” Heb., leQirʹ chaʹres.
+====
+
+[[v23-16-12]]
+
+^<<v23-16-12,12>>^ And it occurred that it was seen that Moʹab was made weary upon the high place; and he came to his sanctuary to pray, and he could not accomplish anything.
+
+[[v23-16-13]]
+
+^<<v23-16-13,13>>^ This is the word that Jehovah spoke concerning Moʹab formerly.
+
+[[v23-16-14]]
+
+^<<v23-16-14,14>>^ And now Jehovah has spoken, saying: “Within three years, according to the years of a hired laborer, the glory of Moʹab must also be disgraced with much commotion of every sort, and those who remain over will be a trifling few, not mighty.”
+
+'''
+
+xref:023-isaiah/023-isaiah-015.adoc#v23-15-0[&#60; Capítulo Anterior] | <<v23-16-0,Topo>> | xref:023-isaiah/023-isaiah-017.adoc#v23-17-0[Próximo Capítulo &#62;]

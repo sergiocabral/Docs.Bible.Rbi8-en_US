@@ -1,0 +1,26 @@
+include::./index.adoc[]
+
+[[v17-10-0]]
+=== Esther, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v17-10-1]]
+
+^<<v17-10-1,1>>^ And King A·has·u·eʹrus proceeded to lay forced labor upon the land and the isles of the sea.
+
+[[v17-10-2]]
+
+^<<v17-10-2,2>>^ As for all his energetic work and his mightiness and the exact statement of Morʹde·cai’s greatness with which the king magnified him, are they not written in the Book of the affairs of the times of the kings of Meʹdi·a and Persia?
+
+[[v17-10-3]]
+
+^<<v17-10-3,3>>^ For Morʹde·cai the Jew was second to King A·has·u·eʹrus^&#42;1^ and was great among the Jews and approved by the multitude of his brothers, working for the good of his people and speaking peace to all their offspring.
+
+[NOTE]
+====
+. “Artaxerxes,” LXX. See 1:1 ftn, “Ahasuerus.”
+====
+
+'''
+
+xref:017-esther/017-esther-009.adoc#v17-9-0[&#60; Capítulo Anterior] | <<v17-10-0,Topo>> | xref:018-job/018-job-001.adoc#v18-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,220 @@
+include::./index.adoc[]
+
+[[v3-23-0]]
+=== Leviticus, 23
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-23-1]]
+
+^<<v3-23-1,1>>^ And Jehovah went on speaking to Moses, saying:
+
+[[v3-23-2]]
+
+^<<v3-23-2,2>>^ “Speak to the sons of Israel, and you must say to them, ‘The seasonal festivals of Jehovah that YOU should proclaim are holy conventions. These are my seasonal festivals:
+
+[[v3-23-3]]
+
+^<<v3-23-3,3>>^ “‘Six days may work be done, but on the seventh day is a sabbath of complete rest, a holy convention. YOU may do no sort of work. It is a sabbath to Jehovah in all places where YOU dwell.
+
+[[v3-23-4]]
+
+^<<v3-23-4,4>>^ “‘These are the seasonal festivals of Jehovah, holy conventions, which YOU should proclaim at their appointed times:
+
+[[v3-23-5]]
+
+^<<v3-23-5,5>>^ In the first month, on the fourteenth day of the month, between the two evenings^&#42;1^ is the passover to Jehovah.
+
+[NOTE]
+====
+. See Ex 12:6 ftn.
+====
+
+[[v3-23-6]]
+
+^<<v3-23-6,6>>^ “‘And on the fifteenth day of this month is the festival of unfermented cakes to Jehovah. Seven days YOU should eat unfermented cakes.
+
+[[v3-23-7]]
+
+^<<v3-23-7,7>>^ On the first day YOU will have a holy convention occur. No sort of laborious work may YOU do.
+
+[[v3-23-8]]
+
+^<<v3-23-8,8>>^ But YOU must present an offering made by fire to Jehovah seven days. On the seventh day there will be a holy convention. No sort of laborious work may YOU do.’”
+
+[[v3-23-9]]
+
+^<<v3-23-9,9>>^ And Jehovah continued to speak to Moses, saying:
+
+[[v3-23-10]]
+
+^<<v3-23-10,10>>^ “Speak to the sons of Israel, and you must say to them, ‘When YOU eventually come into the land that I am giving YOU, and YOU have reaped its harvest, YOU must also bring a sheaf^&#42;1^ of the firstfruits of YOUR harvest to the priest.
+
+[NOTE]
+====
+. Or, “omer,” which equaled 2.2 L (2 dry qt).
+====
+
+[[v3-23-11]]
+
+^<<v3-23-11,11>>^ And he must wave the sheaf to and fro before Jehovah to gain approval for YOU. Directly the day after the sabbath the priest should wave it to and fro.
+
+[[v3-23-12]]
+
+^<<v3-23-12,12>>^ And on the day of YOUR having the sheaf waved to and fro YOU must render up a sound young ram, in its first year, for a burnt offering to Jehovah;
+
+[[v3-23-13]]
+
+^<<v3-23-13,13>>^ and as its grain offering two tenths of an eʹphah of fine flour moistened with oil, as an offering made by fire to Jehovah, a restful odor; and as its drink offering a fourth of a hin^&#42;1^ of wine.
+
+[NOTE]
+====
+. A hin equaled 3.67 L (7.75 pt).
+====
+
+[[v3-23-14]]
+
+^<<v3-23-14,14>>^ And YOU must eat no bread nor roasted grain nor new grain until this very day, until YOUR bringing the offering of YOUR God. It is a statute to time indefinite for YOUR generations in all places where YOU dwell.
+
+[[v3-23-15]]
+
+^<<v3-23-15,15>>^ “‘And YOU must count for yourselves from the day after the sabbath, from the day of YOUR bringing the sheaf of the wave offering, seven sabbaths.^&#42;1^ They should prove to be complete.
+
+[NOTE]
+====
+. Or, “weeks.” Heb., shab·ba·thohthʹ. Compare Mt 28:1.
+====
+
+[[v3-23-16]]
+
+^<<v3-23-16,16>>^ To the day after the seventh sabbath YOU should count, fifty days, and YOU must present a new grain offering to Jehovah.
+
+[[v3-23-17]]
+
+^<<v3-23-17,17>>^ Out of YOUR dwelling places YOU should bring two loaves as a wave offering. Of two tenths of an eʹphah of fine flour they should prove to be. They should be baked leavened, as first ripe fruits to Jehovah.
+
+[[v3-23-18]]
+
+^<<v3-23-18,18>>^ And YOU must present along with the loaves seven sound male lambs, each a year old, and one young bull and two rams. They should serve as a burnt offering to Jehovah along with their grain offering and their drink offerings as an offering made by fire, of a restful odor to Jehovah.
+
+[[v3-23-19]]
+
+^<<v3-23-19,19>>^ And YOU must render up one kid of the goats as a sin offering and two male lambs, each a year old, as a communion sacrifice.
+
+[[v3-23-20]]
+
+^<<v3-23-20,20>>^ And the priest must wave them to and fro along with the loaves of the first ripe fruits, as a wave offering before Jehovah, along with the two male lambs. They should serve as something holy to Jehovah for the priest.
+
+[[v3-23-21]]
+
+^<<v3-23-21,21>>^ And YOU must make a proclamation on this very day; there will be a holy convention for yourselves. No sort of laborious work may YOU do. It is a statute to time indefinite in all YOUR dwelling places for YOUR generations.
+
+[[v3-23-22]]
+
+^<<v3-23-22,22>>^ “‘And when YOU people reap the harvest of YOUR land, you must not do completely the edge of your field when you are reaping, and the gleaning of your harvest you must not pick up. You should leave them for the afflicted one and the alien resident. I am Jehovah YOUR God.’”
+
+[[v3-23-23]]
+
+^<<v3-23-23,23>>^ And Jehovah went on speaking to Moses, saying:
+
+[[v3-23-24]]
+
+^<<v3-23-24,24>>^ “Speak to the sons of Israel, saying, ‘In the seventh month, on the first of the month, there should occur for YOU a complete rest, a memorial by the trumpet blast, a holy convention.
+
+[[v3-23-25]]
+
+^<<v3-23-25,25>>^ No sort of laborious work may YOU do, and YOU must present an offering made by fire to Jehovah.’”
+
+[[v3-23-26]]
+
+^<<v3-23-26,26>>^ And Jehovah spoke further to Moses, saying:
+
+[[v3-23-27]]
+
+^<<v3-23-27,27>>^ “However, on the tenth of this seventh month is the day of atonement. A holy convention should take place for YOU, and YOU must afflict YOUR souls and present an offering made by fire to Jehovah.
+
+[[v3-23-28]]
+
+^<<v3-23-28,28>>^ And YOU must do no sort of work on this very day, because it is a day of atonement to make atonement for YOU before Jehovah YOUR God;
+
+[[v3-23-29]]
+
+^<<v3-23-29,29>>^ because every soul that will not be afflicted on this very day must be cut off from his people.
+
+[[v3-23-30]]
+
+^<<v3-23-30,30>>^ As for any soul that will do any sort of work on this very day, I must destroy that soul from among his people.
+
+[[v3-23-31]]
+
+^<<v3-23-31,31>>^ YOU must do no sort of work. It is a statute to time indefinite for YOUR generations in all places where YOU dwell.
+
+[[v3-23-32]]
+
+^<<v3-23-32,32>>^ It is a sabbath of complete rest for YOU, and YOU must afflict YOUR souls on the ninth of the month in the evening. From evening to evening YOU should observe YOUR sabbath.”
+
+[[v3-23-33]]
+
+^<<v3-23-33,33>>^ And Jehovah continued to speak to Moses, saying:
+
+[[v3-23-34]]
+
+^<<v3-23-34,34>>^ “Speak to the sons of Israel, saying, ‘On the fifteenth day of this seventh month is the festival of booths for seven days to Jehovah.^&#42;1^
+
+[NOTE]
+====
+. “To Jehovah.” Heb., la·Yho·wahʹ. See App 1A.
+====
+
+[[v3-23-35]]
+
+^<<v3-23-35,35>>^ On the first day is a holy convention. No sort of laborious work may YOU do.
+
+[[v3-23-36]]
+
+^<<v3-23-36,36>>^ Seven days YOU should present an offering made by fire to Jehovah. On the eighth day there should occur a holy convention for YOU, and YOU must present an offering made by fire to Jehovah. It is a solemn assembly.^&#42;1^ No sort of laborious work may YOU do.
+
+[NOTE]
+====
+. “A solemn assembly.” Heb., ʽatseʹreth; Gr., e·xoʹdi·on; that is, a festival day to commemorate the Exodus from Egypt.
+====
+
+[[v3-23-37]]
+
+^<<v3-23-37,37>>^ “‘These are the seasonal festivals of Jehovah that YOU should proclaim as holy conventions, for presenting an offering made by fire to Jehovah: the burnt offering and the grain offering of the sacrifice and the drink offerings according to the daily schedule,^&#42;1^
+
+[NOTE]
+====
+. “According to the daily schedule.” Lit., “a thing (work) of a day on its day.”
+====
+
+[[v3-23-38]]
+
+^<<v3-23-38,38>>^ besides the sabbaths of Jehovah and besides YOUR gifts and besides all YOUR vow offerings and besides all YOUR voluntary offerings, which YOU should give to Jehovah.
+
+[[v3-23-39]]
+
+^<<v3-23-39,39>>^ However, on the fifteenth day of the seventh month, when YOU have gathered the produce of the land, YOU should celebrate the festival of Jehovah seven days. On the first day is a complete rest and on the eighth day is a complete rest.
+
+[[v3-23-40]]
+
+^<<v3-23-40,40>>^ And YOU must take for yourselves on the first day the fruit of splendid trees, the fronds of palm trees and the boughs of branchy trees and poplars of the torrent valley, and YOU must rejoice before Jehovah YOUR God seven days.
+
+[[v3-23-41]]
+
+^<<v3-23-41,41>>^ And YOU must celebrate it as a festival to Jehovah seven days in the year. As a statute to time indefinite during YOUR generations, YOU should celebrate it in the seventh month.
+
+[[v3-23-42]]
+
+^<<v3-23-42,42>>^ It is in the booths YOU should dwell seven days. All the natives in Israel should dwell in the booths,
+
+[[v3-23-43]]
+
+^<<v3-23-43,43>>^ in order that YOUR generations may know that it was in the booths that I made the sons of Israel to dwell when I was bringing them out of the land of Egypt. I am Jehovah YOUR God.’”
+
+[[v3-23-44]]
+
+^<<v3-23-44,44>>^ Accordingly Moses spoke of the seasonal festivals of Jehovah to the sons of Israel.
+
+'''
+
+xref:003-leviticus/003-leviticus-022.adoc#v3-22-0[&#60; Capítulo Anterior] | <<v3-23-0,Topo>> | xref:003-leviticus/003-leviticus-024.adoc#v3-24-0[Próximo Capítulo &#62;]

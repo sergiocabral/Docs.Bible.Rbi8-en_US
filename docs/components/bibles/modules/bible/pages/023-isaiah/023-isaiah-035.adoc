@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v23-35-0]]
+=== Isaiah, 35
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-35-1]]
+
+^<<v23-35-1,1>>^ The wilderness and the waterless region will exult, and the desert plain^&#42;1^ will be joyful and blossom as the saffron.^&#42;2^
+
+[NOTE]
+====
+. Or, “the Arabah.”
+. Or, “crocus; asphodel.”
+====
+
+[[v23-35-2]]
+
+^<<v23-35-2,2>>^ Without fail it^&#42;1^ will blossom, and it will really be joyful with joyousness and with glad crying out. The glory of Lebʹa·non itself must be given to it,^&#42;2^ the splendor of Carʹmel and of Sharʹon. There will be those^&#42;3^ who will see the glory of Jehovah, the splendor of our God.^&#42;4^
+
+[NOTE]
+====
+. “It,” fem., referring to the “des­ert plain” in vs 1.
+. “It,” fem., referring to the “desert plain” in vs 1; 12 Heb. mss, “you.”
+. “Those,” MTSyVg; LXX, “my people.”
+. “Our God.” Heb., ʼElo·hehʹnu.
+====
+
+[[v23-35-3]]
+
+^<<v23-35-3,3>>^ Strengthen the weak^&#42;1^ hands, YOU people, and make the knees that are wobbling firm.
+
+[NOTE]
+====
+. Or, “slack; drooping.”
+====
+
+[[v23-35-4]]
+
+^<<v23-35-4,4>>^ Say to those who are anxious at heart: “Be strong. Do not be afraid. Look! YOUR own God will come with vengeance itself, God even with a repayment. He himself will come and save YOU people.”
+
+[[v23-35-5]]
+
+^<<v23-35-5,5>>^ At that time the eyes of the blind ones will be opened, and the very ears of the deaf ones will be unstopped.
+
+[[v23-35-6]]
+
+^<<v23-35-6,6>>^ At that time the lame one will climb up just as a stag does, and the tongue of the speechless one will cry out in gladness. For in the wilderness waters will have burst out, and torrents in the desert plain.
+
+[[v23-35-7]]
+
+^<<v23-35-7,7>>^ And the heat-parched ground will have become as a reedy pool, and the thirsty ground as springs of water. In the abiding place of jackals, a resting-place for &#91;them&#93;,^&#42;1^ there will be green grass with reeds and papyrus plants.
+
+[NOTE]
+====
+. Lit., “her,” possibly referring to a wild beast.
+====
+
+[[v23-35-8]]
+
+^<<v23-35-8,8>>^ And there will certainly come to be a highway there, even a way; and the Way of Holiness^&#42;1^ it will be called. The unclean one will not pass over it.^&#42;2^ And it will be for the one walking on the way, and no foolish ones will wander about &#91;on it&#93;.^&#42;3^
+
+[NOTE]
+====
+. Or, “and the Holy Way.” Heb., wedheʹrekh (fem.) haq·qoʹdhesh; Lat., viʹa sancʹta.
+. “It,” masc., referring to the “highway” (Heb., mas·lulʹ, masc.).
+. “And by no means will the unclean one pass along there; no unclean way will be there. But the dispersed ones will walk on it and will by no means go astray,” LXX; Sy, “And no uncleanness will pass along in it. And there will be no way beside it, and fools themselves will not wander about there”; Vgc, “No polluted one will pass over it, and this will be for you a direct way, so that the foolish ones may not err in it.”
+====
+
+[[v23-35-9]]
+
+^<<v23-35-9,9>>^ No lion will prove to be there, and the rapacious sort of wild beasts will not come up on it.^&#42;1^ None will be found there; and the repurchased ones must walk &#91;there&#93;.
+
+[NOTE]
+====
+. “It,” fem., referring to the “Way” (Heb., deʹrekh, fem.) in vs 8.
+====
+
+[[v23-35-10]]
+
+^<<v23-35-10,10>>^ And the very ones redeemed by Jehovah will return and certainly come to Zion with a joyful cry; and rejoicing to time indefinite will be upon their head. To exultation and rejoicing they will attain, and grief and sighing must flee away.
+
+'''
+
+xref:023-isaiah/023-isaiah-034.adoc#v23-34-0[&#60; Capítulo Anterior] | <<v23-35-0,Topo>> | xref:023-isaiah/023-isaiah-036.adoc#v23-36-0[Próximo Capítulo &#62;]

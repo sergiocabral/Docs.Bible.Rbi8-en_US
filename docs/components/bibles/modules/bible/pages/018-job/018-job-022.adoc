@@ -1,0 +1,214 @@
+include::./index.adoc[]
+
+[[v18-22-0]]
+=== Job, 22
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-22-1]]
+
+^<<v18-22-1,1>>^ And Elʹi·phaz the Teʹman·ite proceeded to answer and say:
+
+[[v18-22-2]]
+
+^<<v18-22-2,2>>^ “Can an able-bodied man^&#42;1^ be of use to God^&#42;2^ himself,
+That anyone having insight should be of use toward him?
+
+[NOTE]
+====
+. “An able-bodied man.” Heb., gaʹver.
+. “To God.” Heb., hal·­ʼElʹ. Here ha is an interrogative particle introducing a question.
+====
+
+[[v18-22-3]]
+
+^<<v18-22-3,3>>^ Does the Almighty have any delight in that you are righteous,
+Or any gain in that you make your way blameless?
+
+[[v18-22-4]]
+
+^<<v18-22-4,4>>^ For your reverence will he reprove you,
+Will he come with you into the judgment?
+
+[[v18-22-5]]
+
+^<<v18-22-5,5>>^ Is not your own badness too much already,
+And will there be no end to your errors?
+
+[[v18-22-6]]
+
+^<<v18-22-6,6>>^ For you seize a pledge from your brothers without cause,
+And you strip off even the garments of naked people.
+
+[[v18-22-7]]
+
+^<<v18-22-7,7>>^ You do not give the tired one a drink of water,
+And from the hungry one you hold back bread.
+
+[[v18-22-8]]
+
+^<<v18-22-8,8>>^ As for a man^&#42;1^ of strength,^&#42;2^ the land is his,
+And one who is treated with partiality himself dwells in it.
+
+[NOTE]
+====
+. “As for a man.” Heb., weʼishʹ.
+. Lit., “arm.”
+====
+
+[[v18-22-9]]
+
+^<<v18-22-9,9>>^ Widows you have sent away empty-handed,
+And the arms of fatherless boys are crushed.^&#42;1^
+
+[NOTE]
+====
+. “Are crushed,” M; TLXXSyVg, “you crush.”
+====
+
+[[v18-22-10]]
+
+^<<v18-22-10,10>>^ That is why bird traps are all around you,
+And sudden dread disturbs you;
+
+[[v18-22-11]]
+
+^<<v18-22-11,11>>^ Or darkness, &#91;so that&#93; you cannot see,
+And a heaving mass of water itself covers you.
+
+[[v18-22-12]]
+
+^<<v18-22-12,12>>^ Is not God^&#42;1^ the height of heaven?
+Also see^&#42;2^ the sum total of the stars,^&#42;3^ that they are high.
+
+[NOTE]
+====
+. “God.” Heb., ʼElohʹah.
+. “See,” M; LXXSy, “he sees.”
+. Or, “the head of the stars,” that is, the highest star.
+====
+
+[[v18-22-13]]
+
+^<<v18-22-13,13>>^ And yet you have said: ‘What does God^&#42;1^ really know?
+Through thick gloom can he judge?
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+[[v18-22-14]]
+
+^<<v18-22-14,14>>^ Clouds are a concealment place for him so that he does not see,
+And on the vault of heaven he walks about.’
+
+[[v18-22-15]]
+
+^<<v18-22-15,15>>^ Will you keep to the very way of long ago
+That hurtful men^&#42;1^ have trodden,
+
+[NOTE]
+====
+. Lit., “men of hurtfulness.” Heb., metheh-ʼaʹwen.
+====
+
+[[v18-22-16]]
+
+^<<v18-22-16,16>>^ &#91;Men&#93; who have been snatched away before their time,
+Whose foundation is poured away just as a river,
+
+[[v18-22-17]]
+
+^<<v18-22-17,17>>^ Who are saying to the &#91;true&#93; God:^&#42;1^ ‘Turn away from us!
+And what can the Almighty accomplish against us?’^&#42;2^
+
+[NOTE]
+====
+. “To the [true] God.” Heb., la·ʼElʹ; LXX, “Jehovah.” See App 1G.
+. “Against us,” LXXSy; M, “against him.”
+====
+
+[[v18-22-18]]
+
+^<<v18-22-18,18>>^ Yet he himself has filled their houses with good things;
+And the very counsel of wicked ones has kept far from me.
+
+[[v18-22-19]]
+
+^<<v18-22-19,19>>^ The righteous ones will see and rejoice,
+And the innocent one himself will hold them in derision:
+
+[[v18-22-20]]
+
+^<<v18-22-20,20>>^ ‘Truly our antagonists^&#42;1^ have been effaced;
+And what is left of them a fire will certainly eat up.’
+
+[NOTE]
+====
+. “Our antagonists,” M; by a correction, “their property.”
+====
+
+[[v18-22-21]]
+
+^<<v18-22-21,21>>^ Acquaint yourself, please, with him, and keep peace;
+Thereby good things will come to you.
+
+[[v18-22-22]]
+
+^<<v18-22-22,22>>^ Take, please, the law from his own mouth,
+And put his sayings in your heart.
+
+[[v18-22-23]]
+
+^<<v18-22-23,23>>^ If you return to the Almighty, you will be built up;
+&#91;If&#93; you will keep unrighteousness far from your tent,
+
+[[v18-22-24]]
+
+^<<v18-22-24,24>>^ And &#91;if&#93; there is a placing of precious ore in the dust
+And gold of Oʹphir in the rock of torrent valleys,
+
+[[v18-22-25]]
+
+^<<v18-22-25,25>>^ The Almighty also will indeed become your precious ores,
+And silver, the choicest, to you.
+
+[[v18-22-26]]
+
+^<<v18-22-26,26>>^ For then in the Almighty you will find your exquisite delight,
+And you will raise your face to God^&#42;1^ himself.
+
+[NOTE]
+====
+. “God.” Heb., ʼElohʹah.
+====
+
+[[v18-22-27]]
+
+^<<v18-22-27,27>>^ You will make entreaty to him, and he will hear you;
+And your vows you will pay.
+
+[[v18-22-28]]
+
+^<<v18-22-28,28>>^ And you will decide on something, and it will stand for you;
+And upon your ways light will certainly shine.
+
+[[v18-22-29]]
+
+^<<v18-22-29,29>>^ For there must be a humiliation when you speak arrogantly;
+But one with downcast eyes he will save.
+
+[[v18-22-30]]
+
+^<<v18-22-30,30>>^ He will rescue an innocent man,^&#42;1^
+And you will certainly be rescued for the cleanness of your hands.”^&#42;2^
+
+[NOTE]
+====
+. Possibly, “God will rescue the innocent one.” Lit., “He will rescue one not innocent.” M appears defective here.
+. Lit., “palms.”
+====
+
+'''
+
+xref:018-job/018-job-021.adoc#v18-21-0[&#60; Capítulo Anterior] | <<v18-22-0,Topo>> | xref:018-job/018-job-023.adoc#v18-23-0[Próximo Capítulo &#62;]

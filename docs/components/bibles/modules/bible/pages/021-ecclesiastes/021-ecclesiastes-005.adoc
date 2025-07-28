@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v21-5-0]]
+=== Ecclesiastes, 5
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v21-5-1]]
+
+^<<v21-5-1,1>>^ Guard your feet whenever you go to the house of the &#91;true&#93; God; and let there be a drawing near^&#42;1^ to hear, rather than to give a sacrifice as the stupid ones do, for they are not aware of doing what is bad.^&#42;2^
+
+[NOTE]
+====
+. “Let there be a drawing near.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and impersonal.
+. MTLXXSyVg end chapter 4 here as vs 17.
+====
+
+[[v21-5-2]]
+
+^<<v21-5-2,2>>^ Do not hurry yourself as regards your mouth; and as for your heart, let it not be hasty to bring forth a word before the &#91;true&#93; God. For the &#91;true&#93; God is in the heavens but you are on the earth. That is why your words should prove to be few.
+
+[[v21-5-3]]
+
+^<<v21-5-3,3>>^ For a dream certainly comes in because of abundance of occupation, and the voice of a stupid one because of the abundance of words.
+
+[[v21-5-4]]
+
+^<<v21-5-4,4>>^ Whenever you vow a vow to God, do not hesitate to pay it, for there is no delight in the stupid ones. What you vow, pay.
+
+[[v21-5-5]]
+
+^<<v21-5-5,5>>^ Better is it that you vow not than that you vow and do not pay.
+
+[[v21-5-6]]
+
+^<<v21-5-6,6>>^ Do not allow your mouth to cause your flesh to sin,^&#42;1^ neither say before the angel^&#42;2^ that it was a mistake. Why should the &#91;true&#93; God become indignant on account of your voice and have to wreck the work of your hands?
+
+[NOTE]
+====
+. “Do not allow the word of your mouth to determine the judgment of Gehenna upon your flesh,” T.
+. “Angel,” MTVg; LXXSy, “God.”
+====
+
+[[v21-5-7]]
+
+^<<v21-5-7,7>>^ For because of abundance &#91;of occupation&#93; there are dreams, and there are vanities and words in abundance. But fear the &#91;true&#93; God himself.
+
+[[v21-5-8]]
+
+^<<v21-5-8,8>>^ If you see any oppression of the one of little means and the violent taking away of judgment and of righteousness in a jurisdictional district, do not be amazed over the affair, for one that is higher than the high one is watching, and there are those who are high above them.^&#42;1^
+
+[NOTE]
+====
+. Or, “and there is the Supreme One above them.”
+====
+
+[[v21-5-9]]
+
+^<<v21-5-9,9>>^ Also, the profit of the earth is among them all; for a field the king himself has been served.
+
+[[v21-5-10]]
+
+^<<v21-5-10,10>>^ A mere lover of silver will not be satisfied with silver, neither any lover of wealth with income.^&#42;1^ This too is vanity.
+
+[NOTE]
+====
+. Lit., “and who is setting his love on wealthiness with no income (revenue)?”
+====
+
+[[v21-5-11]]
+
+^<<v21-5-11,11>>^ When good things become many, those eating them certainly become many. And what advantage is there to the grand owner of them, except looking &#91;at them&#93; with his eyes?
+
+[[v21-5-12]]
+
+^<<v21-5-12,12>>^ Sweet is the sleep of the one serving, regardless of whether it is little or much that he eats; but the plenty belonging to the rich one is not permitting him to sleep.
+
+[[v21-5-13]]
+
+^<<v21-5-13,13>>^ There exists a grave calamity that I have seen under the sun: riches being kept for their grand owner^&#42;1^ to his calamity.
+
+[NOTE]
+====
+. “For their grand owner.” Heb., liv·ʽa·lavʹ.
+====
+
+[[v21-5-14]]
+
+^<<v21-5-14,14>>^ And those riches have perished because of a calamitous occupation, and he has become father to a son when there is nothing at all in his hand.
+
+[[v21-5-15]]
+
+^<<v21-5-15,15>>^ Just as one has come forth from his mother’s belly, naked will one go away again, just as one came; and nothing at all can one carry away for his hard work, which he can take along with his hand.
+
+[[v21-5-16]]
+
+^<<v21-5-16,16>>^ And this too is a grave calamity: exactly as one has come, so one will go away; and what profit is there to the one who keeps working hard for the wind?
+
+[[v21-5-17]]
+
+^<<v21-5-17,17>>^ Also, all his days he eats in darkness itself, with a great deal of vexation, with sickness on his part and &#91;cause for&#93; indignation.
+
+[[v21-5-18]]
+
+^<<v21-5-18,18>>^ Look! The best thing that I myself have seen, which is pretty, is that one should eat and drink and see good for all his hard work with which he works hard under the sun for the number of the days of his life that the &#91;true&#93; God has given him, for that is his portion.
+
+[[v21-5-19]]
+
+^<<v21-5-19,19>>^ Also every man to whom the &#91;true&#93; God has given riches and material possessions, he has even empowered him to eat from it and to carry off his portion and to rejoice in his hard work. This is the gift of God.
+
+[[v21-5-20]]
+
+^<<v21-5-20,20>>^ For not often will he remember the days of his life, because the &#91;true&#93; God is preoccupying^&#42;1^ &#91;him&#93; with the rejoicing of his heart.
+
+[NOTE]
+====
+. Possibly, “answering,” according to another derivation of the Heb. verb.
+====
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-004.adoc#v21-4-0[&#60; Capítulo Anterior] | <<v21-5-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-006.adoc#v21-6-0[Próximo Capítulo &#62;]

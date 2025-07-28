@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v46-13-0]]
+=== The First to the Corinthians, 13
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v46-13-1]]
+
+^<<v46-13-1,1>>^ If I speak in the tongues of men and of angels but do not have love, I have become a sounding &#91;piece of&#93; brass or a clashing cymbal.
+
+[[v46-13-2]]
+
+^<<v46-13-2,2>>^ And if I have the gift of prophesying and am acquainted with all the sacred secrets and all knowledge, and if I have all the faith so as to transplant^&#42;1^ mountains, but do not have love, I am nothing.
+
+[NOTE]
+====
+. Lit., “to be transplacing.”
+====
+
+[[v46-13-3]]
+
+^<<v46-13-3,3>>^ And if I give all my belongings to feed others, and if I hand over my body, that I may boast, but do not have love, I am not profited at all.
+
+[[v46-13-4]]
+
+^<<v46-13-4,4>>^ Love^&#42;1^ is long-suffering and kind. Love is not jealous, it does not brag, does not get puffed up,
+
+[NOTE]
+====
+. “Love.” Gr., he a·gaʹpe.
+====
+
+[[v46-13-5]]
+
+^<<v46-13-5,5>>^ does not behave indecently, does not look for its own interests, does not become provoked. It does not keep account of the injury.
+
+[[v46-13-6]]
+
+^<<v46-13-6,6>>^ It does not rejoice over unrighteousness, but rejoices with the truth.
+
+[[v46-13-7]]
+
+^<<v46-13-7,7>>^ It bears all things, believes all things, hopes all things, endures all things.
+
+[[v46-13-8]]
+
+^<<v46-13-8,8>>^ Love never fails. But whether there are &#91;gifts of&#93; prophesying, they will be done away with; whether there are tongues, they will cease; whether there is knowledge, it will be done away with.^&#42;1^
+
+[NOTE]
+====
+. Lit., “it will be made ineffective.”
+====
+
+[[v46-13-9]]
+
+^<<v46-13-9,9>>^ For we have^&#42;1^ partial knowledge and we prophesy partially;
+
+[NOTE]
+====
+. Or, “we are taking in.”
+====
+
+[[v46-13-10]]
+
+^<<v46-13-10,10>>^ but when that which is complete arrives, that which is partial will be done away with.
+
+[[v46-13-11]]
+
+^<<v46-13-11,11>>^ When I was a babe, I used to speak as a babe, to think as a babe, to reason as a babe; but now that I have become a man, I have done away with the &#91;traits&#93; of a babe.
+
+[[v46-13-12]]
+
+^<<v46-13-12,12>>^ For at present we see in hazy outline^&#42;1^ by means of a metal mirror, but then it will be face to face. At present I know partially,^&#42;2^ but then I shall know accurately even as I am accurately known.
+
+[NOTE]
+====
+. Lit., “in obscure expression.”
+. Or, “I am taking in partial knowledge.”
+====
+
+[[v46-13-13]]
+
+^<<v46-13-13,13>>^ Now, however, there remain faith, hope, love, these three; but the greatest of these is love.^&#42;1^
+
+[NOTE]
+====
+. “Love.” Gr., a·gaʹpe; Lat., caʹri·tas; J17,​18(Heb.), ha·ʼa·havahʹ, “the love.”
+====
+
+'''
+
+xref:046-1-corinthians/046-1-corinthians-012.adoc#v46-12-0[&#60; Capítulo Anterior] | <<v46-13-0,Topo>> | xref:046-1-corinthians/046-1-corinthians-014.adoc#v46-14-0[Próximo Capítulo &#62;]

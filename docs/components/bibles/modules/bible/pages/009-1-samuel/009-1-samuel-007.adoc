@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v9-7-0]]
+=== The First of Samuel, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-7-1]]
+
+^<<v9-7-1,1>>^ Accordingly the men of Kirʹi·ath-jeʹa·rim came and brought the ark of Jehovah up and took it into the house of A·binʹa·dab on the hill,^&#42;1^ and El·e·aʹzar his son was the one whom they sanctified to guard the ark of Jehovah.
+
+[NOTE]
+====
+. “On the hill,” MLXX; Vg, “in Gibeah.”
+====
+
+[[v9-7-2]]
+
+^<<v9-7-2,2>>^ And it came about that from the day of the Ark’s dwelling in Kirʹi·ath-jeʹa·rim the days kept multiplying, so that they amounted to twenty years, and all the house of Israel went lamenting after^&#42;1^ Jehovah.
+
+[NOTE]
+====
+. Or, “Israel kept holding with.”
+====
+
+[[v9-7-3]]
+
+^<<v9-7-3,3>>^ And Samuel proceeded to say to all the house of Israel: “If it is with all YOUR heart YOU are returning to Jehovah, put away the foreign gods^&#42;1^ from YOUR midst and also the Ashʹto·reth images, and direct YOUR heart unswervingly to Jehovah and serve him alone, and he will deliver YOU from the hand of the Phi·lisʹtines.”
+
+[NOTE]
+====
+. Lit., “the gods of the foreign (country).”
+====
+
+[[v9-7-4]]
+
+^<<v9-7-4,4>>^ At that the sons of Israel put away the Baʹals and the Ashʹto·reth images and began serving Jehovah alone.
+
+[[v9-7-5]]
+
+^<<v9-7-5,5>>^ Then Samuel said: “Collect all Israel together at Mizʹpah, that I may pray in YOUR behalf to Jehovah.”
+
+[[v9-7-6]]
+
+^<<v9-7-6,6>>^ So they were collected together at Mizʹpah, and they went drawing water and pouring it out before Jehovah^&#42;1^ and kept a fast on that day. And they began saying there: “We have sinned against Jehovah.” And Samuel took up judging the sons of Israel in Mizʹpah.
+
+[NOTE]
+====
+. LXX adds, “upon the earth.”
+====
+
+[[v9-7-7]]
+
+^<<v9-7-7,7>>^ And the Phi·lisʹtines came to hear that the sons of Israel had collected themselves together at Mizʹpah, and the axis lords of the Phi·lisʹtines got on their way up against Israel. When the sons of Israel heard of it, they began to be afraid on account of the Phi·lisʹtines.
+
+[[v9-7-8]]
+
+^<<v9-7-8,8>>^ So the sons of Israel said to Samuel: “Do not keep silent for our sakes from calling to Jehovah our God for aid, that he may save us from the hand of the Phi·lisʹtines.”
+
+[[v9-7-9]]
+
+^<<v9-7-9,9>>^ Then Samuel took a sucking lamb and offered it up as a burnt offering, a whole offering, to Jehovah; and Samuel began calling to Jehovah for aid in behalf of Israel, and Jehovah proceeded to answer him.
+
+[[v9-7-10]]
+
+^<<v9-7-10,10>>^ And it came about that while Samuel was offering up the burnt offering, the Phi·lisʹtines themselves drew near for battle against Israel. And Jehovah now caused it to thunder with a loud noise on that day against the Phi·lisʹtines, that he might throw them into confusion; and they got defeated before Israel.
+
+[[v9-7-11]]
+
+^<<v9-7-11,11>>^ At that the men of Israel sallied forth from Mizʹpah and went in pursuit of the Phi·lisʹtines and kept striking them down as far as south of Beth-car.
+
+[[v9-7-12]]
+
+^<<v9-7-12,12>>^ Then Samuel took a stone and set it between Mizʹpah and Jeshʹa·nah^&#42;1^ and began to call its name Eb·en·eʹzer.^&#42;2^ Accordingly he said: “Till now Jehovah has helped us.”
+
+[NOTE]
+====
+. “Jeshanah.” Sy, “Beth Jashan.” (See 2Ch 13:19.) Lit., “the Tooth.” Heb., hash·Shenʹ.
+. Meaning “the Stone of Help.” Heb., ʼEʹven ha·ʽAʹzer. Different from “Ebenezer” in 4:1 and 5:1.
+====
+
+[[v9-7-13]]
+
+^<<v9-7-13,13>>^ Thus the Phi·lisʹtines were subdued, and they did not come anymore into the territory of Israel; and the hand of Jehovah continued to be against the Phi·lisʹtines all the days of Samuel.
+
+[[v9-7-14]]
+
+^<<v9-7-14,14>>^ And the cities that the Phi·lisʹtines had taken from Israel kept coming back to Israel from Ekʹron to Gath, and the territory of them Israel delivered from the hand of the Phi·lisʹtines.
+And there came to be peace between Israel and the Amʹor·ites.
+
+[[v9-7-15]]
+
+^<<v9-7-15,15>>^ And Samuel kept on judging Israel all the days of his life.
+
+[[v9-7-16]]
+
+^<<v9-7-16,16>>^ And he traveled from year to year and made the circuit of Bethʹel and Gilʹgal and Mizʹpah and judged Israel at all these places.
+
+[[v9-7-17]]
+
+^<<v9-7-17,17>>^ But his return was to Raʹmah, because there was where his house was, and there he judged Israel. And he proceeded to build an altar there to Jehovah.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-006.adoc#v9-6-0[&#60; Capítulo Anterior] | <<v9-7-0,Topo>> | xref:009-1-samuel/009-1-samuel-008.adoc#v9-8-0[Próximo Capítulo &#62;]

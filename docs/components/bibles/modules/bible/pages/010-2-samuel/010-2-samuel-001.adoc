@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v10-1-0]]
+=== The Second of Samuel, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_or, according to the Greek Septuagint, THE SECOND OF KINGS_
+
+[[v10-1-1]]
+
+^<<v10-1-1,1>>^ And it came about after Saul’s death, and when David himself had returned from striking down the A·malʹek·ites,^&#42;1^ that David continued to dwell at Zikʹlag two days.
+
+[NOTE]
+====
+. “The Amalekites,” Sy and five Heb. mss; MLXXVg, “Amalek.”
+====
+
+[[v10-1-2]]
+
+^<<v10-1-2,2>>^ And it came about on the third day that, look! a man was coming from the camp, from Saul, with his garments ripped apart and dirt upon his head; and it came about that when he came to David, he at once fell down to the earth and prostrated himself.
+
+[[v10-1-3]]
+
+^<<v10-1-3,3>>^ And David proceeded to say to him: “Where do you come from?” at which he said to him: “From the camp of Israel I have escaped.”
+
+[[v10-1-4]]
+
+^<<v10-1-4,4>>^ And David went on to say to him: “How did the matter turn out? Tell me, please.” To this he said: “The people have fled from the battle and also many of the people have fallen so that they died, and even Saul and Jonʹa·than his son have died.”
+
+[[v10-1-5]]
+
+^<<v10-1-5,5>>^ Then David said to the young man that was telling him: “How do you really know that Saul has died and also Jonʹa·than his son?”
+
+[[v10-1-6]]
+
+^<<v10-1-6,6>>^ At this the young man that was telling him said: “I unexpectedly chanced to be on Mount Gil·boʹa, and there was Saul supporting himself upon his spear; and, look! the charioteers^&#42;1^ and the mounted men had caught up with him.
+
+[NOTE]
+====
+. Or, “chariots.”
+====
+
+[[v10-1-7]]
+
+^<<v10-1-7,7>>^ When he turned back and saw me, then he called me, and I said, ‘Here I am!’
+
+[[v10-1-8]]
+
+^<<v10-1-8,8>>^ And he went on to say to me, ‘Who are you?’ at which I said to him, ‘I am an A·malʹek·ite.’
+
+[[v10-1-9]]
+
+^<<v10-1-9,9>>^ Then he said, ‘Stand, please, over me and definitely put me to death, for the cramp^&#42;1^ has seized me, because all my soul is yet in me.’
+
+[NOTE]
+====
+. “Giddiness,” Sy; meaning is uncertain in M.
+====
+
+[[v10-1-10]]
+
+^<<v10-1-10,10>>^ So I stood over him and definitely put him to death, for I knew that he could not live after he had fallen. Then I took the diadem that was upon his head and the bracelet that was upon his arm, that I might bring them to my lord here.”
+
+[[v10-1-11]]
+
+^<<v10-1-11,11>>^ At this David took hold of his garments and ripped them apart, and so did all the men also that were with him.
+
+[[v10-1-12]]
+
+^<<v10-1-12,12>>^ And they began to wail and weep and fast until the evening over Saul and over Jonʹa·than his son and over the people of Jehovah^&#42;1^ and over the house of Israel, because they had fallen by the sword.
+
+[NOTE]
+====
+. “Jehovah,” MSyVg; LXX, “Judah.”
+====
+
+[[v10-1-13]]
+
+^<<v10-1-13,13>>^ David now said to the young man that was telling him: “Where are you from?” to which he said: “I am the son of an alien resident, an A·malʹek·ite.”
+
+[[v10-1-14]]
+
+^<<v10-1-14,14>>^ Then David said to him: “How was it that you did not fear to thrust your hand out to bring the anointed^&#42;1^ of Jehovah to ruin?”
+
+[NOTE]
+====
+. “Anointed of.” Heb., meshiʹach; Gr., khri·stonʹ; Syr., lam·shi·cheh; Lat., chriʹstum.
+====
+
+[[v10-1-15]]
+
+^<<v10-1-15,15>>^ With that David called one of the young men and said: “Go near. Smite him.” Accordingly he struck him down so that he died.
+
+[[v10-1-16]]
+
+^<<v10-1-16,16>>^ David then said to him: “The bloodguilt for you^&#42;1^ be upon your own head, because your own mouth has testified against you, saying, ‘I myself definitely put the anointed of Jehovah to death.’”
+
+[NOTE]
+====
+. Lit., “Your bloods.”
+====
+
+[[v10-1-17]]
+
+^<<v10-1-17,17>>^ And David proceeded to chant this dirge over Saul and Jonʹa·than his son
+
+[[v10-1-18]]
+
+^<<v10-1-18,18>>^ and to say that the sons of Judah should be taught “The Bow.” Look! It is written in the book of Jaʹshar:^&#42;1^
+
+[NOTE]
+====
+. Or, “the Upright One.”
+====
+
+[[v10-1-19]]
+
+^<<v10-1-19,19>>^ “The beauty, O Israel, is slain upon your high places.
+How have the mighty men fallen!
+
+[[v10-1-20]]
+
+^<<v10-1-20,20>>^ Do not, YOU people, tell it in Gath;
+Do not announce it in the streets of Ashʹke·lon,
+For fear that the daughters of the Phi·lisʹtines may rejoice,
+For fear that the daughters of the uncircumcised men may exult.
+
+[[v10-1-21]]
+
+^<<v10-1-21,21>>^ YOU mountains of Gil·boʹa, let no dew, let no rain be upon YOU, nor let there be fields of holy contributions;^&#42;1^
+Because there the shield of mighty ones was befouled,^&#42;2^
+The shield of Saul, so that there was none anointed with oil.
+
+[NOTE]
+====
+. “Fields of firstfruits,” LXXVg.
+. Or, “rejected with loathing.”
+====
+
+[[v10-1-22]]
+
+^<<v10-1-22,22>>^ From the blood of the slain, from the fat of mighty ones,
+The bow of Jonʹa·than did not turn back,
+And the sword of Saul would not return without success.
+
+[[v10-1-23]]
+
+^<<v10-1-23,23>>^ Saul and Jonʹa·than, the lovable ones and the pleasant ones during their life,
+And in their death they were not separated.
+Swifter than the eagles they were,
+Mightier than the lions^&#42;1^ they were.
+
+[NOTE]
+====
+. “Than the lions.” Heb., me·ʼara·yohthʹ, African lions.
+====
+
+[[v10-1-24]]
+
+^<<v10-1-24,24>>^ YOU daughters of Israel, weep over Saul,
+Who clothed YOU in scarlet with finery,
+Who put ornaments of gold upon YOUR clothing.
+
+[[v10-1-25]]
+
+^<<v10-1-25,25>>^ How have the mighty ones fallen in the midst of the battle!
+Jonʹa·than slain upon your high places!
+
+[[v10-1-26]]
+
+^<<v10-1-26,26>>^ I am distressed over you, my brother Jonʹa·than,
+Very pleasant you were to me.
+More wonderful was your love to me than the love from women.
+
+[[v10-1-27]]
+
+^<<v10-1-27,27>>^ How have the mighty ones fallen
+And the weapons of war perished!”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-031.adoc#v9-31-0[&#60; Capítulo Anterior] | <<v10-1-0,Topo>> | xref:010-2-samuel/010-2-samuel-002.adoc#v10-2-0[Próximo Capítulo &#62;]

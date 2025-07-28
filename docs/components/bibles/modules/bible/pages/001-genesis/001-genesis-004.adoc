@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v1-4-0]]
+=== Genesis, 4
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-4-1]]
+
+^<<v1-4-1,1>>^ Now Adam had intercourse with Eve his wife and she became pregnant. In time she gave birth to Cain^&#42;1^ and said: “I have produced^&#42;2^ a man with the aid of Jehovah.”
+
+[NOTE]
+====
+. Meaning “Something Produced.” Eve explains why she gave him this name.
+. “I have produced.” Heb., qa·ni·thiʹ (from qa·nahʹ, “to produce”).
+====
+
+[[v1-4-2]]
+
+^<<v1-4-2,2>>^ Later she again gave birth, to his brother Abel.
+And Abel came to be a herder of sheep, but Cain became a cultivator of the ground.
+
+[[v1-4-3]]
+
+^<<v1-4-3,3>>^ And it came about at the expiration of some time^&#42;1^ that Cain proceeded to bring some fruits of the ground as an offering to Jehovah.
+
+[NOTE]
+====
+. Lit., “of days.”
+====
+
+[[v1-4-4]]
+
+^<<v1-4-4,4>>^ But as for Abel, he too brought some firstlings of his flock, even their fatty pieces. Now while Jehovah was looking with favor upon Abel and his offering,
+
+[[v1-4-5]]
+
+^<<v1-4-5,5>>^ he did not look with any favor upon Cain and upon his offering. And Cain grew hot with great anger, and his countenance began to fall.
+
+[[v1-4-6]]
+
+^<<v1-4-6,6>>^ At this Jehovah said to Cain: “Why are you hot with anger and why has your countenance fallen?
+
+[[v1-4-7]]
+
+^<<v1-4-7,7>>^ If you turn to doing good, will there not be an exaltation? But if you do not turn to doing good, there is sin crouching at the entrance, and for you is its craving; and will you, for your part, get the mastery over it?”
+
+[[v1-4-8]]
+
+^<<v1-4-8,8>>^ After that Cain said to Abel his brother: &#91;“Let us go over into the field.”&#93;^&#42;1^ So it came about that while they were in the field Cain proceeded to assault Abel his brother and kill him.
+
+[NOTE]
+====
+. SamLXXItSy insert these bracketed words; Vg, “Let us go outdoors”; M ­omits; some mss and editions have an interval here.
+====
+
+[[v1-4-9]]
+
+^<<v1-4-9,9>>^ Later on Jehovah said to Cain: “Where is Abel your brother?” and he said: “I do not know. Am I my brother’s guardian?”
+
+[[v1-4-10]]
+
+^<<v1-4-10,10>>^ At this he said: “What have you done? Listen!^&#42;1^ Your brother’s blood^&#42;2^ is crying out to me from the ground.
+
+[NOTE]
+====
+. Lit., “The voice of.”
+. Lit., “bloods,” modified by “crying.”
+====
+
+[[v1-4-11]]
+
+^<<v1-4-11,11>>^ And now you are cursed in banishment from the ground, which has opened its mouth to receive your brother’s blood at your hand.
+
+[[v1-4-12]]
+
+^<<v1-4-12,12>>^ When you cultivate the ground, it will not give you back its power.^&#42;1^ A wanderer and a fugitive you will become in the earth.”
+
+[NOTE]
+====
+. Or, “produce.” Heb., ko·chahʹ.
+====
+
+[[v1-4-13]]
+
+^<<v1-4-13,13>>^ At this Cain said to Jehovah: “My punishment for error is too great to carry.
+
+[[v1-4-14]]
+
+^<<v1-4-14,14>>^ Here you are actually driving me this day from off the surface of the ground, and from your face I shall be concealed; and I must become a wanderer and fugitive on the earth, and it is certain that anyone finding me will kill me.”
+
+[[v1-4-15]]
+
+^<<v1-4-15,15>>^ At this Jehovah said to him: “For that reason^&#42;1^ anyone killing Cain must suffer vengeance seven times.”
+And so Jehovah set up a sign for Cain in order that no one finding him should strike him.
+
+[NOTE]
+====
+. “For that reason.” Heb., la·khenʹ; LXXSyVg take the original Heb. text to read loʼ khen and hence translate it, “Not so!”
+====
+
+[[v1-4-16]]
+
+^<<v1-4-16,16>>^ With that Cain went away from the face of Jehovah and took up residence in the land of Fugitiveness^&#42;1^ to the east of Eʹden.
+
+[NOTE]
+====
+. Or, “Nod.”
+====
+
+[[v1-4-17]]
+
+^<<v1-4-17,17>>^ Afterward Cain had intercourse with his wife and she became pregnant and gave birth to Eʹnoch. Then he engaged in building a city and called the city’s name by the name of his son Eʹnoch.
+
+[[v1-4-18]]
+
+^<<v1-4-18,18>>^ Later there was born to Eʹnoch Iʹrad. And Iʹrad became father to Me·huʹja·el, and Me·huʹja·el became father to Me·thuʹsha·el, and Me·thuʹsha·el became father to Laʹmech.
+
+[[v1-4-19]]
+
+^<<v1-4-19,19>>^ And Laʹmech proceeded to take two wives for himself. The name of the first was Aʹdah and the name of the second was Zilʹlah.
+
+[[v1-4-20]]
+
+^<<v1-4-20,20>>^ In time Aʹdah gave birth to Jaʹbal. He proved to be the founder of those who dwell in tents and have livestock.
+
+[[v1-4-21]]
+
+^<<v1-4-21,21>>^ And the name of his brother was Juʹbal. He proved to be the founder^&#42;1^ of all those who handle the harp and the pipe.^&#42;2^
+
+[NOTE]
+====
+. Lit., “father.”
+. Or, “flute.” Possibly a combination of musical pipes.
+====
+
+[[v1-4-22]]
+
+^<<v1-4-22,22>>^ As for Zilʹlah, she too gave birth to Tuʹbal-cain, the forger^&#42;1^ of every sort of tool of copper and iron. And the sister of Tuʹbal-cain was Naʹa·mah.
+
+[NOTE]
+====
+. Lit., “hammerer.”
+====
+
+[[v1-4-23]]
+
+^<<v1-4-23,23>>^ Consequently Laʹmech composed^&#42;1^ these words for his wives Aʹdah and Zilʹlah:
+“Hear my voice, you wives of Laʹmech;
+Give ear to my saying:^&#42;2^
+A man^&#42;3^ I have killed for wounding me,^&#42;4^
+Yes, a young man for giving me a blow.^&#42;5^
+
+[NOTE]
+====
+. “Consequently . . . composed.” Lit., “And . . . proceeded to say,” in the imperfect. (See App 3C.) The verb “compose” is appropriate in this instance because what he proceeded to produce was poetic.
+. Or, “my song (poem).” Heb., ʼim·ra·thiʹ. In the Scriptures this word is used in poetic compositions.
+. The Heb. particle ki preceding the word ʼish, “a man,” is merely introductory to the poem and hence does not need to be translated.
+. Lit., “for my wound.”
+. Lit., “for my blow.”
+====
+
+[[v1-4-24]]
+
+^<<v1-4-24,24>>^ If seven times Cain is to be avenged,
+Then Laʹmech seventy times and seven.”
+
+[[v1-4-25]]
+
+^<<v1-4-25,25>>^ And Adam proceeded to have intercourse again with his wife and so she gave birth to a son and called his name Seth,^&#42;1^ because, as she said: “God has appointed another seed^&#42;2^ in place of Abel, because Cain killed him.”
+
+[NOTE]
+====
+. Meaning “Appointed; Put; Set,” in the sense of replacing or substituting.
+. Or, “offspring; posterity.”
+====
+
+[[v1-4-26]]
+
+^<<v1-4-26,26>>^ And to Seth also there was born a son and he proceeded to call his name Eʹnosh. At that time a start was made^&#42;1^ of calling on the name of Jehovah.
+
+[NOTE]
+====
+. Lit., “At that time it was started.”
+====
+
+'''
+
+xref:001-genesis/001-genesis-003.adoc#v1-3-0[&#60; Capítulo Anterior] | <<v1-4-0,Topo>> | xref:001-genesis/001-genesis-005.adoc#v1-5-0[Próximo Capítulo &#62;]

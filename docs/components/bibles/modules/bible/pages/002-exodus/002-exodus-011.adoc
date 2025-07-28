@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v2-11-0]]
+=== Exodus, 11
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-11-1]]
+
+^<<v2-11-1,1>>^ And Jehovah proceeded to say to Moses: “One plague more I am going to bring upon Pharʹaoh and Egypt. After that he will send YOU away from here. At the time he sends YOU away altogether, he will literally drive YOU out from here.
+
+[[v2-11-2]]
+
+^<<v2-11-2,2>>^ Speak, now, in the ears of the people, that they should ask every man of his companion and every woman of her companion articles of silver and articles of gold.”
+
+[[v2-11-3]]
+
+^<<v2-11-3,3>>^ Accordingly Jehovah gave the people favor in the eyes of the Egyptians. The man Moses too was very great in the land of Egypt, in the eyes of Pharʹaoh’s servants and in the eyes of the people.
+
+[[v2-11-4]]
+
+^<<v2-11-4,4>>^ And Moses went on to say: “This is what Jehovah has said, ‘About midnight I am going out into the midst of Egypt,
+
+[[v2-11-5]]
+
+^<<v2-11-5,5>>^ and every firstborn in the land of Egypt must die, from the firstborn of Pharʹaoh who is sitting on his throne to the firstborn of the maidservant who is at the hand mill and every firstborn of beast.
+
+[[v2-11-6]]
+
+^<<v2-11-6,6>>^ And there will certainly occur a great outcry in all the land of Egypt, the like of which has never yet occurred, and the like of which will never be brought about again.
+
+[[v2-11-7]]
+
+^<<v2-11-7,7>>^ But against any of the sons of Israel will no dog move eagerly its tongue,^&#42;1^ from man to beast; in order that YOU people may know that Jehovah can make a distinction between the Egyptians and the sons of Israel.’^&#42;2^
+
+[NOTE]
+====
+. “Will no dog snarl with his tongue,” LXX; Vg, “will no dog bark.” Compare Jos 10:21.
+. “Sons of Israel.” Or, “Israelites.”
+====
+
+[[v2-11-8]]
+
+^<<v2-11-8,8>>^ And all these servants of yours will certainly come down to me and prostrate themselves to me, saying, ‘Go, you and all the people who follow your steps.’ And after that I shall go out.” With that he went out from Pharʹaoh in the heat of anger.
+
+[[v2-11-9]]
+
+^<<v2-11-9,9>>^ Then Jehovah said to Moses: “Pharʹaoh will not listen to YOU men, in order for my miracles to be increased in the land of Egypt.”
+
+[[v2-11-10]]
+
+^<<v2-11-10,10>>^ And Moses and Aaron performed all these miracles before Pharʹaoh; but Jehovah would let Pharʹaoh’s heart become obstinate, so that he did not send the sons of Israel away from his land.
+
+'''
+
+xref:002-exodus/002-exodus-010.adoc#v2-10-0[&#60; Capítulo Anterior] | <<v2-11-0,Topo>> | xref:002-exodus/002-exodus-012.adoc#v2-12-0[Próximo Capítulo &#62;]

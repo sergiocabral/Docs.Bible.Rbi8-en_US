@@ -1,0 +1,64 @@
+include::./index.adoc[]
+
+[[v21-11-0]]
+=== Ecclesiastes, 11
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v21-11-1]]
+
+^<<v21-11-1,1>>^ Send out your bread^&#42;1^ upon the surface of the waters, for in the course of many days you will find it again.
+
+[NOTE]
+====
+. Thin, round or oval, and able to float for a time.
+====
+
+[[v21-11-2]]
+
+^<<v21-11-2,2>>^ Give a portion to seven, or even to eight, for you do not know what calamity will occur on the earth.
+
+[[v21-11-3]]
+
+^<<v21-11-3,3>>^ If the clouds are filled &#91;with water&#93;, they empty out a sheer downpour upon the earth; and if a tree falls to the south or if to the north, in the place where the tree falls there it will prove to be.
+
+[[v21-11-4]]
+
+^<<v21-11-4,4>>^ He that is watching the wind^&#42;1^ will not sow seed; and he that is looking at the clouds will not reap.
+
+[NOTE]
+====
+. “Wind.” Heb., ruʹach. See Ge 1:2 ftn, “Force.”
+====
+
+[[v21-11-5]]
+
+^<<v21-11-5,5>>^ Just as you are not aware of what is the way of the spirit in^&#42;1^ the bones in the belly of her that is pregnant, in like manner you do not know the work of the &#91;true&#93; God, who does all things.
+
+[NOTE]
+====
+. “In,” T and many Heb. mss.
+====
+
+[[v21-11-6]]
+
+^<<v21-11-6,6>>^ In the morning sow your seed and until the evening do not let your hand rest; for you are not knowing where this will have success, either here or there, or whether both of them will alike be good.
+
+[[v21-11-7]]
+
+^<<v21-11-7,7>>^ The light is also sweet, and it is good for the eyes to see the sun;
+
+[[v21-11-8]]
+
+^<<v21-11-8,8>>^ for if a man should live even many years, in all of them let him rejoice. And let him remember the days of darkness, though they could be many; every &#91;day&#93; that has come in is vanity.
+
+[[v21-11-9]]
+
+^<<v21-11-9,9>>^ Rejoice, young man, in your youth, and let your heart do you good in the days of your young manhood, and walk in the ways of your heart and in the things seen by your eyes. But know that on account of all these the &#91;true&#93; God will bring you into judgment.
+
+[[v21-11-10]]
+
+^<<v21-11-10,10>>^ So remove vexation from your heart, and ward off calamity from your flesh; for youth and the prime of life are vanity.
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-010.adoc#v21-10-0[&#60; Capítulo Anterior] | <<v21-11-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-012.adoc#v21-12-0[Próximo Capítulo &#62;]

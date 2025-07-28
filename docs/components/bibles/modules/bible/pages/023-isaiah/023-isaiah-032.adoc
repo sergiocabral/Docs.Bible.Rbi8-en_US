@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v23-32-0]]
+=== Isaiah, 32
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-32-1]]
+
+^<<v23-32-1,1>>^ Look! A king will reign for righteousness itself; and as respects princes,^&#42;1^ they will rule as princes for justice itself.
+
+[NOTE]
+====
+. “And as respects princes.” Heb., u·lesa·rimʹ.
+====
+
+[[v23-32-2]]
+
+^<<v23-32-2,2>>^ And each one must prove to be like a hiding place from the wind^&#42;1^ and a place of concealment from the rainstorm, like streams of water in a waterless country, like the shadow of a heavy crag in an exhausted land.
+
+[NOTE]
+====
+. “Wind.” Heb., ruʹach; Lat., venʹto.
+====
+
+[[v23-32-3]]
+
+^<<v23-32-3,3>>^ And the eyes of those seeing will not be pasted together,^&#42;1^ and the very ears of those hearing will pay attention.
+
+[NOTE]
+====
+. “Will not be pasted together,” by a slight correction of M, in agreement with TSyVg; M, “will not look.”
+====
+
+[[v23-32-4]]
+
+^<<v23-32-4,4>>^ And the heart itself of those who are overhasty will consider knowledge, and even the tongue of the stammerers will be quick in speaking clear things.
+
+[[v23-32-5]]
+
+^<<v23-32-5,5>>^ The senseless one will no longer be called generous; and as for the unprincipled man, he will not be said to be noble;
+
+[[v23-32-6]]
+
+^<<v23-32-6,6>>^ because the senseless one himself will speak mere senselessness, and his very heart will work at what is hurtful, to work at apostasy and to speak against Jehovah what is wayward, to cause the soul of the hungry one to go empty, and he causes even the thirsty one to go without drink itself.
+
+[[v23-32-7]]
+
+^<<v23-32-7,7>>^ As for the unprincipled man, his instruments are bad; he himself has given counsel for acts of loose conduct, to wreck the afflicted ones with false sayings, even when someone poor speaks what is right.
+
+[[v23-32-8]]
+
+^<<v23-32-8,8>>^ As regards the generous one, it is for generous things that he has given counsel; and in favor of generous things he himself will rise up.
+
+[[v23-32-9]]
+
+^<<v23-32-9,9>>^ “YOU women who are at ease, rise up, listen to my voice! YOU careless^&#42;1^ daughters, give ear to my saying!
+
+[NOTE]
+====
+. Or, “trusting; unsuspecting.”
+====
+
+[[v23-32-10]]
+
+^<<v23-32-10,10>>^ Within a year and some days YOU careless ones will be agitated, because the grape picking will have come to an end &#91;but&#93; no &#91;fruit&#93; gathering will come in.
+
+[[v23-32-11]]
+
+^<<v23-32-11,11>>^ Tremble, YOU women who are at ease! Be agitated, YOU careless ones! Undress and make yourselves naked, and gird &#91;sackcloth&#93; upon the loins.
+
+[[v23-32-12]]
+
+^<<v23-32-12,12>>^ Beat yourselves upon the breasts in lamentation over the desirable fields, over the fruit-bearing vine.
+
+[[v23-32-13]]
+
+^<<v23-32-13,13>>^ Upon the ground of my people merely thorns, spiny bushes come up, for they are upon all the houses of exultation, yes, the highly elated town.
+
+[[v23-32-14]]
+
+^<<v23-32-14,14>>^ For the dwelling tower itself has been forsaken, the very hubbub of the city has been abandoned; Oʹphel and the watchtower themselves have become bare fields, for time indefinite the exultation of zebras, the pasture of droves;
+
+[[v23-32-15]]
+
+^<<v23-32-15,15>>^ until upon us the spirit is poured out from on high, and the wilderness will have become an orchard, and the orchard itself is accounted as a real forest.
+
+[[v23-32-16]]
+
+^<<v23-32-16,16>>^ “And in the wilderness justice will certainly reside, and in the orchard righteousness itself will dwell.
+
+[[v23-32-17]]
+
+^<<v23-32-17,17>>^ And the work of the &#91;true&#93; righteousness must become peace; and the service of the &#91;true&#93; righteousness, quietness and security to time indefinite.
+
+[[v23-32-18]]
+
+^<<v23-32-18,18>>^ And my people must dwell in a peaceful abiding place and in residences of full confidence and in undisturbed resting-places.
+
+[[v23-32-19]]
+
+^<<v23-32-19,19>>^ And it will certainly hail when the forest goes down and the city becomes low in an abased state.
+
+[[v23-32-20]]
+
+^<<v23-32-20,20>>^ “Happy are YOU people who are sowing seed alongside all waters, sending forth the feet of the bull and of the ass.”
+
+'''
+
+xref:023-isaiah/023-isaiah-031.adoc#v23-31-0[&#60; Capítulo Anterior] | <<v23-32-0,Topo>> | xref:023-isaiah/023-isaiah-033.adoc#v23-33-0[Próximo Capítulo &#62;]

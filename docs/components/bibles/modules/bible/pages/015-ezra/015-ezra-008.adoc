@@ -1,0 +1,206 @@
+include::./index.adoc[]
+
+[[v15-8-0]]
+=== Ezra, 8
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v15-8-1]]
+
+^<<v15-8-1,1>>^ Now these were the heads of their paternal houses and the genealogical enrollment of those going up with me during the reign of Ar·ta·xerxʹes the king out of Babylon:
+
+[[v15-8-2]]
+
+^<<v15-8-2,2>>^ Of the sons of Phinʹe·has, Gerʹshom; of the sons of Ithʹa·mar, Daniel; of the sons of David, Hatʹtush;
+
+[[v15-8-3]]
+
+^<<v15-8-3,3>>^ of the sons of Shec·a·niʹah, of the sons of Paʹrosh, Zech·a·riʹah, and with him there was an enrollment of a hundred and fifty males;
+
+[[v15-8-4]]
+
+^<<v15-8-4,4>>^ of the sons of Paʹhath-moʹab, Elʹie·ho-eʹnai the son of Zer·a·hiʹah, and with him two hundred males;
+
+[[v15-8-5]]
+
+^<<v15-8-5,5>>^ of the sons &#91;of Zatʹtu&#93;,^&#42;1^ Shec·a·niʹah the son of Ja·ha·ziʹel, and with him three hundred males;
+
+[NOTE]
+====
+. “Of the sons of Zattu,” LXX.
+====
+
+[[v15-8-6]]
+
+^<<v15-8-6,6>>^ and of the sons of Aʹdin, Eʹbed the son of Jonʹa·than, and with him fifty males;
+
+[[v15-8-7]]
+
+^<<v15-8-7,7>>^ and of the sons of Eʹlam, Je·shaʹiah the son of Ath·a·liʹah, and with him seventy males;
+
+[[v15-8-8]]
+
+^<<v15-8-8,8>>^ and of the sons of Sheph·a·tiʹah, Zeb·a·diʹah the son of Miʹcha·el, and with him eighty males;
+
+[[v15-8-9]]
+
+^<<v15-8-9,9>>^ of the sons of Joʹab, O·ba·diʹah the son of Je·hiʹel, and with him two hundred and eighteen males;
+
+[[v15-8-10]]
+
+^<<v15-8-10,10>>^ and of the sons of &#91;Baʹni&#93;,^&#42;1^ She·loʹmith the son of Jo·si·phiʹah, and with him a hundred and sixty males;
+
+[NOTE]
+====
+. “Bani,” LXX. See 2:10.
+====
+
+[[v15-8-11]]
+
+^<<v15-8-11,11>>^ and of the sons of Beʹbai, Zech·a·riʹah the son of Beʹbai, and with him twenty-eight males;
+
+[[v15-8-12]]
+
+^<<v15-8-12,12>>^ and of the sons of Azʹgad, Jo·haʹnan the son of Hakʹka·tan, and with him a hundred and ten males;
+
+[[v15-8-13]]
+
+^<<v15-8-13,13>>^ and of the sons of Ad·o·niʹkam, those who were the last, and these were their names: E·liphʹe·let, Je·iʹel and She·maiʹah, and with them sixty males;
+
+[[v15-8-14]]
+
+^<<v15-8-14,14>>^ and of the sons of Bigʹvai, Uʹthai and Zabʹbud,^&#42;1^ and with them seventy males.
+
+[NOTE]
+====
+. “Zakkur,” Mmargin.
+====
+
+[[v15-8-15]]
+
+^<<v15-8-15,15>>^ And I proceeded to collect them at the river that comes to A·haʹva; and we kept encamped there three days, that I might scrutinize the people and the priests, but none of the sons of Leʹvi did I find there.
+
+[[v15-8-16]]
+
+^<<v15-8-16,16>>^ Accordingly I sent for E·li·eʹzer, Arʹi·el, She·maiʹah and El·naʹthan and Jaʹrib and El·naʹthan and Nathan and Zech·a·riʹah and Me·shulʹlam, head ones, and for Joiʹa·rib and El·naʹthan, instructors.^&#42;1^
+
+[NOTE]
+====
+. Or, “intelligent (understanding) men.”
+====
+
+[[v15-8-17]]
+
+^<<v15-8-17,17>>^ Then I gave them a command concerning Idʹdo the head one in the place Ca·si·phiʹa, and I put in their mouth words to speak to Idʹdo &#91;and&#93; his brothers^&#42;1^ the Nethʹi·nim^&#42;2^ in the place Ca·si·phiʹa, to bring to us ministers^&#42;3^ for the house of our God.
+
+[NOTE]
+====
+. “Iddo and his brothers,” Vgc; M, “Iddo his brother.”
+. See 2:43 ftn.
+. Or, “attendants.” Heb., meshor·thimʹ; Lat., mi·niʹstros.
+====
+
+[[v15-8-18]]
+
+^<<v15-8-18,18>>^ So they brought to us, according to the good hand of our God upon us, a man of discretion from the sons of Mahʹli the grandson of Leʹvi the son of Israel, namely, She·re·biʹah and his sons and his brothers, eighteen;
+
+[[v15-8-19]]
+
+^<<v15-8-19,19>>^ and Hash·a·biʹah and with him Je·shaʹiah from the sons of Me·rarʹi, his brothers, and their sons, twenty.
+
+[[v15-8-20]]
+
+^<<v15-8-20,20>>^ And from the Nethʹi·nim, whom David and the princes gave to the service of the Levites, two hundred and twenty Nethʹi·nim, all of whom had been designated by &#91;their&#93; names.
+
+[[v15-8-21]]
+
+^<<v15-8-21,21>>^ Then I proclaimed a fast there at the river A·haʹva, to humble ourselves before our God, to seek from him the right way for us and for our little ones and for all our goods.
+
+[[v15-8-22]]
+
+^<<v15-8-22,22>>^ For I felt ashamed to ask a military force and horsemen from the king to help us against the enemy in the way, because we had said to the king: “The hand of our God is over all those seeking him for good, but his strength and his anger are against all those leaving him.”
+
+[[v15-8-23]]
+
+^<<v15-8-23,23>>^ Therefore we fasted and made request of our God concerning this, so that he let himself be entreated by us.
+
+[[v15-8-24]]
+
+^<<v15-8-24,24>>^ I now separated from the chiefs of the priests twelve, namely, She·re·biʹah, Hash·a·biʹah, and with them ten of their brothers.
+
+[[v15-8-25]]
+
+^<<v15-8-25,25>>^ And I proceeded to weigh out to them the silver and the gold and the utensils, the contribution to the house of our God that the king and his counselors and his princes and all the Israelites who were to be found had contributed.
+
+[[v15-8-26]]
+
+^<<v15-8-26,26>>^ Thus I weighed out into their hand six hundred and fifty talents^&#42;1^ of silver and a hundred silver utensils worth &#91;two&#93; talents, &#91;and&#93; gold a hundred talents,
+
+[NOTE]
+====
+. A talent weighed 34.2 kg (1101 oz t).
+====
+
+[[v15-8-27]]
+
+^<<v15-8-27,27>>^ and twenty small gold bowls worth a thousand darics^&#42;1^ and two utensils of good copper, gleaming red, as desirable as gold.
+
+[NOTE]
+====
+. A Persian gold coin that weighed 8.4 g (0.27 oz t).
+====
+
+[[v15-8-28]]
+
+^<<v15-8-28,28>>^ Then I said to them: “YOU are something holy to Jehovah, and the utensils are something holy, and the silver and the gold are a voluntary offering to Jehovah the God of YOUR forefathers.
+
+[[v15-8-29]]
+
+^<<v15-8-29,29>>^ Keep awake and be on guard until YOU weigh &#91;them&#93; out before the chiefs of the priests and the Levites and the princes of the fathers of Israel in Jerusalem, in the dining halls of the house of Jehovah.”
+
+[[v15-8-30]]
+
+^<<v15-8-30,30>>^ And the priests and the Levites received the weight of the silver and the gold and the utensils, to bring &#91;them&#93; to Jerusalem to the house of our God.
+
+[[v15-8-31]]
+
+^<<v15-8-31,31>>^ Finally we pulled away from the river A·haʹva on the twelfth &#91;day&#93; of the first month to go to Jerusalem, and the very hand of our God proved to be over us, so that he delivered us out of the palm of the enemy and the ambush by the way.
+
+[[v15-8-32]]
+
+^<<v15-8-32,32>>^ So we came to Jerusalem and dwelt there three days.
+
+[[v15-8-33]]
+
+^<<v15-8-33,33>>^ And on the fourth day we proceeded to weigh out the silver and the gold and the utensils in the house of our God into the hand of Merʹe·moth the son of U·riʹjah the priest and with him El·e·aʹzar the son of Phinʹe·has and with them Joʹza·bad the son of Jeshʹu·a^&#42;1^ and No·a·diʹah the son of Binʹnu·i the Levites,
+
+[NOTE]
+====
+. “Jesus,” LXX.
+====
+
+[[v15-8-34]]
+
+^<<v15-8-34,34>>^ by number &#91;and&#93; by weight for everything, after which all the weight was written down at that time.
+
+[[v15-8-35]]
+
+^<<v15-8-35,35>>^ Those coming out of the captivity, the former exiles,^&#42;1^ themselves presented burnt sacrifices to the God of Israel, twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs, twelve he-goats as a sin offering, everything as a burnt offering to Jehovah.
+
+[NOTE]
+====
+. Lit., “the sons of the Exile.”
+====
+
+[[v15-8-36]]
+
+^<<v15-8-36,36>>^ Then we gave the laws of the king to the satraps^&#42;1^ of the king and the governors beyond the River,^&#42;2^ and they assisted the people and the house of the &#91;true&#93; God.
+
+[NOTE]
+====
+. Meaning “protectors of the realm,” applied to chief rulers of jurisdictional districts.
+. That is, the Euphrates.
+====
+
+'''
+
+xref:015-ezra/015-ezra-007.adoc#v15-7-0[&#60; Capítulo Anterior] | <<v15-8-0,Topo>> | xref:015-ezra/015-ezra-009.adoc#v15-9-0[Próximo Capítulo &#62;]

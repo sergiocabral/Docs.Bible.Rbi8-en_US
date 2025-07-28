@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v23-42-0]]
+=== Isaiah, 42
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-42-1]]
+
+^<<v23-42-1,1>>^ Look! My servant, on whom I keep fast hold! My chosen one, &#91;whom&#93; my soul has approved! I have put my spirit^&#42;1^ in him. Justice to the nations is what he will bring forth.
+
+[NOTE]
+====
+. “My spirit.” Heb., ru·chiʹ.
+====
+
+[[v23-42-2]]
+
+^<<v23-42-2,2>>^ He will not cry out or raise &#91;his voice&#93;, and in the street^&#42;1^ he will not let his voice be heard.
+
+[NOTE]
+====
+. Or, “outside.”
+====
+
+[[v23-42-3]]
+
+^<<v23-42-3,3>>^ No crushed reed will he break; and as for a dim flaxen wick, he will not extinguish it. In trueness he will bring forth justice.^&#42;1^
+
+[NOTE]
+====
+. Or, “judgment.” Heb., mish·patʹ; Lat., iu·diʹci·um.
+====
+
+[[v23-42-4]]
+
+^<<v23-42-4,4>>^ He will not grow dim nor be crushed^&#42;1^ until he sets justice in the earth itself; and for his law the islands^&#42;2^ themselves will keep waiting.^&#42;3^
+
+[NOTE]
+====
+. “He will . . . be crushed.” Heb., ya·rutsʹ, in agreement with ra·tsutsʹ (“crushed”) in vs 3a.
+. Or, “coastlands.”
+. “And in his name nations will hope,” LXX. See Mt 12:21.
+====
+
+[[v23-42-5]]
+
+^<<v23-42-5,5>>^ This is what the &#91;true&#93; God, Jehovah, has said, the Creator of the heavens and the Grand One stretching^&#42;1^ them out; the One laying out the earth and its produce, the One giving breath^&#42;2^ to the people on it, and spirit to those walking in it:
+
+[NOTE]
+====
+. “The Grand One stretching,” pl. in Heb., apparently to denote grandeur or excellence.
+. “Breath.” Heb., nesha·mahʹ, the same noun as in Ge 2:7.
+====
+
+[[v23-42-6]]
+
+^<<v23-42-6,6>>^ “I myself, Jehovah, have called you in righteousness, and I proceeded to take hold of your hand. And I shall safeguard you and give you as a covenant of the people, as a light of the nations,
+
+[[v23-42-7]]
+
+^<<v23-42-7,7>>^ &#91;for you&#93; to open the blind eyes, to bring forth out of the dungeon the prisoner, out of the house of detention those sitting in darkness.
+
+[[v23-42-8]]
+
+^<<v23-42-8,8>>^ “I am Jehovah. That is my name; and to no one else shall I give my own glory, neither my praise to graven images.
+
+[[v23-42-9]]
+
+^<<v23-42-9,9>>^ “The first things—here they have come, but new things I am telling out. Before they begin to spring up, I cause YOU people to hear &#91;them&#93;.”
+
+[[v23-42-10]]
+
+^<<v23-42-10,10>>^ Sing to Jehovah a new song, his praise from the extremity of the earth, YOU men that are going down to the sea and to that which fills it, YOU islands and YOU inhabiting them.
+
+[[v23-42-11]]
+
+^<<v23-42-11,11>>^ Let the wilderness and its cities raise &#91;their voice&#93;, the settlements that Keʹdar inhabits. Let the inhabitants of the crag cry out in joy. From the top of the mountains let people cry aloud.
+
+[[v23-42-12]]
+
+^<<v23-42-12,12>>^ Let them attribute to Jehovah glory, and in the islands let them tell forth even his praise.
+
+[[v23-42-13]]
+
+^<<v23-42-13,13>>^ Like a mighty man Jehovah himself will go forth. Like a warrior^&#42;1^ he will awaken zeal. He will shout, yes, he will let out a war cry; over his enemies he will show himself mightier.
+
+[NOTE]
+====
+. Lit., “man of wars.”
+====
+
+[[v23-42-14]]
+
+^<<v23-42-14,14>>^ “I have kept quiet for a long time. I continued silent. I kept exercising self-control. Like a woman giving birth I am going to groan, pant, and gasp at the same time.
+
+[[v23-42-15]]
+
+^<<v23-42-15,15>>^ I shall devastate mountains and hills, and all their vegetation I shall dry up. And I will turn rivers into islands, and reedy pools I shall dry up.
+
+[[v23-42-16]]
+
+^<<v23-42-16,16>>^ And I will make the blind ones walk in a way that they have not known; in a roadway that they have not known I shall cause them to tread. I shall turn a dark place before them into light, and rugged terrain into level land. These are the things that I will do for them, and I will not leave them.”
+
+[[v23-42-17]]
+
+^<<v23-42-17,17>>^ They must be turned back, they will be very much ashamed, those who are putting trust in the carved image, those who are saying to a molten image: “YOU are our gods.”^&#42;1^
+
+[NOTE]
+====
+. “Our gods.” Heb., ʼelo·hehʹnu.
+====
+
+[[v23-42-18]]
+
+^<<v23-42-18,18>>^ Hear, YOU deaf ones; and look forth to see, YOU blind ones.
+
+[[v23-42-19]]
+
+^<<v23-42-19,19>>^ Who is blind, if not my servant, and who is deaf as my messenger whom I send? Who is blind as the one rewarded,^&#42;1^ or blind as the servant of Jehovah?
+
+[NOTE]
+====
+. Or, “one in a covenant of peace.”
+====
+
+[[v23-42-20]]
+
+^<<v23-42-20,20>>^ It was a case of seeing many things, but you did not keep watching. It was a case of opening the ears, but you^&#42;1^ did not keep listening.
+
+[NOTE]
+====
+. “You,” sing., Vg and about 60 Heb. mss; TLXXSy, “you,” pl.; M, “he.”
+====
+
+[[v23-42-21]]
+
+^<<v23-42-21,21>>^ Jehovah himself for the sake of his righteousness has taken a delight in that he should magnify the law and make it majestic.
+
+[[v23-42-22]]
+
+^<<v23-42-22,22>>^ But it is a people plundered and pillaged, all of them being trapped in the holes, and in the houses of detention they have been kept hidden. They have come to be for plunder without a deliverer, for pillage without anyone to say: “Bring back!”
+
+[[v23-42-23]]
+
+^<<v23-42-23,23>>^ Who among YOU people will give ear to this? Who will pay attention and listen for later times?
+
+[[v23-42-24]]
+
+^<<v23-42-24,24>>^ Who has given Jacob for mere pillage, and Israel to the plunderers? Is it not Jehovah, the One against whom we have sinned, and in whose ways they did not want to walk and to whose law they did not listen?
+
+[[v23-42-25]]
+
+^<<v23-42-25,25>>^ So He kept pouring out upon him rage, his anger, and the strength of war. And it kept consuming him all around, but he took no note; and it kept blazing up against him, but he would lay nothing to heart.
+
+'''
+
+xref:023-isaiah/023-isaiah-041.adoc#v23-41-0[&#60; Capítulo Anterior] | <<v23-42-0,Topo>> | xref:023-isaiah/023-isaiah-043.adoc#v23-43-0[Próximo Capítulo &#62;]

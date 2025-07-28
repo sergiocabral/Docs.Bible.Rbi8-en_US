@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v1-16-0]]
+=== Genesis, 16
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-16-1]]
+
+^<<v1-16-1,1>>^ Now Sarʹai, Aʹbram’s wife, had borne him no children; but she had an Egyptian maidservant and her name was Haʹgar.
+
+[[v1-16-2]]
+
+^<<v1-16-2,2>>^ Hence Sarʹai said to Aʹbram: “Please now! Jehovah has shut me off from bearing children. Please, have relations with my maidservant. Perhaps I may get children from her.” So Aʹbram listened to the voice of Sarʹai.
+
+[[v1-16-3]]
+
+^<<v1-16-3,3>>^ Then Sarʹai, Aʹbram’s wife, took Haʹgar, her Egyptian maidservant, at the end of ten years of Aʹbram’s dwelling in the land of Caʹnaan, and gave her to Aʹbram her husband as his wife.
+
+[[v1-16-4]]
+
+^<<v1-16-4,4>>^ Accordingly he had relations with Haʹgar, and she became pregnant. When she became aware that she was pregnant, then her mistress began to be despised in her eyes.
+
+[[v1-16-5]]
+
+^<<v1-16-5,5>>^ At this Sarʹai said to Aʹbram: “The violence done me be upon you. I myself gave my maidservant over to your bosom, and she became aware that she was pregnant, and I began to be despised in her eyes. May Jehovah judge between me and you.”^&#42;1^
+
+[NOTE]
+====
+. “And you.” In M the expression thus translated is marked with extraordinary points by the Sopherim (scribes) to indicate that the reading “and you” is doubtful and should read, “and her.” See App 2A.
+====
+
+[[v1-16-6]]
+
+^<<v1-16-6,6>>^ So Aʹbram said to Sarʹai: “Look! Your maidservant is at your disposal. Do to her what is good in your eyes.” Then Sarʹai began to humiliate^&#42;1^ her so that she ran away from her.
+
+[NOTE]
+====
+. Or, “afflict.”
+====
+
+[[v1-16-7]]
+
+^<<v1-16-7,7>>^ Later Jehovah’s angel^&#42;1^ found her at a fountain of waters in the wilderness, at the fountain on the way to Shur.
+
+[NOTE]
+====
+. “Jehovah’s angel.” Heb., mal·ʼakhʹ Yehwahʹ; the first occurrence of this expression.
+====
+
+[[v1-16-8]]
+
+^<<v1-16-8,8>>^ And he began to say: “Haʹgar, maidservant of Sarʹai, just where have you come from and where are you going?” To this she said: “Why, from Sarʹai my mistress I am running away.”
+
+[[v1-16-9]]
+
+^<<v1-16-9,9>>^ And Jehovah’s angel went on to say to her: “Return to your mistress and humble yourself under her hand.”
+
+[[v1-16-10]]
+
+^<<v1-16-10,10>>^ Then Jehovah’s angel said to her: “I shall greatly multiply your seed, so that it will not be numbered for multitude.”
+
+[[v1-16-11]]
+
+^<<v1-16-11,11>>^ Further Jehovah’s angel added to her: “Here you are pregnant, and you shall give birth to a son and must call his name Ishʹma·el;^&#42;1^ for Jehovah has heard your affliction.
+
+[NOTE]
+====
+. Meaning “God Hears.”
+====
+
+[[v1-16-12]]
+
+^<<v1-16-12,12>>^ As for him, he will become a zebra^&#42;1^ of a man. His hand will be against everyone, and the hand of everyone will be against him; and before the face of all his brothers he will tabernacle.”
+
+[NOTE]
+====
+. Or, “onager.” See Job 39:5.
+====
+
+[[v1-16-13]]
+
+^<<v1-16-13,13>>^ Then she began to call the name of Jehovah, who was speaking to her: “You are a God^&#42;1^ of sight,”^&#42;2^ for she said: “Have I here actually^&#42;3^ looked upon him^&#42;4^ who sees me?”
+
+[NOTE]
+====
+. Heb., ʼEl.
+. Or, “a God who sees me”; or, “a God who lets himself be seen (who appears).”
+. Or, “also.”
+. “Looked upon him.” For this rendering see JTS, Vol. L, 1949, p. 179.
+====
+
+[[v1-16-14]]
+
+^<<v1-16-14,14>>^ That is why the well was called^&#42;1^ Beʹer-laʹhai-roi.^&#42;2^ Here it is between Kaʹdesh and Beʹred.
+
+[NOTE]
+====
+. “That is why she called the well,” Sy.
+. Meaning “Well of the Living One Who Sees Me.”
+====
+
+[[v1-16-15]]
+
+^<<v1-16-15,15>>^ Later on Haʹgar bore to Aʹbram a son and Aʹbram called the name of his son whom Haʹgar bore Ishʹma·el.
+
+[[v1-16-16]]
+
+^<<v1-16-16,16>>^ And Aʹbram was eighty-six years old at Haʹgar’s bearing Ishʹma·el to Aʹbram.
+
+'''
+
+xref:001-genesis/001-genesis-015.adoc#v1-15-0[&#60; Capítulo Anterior] | <<v1-16-0,Topo>> | xref:001-genesis/001-genesis-017.adoc#v1-17-0[Próximo Capítulo &#62;]

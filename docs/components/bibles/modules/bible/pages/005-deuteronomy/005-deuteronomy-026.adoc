@@ -1,0 +1,122 @@
+include::./index.adoc[]
+
+[[v5-26-0]]
+=== Deuteronomy, 26
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-26-1]]
+
+^<<v5-26-1,1>>^ “And it must occur that when at last you enter into the land that Jehovah your God is giving you as an inheritance, and you have taken possession of it and dwelt in it,
+
+[[v5-26-2]]
+
+^<<v5-26-2,2>>^ you must also take some of the firstfruits of all the fruitage of the soil, which you will bring in from the land of yours that Jehovah your God is giving you, and you must put them in a basket and go to the place that Jehovah^&#42;1^ your God will choose to have his name reside there.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-26-3]]
+
+^<<v5-26-3,3>>^ And you must come to the priest who will be acting in those days and say to him, ‘I must report today to Jehovah your^&#42;1^ God that I have come into the land that Jehovah swore to our forefathers to give to us.’
+
+[NOTE]
+====
+. “Your,” MSamSyVg; LXX, “my.”
+====
+
+[[v5-26-4]]
+
+^<<v5-26-4,4>>^ “And the priest must take the basket out of your hand and deposit it before the altar of Jehovah your God.
+
+[[v5-26-5]]
+
+^<<v5-26-5,5>>^ And you must answer and say before Jehovah your God, ‘My father was a perishing Syrian;^&#42;1^ and he proceeded to go down to Egypt and to reside there as an alien with very few in number; but there he became a great nation, mighty and numerous.
+
+[NOTE]
+====
+. Lit., “My father was a perishing Aramaean,” MSam; Sy, “My father was led to Aram”; LXX, “My father cast off Syria.”
+====
+
+[[v5-26-6]]
+
+^<<v5-26-6,6>>^ And the Egyptians went treating us badly and afflicting us and putting hard slavery upon us.
+
+[[v5-26-7]]
+
+^<<v5-26-7,7>>^ And we began to cry out to Jehovah^&#42;1^ the God of our forefathers, and Jehovah proceeded to hear our voice and to look on our affliction and our trouble and our oppression.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-26-8]]
+
+^<<v5-26-8,8>>^ Finally Jehovah^&#42;1^ brought us out of Egypt with a strong hand and an outstretched arm and with great fearsomeness and with signs and miracles.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-26-9]]
+
+^<<v5-26-9,9>>^ Then he brought us to this place and gave us this land, a land flowing with milk and honey.
+
+[[v5-26-10]]
+
+^<<v5-26-10,10>>^ And now here I have brought the firstfruits of the fruitage of the ground that Jehovah has given me.’
+“You must also deposit it before Jehovah your God and bow down before Jehovah your God.
+
+[[v5-26-11]]
+
+^<<v5-26-11,11>>^ And you must rejoice over all the good that Jehovah your God has given you and your household, you and the Levite and the alien resident who is in your midst.
+
+[[v5-26-12]]
+
+^<<v5-26-12,12>>^ “When you finish with tithing the entire tenth of your produce in the third year, the year of the tenth, you must also give it^&#42;1^ to the Levite, the alien resident, the fatherless boy and the widow, and they must eat it within your gates and satisfy themselves.
+
+[NOTE]
+====
+. “The year of the tenth, you must also give it,” MSamSyVg; LXX, “you will give the second tenth.”
+====
+
+[[v5-26-13]]
+
+^<<v5-26-13,13>>^ And you must say before Jehovah your God, ‘I have cleared away what is holy from the house and I have also given it to the Levite and the alien resident, the fatherless boy and the widow, in accord with all your commandment that you have commanded me. I have not overstepped your commandments, nor have I forgotten.
+
+[[v5-26-14]]
+
+^<<v5-26-14,14>>^ I have not eaten of it during my mourning,^&#42;1^ nor have I removed any of it while unclean, nor have I given any of it for anyone dead. I have listened to the voice of Jehovah^&#42;2^ my God. I have done in accord with all that you have commanded me.
+
+[NOTE]
+====
+. Or, “of it in my state of taboo.”
+. See App 1C §1.
+====
+
+[[v5-26-15]]
+
+^<<v5-26-15,15>>^ Do look down from your holy dwelling, the heavens, and bless your people Israel and the soil that you have given us, just as you swore to our forefathers, the land flowing with milk and honey.’
+
+[[v5-26-16]]
+
+^<<v5-26-16,16>>^ “This day Jehovah your God is commanding you to carry out these regulations and judicial decisions; and you must observe and carry them out with all your heart and all your soul.
+
+[[v5-26-17]]
+
+^<<v5-26-17,17>>^ Jehovah you have induced to say today that he will become your God while you walk in his ways and observe his regulations and his commandments and his judicial decisions and listen to his voice.
+
+[[v5-26-18]]
+
+^<<v5-26-18,18>>^ As for Jehovah, he has induced you to say today that you will become his people, a special property, just as he has promised you, and that you will observe all his commandments,
+
+[[v5-26-19]]
+
+^<<v5-26-19,19>>^ and that he will put you high above all the other nations that he has made, resulting in praise and reputation and beauty, while you prove yourself a people holy to Jehovah your God, just as he has promised.”
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-025.adoc#v5-25-0[&#60; Capítulo Anterior] | <<v5-26-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-027.adoc#v5-27-0[Próximo Capítulo &#62;]

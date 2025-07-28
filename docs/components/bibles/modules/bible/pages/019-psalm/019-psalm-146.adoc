@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-146-0]]
+=== Psalms, 146
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-146-1]]
+
+^<<v19-146-1,1>>^ Praise Jah, YOU people!^&#42;1^
+Praise Jehovah, O my soul.
+
+[NOTE]
+====
+. See 104:35 ftns.
+====
+
+[[v19-146-2]]
+
+^<<v19-146-2,2>>^ I will praise Jehovah during my lifetime.
+I will make melody to my God as long as I am.
+
+[[v19-146-3]]
+
+^<<v19-146-3,3>>^ Do not put YOUR trust in nobles,
+Nor in the son of earthling man,^&#42;1^ to whom no salvation belongs.
+
+[NOTE]
+====
+. “Earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-146-4]]
+
+^<<v19-146-4,4>>^ His spirit^&#42;1^ goes out, he goes back to his ground;
+In that day his thoughts do perish.^&#42;2^
+
+[NOTE]
+====
+. Or, “His breath.” Heb., ru·chohʹ; Gr., pneuʹma; Lat., spiʹri·tus.
+. Or, “have perished; must perish.”
+====
+
+[[v19-146-5]]
+
+^<<v19-146-5,5>>^ Happy is the one who has the God^&#42;1^ of Jacob for his help,
+Whose hope is in Jehovah his God,
+
+[NOTE]
+====
+. “The one who has the God of.” Heb., she·ʼElʹ.
+====
+
+[[v19-146-6]]
+
+^<<v19-146-6,6>>^ The Maker of heaven and earth,
+Of the sea, and of all that is in them,
+The One keeping trueness to time indefinite,
+
+[[v19-146-7]]
+
+^<<v19-146-7,7>>^ The One executing judgment for the defrauded ones,
+The One giving bread to the hungry ones.
+Jehovah is releasing those who are bound.
+
+[[v19-146-8]]
+
+^<<v19-146-8,8>>^ Jehovah is opening &#91;the eyes of&#93; the blind ones;
+Jehovah is raising up the ones bowed down;
+Jehovah is loving the righteous ones.
+
+[[v19-146-9]]
+
+^<<v19-146-9,9>>^ Jehovah is guarding the alien residents;
+The fatherless boy and the widow he relieves,
+But the way of the wicked ones he makes crooked.
+
+[[v19-146-10]]
+
+^<<v19-146-10,10>>^ Jehovah will be king to time indefinite,
+Your God, O Zion, for generation after generation.
+Praise Jah, YOU people!
+
+'''
+
+xref:019-psalm/019-psalm-145.adoc#v19-145-0[&#60; Capítulo Anterior] | <<v19-146-0,Topo>> | xref:019-psalm/019-psalm-147.adoc#v19-147-0[Próximo Capítulo &#62;]

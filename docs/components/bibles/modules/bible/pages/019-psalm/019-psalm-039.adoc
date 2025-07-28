@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v19-39-0]]
+=== Psalms, 39
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director of Je·duʹthun.^&#42;1^ A melody of David._
+
+[[v19-39-1]]
+
+^<<v19-39-1,1>>^ I said: “I will guard my ways
+To keep from sinning with my tongue.
+I will set a muzzle as a guard to my own mouth,
+As long as anyone wicked is in front of me.”
+
+[[v19-39-2]]
+
+^<<v19-39-2,2>>^ I became speechless with silence;
+I kept quiet from what is good,
+And my being pained was ostracized.
+
+[[v19-39-3]]
+
+^<<v19-39-3,3>>^ My heart grew hot inside me;
+During my sighing the fire kept burning.
+I spoke with my tongue:
+
+[[v19-39-4]]
+
+^<<v19-39-4,4>>^ “Cause me, O Jehovah, to know my end,
+And the measure of my days—what it is,
+That I may know how transient I am.
+
+[[v19-39-5]]
+
+^<<v19-39-5,5>>^ Look! You have made my days just a few;^&#42;1^
+And my life’s duration is as nothing in front of you.
+Surely every earthling man,^&#42;2^ though standing firm, is nothing but an exhalation. Seʹlah.
+
+[NOTE]
+====
+. Lit., “just handbreadths.”
+. “Earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-39-6]]
+
+^<<v19-39-6,6>>^ Surely in a semblance man^&#42;1^ walks about.
+Surely they are boisterous in vain.
+One piles up things and does not know who will be gathering them.
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+====
+
+[[v19-39-7]]
+
+^<<v19-39-7,7>>^ And now for what have I hoped, O Jehovah?^&#42;1^
+My expectation is toward you.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-39-8]]
+
+^<<v19-39-8,8>>^ From all my transgressions deliver me.
+Do not set me as a reproach of the senseless one.
+
+[[v19-39-9]]
+
+^<<v19-39-9,9>>^ I kept speechless; I could not open my mouth,
+For you yourself acted.
+
+[[v19-39-10]]
+
+^<<v19-39-10,10>>^ Remove from off me your plague.
+Due to the hostility of your hand I myself have come to an end.
+
+[[v19-39-11]]
+
+^<<v19-39-11,11>>^ By reproofs against error you have corrected man,^&#42;1^
+And you consume his desirable things just as a moth does.
+Surely every earthling man^&#42;2^ is an exhalation. Seʹlah.
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+. “Earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-39-12]]
+
+^<<v19-39-12,12>>^ Do hear my prayer, O Jehovah,
+And to my cry for help do give ear.
+At my tears do not keep silent.
+For I am but an alien resident with you,
+A settler the same as all my forefathers.
+
+[[v19-39-13]]
+
+^<<v19-39-13,13>>^ Look away from me, that I may brighten up
+Before I go away and I am not.”
+
+'''
+
+xref:019-psalm/019-psalm-038.adoc#v19-38-0[&#60; Capítulo Anterior] | <<v19-39-0,Topo>> | xref:019-psalm/019-psalm-040.adoc#v19-40-0[Próximo Capítulo &#62;]

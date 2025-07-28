@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v9-1-0]]
+=== The First of Samuel, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_or, according to the Greek Septuagint, THE FIRST OF KINGS_
+
+[[v9-1-1]]
+
+^<<v9-1-1,1>>^ Now there happened to be a certain man of Ra·math·aʹim-zoʹphim^&#42;1^ of the mountainous region of Eʹphra·im, and his name was El·kaʹnah, the son of Je·roʹham, the son of E·liʹhu,^&#42;2^ the son of Toʹhu, the son of Zuph, an Eʹphra·im·ite.^&#42;3^
+
+[NOTE]
+====
+. “Of Ramathaim-zophim.” Or, “of Ramah, a Zuphite.” LXX, “of Armathaim-zipha”; Vg, “of Ramathaim-sophim.” See vs 19; 1Ch 6:26, 35.
+. “Elihu,” M; LXX, “Eliou”; MLXX in 1Ch 6:27, “Eliab”; in 1Ch 6:34, “Eliel.”
+. By settlement in the territory of Ephraim, but Elkanah was actually a Levite. See 1Ch 6:19, 22-28.
+====
+
+[[v9-1-2]]
+
+^<<v9-1-2,2>>^ And he had two wives, the name of the one being Hanʹnah, and the name of the other being Pe·ninʹnah. And Pe·ninʹnah came to have children, but Hanʹnah had no children.
+
+[[v9-1-3]]
+
+^<<v9-1-3,3>>^ And that man went up out of his city from year to year^&#42;1^ to prostrate himself and to sacrifice to Jehovah of armies^&#42;2^ in Shiʹloh. And there is where the two sons of Eʹli,^&#42;3^ Hophʹni and Phinʹe·has, were priests to Jehovah.
+
+[NOTE]
+====
+. Lit., “from days to days.” Compare Ex 13:10; Jg 11:40; Jg 21:19.
+. “To Jehovah of armies.” Heb., la·Yhwahʹ tseva·ʼohthʹ; the first occurrence of this expression in M.
+. “The two sons of Eli,” MSyVg; LXX, “Eli and his two sons.”
+====
+
+[[v9-1-4]]
+
+^<<v9-1-4,4>>^ And there came to be a day when El·kaʹnah proceeded to sacrifice, and he gave to Pe·ninʹnah his wife and to all her sons and her daughters portions;
+
+[[v9-1-5]]
+
+^<<v9-1-5,5>>^ but to Hanʹnah he gave one portion. Nonetheless^&#42;1^ it was Hanʹnah that he loved, and, as for Jehovah, he had closed up her womb.
+
+[NOTE]
+====
+. “Nonetheless,” LXX; Vg, “sad, because.”
+====
+
+[[v9-1-6]]
+
+^<<v9-1-6,6>>^ And her rival wife^&#42;1^ also vexed her sorely for the sake of making her feel disconcerted because Jehovah had closed up her womb.
+
+[NOTE]
+====
+. Or, “fellow wife.”
+====
+
+[[v9-1-7]]
+
+^<<v9-1-7,7>>^ And that was the way she^&#42;1^ would do year by year, as often as she^&#42;2^ went up into the house of Jehovah. That was the way she would vex her, so that she would weep and not eat.
+
+[NOTE]
+====
+. “She,” evidently; Sy, “Peninnah”; M, “he.”
+. “She,” MLXXSy; Vg, “they.”
+====
+
+[[v9-1-8]]
+
+^<<v9-1-8,8>>^ And El·kaʹnah her husband proceeded to say to her: “Hanʹnah, why do you weep, and why do you not eat, and why does your heart feel bad? Am I not better to you than ten sons?”
+
+[[v9-1-9]]
+
+^<<v9-1-9,9>>^ Then Hanʹnah got up after they^&#42;1^ had eaten in Shiʹloh^&#42;2^ and after the drinking,^&#42;3^ while Eʹli the priest was sitting upon the seat by the doorpost of the temple^&#42;4^ of Jehovah.
+
+[NOTE]
+====
+. “They,” LXX; M, “she.” This fem. pronoun refers to the party from which Hannah separated herself.
+. “In Shiloh.” Heb., veShi·lohʹ; possibly, by an emendation, “in the hall,” that is, the hall for eating, or the dining chamber.
+. “And after the drinking.” In Heb. the verb here is in the infinitive absolute, indefinite as to time and impersonal. LXX, “and she took her stand before Jehovah.”
+. “Temple of.” Heb., heh·khalʹ; Gr., na·ouʹ; Lat., temʹpli. The first occurrence of this Heb. word. See 2Ki 20:18 and Mt 23:16 ftns.
+====
+
+[[v9-1-10]]
+
+^<<v9-1-10,10>>^ And she was bitter of soul, and she began to pray to Jehovah and to weep greatly.
+
+[[v9-1-11]]
+
+^<<v9-1-11,11>>^ And she went on to make a vow and say: “O Jehovah of armies, if you will without fail look upon the affliction of your slave girl and actually remember me, and you will not forget your slave girl and actually give to your slave girl a male offspring, I will give him to Jehovah all the days of his life, and no razor will come upon his head.”
+
+[[v9-1-12]]
+
+^<<v9-1-12,12>>^ And it occurred that while she prayed extendedly before Jehovah, Eʹli was watching her mouth.
+
+[[v9-1-13]]
+
+^<<v9-1-13,13>>^ As for Hanʹnah, she was speaking in her heart; only her lips were quivering, and her voice was not heard. But Eʹli took her for drunk.
+
+[[v9-1-14]]
+
+^<<v9-1-14,14>>^ So Eʹli said to her: “How long will you behave drunk? Put away your wine from upon you.”
+
+[[v9-1-15]]
+
+^<<v9-1-15,15>>^ At this Hanʹnah answered and said: “No, my lord! A woman hard pressed in spirit I am; and wine and intoxicating liquor I have not drunk, but I pour out my soul before Jehovah.
+
+[[v9-1-16]]
+
+^<<v9-1-16,16>>^ Do not make your slave girl like a good-for-nothing woman,^&#42;1^ for it is out of the abundance of my concern and my vexation that I have spoken until now.”
+
+[NOTE]
+====
+. Lit., “like a daughter of belial (worthlessness).”
+====
+
+[[v9-1-17]]
+
+^<<v9-1-17,17>>^ Then Eʹli answered and said: “Go in peace, and may the God of Israel grant your petition that you have asked of him.”
+
+[[v9-1-18]]
+
+^<<v9-1-18,18>>^ To this she said: “Let your maidservant find favor in your eyes.” And the woman proceeded to go on her way and to eat, and her face became self-concerned no more.
+
+[[v9-1-19]]
+
+^<<v9-1-19,19>>^ Then they got up early in the morning and prostrated themselves before Jehovah, after which they returned and came into their house at Raʹmah. El·kaʹnah now had intercourse with Hanʹnah his wife, and Jehovah began remembering her.
+
+[[v9-1-20]]
+
+^<<v9-1-20,20>>^ So it came about at the rolling around of a year^&#42;1^ that Hanʹnah became pregnant and brought a son to birth and proceeded to call his name Samuel,^&#42;2^ because, said she, “it is from Jehovah that I have asked him.”
+
+[NOTE]
+====
+. Lit., “of the days.” Compare Ex 34:22, referring to the festival of ingathering.
+. See Title ftn.
+====
+
+[[v9-1-21]]
+
+^<<v9-1-21,21>>^ In time the man El·kaʹnah went up with all his household to sacrifice to Jehovah the yearly sacrifice^&#42;1^ and his vow offering.
+
+[NOTE]
+====
+. Lit., “the sacrifice of the days.” Compare vs 3 ftn, “Year.”
+====
+
+[[v9-1-22]]
+
+^<<v9-1-22,22>>^ As for Hanʹnah, she did not go up, for she had said to her husband: “As soon as the boy is weaned, I must bring him, and he must appear before Jehovah and dwell there to time indefinite.”
+
+[[v9-1-23]]
+
+^<<v9-1-23,23>>^ At this El·kaʹnah her husband said to her: “Do what is good in your eyes. Stay at home until you wean him. Only may Jehovah carry out his^&#42;1^ word.” So the woman stayed at home and kept nursing her son until she weaned him.
+
+[NOTE]
+====
+. “His,” MVg; Sy, “your.”
+====
+
+[[v9-1-24]]
+
+^<<v9-1-24,24>>^ Accordingly just as soon as she had weaned him, she brought him up with her, along with a three-year-old bull^&#42;1^ and one eʹphah^&#42;2^ of flour and a large jar of wine, and she proceeded to enter^&#42;3^ the house of Jehovah in Shiʹloh. And the boy was with her.^&#42;4^
+
+[NOTE]
+====
+. “A three-year-old bull,” LXXSy; MVg, “three bulls.”
+. About 22 L (20 dry qt).
+. “Enter,” LXX; MSyVg, “bring him into.”
+. Lit., “And the boy [was] a boy.” Heb., wehan·naʹʽar naʹʽar; LXX, “And the boy was with them”; Vg, “The boy was yet an infant.”
+====
+
+[[v9-1-25]]
+
+^<<v9-1-25,25>>^ Then they^&#42;1^ slaughtered the bull and brought the boy to Eʹli.
+
+[NOTE]
+====
+. “They . . . brought,” MSyVg; LXX, “Anna the mother of the boy brought.”
+====
+
+[[v9-1-26]]
+
+^<<v9-1-26,26>>^ With that she said: “Excuse me, my lord! By the life of your soul, my lord, I am the woman that was standing with you in this place to pray to Jehovah.
+
+[[v9-1-27]]
+
+^<<v9-1-27,27>>^ It was with reference to this boy that I prayed that Jehovah should grant me my petition that I asked of him.
+
+[[v9-1-28]]
+
+^<<v9-1-28,28>>^ And I, in my turn, have lent him^&#42;1^ to Jehovah. All the days that he does happen to be,^&#42;2^ he is one requested for Jehovah.”^&#42;3^
+And he^&#42;4^ proceeded to bow down there to Jehovah.
+
+[NOTE]
+====
+. Lit., “have let [one] ask for him,” that is, borrow him for Jehovah. The same verb is used in 2Ki 4:3; 2Ki 6:5, in the sense of borrowing.
+. “He does happen to be,” M; TLXXSy, “he may be alive.”
+. Or, “one borrowed for (lent to) Jehovah.”
+. “He,” that is, Elkanah. See 2:11.
+====
+
+'''
+
+xref:008-ruth/008-ruth-004.adoc#v8-4-0[&#60; Capítulo Anterior] | <<v9-1-0,Topo>> | xref:009-1-samuel/009-1-samuel-002.adoc#v9-2-0[Próximo Capítulo &#62;]

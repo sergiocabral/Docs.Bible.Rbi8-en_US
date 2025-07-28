@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v6-24-0]]
+=== Joshua, 24
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v6-24-1]]
+
+^<<v6-24-1,1>>^ And Joshua proceeded to assemble all the tribes of Israel together at Sheʹchem^&#42;1^ and to call the older men of Israel and its heads and its judges and its officers, and they went taking their stand before the &#91;true&#93; God.
+
+[NOTE]
+====
+. “Shechem,” MSyVg; LXX, “Shiloh.”
+====
+
+[[v6-24-2]]
+
+^<<v6-24-2,2>>^ And Joshua went on to say to all the people: “This is what Jehovah the God of Israel has said, ‘It was on the other side of the River^&#42;1^ that YOUR forefathers dwelt a long time ago, Teʹrah the father of Abraham and the father of Naʹhor, and they used to serve^&#42;2^ other gods.^&#42;3^
+
+[NOTE]
+====
+. That is, the Euphrates.
+. “And they used to serve (worship).” Heb., wai·ya·ʽav·dhuʹ; Gr., e·laʹtreu·san, “they rendered sacred service.” See Ex 3:12 ftn.
+. “Other gods.” Heb., ʼelo·himʹ ʼache·rimʹ, both pl.
+====
+
+[[v6-24-3]]
+
+^<<v6-24-3,3>>^ “‘In time I took YOUR forefather Abraham from the other side of the River and had him walk through all the land of Caʹnaan and made his seed^&#42;1^ many. So I gave him Isaac.
+
+[NOTE]
+====
+. Or, “offspring.”
+====
+
+[[v6-24-4]]
+
+^<<v6-24-4,4>>^ Then to Isaac I gave Jacob and Eʹsau. Later to Eʹsau I gave Mount Seʹir to take possession of it; and Jacob and his sons went down to Egypt.
+
+[[v6-24-5]]
+
+^<<v6-24-5,5>>^ Later on I sent Moses and Aaron, and I went plaguing Egypt with what^&#42;1^ I did in its midst; and afterward I brought YOU out.
+
+[NOTE]
+====
+. “With what [things],” LXXB; LXXA, “with the signs that”; M, “just as.”
+====
+
+[[v6-24-6]]
+
+^<<v6-24-6,6>>^ When I was bringing YOUR fathers out of Egypt and YOU came to the sea, then the Egyptians went chasing after YOUR fathers with war chariots and cavalrymen to the Red Sea.
+
+[[v6-24-7]]
+
+^<<v6-24-7,7>>^ And they began to cry out to Jehovah. So he placed a darkness between YOU and the Egyptians and brought the sea upon them and covered them, and YOUR eyes got to see what I did in Egypt; and YOU took up dwelling in the wilderness many days.
+
+[[v6-24-8]]
+
+^<<v6-24-8,8>>^ “‘Eventually I brought YOU to the land of the Amʹor·ites who were dwelling on the other side of the Jordan, and they went fighting against YOU. At that I gave them into YOUR hand that YOU might take possession of their land, and I annihilated them from before YOU.
+
+[[v6-24-9]]
+
+^<<v6-24-9,9>>^ Then Baʹlak the son of Zipʹpor, the king of Moʹab, got up and went fighting against Israel. So he sent and summoned Baʹlaam the son of Beʹor to call down evil upon YOU.
+
+[[v6-24-10]]
+
+^<<v6-24-10,10>>^ And I did not want to listen to Baʹlaam. Consequently he blessed YOU repeatedly. Thus I delivered YOU out of his hand.
+
+[[v6-24-11]]
+
+^<<v6-24-11,11>>^ “‘Then YOU went crossing the Jordan and came to Jerʹi·cho. And the landowners^&#42;1^ of Jerʹi·cho, the Amʹor·ites and the Perʹiz·zites and the Caʹnaan·ites and the Hitʹtites and the Girʹga·shites, the Hiʹvites and the Jebʹu·sites began fighting against YOU; but I gave them into YOUR hand.
+
+[NOTE]
+====
+. “The landowners of.” Heb., ba·ʽalehʹ; LXX, “inhabitants.”
+====
+
+[[v6-24-12]]
+
+^<<v6-24-12,12>>^ So I sent the feeling of dejection^&#42;1^ ahead of YOU, and it gradually drove them out before YOU—two kings of the Amʹor·ites—not with your sword and not with your bow.
+
+[NOTE]
+====
+. The expression ‘to send the feeling of dejection’ is also found in Ex 23:28 and De 7:20. See Ex 23:28 ftn.
+====
+
+[[v6-24-13]]
+
+^<<v6-24-13,13>>^ Thus I gave YOU a land for which YOU had not toiled and cities that YOU had not built, and YOU took up dwelling in them. Vineyards and olive groves that YOU did not plant are what YOU are eating.’
+
+[[v6-24-14]]
+
+^<<v6-24-14,14>>^ “And now fear Jehovah and serve him in faultlessness and in truth, and remove the gods that YOUR forefathers served on the other side of the River and in Egypt, and serve Jehovah.
+
+[[v6-24-15]]
+
+^<<v6-24-15,15>>^ Now if it is bad in YOUR eyes to serve Jehovah, choose for yourselves today whom YOU will serve, whether the gods that YOUR forefathers who were on the other side of the River^&#42;1^ served or the gods of the Amʹor·ites in whose land YOU are dwelling. But as for me and my household, we shall serve Jehovah.”
+
+[NOTE]
+====
+. That is, east of the Euphrates River.
+====
+
+[[v6-24-16]]
+
+^<<v6-24-16,16>>^ At this the people answered and said: “It is unthinkable, on our part, to leave Jehovah so as to serve other gods.
+
+[[v6-24-17]]
+
+^<<v6-24-17,17>>^ For it is Jehovah our God who brought us and our fathers up out of the land of Egypt, out of the house of slaves, and who performed these great signs before our eyes and who kept guarding us in all the way in which we walked and among all the peoples through the midst of whom we passed.
+
+[[v6-24-18]]
+
+^<<v6-24-18,18>>^ And Jehovah proceeded to drive out all the peoples, even the Amʹor·ites, dwelling in the land from before us. As for us, too, we shall serve Jehovah, because he is our God.”
+
+[[v6-24-19]]
+
+^<<v6-24-19,19>>^ Then Joshua said to the people: “YOU are not able to serve Jehovah, for he is a holy God;^&#42;1^ he is a God^&#42;2^ exacting exclusive devotion. He will not pardon YOUR revolting and YOUR sins.
+
+[NOTE]
+====
+. Lit., “He [is] a holy God.” Heb., ʼElo·himʹ qedho·shimʹ huʼ. Although modified by a pl. adjective, the sing. pronoun huʼ shows ʼElo·himʹ is pl. to denote majesty and excellence, hence, sing. in sense. Gr., The·osʹ; Lat., Deʹus.
+. “God.” Heb., ʼEl. See 22:22 ftn, “Jehovah.”
+====
+
+[[v6-24-20]]
+
+^<<v6-24-20,20>>^ In case YOU should leave Jehovah and YOU do serve foreign gods,^&#42;1^ he also will certainly turn back and do YOU injury and exterminate YOU after he has done YOU good.”
+
+[NOTE]
+====
+. “Foreign gods.” Lit., “gods of a foreign (country).”
+====
+
+[[v6-24-21]]
+
+^<<v6-24-21,21>>^ In turn the people said to Joshua: “No, but Jehovah we shall serve!”
+
+[[v6-24-22]]
+
+^<<v6-24-22,22>>^ At this Joshua said to the people: “YOU are witnesses against yourselves that YOU of YOUR own accord have chosen Jehovah for yourselves, to serve him.” To this they said: “We are witnesses.”
+
+[[v6-24-23]]
+
+^<<v6-24-23,23>>^ “And now remove the foreign gods that are among YOU, and incline YOUR hearts to Jehovah the God of Israel.”
+
+[[v6-24-24]]
+
+^<<v6-24-24,24>>^ In turn the people said to Joshua: “Jehovah our God we shall serve, and to his voice we shall listen!”
+
+[[v6-24-25]]
+
+^<<v6-24-25,25>>^ And Joshua proceeded to conclude a covenant with the people on that day and to constitute for them a regulation and judicial decision in Sheʹchem.^&#42;1^
+
+[NOTE]
+====
+. “Shechem,” MSyVg; LXX, “Shiloh.”
+====
+
+[[v6-24-26]]
+
+^<<v6-24-26,26>>^ Then Joshua wrote these words in the book of God’s law and took a great stone and set it up there under the massive tree that is by the sanctuary of Jehovah.
+
+[[v6-24-27]]
+
+^<<v6-24-27,27>>^ And Joshua went on to say to all the people: “Look! This stone is what will serve as a witness against us, because it has itself heard all the sayings of Jehovah that he has spoken with us, and it must serve as a witness against YOU, that YOU may not deny YOUR God.”
+
+[[v6-24-28]]
+
+^<<v6-24-28,28>>^ With that Joshua sent the people away, each one to his inheritance.
+
+[[v6-24-29]]
+
+^<<v6-24-29,29>>^ And it came about that after these things Joshua the son of Nun, the servant of Jehovah, gradually died at the age of a hundred and ten years.
+
+[[v6-24-30]]
+
+^<<v6-24-30,30>>^ So they buried him in the territory of his inheritance in Timʹnath-seʹrah, which is in the mountainous region of Eʹphra·im, north of Mount Gaʹash.
+
+[[v6-24-31]]
+
+^<<v6-24-31,31>>^ And Israel continued to serve Jehovah all the days of Joshua and all the days of the older men who extended their days after Joshua and who had known all the work of Jehovah that he did for Israel.
+
+[[v6-24-32]]
+
+^<<v6-24-32,32>>^ And Joseph’s bones, which the sons of Israel had brought up out of Egypt, they buried in Sheʹchem in the tract of the field that Jacob had acquired from the sons of Haʹmor, Sheʹchem’s father, for a hundred pieces of money;^&#42;1^ and it^&#42;2^ came to belong to the sons of Joseph as an inheritance.
+
+[NOTE]
+====
+. “Pieces of money.” Heb., qesi·tahʹ, the value of which is uncertain.
+. “It,” SyVg; M, “they.”
+====
+
+[[v6-24-33]]
+
+^<<v6-24-33,33>>^ Also, El·e·aʹzar the son of Aaron died. So they buried him in the Hill of Phinʹe·has^&#42;1^ his son, which he had given him in the mountainous region of Eʹphra·im.
+
+[NOTE]
+====
+. Or, “in Gibeah of Phinehas”; in agreement with LXXVg.
+====
+
+'''
+
+xref:006-joshua/006-joshua-023.adoc#v6-23-0[&#60; Capítulo Anterior] | <<v6-24-0,Topo>> | xref:007-judges/007-judges-001.adoc#v7-1-0[Próximo Capítulo &#62;]

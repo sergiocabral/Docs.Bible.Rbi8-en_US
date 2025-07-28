@@ -1,0 +1,152 @@
+include::./index.adoc[]
+
+[[v18-4-0]]
+=== Job, 4
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-4-1]]
+
+^<<v18-4-1,1>>^ And Elʹi·phaz the Teʹman·ite proceeded to reply and say:
+
+[[v18-4-2]]
+
+^<<v18-4-2,2>>^ “If one does try out a word^&#42;1^ to you, will you become weary?
+But to put a restraint on words who is able?
+
+[NOTE]
+====
+. “Word.” Heb., dha·varʹ, used 20 times in Job.
+====
+
+[[v18-4-3]]
+
+^<<v18-4-3,3>>^ Look! You have corrected many,
+And the weak hands you used to strengthen.
+
+[[v18-4-4]]
+
+^<<v18-4-4,4>>^ Anyone stumbling, your words^&#42;1^ would raise up;
+And knees giving way you would make firm.
+
+[NOTE]
+====
+. “Your words.” Heb., mil·leyʹkha, used 34 times in Job and only 4 times in other books.
+====
+
+[[v18-4-5]]
+
+^<<v18-4-5,5>>^ But this time it comes to you, and you become weary;
+It touches even you, and you get disturbed.
+
+[[v18-4-6]]
+
+^<<v18-4-6,6>>^ Is not your reverence &#91;the basis of&#93; your confidence?
+Is not your hope even the integrity of your ways?
+
+[[v18-4-7]]
+
+^<<v18-4-7,7>>^ Remember, please: Who that is innocent has ever perished?
+And where have the upright ever been effaced?
+
+[[v18-4-8]]
+
+^<<v18-4-8,8>>^ According to what I have seen, those devising what is hurtful
+And those sowing trouble will themselves reap it.
+
+[[v18-4-9]]
+
+^<<v18-4-9,9>>^ Through the breath of God they perish,
+And through the spirit of his anger they come to an end.
+
+[[v18-4-10]]
+
+^<<v18-4-10,10>>^ There is the roaring of a lion,^&#42;1^ and the voice of a young lion,
+But the teeth of maned young lions do get broken down.
+
+[NOTE]
+====
+. Heb., ʼar·yehʹ. An African lion.
+====
+
+[[v18-4-11]]
+
+^<<v18-4-11,11>>^ A lion is perishing from there being no prey,
+And the cubs of a lion^&#42;1^ are separated from one another.
+
+[NOTE]
+====
+. Heb., la·viʼʹ. An Asian lion.
+====
+
+[[v18-4-12]]
+
+^<<v18-4-12,12>>^ Now to me a word was stealthily brought,
+And my ear proceeded to get a whisper of it,
+
+[[v18-4-13]]
+
+^<<v18-4-13,13>>^ In disquieting thoughts from visions of the night,
+When deep sleep falls upon men.
+
+[[v18-4-14]]
+
+^<<v18-4-14,14>>^ A dread came over me, and a trembling,
+And the multitude of my bones it filled with dread.
+
+[[v18-4-15]]
+
+^<<v18-4-15,15>>^ And a spirit itself went passing over my face;
+The hair of my flesh began to bristle.
+
+[[v18-4-16]]
+
+^<<v18-4-16,16>>^ It began to stand still,
+But I did not recognize its appearance;
+A form was in front of my eyes;
+There was a calm, and I now heard a voice:
+
+[[v18-4-17]]
+
+^<<v18-4-17,17>>^ ‘Mortal man^&#42;1^—can he be more just than God^&#42;2^ himself?
+Or can able-bodied man be cleaner than his own Maker?’
+
+[NOTE]
+====
+. “Mortal man.” Heb., ha·ʼenohshʹ.
+. “Than God.” Heb., me·ʼElohʹah.
+====
+
+[[v18-4-18]]
+
+^<<v18-4-18,18>>^ Look! In his servants he has no faith,
+And his messengers^&#42;1^ he charges with faultiness.
+
+[NOTE]
+====
+. Or, “angels.”
+====
+
+[[v18-4-19]]
+
+^<<v18-4-19,19>>^ How much more so with those dwelling in houses of clay,
+Whose foundation is in the dust!
+One crushes them^&#42;1^ more quickly than a moth.
+
+[NOTE]
+====
+. Or, “They are crushed.”
+====
+
+[[v18-4-20]]
+
+^<<v18-4-20,20>>^ From morning to evening they are crushed to pieces;
+Without anyone’s taking &#91;it to heart&#93; they perish forever.
+
+[[v18-4-21]]
+
+^<<v18-4-21,21>>^ Has not their tent cord within them been pulled out?
+They die for lack of wisdom.
+
+'''
+
+xref:018-job/018-job-003.adoc#v18-3-0[&#60; Capítulo Anterior] | <<v18-4-0,Topo>> | xref:018-job/018-job-005.adoc#v18-5-0[Próximo Capítulo &#62;]

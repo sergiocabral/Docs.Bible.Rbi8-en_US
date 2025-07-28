@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v2-1-0]]
+=== Exodus, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-1-1]]
+
+^<<v2-1-1,1>>^ Now these are the names^&#42;1^ of Israel’s sons who came into Egypt with Jacob; each man and his household came:
+
+[NOTE]
+====
+. “Now these are the names.” Heb., Weʼelʹleh shemohthʹ. In Heb. this second book of the Bible is named after these opening words; sometimes shortened to Shemohthʹ. LXXVg name this book “Exodus” (Gr., Eʹxo·dos; Lat., Exʹo·dus).
+====
+
+[[v2-1-2]]
+
+^<<v2-1-2,2>>^ Reuʹben, Simʹe·on, Leʹvi and Judah,
+
+[[v2-1-3]]
+
+^<<v2-1-3,3>>^ Isʹsa·char, Zebʹu·lun and Benjamin,
+
+[[v2-1-4]]
+
+^<<v2-1-4,4>>^ Dan and Naphʹta·li, Gad and Ashʹer.
+
+[[v2-1-5]]
+
+^<<v2-1-5,5>>^ And all the souls who issued out of Jacob’s upper thigh came to be seventy souls,^&#42;1^ but Joseph was already in Egypt.
+
+[NOTE]
+====
+. “Seventy souls,” MVg; LXX, “seventy-five.” See Ge 46:20, 27 ftns.
+====
+
+[[v2-1-6]]
+
+^<<v2-1-6,6>>^ Eventually Joseph died, and also all his brothers and all that generation.
+
+[[v2-1-7]]
+
+^<<v2-1-7,7>>^ And the sons of Israel became fruitful and began to swarm; and they kept on multiplying and growing mightier at a very extraordinary rate, so that the land got to be filled with them.
+
+[[v2-1-8]]
+
+^<<v2-1-8,8>>^ In time there arose over Egypt a new king who did not know Joseph.
+
+[[v2-1-9]]
+
+^<<v2-1-9,9>>^ And he proceeded to say to his people: “Look! The people of the sons of Israel are more numerous and mightier than we are.
+
+[[v2-1-10]]
+
+^<<v2-1-10,10>>^ Come on! Let us deal shrewdly with them,^&#42;1^ for fear they may multiply, and it must turn out that, in case war should befall us,^&#42;2^ then they certainly will also be added to those who hate us and will fight against us and go up out of the country.”
+
+[NOTE]
+====
+. Lit., “him,” or, “it,” that is, the Israelite people.
+. “Us,” SamLXXSyVg; M omits.
+====
+
+[[v2-1-11]]
+
+^<<v2-1-11,11>>^ So they set over them chiefs of forced labor for the purpose of oppressing them in their burden-bearing; and they went building cities as storage places for Pharʹaoh, namely, Piʹthom and Ra·amʹses.
+
+[[v2-1-12]]
+
+^<<v2-1-12,12>>^ But the more they would oppress them, the more they would multiply and the more they kept spreading abroad, so that they felt a sickening dread as a result of the sons of Israel.
+
+[[v2-1-13]]
+
+^<<v2-1-13,13>>^ Consequently the Egyptians made the sons of Israel slave under tyranny.
+
+[[v2-1-14]]
+
+^<<v2-1-14,14>>^ And they kept making their life bitter with hard slavery at clay mortar and bricks^&#42;1^ and with every form of slavery in the field, yes, every form of slavery of theirs in which they used them as slaves under tyranny.
+
+[NOTE]
+====
+. That is, sun-dried bricks.
+====
+
+[[v2-1-15]]
+
+^<<v2-1-15,15>>^ Later on the king of Egypt said to the Hebrew midwives, the name of one of whom was Shiphʹrah and the name of the other Puʹah,
+
+[[v2-1-16]]
+
+^<<v2-1-16,16>>^ yes, he went so far as to say: “When YOU help the Hebrew women to give birth and YOU do see them on the stool for childbirth, if it is a son, YOU must also put it to death; but if it is a daughter, it must also live.”
+
+[[v2-1-17]]
+
+^<<v2-1-17,17>>^ However, the midwives feared the &#91;true&#93; God, and they did not do as the king of Egypt had spoken to them, but they would preserve the male children alive.
+
+[[v2-1-18]]
+
+^<<v2-1-18,18>>^ In time the king of Egypt called the midwives and said to them: “Why is it YOU have done this thing, in that YOU preserved the male children alive?”
+
+[[v2-1-19]]
+
+^<<v2-1-19,19>>^ In turn the midwives said to Pharʹaoh: “Because the Hebrew women are not like the Egyptian women. Because they are lively, they have already given birth before the midwife can come in to them.”
+
+[[v2-1-20]]
+
+^<<v2-1-20,20>>^ So God dealt well with the midwives; and the people kept growing more numerous and becoming very mighty.
+
+[[v2-1-21]]
+
+^<<v2-1-21,21>>^ And it came about that because the midwives had feared the &#91;true&#93; God he later presented them with families.^&#42;1^
+
+[NOTE]
+====
+. Lit., “and he made houses for them.”
+====
+
+[[v2-1-22]]
+
+^<<v2-1-22,22>>^ Finally Pharʹaoh commanded all his people, saying: “Every newborn son YOU are to throw into the river Nile, but every daughter YOU are to preserve alive.”
+
+'''
+
+xref:001-genesis/001-genesis-050.adoc#v1-50-0[&#60; Capítulo Anterior] | <<v2-1-0,Topo>> | xref:002-exodus/002-exodus-002.adoc#v2-2-0[Próximo Capítulo &#62;]

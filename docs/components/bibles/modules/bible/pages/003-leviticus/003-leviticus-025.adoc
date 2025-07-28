@@ -1,0 +1,285 @@
+include::./index.adoc[]
+
+[[v3-25-0]]
+=== Leviticus, 25
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-25-1]]
+
+^<<v3-25-1,1>>^ And Jehovah spoke further to Moses in Mount Siʹnai, saying:
+
+[[v3-25-2]]
+
+^<<v3-25-2,2>>^ “Speak to the sons of Israel, and you must say to them, ‘When YOU eventually come into the land that I am giving YOU, then the land must observe a sabbath to Jehovah.
+
+[[v3-25-3]]
+
+^<<v3-25-3,3>>^ Six years you should sow your field with seed, and six years you should prune your vineyard, and you must gather the land’s produce.
+
+[[v3-25-4]]
+
+^<<v3-25-4,4>>^ But in the seventh year there should occur a sabbath of complete rest for the land, a sabbath to Jehovah. Your field you must not sow with seed, and your vineyard you must not prune.
+
+[[v3-25-5]]
+
+^<<v3-25-5,5>>^ The growth from spilled kernels of your harvest you must not reap, and the grapes of your unpruned vine you must not gather. There should occur a year of complete rest for the land.
+
+[[v3-25-6]]
+
+^<<v3-25-6,6>>^ And the sabbath of the land must serve YOU people for food, for you and your slave man and your slave girl and your hired laborer and the settler with you, those who are residing as aliens with you,
+
+[[v3-25-7]]
+
+^<<v3-25-7,7>>^ and for your domestic animal and for the wild beast that is in your land. All its produce should serve for eating.
+
+[[v3-25-8]]
+
+^<<v3-25-8,8>>^ “‘And you must count for yourself seven sabbaths^&#42;1^ of years, seven times seven years, and the days of the seven sabbaths of years^&#42;2^ must amount to forty-nine years for you.
+
+[NOTE]
+====
+. “Sabbaths of.” Heb., shab·bethothʹ; Lat., eb·doʹma·des, “weeks.”
+. “Sabbaths of years.” Gr., he·bdo·maʹdes e·tonʹ, “weeks of years.” Compare Da 9:24 ftn, “Weeks.”
+====
+
+[[v3-25-9]]
+
+^<<v3-25-9,9>>^ And you must cause the horn^&#42;1^ of loud tone to sound^&#42;2^ in the seventh month on the tenth of the month; on the day of atonement YOU people should cause the horn to sound in all YOUR land.
+
+[NOTE]
+====
+. “Horn of.” Heb., shoh·pharʹ.
+. Lit., “to pass.”
+====
+
+[[v3-25-10]]
+
+^<<v3-25-10,10>>^ And YOU must sanctify^&#42;1^ the fiftieth year and proclaim liberty^&#42;2^ in the land to all its inhabitants. It will become a Jubilee^&#42;3^ for YOU, and YOU must return each one to his possession and YOU should return each one to his family.
+
+[NOTE]
+====
+. Or, “make (hold) sacred.”
+. Or, “release; manumission [of slaves].”
+. “Jubilee.” Heb., yoh·velʹ; Vgc(Lat.), iu·bi·laeʹus; LXX, “year of release.” In Ex 19:13 yoh·velʹ is rendered “ram’s horn.”
+====
+
+[[v3-25-11]]
+
+^<<v3-25-11,11>>^ A Jubilee is what that fiftieth year will become for YOU. YOU must not sow seed nor reap the land’s growth from spilled kernels nor gather the grapes of its unpruned vines.
+
+[[v3-25-12]]
+
+^<<v3-25-12,12>>^ For it is a Jubilee. It should become something holy to YOU. From the field YOU may eat what the land produces.
+
+[[v3-25-13]]
+
+^<<v3-25-13,13>>^ “‘In this year of the Jubilee YOU should return each one to his possession.
+
+[[v3-25-14]]
+
+^<<v3-25-14,14>>^ Now in case YOU should sell merchandise to your associate or be buying^&#42;1^ from your associate’s hand, do not YOU wrong one another.
+
+[NOTE]
+====
+. “Be buying.” In Heb. this is a verb in the infinitive absolute. Compare Ex 20:8 ftn.
+====
+
+[[v3-25-15]]
+
+^<<v3-25-15,15>>^ By the number of the years after the Jubilee you should buy from your associate; by the number of the years of the crops he should sell to you.
+
+[[v3-25-16]]
+
+^<<v3-25-16,16>>^ In proportion to the great number of years he should increase its purchase value, and in proportion to the fewness of years he should reduce its purchase value, because the number of the crops is what he is selling to you.
+
+[[v3-25-17]]
+
+^<<v3-25-17,17>>^ And YOU must not wrong anyone his associate, and you must be in fear of your God, because I am Jehovah^&#42;1^ YOUR God.
+
+[NOTE]
+====
+. Heb., Yeho·wahʹ. See App 1A.
+====
+
+[[v3-25-18]]
+
+^<<v3-25-18,18>>^ So YOU must carry out my statutes and YOU should keep my judicial decisions and YOU must carry them out. Then YOU will certainly dwell on the land in security.
+
+[[v3-25-19]]
+
+^<<v3-25-19,19>>^ And the land will indeed give its fruitage, and YOU will certainly eat to satisfaction and dwell in security on it.
+
+[[v3-25-20]]
+
+^<<v3-25-20,20>>^ “‘But in case YOU should say: “What are we going to eat in the seventh year seeing that we may not sow seed or gather our crops?”
+
+[[v3-25-21]]
+
+^<<v3-25-21,21>>^ in that case I shall certainly command my blessing for YOU in the sixth year, and it must yield its crop for three years.
+
+[[v3-25-22]]
+
+^<<v3-25-22,22>>^ And YOU must sow seed the eighth year and YOU must eat from the old crop until the ninth year. Until the coming of its crop YOU will eat the old.
+
+[[v3-25-23]]
+
+^<<v3-25-23,23>>^ “‘So the land should not be sold in perpetuity, because the land is mine. For YOU are alien residents and settlers from my standpoint.
+
+[[v3-25-24]]
+
+^<<v3-25-24,24>>^ And in all the land of YOUR possession YOU should grant to the land the right of buying back.
+
+[[v3-25-25]]
+
+^<<v3-25-25,25>>^ “‘In case your brother grows poor and has to sell some of his possession, a repurchaser closely related to him must also come and buy back what his brother sold.
+
+[[v3-25-26]]
+
+^<<v3-25-26,26>>^ And in case anyone proves to have no repurchaser and his own hand does make gain and he does find enough for its repurchase,
+
+[[v3-25-27]]
+
+^<<v3-25-27,27>>^ he must also calculate the years from when he sold it and he must return what money remains over to the man to whom he made the sale, and he must return to his possession.
+
+[[v3-25-28]]
+
+^<<v3-25-28,28>>^ “‘But if his hand does not find enough to give back to him, what he sold must also continue in the hand of its purchaser until the Jubilee year; and it must go out in the Jubilee, and he must return to his possession.
+
+[[v3-25-29]]
+
+^<<v3-25-29,29>>^ “‘Now in case a man should sell a dwelling house in a walled city, his right of repurchase must also continue till the year from the time of his sale finishes out; his right of repurchase should continue a whole year.^&#42;1^
+
+[NOTE]
+====
+. Lit., “days.” Compare vs 30.
+====
+
+[[v3-25-30]]
+
+^<<v3-25-30,30>>^ But if it should not be bought back before the complete year has come to the full for him, the house that is in the city that has a wall must also stand in perpetuity as the property of its purchaser during his generations. It should not go out in the Jubilee.
+
+[[v3-25-31]]
+
+^<<v3-25-31,31>>^ However, the houses of settlements that have no wall about them should be accounted as part of the field of the country. Right of repurchase should continue for it, and in the Jubilee it should go out.
+
+[[v3-25-32]]
+
+^<<v3-25-32,32>>^ “‘As for cities of the Levites with the houses of the cities of their possession, the right of repurchase should continue to time indefinite for the Levites.
+
+[[v3-25-33]]
+
+^<<v3-25-33,33>>^ And where property of the Levites is not bought back,^&#42;1^ the house sold in the city^&#42;2^ of his possession must also go out in the Jubilee; because the houses of the cities of the Levites are their possession in the midst of the sons of Israel.
+
+[NOTE]
+====
+. “Not bought back,” Vg, which agrees with the sense of this passage; MSam omit “not.”
+. “The house sold in the city,” in agreement with LXX; M, “the sale of the house and the city.”
+====
+
+[[v3-25-34]]
+
+^<<v3-25-34,34>>^ Moreover, the field of pasture ground of their cities may not be sold, because it is a possession to time indefinite for them.
+
+[[v3-25-35]]
+
+^<<v3-25-35,35>>^ “‘And in case your brother grows poor and so he is financially weak^&#42;1^ alongside you, you must also sustain him. As an alien resident and a settler, he must keep alive with you.
+
+[NOTE]
+====
+. Lit., “and his hand has tottered.”
+====
+
+[[v3-25-36]]
+
+^<<v3-25-36,36>>^ Do not take interest and usury from him, but you must be in fear of your God; and your brother must keep alive with you.
+
+[[v3-25-37]]
+
+^<<v3-25-37,37>>^ You must not give him your money on interest, and you must not give your food out on usury.
+
+[[v3-25-38]]
+
+^<<v3-25-38,38>>^ I am Jehovah YOUR God, who brought YOU out of the land of Egypt to give YOU the land of Caʹnaan, to prove myself YOUR God.
+
+[[v3-25-39]]
+
+^<<v3-25-39,39>>^ “‘And in case your brother grows poor alongside you and he has to sell himself to you, you must not use him as a worker in slavish service.
+
+[[v3-25-40]]
+
+^<<v3-25-40,40>>^ He should prove to be with you like a hired laborer, like a settler. He should serve with you till the Jubilee year.
+
+[[v3-25-41]]
+
+^<<v3-25-41,41>>^ And he must go out from you, he and his sons with him, and he must return to his family, and he should return to the possession of his forefathers.
+
+[[v3-25-42]]
+
+^<<v3-25-42,42>>^ For they are my slaves whom I brought out of the land of Egypt. They must not sell themselves the way a slave is sold.
+
+[[v3-25-43]]
+
+^<<v3-25-43,43>>^ You must not tread down upon him with tyranny, and you must be in fear of your God.
+
+[[v3-25-44]]
+
+^<<v3-25-44,44>>^ As for your slave man and your slave girl who become yours from the nations that are round about YOU people, from them YOU may buy a slave man and a slave girl.
+
+[[v3-25-45]]
+
+^<<v3-25-45,45>>^ And also from the sons of the settlers who are residing as aliens with YOU, from them YOU may buy, and from their families that are with YOU whom they had born to them in YOUR land; and they must become YOUR possession.
+
+[[v3-25-46]]
+
+^<<v3-25-46,46>>^ And YOU must pass them on as an inheritance to YOUR sons after YOU to inherit as a possession to time indefinite. YOU may use them as workers, but upon YOUR brothers the sons of Israel, you must not tread, the one upon the other, with tyranny.
+
+[[v3-25-47]]
+
+^<<v3-25-47,47>>^ “‘But in case the hand of the alien resident or the settler with you becomes wealthy, and your brother has become poor alongside him and must sell himself to the alien resident or the settler^&#42;1^ with you, or to a member of the family of the alien resident,
+
+[NOTE]
+====
+. “The alien resident or the settler,” SamLXXSy and ten Heb. mss; M omits “or.”
+====
+
+[[v3-25-48]]
+
+^<<v3-25-48,48>>^ after he has sold himself, the right of repurchase will continue in his case. One of his brothers may buy him back.
+
+[[v3-25-49]]
+
+^<<v3-25-49,49>>^ Or his uncle or the son of his uncle may buy him back, or any blood relative of his flesh, one of his family, may buy him back.
+“‘Or if his own hand has become wealthy, he must also buy himself back.
+
+[[v3-25-50]]
+
+^<<v3-25-50,50>>^ And he must reckon with his purchaser from the year he sold himself to him till the Jubilee year, and the money of his sale must correspond with the number of years. The way workdays of a hired laborer are reckoned he should continue^&#42;1^ with him.
+
+[NOTE]
+====
+. That is, continue in service.
+====
+
+[[v3-25-51]]
+
+^<<v3-25-51,51>>^ If there are yet many years, he should in proportion to them pay his repurchase price over from the money of his purchase.
+
+[[v3-25-52]]
+
+^<<v3-25-52,52>>^ But if only a few remain of the years until the Jubilee year, he must then make a calculation for himself. In proportion to the years of his he should pay over his repurchase price.
+
+[[v3-25-53]]
+
+^<<v3-25-53,53>>^ He should continue with him like a hired laborer from year to year. He may not tread him down with tyranny before your eyes.
+
+[[v3-25-54]]
+
+^<<v3-25-54,54>>^ However, if he cannot buy himself back on these terms, he must then go out in the year of Jubilee, he and his sons with him.
+
+[[v3-25-55]]
+
+^<<v3-25-55,55>>^ “‘For to me the sons of Israel are slaves. They are my slaves whom I brought out of the land of Egypt. I am Jehovah YOUR God.
+
+'''
+
+xref:003-leviticus/003-leviticus-024.adoc#v3-24-0[&#60; Capítulo Anterior] | <<v3-25-0,Topo>> | xref:003-leviticus/003-leviticus-026.adoc#v3-26-0[Próximo Capítulo &#62;]

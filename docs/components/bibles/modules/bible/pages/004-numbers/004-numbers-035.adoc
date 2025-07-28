@@ -1,0 +1,190 @@
+include::./index.adoc[]
+
+[[v4-35-0]]
+=== Numbers, 35
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-35-1]]
+
+^<<v4-35-1,1>>^ And Jehovah went on to speak to Moses on the desert plains of Moʹab by the Jordan at Jerʹi·cho, saying:
+
+[[v4-35-2]]
+
+^<<v4-35-2,2>>^ “Give the sons of Israel the command that they must give the Levites cities to inhabit out of the inheritance of their possession, and they should give the Levites the pasture ground of the cities all around them.
+
+[[v4-35-3]]
+
+^<<v4-35-3,3>>^ And the cities must serve for them to inhabit, while their pasture grounds will serve for their domestic animals and their goods and for all their wild beasts.
+
+[[v4-35-4]]
+
+^<<v4-35-4,4>>^ And the pasture grounds of the cities, which YOU will give the Levites, will be from the wall of the city and out for a thousand^&#42;1^ cubits all around.
+
+[NOTE]
+====
+. “A thousand,” MSamSyVg; LXX, “two thousand.”
+====
+
+[[v4-35-5]]
+
+^<<v4-35-5,5>>^ And YOU must measure outside the city on the east side two thousand cubits and on the south side two thousand cubits and on the west side two thousand cubits and on the north side two thousand cubits, with the city in the middle. This will serve them as pasture grounds of the cities.
+
+[[v4-35-6]]
+
+^<<v4-35-6,6>>^ “These are the cities that YOU will give to the Levites: six cities of refuge, which YOU will give for the manslayer^&#42;1^ to flee there, and besides them YOU will give forty-two other cities.
+
+[NOTE]
+====
+. Or, “murderer.”
+====
+
+[[v4-35-7]]
+
+^<<v4-35-7,7>>^ All the cities that YOU will give to the Levites will be forty-eight cities, they together with their pasture grounds.
+
+[[v4-35-8]]
+
+^<<v4-35-8,8>>^ The cities that YOU will give will be from the possession of the sons of Israel. From the many YOU will take many, and from the few YOU will take few. Each one, in proportion to his inheritance that he will take as a possession, will give some of his cities to the Levites.”
+
+[[v4-35-9]]
+
+^<<v4-35-9,9>>^ And Jehovah continued to speak to Moses, saying:
+
+[[v4-35-10]]
+
+^<<v4-35-10,10>>^ “Speak to the sons of Israel, and you must say to them, ‘YOU are crossing the Jordan to the land of Caʹnaan.
+
+[[v4-35-11]]
+
+^<<v4-35-11,11>>^ And YOU must choose cities convenient for yourselves. As cities of refuge they will serve for YOU, and the manslayer must flee there who fatally strikes a soul unintentionally.
+
+[[v4-35-12]]
+
+^<<v4-35-12,12>>^ And the cities must serve YOU as a refuge from the blood avenger,^&#42;1^ that the manslayer may not die until he stands before the assembly for judgment.
+
+[NOTE]
+====
+. Or, “the goel,” MSam; TLXXSyIt, “the avenger of blood.”
+====
+
+[[v4-35-13]]
+
+^<<v4-35-13,13>>^ And the cities that YOU will give, the six cities of refuge, will be at YOUR service.
+
+[[v4-35-14]]
+
+^<<v4-35-14,14>>^ Three cities YOU will give on this side of the Jordan, and three cities YOU will give in the land of Caʹnaan. As cities of refuge they will serve.
+
+[[v4-35-15]]
+
+^<<v4-35-15,15>>^ For the sons of Israel and for the alien resident and for the settler in the midst of them these six cities will serve as a refuge, for anyone to flee there that fatally strikes a soul unintentionally.
+
+[[v4-35-16]]
+
+^<<v4-35-16,16>>^ “‘Now if it was with an instrument of iron that he has struck him so that he dies, he is a murderer. Without fail the murderer should be put to death.
+
+[[v4-35-17]]
+
+^<<v4-35-17,17>>^ And if it was with a small stone^&#42;1^ by which he could die that he has struck him so that he dies, he is a murderer. Without fail the murderer should be put to death.
+
+[NOTE]
+====
+. Lit., “a stone of hand.”
+====
+
+[[v4-35-18]]
+
+^<<v4-35-18,18>>^ And if^&#42;1^ it was with a small instrument of wood by which he could die that he has struck him so that he dies, he is a murderer. Without fail the murderer should be put to death.
+
+[NOTE]
+====
+. “And if,” SamLXXSy and some Heb. mss; M, “Or.”
+====
+
+[[v4-35-19]]
+
+^<<v4-35-19,19>>^ “‘The avenger of blood is the one who will put the murderer to death. When he chances upon him he himself will put him to death.
+
+[[v4-35-20]]
+
+^<<v4-35-20,20>>^ And if in hatred he was pushing him or he has thrown at him while lying in wait^&#42;1^ that he might die,
+
+[NOTE]
+====
+. Or, “at him with malicious intent.”
+====
+
+[[v4-35-21]]
+
+^<<v4-35-21,21>>^ or in enmity he has struck him with his hand that he might die, without fail the striker should be put to death. He is a murderer. The avenger of blood will put the murderer to death when he chances upon him.
+
+[[v4-35-22]]
+
+^<<v4-35-22,22>>^ “‘But if it was unexpectedly without enmity that he has pushed him or has thrown any article toward him without lying in wait,^&#42;1^
+
+[NOTE]
+====
+. Or, “without malicious intent.”
+====
+
+[[v4-35-23]]
+
+^<<v4-35-23,23>>^ or any stone by which he could die without seeing him or he should cause it to fall upon him, so that he died, while he was not at enmity with him and was not seeking his injury,
+
+[[v4-35-24]]
+
+^<<v4-35-24,24>>^ the assembly must then judge between the striker and the avenger of blood according to these judgments.
+
+[[v4-35-25]]
+
+^<<v4-35-25,25>>^ And the assembly must deliver the manslayer out of the hand of the avenger of blood, and the assembly must return him to his city of refuge to which he had fled, and he must dwell in it until the death of the high priest who was anointed with the holy oil.
+
+[[v4-35-26]]
+
+^<<v4-35-26,26>>^ “‘But if the manslayer without fail goes out of the boundary of his city of refuge to which he may flee,
+
+[[v4-35-27]]
+
+^<<v4-35-27,27>>^ and the avenger of blood does find him outside the boundary of his city of refuge, and the avenger of blood does slay the manslayer, he has no bloodguilt.
+
+[[v4-35-28]]
+
+^<<v4-35-28,28>>^ For he ought to dwell in his city of refuge until the high priest’s death, and after the high priest’s death the manslayer may return to the land of his possession.
+
+[[v4-35-29]]
+
+^<<v4-35-29,29>>^ And these must serve as a statute of judgment for YOU throughout YOUR generations in all YOUR dwelling places.
+
+[[v4-35-30]]
+
+^<<v4-35-30,30>>^ “‘Every fatal striker of a soul should be slain as a murderer at the mouth of witnesses, and one witness may not testify against a soul for him to die.
+
+[[v4-35-31]]
+
+^<<v4-35-31,31>>^ And YOU must take no ransom for the soul of a murderer who is deserving to die, for without fail he should be put to death.
+
+[[v4-35-32]]
+
+^<<v4-35-32,32>>^ And YOU must not take a ransom for one who has fled to his city of refuge, to resume dwelling in the land before the death of the high priest.^&#42;1^
+
+[NOTE]
+====
+. “The high priest,” SamLXXSy and one Heb. ms; M, “the priest”; Lat., pon·tiʹfi·cis.
+====
+
+[[v4-35-33]]
+
+^<<v4-35-33,33>>^ “‘And YOU must not pollute the land in which YOU are;^&#42;1^ because it is blood that pollutes the land, and for the land there may be no atonement respecting the blood that has been spilled upon it except by the blood of the one spilling it.
+
+[NOTE]
+====
+. “You are,” M; SamLXXSyVg and four Heb. mss, “you are dwelling.”
+====
+
+[[v4-35-34]]
+
+^<<v4-35-34,34>>^ And you must not defile the land in which YOU are dwelling, in the midst of which I am residing; for I Jehovah am residing in the midst of the sons of Israel.’”
+
+'''
+
+xref:004-numbers/004-numbers-034.adoc#v4-34-0[&#60; Capítulo Anterior] | <<v4-35-0,Topo>> | xref:004-numbers/004-numbers-036.adoc#v4-36-0[Próximo Capítulo &#62;]

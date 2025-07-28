@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v14-10-0]]
+=== The Second of Chronicles, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v14-10-1]]
+
+^<<v14-10-1,1>>^ And Re·ho·boʹam proceeded to go to Sheʹchem, for it was to Sheʹchem that all the Israelites came to make him king.
+
+[[v14-10-2]]
+
+^<<v14-10-2,2>>^ And it came about that as soon as Jer·o·boʹam the son of Neʹbat heard of it while he was yet in Egypt, (because he had run away on account of Solʹo·mon the king,) Jer·o·boʹam immediately came back from Egypt.
+
+[[v14-10-3]]
+
+^<<v14-10-3,3>>^ So they sent and called him, and Jer·o·boʹam and all Israel came and spoke to Re·ho·boʹam, saying:
+
+[[v14-10-4]]
+
+^<<v14-10-4,4>>^ “Your father, for his part, made our yoke hard; and now make the hard service of your father and the heavy yoke that he put upon us lighter, and we shall serve you.”
+
+[[v14-10-5]]
+
+^<<v14-10-5,5>>^ At this he said to them: “Let there be yet three days. Then return to me.” So the people went away.
+
+[[v14-10-6]]
+
+^<<v14-10-6,6>>^ And King Re·ho·boʹam began to take counsel with the older men that were continually attending upon Solʹo·mon his father while he continued alive, saying: “How are YOU advising to reply to this people?”
+
+[[v14-10-7]]
+
+^<<v14-10-7,7>>^ Accordingly they spoke to him, saying: “If you would prove yourself good to this people and actually be pleasing to them and indeed speak good words to them, they also will certainly become your servants always.”
+
+[[v14-10-8]]
+
+^<<v14-10-8,8>>^ However, he left the counsel of the older men with which they had advised him, and he began to take counsel with the young men that had grown up with him, who were the ones attending upon him.
+
+[[v14-10-9]]
+
+^<<v14-10-9,9>>^ And he went on to say to them: “What is it that YOU are offering in counsel that we may reply to this people who have spoken to me, saying, ‘Make the yoke that your father put upon us lighter’?”
+
+[[v14-10-10]]
+
+^<<v14-10-10,10>>^ In turn the young men that had grown up with him spoke with him, saying: “This is what you should say to the people who have spoken to you, saying, ‘Your father, for his part, made our yoke heavy, but, as for you, make it lighter upon us’; this is what you should say to them, ‘My own little finger will certainly be thicker than my father’s hips.
+
+[[v14-10-11]]
+
+^<<v14-10-11,11>>^ And now my father, for his part, loaded upon YOU a heavy yoke, but I, for my part, shall add to YOUR yoke. My father, for his part, chastised YOU with whips, but I, for my part, with scourges.’”
+
+[[v14-10-12]]
+
+^<<v14-10-12,12>>^ And Jer·o·boʹam and all the people proceeded to come to Re·ho·boʹam on the third day, just as the king had spoken, saying: “Return to me on the third day.”
+
+[[v14-10-13]]
+
+^<<v14-10-13,13>>^ And the king began to answer them harshly. Thus King Re·ho·boʹam left the counsel of the older men,
+
+[[v14-10-14]]
+
+^<<v14-10-14,14>>^ and he went on to speak to them according to the counsel of the young men, saying: “I shall make YOUR yoke heavier, and I, for my part, shall add to it. My father, for his part, chastised YOU with whips, but I, for my part, with scourges.”
+
+[[v14-10-15]]
+
+^<<v14-10-15,15>>^ And the king did not listen to the people; for it proved to be a turn of affairs from the &#91;true&#93; God in order that Jehovah might carry out his word that he had spoken by means of A·hiʹjah^&#42;1^ the Shiʹlo·nite to Jer·o·boʹam the son of Neʹbat.
+
+[NOTE]
+====
+. Meaning “Brother of Jehovah.” Heb., ʼAchi·yaʹhu.
+====
+
+[[v14-10-16]]
+
+^<<v14-10-16,16>>^ As for all Israel, because the king did not listen to them, the people now replied to the king, saying: “What share do we have in David? And there is no inheritance in the son of Jesʹse. Each one to your gods,^&#42;1^ O Israel! Now see to your own house, O David.” With that all Israel began to go to its tents.
+
+[NOTE]
+====
+. “To your gods.” Lit., “to your tents.” Heb., leʼo·ha·leyʹkha. One of the Eighteen Emendations of the Sopherim. The original Heb. text is alleged to have read leʼ·lo·heyʹkha (from ʼelo·himʹ, “gods” or “God”), but by transposing l and h, the second and third consonants of the Heb. word ʼelo·himʹ, the Sopherim made M read “tents.” See App 2B.
+====
+
+[[v14-10-17]]
+
+^<<v14-10-17,17>>^ As for the sons of Israel that were dwelling in the cities of Judah, Re·ho·boʹam continued to reign over them.
+
+[[v14-10-18]]
+
+^<<v14-10-18,18>>^ Subsequently King Re·ho·boʹam sent Ha·doʹram,^&#42;1^ who was over those conscripted for forced labor, but the sons of Israel pelted him with stones, so that he died. And King Re·ho·boʹam himself managed to get up into his chariot to flee to Jerusalem.
+
+[NOTE]
+====
+. “Adoniram” in 1Ki 4:6; in 1Ki 12:18, “Adoram.”
+====
+
+[[v14-10-19]]
+
+^<<v14-10-19,19>>^ And the Israelites kept up their revolt against the house of David down to this day.
+
+'''
+
+xref:014-2-chronicles/014-2-chronicles-009.adoc#v14-9-0[&#60; Capítulo Anterior] | <<v14-10-0,Topo>> | xref:014-2-chronicles/014-2-chronicles-011.adoc#v14-11-0[Próximo Capítulo &#62;]

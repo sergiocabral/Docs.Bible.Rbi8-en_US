@@ -1,0 +1,54 @@
+include::./index.adoc[]
+
+[[v6-16-0]]
+=== Joshua, 16
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v6-16-1]]
+
+^<<v6-16-1,1>>^ And the lot came out for the sons of Joseph from the Jordan at Jerʹi·cho to the waters of Jerʹi·cho eastward, the wilderness going up from Jerʹi·cho into the mountainous region of Bethʹel.
+
+[[v6-16-2]]
+
+^<<v6-16-2,2>>^ And it went out from Bethʹel belonging to Luz and passed over to the boundary of the Arʹchites at Atʹa·roth,
+
+[[v6-16-3]]
+
+^<<v6-16-3,3>>^ and it went down westward to the boundary of the Japhʹle·tites as far as the boundary of Lower Beth-hoʹron and Geʹzer, and its termination proved to be at the sea.
+
+[[v6-16-4]]
+
+^<<v6-16-4,4>>^ And the sons of Joseph, Ma·nasʹseh and Eʹphra·im, proceeded to take possession of land.
+
+[[v6-16-5]]
+
+^<<v6-16-5,5>>^ And the boundary of the sons of Eʹphra·im by their families came to be, yes, the boundary of their inheritance toward the east came to be Atʹa·roth-adʹdar, as far as Upper Beth-hoʹron;
+
+[[v6-16-6]]
+
+^<<v6-16-6,6>>^ and the boundary went out to the sea. Mich·meʹthath was on the north, and the boundary went around eastward to Taʹa·nath-shiʹloh, and passed over eastward to Ja·noʹah.
+
+[[v6-16-7]]
+
+^<<v6-16-7,7>>^ And it went down from Ja·noʹah to Atʹa·roth and Naʹa·rah and reached to Jerʹi·cho and went out to the Jordan.
+
+[[v6-16-8]]
+
+^<<v6-16-8,8>>^ From Tapʹpu·ah the boundary moved on westward to the torrent valley of Kaʹnah, and its termination proved to be at the sea. This is the inheritance of the tribe of the sons of Eʹphra·im by their families.
+
+[[v6-16-9]]
+
+^<<v6-16-9,9>>^ And the sons of Eʹphra·im had enclave^&#42;1^ cities in the midst of the inheritance of the sons of Ma·nasʹseh, all the cities and their settlements.
+
+[NOTE]
+====
+. Or, “separated; isolated.”
+====
+
+[[v6-16-10]]
+
+^<<v6-16-10,10>>^ And they did not drive away the Caʹnaan·ites who were dwelling in Geʹzer, and the Caʹnaan·ites continue dwelling in among Eʹphra·im down to this day and came to be subject to slavish forced labor.
+
+'''
+
+xref:006-joshua/006-joshua-015.adoc#v6-15-0[&#60; Capítulo Anterior] | <<v6-16-0,Topo>> | xref:006-joshua/006-joshua-017.adoc#v6-17-0[Próximo Capítulo &#62;]

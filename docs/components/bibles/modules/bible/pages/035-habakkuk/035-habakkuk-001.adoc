@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v35-1-0]]
+=== Habakkuk, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v35-1-1]]
+
+^<<v35-1-1,1>>^ The pronouncement that Ha·bakʹkuk the prophet visioned:
+
+[[v35-1-2]]
+
+^<<v35-1-2,2>>^ How long, O Jehovah, must I cry for help, and you do not hear? &#91;How long&#93; shall I call to you for aid from violence, and you do not save?
+
+[[v35-1-3]]
+
+^<<v35-1-3,3>>^ Why is it that you make me see what is hurtful, and you keep looking upon mere trouble? And &#91;why&#93; are despoiling and violence in front of me, and &#91;why&#93; does quarreling occur, and &#91;why&#93; is strife carried?
+
+[[v35-1-4]]
+
+^<<v35-1-4,4>>^ Therefore law grows numb, and justice never goes forth. Because the wicked one is surrounding the righteous one, for that reason justice goes forth crooked.
+
+[[v35-1-5]]
+
+^<<v35-1-5,5>>^ “See, YOU people, among the nations, and look on, and stare in amazement at one another. Be amazed; for there is an activity that one is carrying on^&#42;1^ in YOUR days, &#91;which&#93; YOU people will not believe although it is related.^&#42;2^
+
+[NOTE]
+====
+. “One is carrying on,” M; LXXSy, “I am carrying on.”
+. “Behold it, you scorners, and look, and wonder marvelously, and vanish away, because I am working a work in your days, which you will by no means believe even if anyone relates it in detail,” LXX. See Ac 13:41.
+====
+
+[[v35-1-6]]
+
+^<<v35-1-6,6>>^ For here I am raising up the Chal·deʹans, the nation bitter and impetuous, which is going to the wide-open places of earth in order to take possession of residences not belonging to it.
+
+[[v35-1-7]]
+
+^<<v35-1-7,7>>^ Frightful and fear-inspiring it is. From itself its own justice and its own dignity go forth.
+
+[[v35-1-8]]
+
+^<<v35-1-8,8>>^ And its horses have proved swifter than leopards, and they have proved fiercer than evening wolves. And its steeds have pawed the ground, and from far away its own steeds^&#42;1^ come. They fly like the eagle speeding to eat &#91;something&#93;.
+
+[NOTE]
+====
+. Or, “horsemen.”
+====
+
+[[v35-1-9]]
+
+^<<v35-1-9,9>>^ In its entirety it comes for mere violence. The assembling of their faces is as &#91;the&#93; east wind,^&#42;1^ and it gathers up captives just like the sand.
+
+[NOTE]
+====
+. “As [the] east wind,” T and Habakkuk Commentary of the Dead Sea Scrolls (1QpHab) discovered in 1947; M, “to the east”; Vg, “as a burning wind.”
+====
+
+[[v35-1-10]]
+
+^<<v35-1-10,10>>^ And for its part, it jeers kings themselves, and high officials are something laughable to it. For its part, it laughs even at every fortified place, and it piles up dust and captures it.
+
+[[v35-1-11]]
+
+^<<v35-1-11,11>>^ At that time it will certainly move onward &#91;like&#93; wind^&#42;1^ and will pass through and will actually become guilty. This its power is due to its god.”^&#42;2^
+
+[NOTE]
+====
+. “Wind.” Heb., ruʹach; Gr., pneuʹma; Lat., spiʹri·tus.
+. “To its god.” Heb., leʼ·lo·hohʹ; Gr., the·oiʹ; Lat., deʹi.
+====
+
+[[v35-1-12]]
+
+^<<v35-1-12,12>>^ Are you not from long ago, O Jehovah? O my God,^&#42;1^ my Holy One, you do not die.^&#42;2^ O Jehovah, for a judgment you have set it; and, O Rock, for a reproving you have founded it.
+
+[NOTE]
+====
+. “My God.” Heb., ʼElo·haiʹ, pl.
+. “You do not die.” Heb., loʼ ta·muthʹ. This was the original reading, but the Sopherim changed it to read loʼ na·muthʹ, “we shall not die”; T, “your word [Aram., mehm·rakhʹ] will stand (endure) to times indefinite.” See App 2B.
+====
+
+[[v35-1-13]]
+
+^<<v35-1-13,13>>^ You are too pure in eyes to see what is bad; and to look on trouble you are not able. Why is it that you look on those dealing treacherously, that you keep silent when someone wicked swallows up someone more righteous than he is?
+
+[[v35-1-14]]
+
+^<<v35-1-14,14>>^ And &#91;why&#93; do you make earthling man like the fishes of the sea, like creeping things over whom no one is ruling?
+
+[[v35-1-15]]
+
+^<<v35-1-15,15>>^ All these he has brought up with a mere fishhook; he drags them away in his dragnet, and he gathers them in his fishing net. That is why he rejoices and is joyful.
+
+[[v35-1-16]]
+
+^<<v35-1-16,16>>^ That is why he offers sacrifice to his dragnet and makes sacrificial smoke to his fishing net; for by them his portion is well oiled, and his food is healthful.^&#42;1^
+
+[NOTE]
+====
+. Or, “fat.”
+====
+
+[[v35-1-17]]
+
+^<<v35-1-17,17>>^ Is that why he will empty out his dragnet, and does he have to kill nations constantly, while he shows no compassion?
+
+'''
+
+xref:034-nahum/034-nahum-003.adoc#v34-3-0[&#60; Capítulo Anterior] | <<v35-1-0,Topo>> | xref:035-habakkuk/035-habakkuk-002.adoc#v35-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v4-12-0]]
+=== Numbers, 12
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-12-1]]
+
+^<<v4-12-1,1>>^ Now Mirʹi·am and Aaron began to speak against Moses on account of the Cushʹite^&#42;1^ wife whom he had taken, because it was a Cushʹite wife he had taken.
+
+[NOTE]
+====
+. “Ethiopian,” LXXVg.
+====
+
+[[v4-12-2]]
+
+^<<v4-12-2,2>>^ And they kept saying: “Is it just by Moses alone that Jehovah has spoken? Is it not by us also that he has spoken?” And Jehovah was listening.
+
+[[v4-12-3]]
+
+^<<v4-12-3,3>>^ And the man Moses was by far the meekest^&#42;1^ of all the men who were upon the surface of the ground.
+
+[NOTE]
+====
+. Or, “the most mild-tempered.”
+====
+
+[[v4-12-4]]
+
+^<<v4-12-4,4>>^ Then Jehovah suddenly said to Moses and Aaron and Mirʹi·am: “Go out, the three of YOU, to the tent of meeting.” So the three of them went out.
+
+[[v4-12-5]]
+
+^<<v4-12-5,5>>^ After that Jehovah came down in the pillar of cloud and stood at the entrance of the tent and called Aaron and Mirʹi·am. At this both of them went out.
+
+[[v4-12-6]]
+
+^<<v4-12-6,6>>^ And he went on to say: “Hear my words, please. If there came to be a prophet of YOURS for Jehovah, it would be in a vision I would make myself known to him. In a dream I would speak to him.
+
+[[v4-12-7]]
+
+^<<v4-12-7,7>>^ Not so my servant Moses! He is being entrusted with all my house.^&#42;1^
+
+[NOTE]
+====
+. Lit., “In all my house he is proving himself faithful.” LXX, “In all my house he is faithful”; Vg, “[Moses] who in all my house is most faithful.” See Heb 3:5.
+====
+
+[[v4-12-8]]
+
+^<<v4-12-8,8>>^ Mouth to mouth I speak to him, thus showing him, and not by riddles; and the appearance of Jehovah is what he beholds. Why, then, did YOU not fear to speak against my servant, against Moses?”
+
+[[v4-12-9]]
+
+^<<v4-12-9,9>>^ And Jehovah’s anger got to be hot against them, and he went his way.
+
+[[v4-12-10]]
+
+^<<v4-12-10,10>>^ And the cloud turned away from over the tent, and, look! Mirʹi·am was struck with leprosy as white as snow. Then Aaron turned toward Mirʹi·am, and, look! she was struck with leprosy.
+
+[[v4-12-11]]
+
+^<<v4-12-11,11>>^ Immediately Aaron said to Moses: “Excuse me, my lord! Do not, please, attribute to us the sin in which we have acted foolishly and which we have committed!
+
+[[v4-12-12]]
+
+^<<v4-12-12,12>>^ Please, do not let her continue like someone dead, whose flesh at the time of his coming out of his mother’s womb^&#42;1^ is half eaten off!”
+
+[NOTE]
+====
+. “Whose flesh at the time of his coming out of his mother’s womb.” According to the Masorah, the Sopherim emended this text so as not to reflect against Aaron, the high priest, the original text reading “our flesh” and “our mother’s womb.” One of the Eighteen Emendations of the Sopherim. See App 2B.
+====
+
+[[v4-12-13]]
+
+^<<v4-12-13,13>>^ And Moses began to cry out to Jehovah, saying: “O God,^&#42;1^ please! Heal her, please!”
+
+[NOTE]
+====
+. “O God,” M(Heb., ʼEl)SamLXXSyVg; but a reading suggested in a ftn of BHK and of BHS, ʼal, “No.”
+====
+
+[[v4-12-14]]
+
+^<<v4-12-14,14>>^ Then Jehovah said to Moses: “Were her father to spit directly in her face, would she not be humiliated seven days? Let her be quarantined seven days outside the camp, and afterward let her be received in.”
+
+[[v4-12-15]]
+
+^<<v4-12-15,15>>^ Accordingly Mirʹi·am was quarantined outside the camp seven days, and the people did not pull away until Mirʹi·am was received in.
+
+[[v4-12-16]]
+
+^<<v4-12-16,16>>^ And afterward the people pulled away from Ha·zeʹroth and took up camping in the wilderness of Paʹran.
+
+'''
+
+xref:004-numbers/004-numbers-011.adoc#v4-11-0[&#60; Capítulo Anterior] | <<v4-12-0,Topo>> | xref:004-numbers/004-numbers-013.adoc#v4-13-0[Próximo Capítulo &#62;]

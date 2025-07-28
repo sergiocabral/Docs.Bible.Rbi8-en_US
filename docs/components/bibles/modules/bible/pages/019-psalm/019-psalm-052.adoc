@@ -1,0 +1,74 @@
+include::./index.adoc[]
+
+[[v19-52-0]]
+=== Psalms, 52
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. Masʹkil.^&#42;1^ Of David, when Doʹeg the Eʹdom·ite came and proceeded to tell Saul and say to him that David had come to the house of A·himʹe·lech._
+
+[[v19-52-1]]
+
+^<<v19-52-1,1>>^ Why do you make your boast over what is bad, O you mighty one?
+The loving-kindness^&#42;1^ of God^&#42;2^ is all day long.
+
+[NOTE]
+====
+. Or, “loyal love.”
+. “God.” Heb., ʼEl.
+====
+
+[[v19-52-2]]
+
+^<<v19-52-2,2>>^ Adversities your tongue schemes up, sharpened like a razor,
+Working deceitfully.^&#42;1^
+
+[NOTE]
+====
+. Or, “Ruinous things you scheme, your tongue being sharpened like a razor, O you worker of deceit.”
+====
+
+[[v19-52-3]]
+
+^<<v19-52-3,3>>^ You have loved what is bad more than what is good,
+Falsehood more than speaking righteousness. Seʹlah.
+
+[[v19-52-4]]
+
+^<<v19-52-4,4>>^ You have loved all devouring words,
+O you deceitful tongue.^&#42;1^
+
+[NOTE]
+====
+. Lit., “tongue of deception.”
+====
+
+[[v19-52-5]]
+
+^<<v19-52-5,5>>^ God himself will also pull you down forever;
+He will knock you down and tear you away from &#91;your&#93; tent,
+And he will certainly root you out of the land of the living ones. Seʹlah.
+
+[[v19-52-6]]
+
+^<<v19-52-6,6>>^ And the righteous ones will see &#91;it&#93; and will be afraid,
+And over him they will laugh.
+
+[[v19-52-7]]
+
+^<<v19-52-7,7>>^ Here is the able-bodied man that does not put God as his fortress,
+But that trusts in the abundance of his riches,
+That takes shelter in adversities by him.
+
+[[v19-52-8]]
+
+^<<v19-52-8,8>>^ But I shall be like a luxuriant olive tree in God’s house;
+I do trust in the loving-kindness of God to time indefinite, even forever.
+
+[[v19-52-9]]
+
+^<<v19-52-9,9>>^ I will laud you to time indefinite, for you have taken action;
+And I shall hope in your name, because it is good, in front of your loyal ones.
+
+'''
+
+xref:019-psalm/019-psalm-051.adoc#v19-51-0[&#60; Capítulo Anterior] | <<v19-52-0,Topo>> | xref:019-psalm/019-psalm-053.adoc#v19-53-0[Próximo Capítulo &#62;]

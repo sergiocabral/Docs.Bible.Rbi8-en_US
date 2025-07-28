@@ -1,0 +1,174 @@
+include::./index.adoc[]
+
+[[v1-5-0]]
+=== Genesis, 5
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-5-1]]
+
+^<<v1-5-1,1>>^ This is the book of Adam’s history.^&#42;1^ In the day of God’s creating Adam he made him in the likeness of God.
+
+[NOTE]
+====
+. Or, “historical origins.” See 2:4 and Mt 1:1 ftns, “History.”
+====
+
+[[v1-5-2]]
+
+^<<v1-5-2,2>>^ Male and female he created them. After that he blessed them and called their name Man^&#42;1^ in the day of their being created.
+
+[NOTE]
+====
+. Or, “Adam”; or, “Mankind.” Heb., ʼa·dhamʹ.
+====
+
+[[v1-5-3]]
+
+^<<v1-5-3,3>>^ And Adam lived on for a hundred and thirty years. Then he became father to a son in his likeness, in his image, and called his name Seth.
+
+[[v1-5-4]]
+
+^<<v1-5-4,4>>^ And the days of Adam after his fathering Seth came to be eight hundred years. Meanwhile he became father to sons and daughters.
+
+[[v1-5-5]]
+
+^<<v1-5-5,5>>^ So all the days of Adam that he lived amounted to^&#42;1^ nine hundred and thirty years and he died.
+
+[NOTE]
+====
+. Or, “came to be.”
+====
+
+[[v1-5-6]]
+
+^<<v1-5-6,6>>^ And Seth lived on for a hundred and five years. Then he became father to Eʹnosh.
+
+[[v1-5-7]]
+
+^<<v1-5-7,7>>^ And after his fathering Eʹnosh Seth continued to live eight hundred and seven years. Meanwhile he became father to sons and daughters.
+
+[[v1-5-8]]
+
+^<<v1-5-8,8>>^ So all the days of Seth amounted to nine hundred and twelve years and he died.
+
+[[v1-5-9]]
+
+^<<v1-5-9,9>>^ And Eʹnosh lived on for ninety years. Then he became father to Keʹnan.
+
+[[v1-5-10]]
+
+^<<v1-5-10,10>>^ And after his fathering Keʹnan Eʹnosh continued to live eight hundred and fifteen years. Meanwhile he became father to sons and daughters.
+
+[[v1-5-11]]
+
+^<<v1-5-11,11>>^ So all the days of Eʹnosh amounted to nine hundred and five years and he died.
+
+[[v1-5-12]]
+
+^<<v1-5-12,12>>^ And Keʹnan lived on for seventy years. Then he became father to Ma·halʹa·lel.
+
+[[v1-5-13]]
+
+^<<v1-5-13,13>>^ And after his fathering Ma·halʹa·lel Keʹnan continued to live eight hundred and forty years. Meanwhile he became father to sons and daughters.
+
+[[v1-5-14]]
+
+^<<v1-5-14,14>>^ So all the days of Keʹnan amounted to nine hundred and ten years and he died.
+
+[[v1-5-15]]
+
+^<<v1-5-15,15>>^ And Ma·halʹa·lel lived on for sixty-five years. Then he became father to Jaʹred.
+
+[[v1-5-16]]
+
+^<<v1-5-16,16>>^ And after his fathering Jaʹred Ma·halʹa·lel continued to live eight hundred and thirty years. Meanwhile he became father to sons and daughters.
+
+[[v1-5-17]]
+
+^<<v1-5-17,17>>^ So all the days of Ma·halʹa·lel amounted to eight hundred and ninety-five years and he died.
+
+[[v1-5-18]]
+
+^<<v1-5-18,18>>^ And Jaʹred lived on for a hundred and sixty-two years. Then he became father to Eʹnoch.^&#42;1^
+
+[NOTE]
+====
+. Meaning “Dedicated; Initiated.” Heb., Chanohkhʹ.
+====
+
+[[v1-5-19]]
+
+^<<v1-5-19,19>>^ And after his fathering Eʹnoch Jaʹred continued to live eight hundred years. Meanwhile he became father to sons and daughters.
+
+[[v1-5-20]]
+
+^<<v1-5-20,20>>^ So all the days of Jaʹred amounted to nine hundred and sixty-two years and he died.
+
+[[v1-5-21]]
+
+^<<v1-5-21,21>>^ And Eʹnoch lived on for sixty-five years. Then he became father to Me·thuʹse·lah.
+
+[[v1-5-22]]
+
+^<<v1-5-22,22>>^ And after his fathering Me·thuʹse·lah Eʹnoch went on walking with^&#42;1^ the &#91;true&#93; God^&#42;2^ three hundred years. Meanwhile he became father to sons and daughters.
+
+[NOTE]
+====
+. “And Enoch was well pleasing to,” LXX. Compare Heb 11:5.
+. “The [true] God.” Heb., ha·ʼElo·himʹ, the first instance where ʼElo·himʹ, “God,” is preceded by the definite article ha, hence, rendered “the [true] God.” GK, § 126 e, states: “הָאֱלֹהִים or הָאֵל ὁ θεός, the one true God.” See App 1F.
+====
+
+[[v1-5-23]]
+
+^<<v1-5-23,23>>^ So all the days of Eʹnoch amounted to three hundred and sixty-five years.
+
+[[v1-5-24]]
+
+^<<v1-5-24,24>>^ And Eʹnoch kept walking with the &#91;true&#93; God. Then he was no more, for God^&#42;1^ took him.^&#42;2^
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ, without the definite article.
+. “Because God transferred him,” LXX. Compare Heb 11:5.
+====
+
+[[v1-5-25]]
+
+^<<v1-5-25,25>>^ And Me·thuʹse·lah lived on for a hundred and eighty-seven years. Then he became father to Laʹmech.
+
+[[v1-5-26]]
+
+^<<v1-5-26,26>>^ And after his fathering Laʹmech Me·thuʹse·lah continued to live seven hundred and eighty-two years. Meanwhile he became father to sons and daughters.
+
+[[v1-5-27]]
+
+^<<v1-5-27,27>>^ So all the days of Me·thuʹse·lah amounted to nine hundred and sixty-nine years and he died.
+
+[[v1-5-28]]
+
+^<<v1-5-28,28>>^ And Laʹmech lived on for a hundred and eighty-two years. Then he became father to a son.
+
+[[v1-5-29]]
+
+^<<v1-5-29,29>>^ And he proceeded to call his name Noah,^&#42;1^ saying: “This one will bring us comfort from our work and from the pain of our hands resulting from the ground which Jehovah has cursed.”
+
+[NOTE]
+====
+. Meaning “Rest; Consolation.”
+====
+
+[[v1-5-30]]
+
+^<<v1-5-30,30>>^ And after his fathering Noah Laʹmech continued to live five hundred and ninety-five years. Meanwhile he became father to sons and daughters.
+
+[[v1-5-31]]
+
+^<<v1-5-31,31>>^ So all the days of Laʹmech amounted to seven hundred and seventy-seven years and he died.
+
+[[v1-5-32]]
+
+^<<v1-5-32,32>>^ And Noah got to be five hundred years old. After that Noah became father to Shem, Ham and Jaʹpheth.
+
+'''
+
+xref:001-genesis/001-genesis-004.adoc#v1-4-0[&#60; Capítulo Anterior] | <<v1-5-0,Topo>> | xref:001-genesis/001-genesis-006.adoc#v1-6-0[Próximo Capítulo &#62;]

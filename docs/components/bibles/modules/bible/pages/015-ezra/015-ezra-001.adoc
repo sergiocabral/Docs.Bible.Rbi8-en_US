@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v15-1-0]]
+=== Ezra, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v15-1-1]]
+
+^<<v15-1-1,1>>^ And in the first year of Cyrus^&#42;1^ the king of Persia, that Jehovah’s word from the mouth of Jeremiah might be accomplished, Jehovah roused the spirit of Cyrus the king of Persia so that he caused a cry to pass through all his realm, and also in writing, saying:
+
+[NOTE]
+====
+. “Of Cyrus,” M(Heb., leKhohʹresh)LXX; Syr., leKu·resh; Lat., Cyʹri.
+====
+
+[[v15-1-2]]
+
+^<<v15-1-2,2>>^ “This is what Cyrus the king of Persia has said, ‘All the kingdoms of the earth Jehovah the God of the heavens has given me, and he himself has commissioned me to build him a house in Jerusalem, which is in Judah.
+
+[[v15-1-3]]
+
+^<<v15-1-3,3>>^ Whoever there is among YOU of all his people, may his God prove to be with him. So let him go up to Jerusalem, which is in Judah, and rebuild the house of Jehovah the God of Israel—he is the &#91;true&#93; God^&#42;1^—which was in Jerusalem.
+
+[NOTE]
+====
+. “The [true] God.” Heb., ha·­ʼElo·himʹ, the definite article ha, “the,” preceding the title ʼElo·himʹ for emphasis. See App 1F.
+====
+
+[[v15-1-4]]
+
+^<<v15-1-4,4>>^ As for anyone that is left from all the places where he is residing as an alien, let the men of his place assist him with silver and with gold and with goods and with domestic animals along with the voluntary offering for the house of the &#91;true&#93; God, which was in Jerusalem.’”
+
+[[v15-1-5]]
+
+^<<v15-1-5,5>>^ Then the heads of the fathers of Judah and of Benjamin and the priests and the Levites rose up, even everyone whose spirit the &#91;true&#93; God had roused, to go up and rebuild the house of Jehovah, which was in Jerusalem.
+
+[[v15-1-6]]
+
+^<<v15-1-6,6>>^ As for all those round about them, they strengthened their hands with utensils of silver, with gold, with goods and with domestic animals and with choice things, besides all that which was voluntarily offered.^&#42;1^
+
+[NOTE]
+====
+. Lit., “all he (one) offered voluntarily.”
+====
+
+[[v15-1-7]]
+
+^<<v15-1-7,7>>^ Also, King Cyrus himself brought forth the utensils of the house of Jehovah, which Neb·u·chad·nezʹzar had brought out from Jerusalem and then put in the house of his god.^&#42;1^
+
+[NOTE]
+====
+. Or, “his gods.” Heb., ʼelo·havʹ, pl., probably to denote excellence; Lat., deʹi.
+====
+
+[[v15-1-8]]
+
+^<<v15-1-8,8>>^ And Cyrus the king of Persia proceeded to bring them forth under the control of Mithʹre·dath the treasurer and to number them out to Shesh·bazʹzar^&#42;1^ the chieftain^&#42;2^ of Judah.
+
+[NOTE]
+====
+. “Zerubbabel” in 2:2; 3:8.
+. Or, “nasi.”
+====
+
+[[v15-1-9]]
+
+^<<v15-1-9,9>>^ Now these are the numbers of them: thirty basket-shaped vessels of gold, a thousand basket-shaped vessels of silver, twenty-nine replacement vessels,
+
+[[v15-1-10]]
+
+^<<v15-1-10,10>>^ thirty small bowls of gold, four hundred and ten small secondary bowls of silver, a thousand other utensils.
+
+[[v15-1-11]]
+
+^<<v15-1-11,11>>^ All the utensils of gold and of silver were five thousand four hundred. Everything Shesh·bazʹzar brought up, along with the bringing up of the exiled people out of Babylon^&#42;1^ to Jerusalem.
+
+[NOTE]
+====
+. “Babylon,” LXXVg; MSy, “Babel.”
+====
+
+'''
+
+xref:014-2-chronicles/014-2-chronicles-036.adoc#v14-36-0[&#60; Capítulo Anterior] | <<v15-1-0,Topo>> | xref:015-ezra/015-ezra-002.adoc#v15-2-0[Próximo Capítulo &#62;]

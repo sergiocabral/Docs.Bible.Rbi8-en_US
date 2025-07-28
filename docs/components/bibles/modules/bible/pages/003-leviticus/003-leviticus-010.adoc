@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v3-10-0]]
+=== Leviticus, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-10-1]]
+
+^<<v3-10-1,1>>^ Later on Aaron’s sons Naʹdab and A·biʹhu took up and brought each one his fire holder and put fire in them and placed incense upon it, and they began offering before Jehovah illegitimate fire, which he had not prescribed for them.
+
+[[v3-10-2]]
+
+^<<v3-10-2,2>>^ At this a fire came out from before Jehovah and consumed them, so that they died before Jehovah.
+
+[[v3-10-3]]
+
+^<<v3-10-3,3>>^ Then Moses said to Aaron: “This is what Jehovah has spoken, saying, ‘Among those near to me let me be sanctified, and before the face of all the people let me be glorified.’” And Aaron kept silent.
+
+[[v3-10-4]]
+
+^<<v3-10-4,4>>^ So Moses called Mishʹa·el and El·zaʹphan, the sons of Uzʹzi·el, Aaron’s uncle, and said to them: “Come near, carry YOUR brothers from in front of the holy place to outside the camp.”
+
+[[v3-10-5]]
+
+^<<v3-10-5,5>>^ They accordingly came near and carried them in their robes to outside the camp, just as Moses had spoken.
+
+[[v3-10-6]]
+
+^<<v3-10-6,6>>^ Subsequently Moses said to Aaron and to El·e·aʹzar and Ithʹa·mar his &#91;other&#93; sons: “Do not let YOUR heads go ungroomed, and YOU must not tear YOUR garments, that YOU may not die and that he may not become indignant against all the assembly; but YOUR brothers of the whole house of Israel will do the weeping over the burning, which Jehovah has made burn.
+
+[[v3-10-7]]
+
+^<<v3-10-7,7>>^ And from the entrance of the tent of meeting YOU must not go out for fear YOU may die, because Jehovah’s anointing oil is upon YOU.” So they did according to Moses’ word.
+
+[[v3-10-8]]
+
+^<<v3-10-8,8>>^ And Jehovah proceeded to speak to Aaron, saying:
+
+[[v3-10-9]]
+
+^<<v3-10-9,9>>^ “Do not drink wine or intoxicating liquor, you and your sons with you, when YOU come into the tent of meeting, that YOU may not die. It is a statute to time indefinite for YOUR generations,
+
+[[v3-10-10]]
+
+^<<v3-10-10,10>>^ both in order to make a distinction between the holy thing and the profane and between the unclean thing and the clean,
+
+[[v3-10-11]]
+
+^<<v3-10-11,11>>^ and in order to teach the sons of Israel all the regulations that Jehovah has spoken to them by means of Moses.”
+
+[[v3-10-12]]
+
+^<<v3-10-12,12>>^ Then Moses spoke to Aaron and to El·e·aʹzar and Ithʹa·mar, his sons that were left: “Take the grain offering that was left over from Jehovah’s offerings made by fire and eat it unfermented near the altar, because it is something most holy.
+
+[[v3-10-13]]
+
+^<<v3-10-13,13>>^ And YOU must eat it in a holy place, because it is your allowance and the allowance of your sons from Jehovah’s offerings made by fire; for so I have been commanded.
+
+[[v3-10-14]]
+
+^<<v3-10-14,14>>^ And YOU will eat the breast of the wave offering and the leg of the sacred portion in a clean place, you and your sons and your daughters with you, because they have been given as your allowance and the allowance of your sons from the communion sacrifices of the sons of Israel.
+
+[[v3-10-15]]
+
+^<<v3-10-15,15>>^ They will bring the leg of the sacred portion and the breast of the wave offering along with the offerings made by fire, of the fatty pieces, in order to wave the wave offering to and fro before Jehovah; and it must serve as an allowance to time indefinite for you and your sons with you, just as Jehovah has commanded.”
+
+[[v3-10-16]]
+
+^<<v3-10-16,16>>^ And Moses searched thoroughly for the goat of the sin offering, and, look! it had been burned up. So he grew indignant at El·e·aʹzar and Ithʹa·mar, Aaron’s sons that were left, saying:
+
+[[v3-10-17]]
+
+^<<v3-10-17,17>>^ “Why did YOU not eat the sin offering in the place that is holy, since it is something most holy and he has given it to YOU that YOU may answer for the error of the assembly so as to make atonement for them before Jehovah?
+
+[[v3-10-18]]
+
+^<<v3-10-18,18>>^ Look! Its blood has not been brought into the holy place within. YOU should have eaten it without fail in the holy place, just as I had been commanded.”^&#42;1^
+
+[NOTE]
+====
+. According to TJSyVg; LXX, “just as Jehovah ordered me.” See 8:31 ftn.
+====
+
+[[v3-10-19]]
+
+^<<v3-10-19,19>>^ At this Aaron spoke to Moses: “Look! Today they have presented their sin offering and their burnt offering before Jehovah, while such things as these began to befall me; and had I eaten the sin offering today, would it prove satisfactory in Jehovah’s eyes?”
+
+[[v3-10-20]]
+
+^<<v3-10-20,20>>^ When Moses got to hear that, then it proved satisfactory in his eyes.
+
+'''
+
+xref:003-leviticus/003-leviticus-009.adoc#v3-9-0[&#60; Capítulo Anterior] | <<v3-10-0,Topo>> | xref:003-leviticus/003-leviticus-011.adoc#v3-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v6-23-0]]
+=== Joshua, 23
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v6-23-1]]
+
+^<<v6-23-1,1>>^ And it came about many days after Jehovah had given Israel rest from all their enemies all around, when Joshua was old and advanced in days,
+
+[[v6-23-2]]
+
+^<<v6-23-2,2>>^ that Joshua proceeded to call all Israel, its older men and its heads and its judges and its officers, and to say to them: “As for me, I have grown old, I have advanced in days.
+
+[[v6-23-3]]
+
+^<<v6-23-3,3>>^ And as for YOU, YOU have seen all that Jehovah YOUR God did to all these nations on YOUR account, because Jehovah YOUR God was the one who was fighting for YOU.
+
+[[v6-23-4]]
+
+^<<v6-23-4,4>>^ See, I assigned to YOU by lot^&#42;1^ these nations that remain as an inheritance for YOUR tribes, and all the nations that I cut off, from the Jordan^&#42;2^ to the Great Sea at the setting of the sun.
+
+[NOTE]
+====
+. Lit., “I caused to fall to (for) you.” LXX, “I cast upon you”; Vg, “he divided to you by lot.”
+. Lit., “these nations that remain as an inheritance for your tribes from the Jordan, and all the [other] nations that I cut off.”
+====
+
+[[v6-23-5]]
+
+^<<v6-23-5,5>>^ And Jehovah YOUR God was the one who kept pushing them away from before YOU, and he dispossessed them on YOUR account, and YOU took possession of their land, just as Jehovah YOUR God had promised YOU.
+
+[[v6-23-6]]
+
+^<<v6-23-6,6>>^ “And YOU must be very courageous to keep and to do all that is written in the book of the law of Moses by never turning away from it to the right or to the left,
+
+[[v6-23-7]]
+
+^<<v6-23-7,7>>^ by never going in among these nations, these that remain with YOU. And YOU must not mention the names of their gods nor swear by them, neither must YOU serve them nor bow down to them.
+
+[[v6-23-8]]
+
+^<<v6-23-8,8>>^ But it is to Jehovah YOUR God that YOU should cleave, just as YOU have done down to this day.
+
+[[v6-23-9]]
+
+^<<v6-23-9,9>>^ And Jehovah will drive away great and mighty nations from before YOU. (As for YOU, not a man has stood before YOU down to this day.)
+
+[[v6-23-10]]
+
+^<<v6-23-10,10>>^ Just one man of YOU will chase a thousand, because Jehovah YOUR God is the one who is fighting for YOU, just as he has promised YOU.
+
+[[v6-23-11]]
+
+^<<v6-23-11,11>>^ And YOU must be on constant guard for YOUR souls^&#42;1^ by loving Jehovah YOUR God.
+
+[NOTE]
+====
+. “For your souls (lives; selves).” Heb., lenaph·sho·theh·khemʹ, pl.; Syr., benaph·shekhun.
+====
+
+[[v6-23-12]]
+
+^<<v6-23-12,12>>^ “But if YOU should turn back at all and YOU do cleave to what is left of these nations, these that remain with YOU, and YOU do form marriage alliances with them and go in among them, and they among YOU,
+
+[[v6-23-13]]
+
+^<<v6-23-13,13>>^ YOU should positively know that Jehovah YOUR God will not continue to dispossess these nations on YOUR account; and they must become to YOU as a trap and as a snare and as a scourge on YOUR flanks and as thorns in YOUR eyes until YOU have perished off this good ground that Jehovah YOUR God has given YOU.
+
+[[v6-23-14]]
+
+^<<v6-23-14,14>>^ “Now, look! I am going today in the way of all the earth, and YOU well know with all YOUR hearts and with all YOUR souls that not one word out of all the good words that Jehovah YOUR God has spoken to YOU has failed. They have all come true for YOU. Not one word of them has failed.
+
+[[v6-23-15]]
+
+^<<v6-23-15,15>>^ And it must occur that, just as all the good word that Jehovah YOUR God has spoken to YOU has come upon YOU, so Jehovah will bring upon YOU all the evil word until he has annihilated YOU from off this good ground that Jehovah YOUR God has given YOU,
+
+[[v6-23-16]]
+
+^<<v6-23-16,16>>^ because of YOUR overstepping the covenant of Jehovah YOUR God that he commanded YOU, and because YOU have gone and served other gods and bowed down to them. And Jehovah’s anger will certainly blaze against YOU, and YOU will certainly perish in a hurry from off the good land that he has given YOU.”
+
+'''
+
+xref:006-joshua/006-joshua-022.adoc#v6-22-0[&#60; Capítulo Anterior] | <<v6-23-0,Topo>> | xref:006-joshua/006-joshua-024.adoc#v6-24-0[Próximo Capítulo &#62;]

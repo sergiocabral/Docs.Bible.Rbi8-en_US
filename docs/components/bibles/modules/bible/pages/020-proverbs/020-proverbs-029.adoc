@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v20-29-0]]
+=== Proverbs, 29
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-29-1]]
+
+^<<v20-29-1,1>>^ A man^&#42;1^ repeatedly reproved but making his neck hard will suddenly be broken, and that without healing.
+
+[NOTE]
+====
+. Lit., “A man.” Heb., ʼish.
+====
+
+[[v20-29-2]]
+
+^<<v20-29-2,2>>^ When the righteous become many, the people rejoice; but when anyone wicked bears rule, the people sigh.
+
+[[v20-29-3]]
+
+^<<v20-29-3,3>>^ A man that is loving wisdom makes his father rejoice, but he that is having companionship with prostitutes destroys valuable things.
+
+[[v20-29-4]]
+
+^<<v20-29-4,4>>^ By justice a king makes a land keep standing, but a man out for bribes^&#42;1^ tears it down.
+
+[NOTE]
+====
+. Lit., “contributions.”
+====
+
+[[v20-29-5]]
+
+^<<v20-29-5,5>>^ An able-bodied man that is flattering his companion is spreading out a mere net for his steps.
+
+[[v20-29-6]]
+
+^<<v20-29-6,6>>^ In the transgression of a bad man there is a snare, but he that is righteous cries out joyfully and is glad.
+
+[[v20-29-7]]
+
+^<<v20-29-7,7>>^ The righteous one is knowing the legal claim of the lowly ones. He that is wicked does not consider such knowledge.
+
+[[v20-29-8]]
+
+^<<v20-29-8,8>>^ Men of boastful talk inflame a town, but those who are wise turn back anger.
+
+[[v20-29-9]]
+
+^<<v20-29-9,9>>^ A wise man having entered into judgment with a foolish man—he has become excited and has also laughed, and there is no rest.
+
+[[v20-29-10]]
+
+^<<v20-29-10,10>>^ Bloodthirsty men hate anyone blameless; and as for the upright ones, they keep seeking for the soul of each one.
+
+[[v20-29-11]]
+
+^<<v20-29-11,11>>^ All his spirit is what a stupid one lets out, but he that is wise keeps it calm to the last.
+
+[[v20-29-12]]
+
+^<<v20-29-12,12>>^ Where a ruler is paying attention to false speech, all those waiting on him will be wicked.
+
+[[v20-29-13]]
+
+^<<v20-29-13,13>>^ The one of little means and the man of oppressions have met each other; &#91;but&#93; Jehovah is lighting up the eyes of them both.
+
+[[v20-29-14]]
+
+^<<v20-29-14,14>>^ Where a king is judging the lowly ones in trueness, his throne will be firmly established for all time.
+
+[[v20-29-15]]
+
+^<<v20-29-15,15>>^ The rod and reproof are what give wisdom; but a boy let on the loose will be causing his mother shame.
+
+[[v20-29-16]]
+
+^<<v20-29-16,16>>^ When the wicked become many, transgression abounds; but those who are righteous will look on their very downfall.
+
+[[v20-29-17]]
+
+^<<v20-29-17,17>>^ Chastise your son and he will bring you rest and give much pleasure to your soul.
+
+[[v20-29-18]]
+
+^<<v20-29-18,18>>^ Where there is no vision the people go unrestrained, but happy are they^&#42;1^ that are keeping the law.
+
+[NOTE]
+====
+. Or, “it,” sing., referring to the “people.”
+====
+
+[[v20-29-19]]
+
+^<<v20-29-19,19>>^ A servant will not let himself be corrected by mere words, for he understands but he is paying no heed.
+
+[[v20-29-20]]
+
+^<<v20-29-20,20>>^ Have you beheld a man hasty with his words? There is more hope for someone stupid than for him.
+
+[[v20-29-21]]
+
+^<<v20-29-21,21>>^ If one is pampering one’s servant from youth on, in his later life he will even become a thankless one.^&#42;1^
+
+[NOTE]
+====
+. “A thankless one.” Heb., ma·nohnʹ, of uncertain meaning.
+====
+
+[[v20-29-22]]
+
+^<<v20-29-22,22>>^ A man given to anger stirs up contention, and anyone disposed to rage^&#42;1^ has many a transgression.
+
+[NOTE]
+====
+. Lit., “and a master of rage.” Heb., u·vaʹʽal che·mahʹ.
+====
+
+[[v20-29-23]]
+
+^<<v20-29-23,23>>^ The very haughtiness of earthling man will humble him, but he that is humble in spirit will take hold of glory.
+
+[[v20-29-24]]
+
+^<<v20-29-24,24>>^ He that is partner with a thief is hating his own soul. An oath involving a curse he may hear, but he reports nothing.
+
+[[v20-29-25]]
+
+^<<v20-29-25,25>>^ Trembling at men^&#42;1^ is what lays a snare, but he that is trusting in Jehovah will be protected.
+
+[NOTE]
+====
+. Lit., “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v20-29-26]]
+
+^<<v20-29-26,26>>^ Many are those seeking the face of a ruler, but the judgment of a man is from Jehovah.
+
+[[v20-29-27]]
+
+^<<v20-29-27,27>>^ A man of injustice is something detestable to the righteous ones, and one who is upright in his way is something detestable to a wicked one.
+
+'''
+
+xref:020-proverbs/020-proverbs-028.adoc#v20-28-0[&#60; Capítulo Anterior] | <<v20-29-0,Topo>> | xref:020-proverbs/020-proverbs-030.adoc#v20-30-0[Próximo Capítulo &#62;]

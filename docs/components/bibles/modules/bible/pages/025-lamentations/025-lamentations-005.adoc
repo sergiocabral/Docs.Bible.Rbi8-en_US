@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v25-5-0]]
+=== Lamentations, 5
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v25-5-1]]
+
+^<<v25-5-1,1>>^ ^&#42;1^ Remember, O Jehovah, what has happened to us. Do look and see our reproach.
+
+[NOTE]
+====
+. This chapter is not an alphabetic acrostic like each of the preceding four chapters, but it does have 22 vss to correspond to the 22 letters of the Heb. alphabet.
+====
+
+[[v25-5-2]]
+
+^<<v25-5-2,2>>^ Our own hereditary possession has been turned over to strangers, our houses to foreigners.
+
+[[v25-5-3]]
+
+^<<v25-5-3,3>>^ We have become mere orphans without a father. Our mothers are like widows.
+
+[[v25-5-4]]
+
+^<<v25-5-4,4>>^ For money^&#42;1^ we have had to drink our own water. For a price our own wood comes in.
+
+[NOTE]
+====
+. Or, “silver.”
+====
+
+[[v25-5-5]]
+
+^<<v25-5-5,5>>^ Close onto our neck we have been pursued. We have grown weary. No rest has been left for us.
+
+[[v25-5-6]]
+
+^<<v25-5-6,6>>^ To Egypt we have given the hand; to As·syrʹi·a, in order to get satisfaction with bread.
+
+[[v25-5-7]]
+
+^<<v25-5-7,7>>^ Our forefathers are the ones that have sinned. They are no more. As for us, it is their errors that we have had to bear.
+
+[[v25-5-8]]
+
+^<<v25-5-8,8>>^ Mere servants have ruled over us. There is no one tearing us away from their hand.
+
+[[v25-5-9]]
+
+^<<v25-5-9,9>>^ At the risk of our soul we bring in our bread, because of the sword of the wilderness.
+
+[[v25-5-10]]
+
+^<<v25-5-10,10>>^ Our very skin has grown hot just like a furnace, because of the pangs of hunger.
+
+[[v25-5-11]]
+
+^<<v25-5-11,11>>^ The wives^&#42;1^ in Zion they have humbled, the virgins in the cities of Judah.
+
+[NOTE]
+====
+. Or, “women.”
+====
+
+[[v25-5-12]]
+
+^<<v25-5-12,12>>^ Princes themselves have been hanged by just their hand. The faces of even old men have not been honored.
+
+[[v25-5-13]]
+
+^<<v25-5-13,13>>^ Even young men have lifted up a hand mill itself, and under the wood mere boys have stumbled.
+
+[[v25-5-14]]
+
+^<<v25-5-14,14>>^ Old men themselves have ceased even out of the gate, young men from their instrumental music.
+
+[[v25-5-15]]
+
+^<<v25-5-15,15>>^ The exultation of our heart has ceased. Our dancing has been changed into mere mourning.
+
+[[v25-5-16]]
+
+^<<v25-5-16,16>>^ The crown of our head has fallen. Woe, now, to us, because we have sinned!
+
+[[v25-5-17]]
+
+^<<v25-5-17,17>>^ On this account our heart has become ill. On account of these things our eyes have grown dim,
+
+[[v25-5-18]]
+
+^<<v25-5-18,18>>^ On account of Zion’s mountain that is desolated; foxes themselves have walked on it.
+
+[[v25-5-19]]
+
+^<<v25-5-19,19>>^ As for you, O Jehovah, to time indefinite you will sit. Your throne is for generation after generation.
+
+[[v25-5-20]]
+
+^<<v25-5-20,20>>^ Why is it that forever you forget us, that you leave us for the length of days?
+
+[[v25-5-21]]
+
+^<<v25-5-21,21>>^ Bring us back, O Jehovah, to yourself, and we shall readily come back. Bring new days for us as in the long ago.
+
+[[v25-5-22]]
+
+^<<v25-5-22,22>>^ However, you have positively rejected us. You have been indignant toward us very much.
+
+'''
+
+xref:025-lamentations/025-lamentations-004.adoc#v25-4-0[&#60; Capítulo Anterior] | <<v25-5-0,Topo>> | xref:026-ezekiel/026-ezekiel-001.adoc#v26-1-0[Próximo Capítulo &#62;]

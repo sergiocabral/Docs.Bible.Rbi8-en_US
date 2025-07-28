@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v19-20-0]]
+=== Psalms, 20
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. A melody of David._
+
+[[v19-20-1]]
+
+^<<v19-20-1,1>>^ May Jehovah answer you in the day of distress.
+May the name of the God^&#42;1^ of Jacob protect you.^&#42;2^
+
+[NOTE]
+====
+. “God of.” Heb., ʼElo·hehʹ.
+. Lit., “place you on high,” that is, out of reach.
+====
+
+[[v19-20-2]]
+
+^<<v19-20-2,2>>^ May he send your help out of the holy place,
+And sustain you out of Zion itself.
+
+[[v19-20-3]]
+
+^<<v19-20-3,3>>^ May he remember all your gift offerings,
+And may he accept your burnt offering as being fat.^&#42;1^ Seʹlah.
+
+[NOTE]
+====
+. Or, “may he clear away the fatty ashes of your burnt (consumed) offering,” as a sign of acceptance.
+====
+
+[[v19-20-4]]
+
+^<<v19-20-4,4>>^ May he^&#42;1^ give to you according to your heart,
+And all your counsel may he fulfill.
+
+[NOTE]
+====
+. “He,” MVg; LXXASy and five Heb. mss, “Jehovah.”
+====
+
+[[v19-20-5]]
+
+^<<v19-20-5,5>>^ We will cry out joyfully because of your salvation,
+And in the name of our God we shall lift our banners.^&#42;1^
+May Jehovah fulfill all your requests.
+
+[NOTE]
+====
+. “We shall be magnified,” LXXVg.
+====
+
+[[v19-20-6]]
+
+^<<v19-20-6,6>>^ Now I do know that Jehovah certainly saves his anointed one.^&#42;1^
+He answers him from his holy heavens
+With the saving mighty acts of his right hand.
+
+[NOTE]
+====
+. “His anointed one.” Heb., meshi·chohʹ; Gr., khri·stonʹ; Syr., meshi·cheh; Lat., chriʹstum.
+====
+
+[[v19-20-7]]
+
+^<<v19-20-7,7>>^ Some concerning chariots and others concerning horses,
+But, as for us, concerning the name of Jehovah our God we shall make mention.^&#42;1^
+
+[NOTE]
+====
+. “We shall be magnified,” LXX; Sy, “we shall gain strength (prevail)”; Vg, “we shall call (invoke).”
+====
+
+[[v19-20-8]]
+
+^<<v19-20-8,8>>^ Those very ones have broken down and fallen;
+But as for us, we have risen up, that we may be restored.
+
+[[v19-20-9]]
+
+^<<v19-20-9,9>>^ O Jehovah, do save the king!
+He will answer us in the day that we call.^&#42;1^
+
+[NOTE]
+====
+. Or, “O Jehovah, do save [us]! Let the king himself answer us in the day that we call.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-019.adoc#v19-19-0[&#60; Capítulo Anterior] | <<v19-20-0,Topo>> | xref:019-psalm/019-psalm-021.adoc#v19-21-0[Próximo Capítulo &#62;]

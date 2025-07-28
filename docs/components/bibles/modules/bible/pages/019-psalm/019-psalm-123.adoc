@@ -1,0 +1,38 @@
+include::./index.adoc[]
+
+[[v19-123-0]]
+=== Psalms, 123
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents._
+
+[[v19-123-1]]
+
+^<<v19-123-1,1>>^ To you I have raised my eyes,
+O You who are dwelling in the heavens.
+
+[[v19-123-2]]
+
+^<<v19-123-2,2>>^ Look! As the eyes of servants are toward the hand of their master,^&#42;1^
+As the eyes of a maidservant are toward the hand of her mistress,
+So our eyes are toward Jehovah our God
+Until he shows us favor.
+
+[NOTE]
+====
+. “Their master.” Heb., ʼadhoh·neh·hemʹ, pl. of ʼa·dhohnʹ, to denote excellence. See Ge 39:2 ftn.
+====
+
+[[v19-123-3]]
+
+^<<v19-123-3,3>>^ Show us favor, O Jehovah, show us favor;
+For to an abundance we have been glutted with contempt.
+
+[[v19-123-4]]
+
+^<<v19-123-4,4>>^ Abundantly our soul has been glutted with the derision of those who are at ease,
+Of the contempt on the part of the arrogant ones.
+
+'''
+
+xref:019-psalm/019-psalm-122.adoc#v19-122-0[&#60; Capítulo Anterior] | <<v19-123-0,Topo>> | xref:019-psalm/019-psalm-124.adoc#v19-124-0[Próximo Capítulo &#62;]

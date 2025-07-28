@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-27-0]]
+=== Proverbs, 27
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-27-1]]
+
+^<<v20-27-1,1>>^ Do not make your boast about the next day, for you do not know what a day will give birth to.
+
+[[v20-27-2]]
+
+^<<v20-27-2,2>>^ May a stranger, and not your own mouth, praise you; may a foreigner, and not your own lips, do so.
+
+[[v20-27-3]]
+
+^<<v20-27-3,3>>^ The heaviness of a stone and a load of sand—but the vexation by someone foolish is heavier than both of them.
+
+[[v20-27-4]]
+
+^<<v20-27-4,4>>^ There is the cruelty of rage, also the flood of anger, but who can stand before jealousy?
+
+[[v20-27-5]]
+
+^<<v20-27-5,5>>^ Better is a revealed reproof than a concealed love.
+
+[[v20-27-6]]
+
+^<<v20-27-6,6>>^ The wounds inflicted by a lover^&#42;1^ are faithful, but the kisses of a hater are things to be entreated.^&#42;2^
+
+[NOTE]
+====
+. Or, “friend.” Heb., ʼoh·hevʹ.
+. Possibly, “are excessive”; or, “are corrupted,” by corrections of M.
+====
+
+[[v20-27-7]]
+
+^<<v20-27-7,7>>^ A soul that is satisfied will tread down comb honey, but to a hungry soul every bitter thing is sweet.
+
+[[v20-27-8]]
+
+^<<v20-27-8,8>>^ Just like a bird fleeing away from its nest, so is a man fleeing away from his place.
+
+[[v20-27-9]]
+
+^<<v20-27-9,9>>^ Oil and incense are what make the heart rejoice, also the sweetness of one’s companion due to the counsel of the soul.
+
+[[v20-27-10]]
+
+^<<v20-27-10,10>>^ Do not leave your own companion or the companion of your father, and do not enter the house of your own brother on the day of your disaster. Better is a neighbor that is near than a brother that is far away.
+
+[[v20-27-11]]
+
+^<<v20-27-11,11>>^ Be wise, my son, and make my heart rejoice, that I may make a reply to him that is taunting me.
+
+[[v20-27-12]]
+
+^<<v20-27-12,12>>^ The shrewd one that has seen the calamity has concealed himself; the inexperienced that have passed along have suffered the penalty.
+
+[[v20-27-13]]
+
+^<<v20-27-13,13>>^ Take one’s garment, in case one has gone surety for a stranger; and in the instance of a foreign woman, seize from him a pledge.
+
+[[v20-27-14]]
+
+^<<v20-27-14,14>>^ He that is blessing his fellowman with a loud voice early in the morning, as a malediction it will be accounted on his part.
+
+[[v20-27-15]]
+
+^<<v20-27-15,15>>^ A leaking roof that drives one away in the day of a steady rain and a contentious wife are comparable.
+
+[[v20-27-16]]
+
+^<<v20-27-16,16>>^ Anyone sheltering her has sheltered the wind, and oil is what his right hand encounters.^&#42;1^
+
+[NOTE]
+====
+. Or, “and the oil of his right hand calls out (betrays itself).”
+====
+
+[[v20-27-17]]
+
+^<<v20-27-17,17>>^ By iron, iron itself is sharpened. So one man^&#42;1^ sharpens the face of another.^&#42;2^
+
+[NOTE]
+====
+. “So one man.” Heb., weʼishʹ.
+. So this vs may read by slight changes of vowel pointing of M, to agree with TLXXSyVg.
+====
+
+[[v20-27-18]]
+
+^<<v20-27-18,18>>^ He that is safeguarding the fig tree will himself eat its fruit, and he that is guarding his master^&#42;1^ will be honored.
+
+[NOTE]
+====
+. “His master.” Heb., ʼadho·navʹ, pl. of ʼa·dhohnʹ, to denote excellence.
+====
+
+[[v20-27-19]]
+
+^<<v20-27-19,19>>^ As in water face corresponds with face, so the heart of a man^&#42;1^ with &#91;that of&#93; a man.
+
+[NOTE]
+====
+. Lit., “so the heart of the earthling man.” Heb., ken lev-ha·ʼa·dhamʹ.
+====
+
+[[v20-27-20]]
+
+^<<v20-27-20,20>>^ Sheʹol and &#91;the place of&#93; destruction^&#42;1^ themselves do not get satisfied; neither do the eyes of a man get satisfied.
+
+[NOTE]
+====
+. “And [the place of] destruction.” Heb., wa·ʼavad·dohʹ, “Abaddon.” Compare Job 26:6 ftn.
+====
+
+[[v20-27-21]]
+
+^<<v20-27-21,21>>^ The refining pot is for silver, and the furnace is for gold; and an individual is according to his praise.
+
+[[v20-27-22]]
+
+^<<v20-27-22,22>>^ Even if you should pound the foolish one fine with a pestle in a mortar, in among cracked grain, his foolishness will not depart from him.
+
+[[v20-27-23]]
+
+^<<v20-27-23,23>>^ You ought to know positively the appearance of your flock. Set your heart to your droves;
+
+[[v20-27-24]]
+
+^<<v20-27-24,24>>^ for treasure will not be to time indefinite, nor a diadem for all generations.
+
+[[v20-27-25]]
+
+^<<v20-27-25,25>>^ The green grass has departed, and the new grass has appeared, and the vegetation of the mountains has been gathered.
+
+[[v20-27-26]]
+
+^<<v20-27-26,26>>^ The young rams are for your clothing, and the he-goats are the price of the field.
+
+[[v20-27-27]]
+
+^<<v20-27-27,27>>^ And there is a sufficiency of goats’ milk for your food, for the food of your household, and the means of life for your girls.
+
+'''
+
+xref:020-proverbs/020-proverbs-026.adoc#v20-26-0[&#60; Capítulo Anterior] | <<v20-27-0,Topo>> | xref:020-proverbs/020-proverbs-028.adoc#v20-28-0[Próximo Capítulo &#62;]

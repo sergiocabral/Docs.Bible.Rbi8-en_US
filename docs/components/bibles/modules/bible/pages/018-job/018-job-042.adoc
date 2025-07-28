@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v18-42-0]]
+=== Job, 42
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-42-1]]
+
+^<<v18-42-1,1>>^ And Job proceeded to answer Jehovah and say:
+
+[[v18-42-2]]
+
+^<<v18-42-2,2>>^ “I have come to know that you are able to do all things,
+And there is no idea that is unattainable for you.
+
+[[v18-42-3]]
+
+^<<v18-42-3,3>>^ ‘Who is this that is obscuring counsel without knowledge?’
+Therefore I talked, but I was not understanding
+Things too wonderful for me, which I do not know.
+
+[[v18-42-4]]
+
+^<<v18-42-4,4>>^ ‘Hear, please, and I myself shall speak.
+I shall question you, and you inform me.’
+
+[[v18-42-5]]
+
+^<<v18-42-5,5>>^ In hearsay^&#42;1^ I have heard about you,
+But now my own eye does see you.
+
+[NOTE]
+====
+. Or, “In a report to the ear.”
+====
+
+[[v18-42-6]]
+
+^<<v18-42-6,6>>^ That is why I make a retraction,
+And I do repent^&#42;1^ in dust and ashes.”
+
+[NOTE]
+====
+. Or, “I do feel regret.”
+====
+
+[[v18-42-7]]
+
+^<<v18-42-7,7>>^ And it came about after Jehovah had spoken these words to Job, that Jehovah proceeded to say to Elʹi·phaz the Teʹman·ite:
+“My anger has grown hot against you and your two companions, for YOU men have not spoken concerning me what is truthful as has my servant Job.
+
+[[v18-42-8]]
+
+^<<v18-42-8,8>>^ And now take for yourselves seven bulls and seven rams and go to my servant Job, and YOU men must offer up a burnt sacrifice in YOUR own behalf; and Job my servant will himself pray for YOU. His face only I shall accept so as not to commit disgraceful folly with YOU, for YOU have not spoken concerning me what is truthful, as has my servant Job.”
+
+[[v18-42-9]]
+
+^<<v18-42-9,9>>^ Accordingly Elʹi·phaz the Teʹman·ite and Bilʹdad the Shuʹhite &#91;and&#93; Zoʹphar the Naʹa·ma·thite went and did just as Jehovah had spoken to them; and so Jehovah accepted Job’s face.
+
+[[v18-42-10]]
+
+^<<v18-42-10,10>>^ And Jehovah himself turned back the captive condition of Job when he prayed in behalf of his companions, and Jehovah began to give in addition all that had been Job’s, in double amount.
+
+[[v18-42-11]]
+
+^<<v18-42-11,11>>^ And there kept coming to him all his brothers and all his sisters and all those formerly knowing him, and they began to eat bread with him in his house and to sympathize with him and to comfort him over all the calamity that Jehovah had let come upon him; and they proceeded each one to give him a piece of money^&#42;1^ and each one a gold ring.
+
+[NOTE]
+====
+. Lit., “give him one qesitah.” A money unit of unknown value.
+====
+
+[[v18-42-12]]
+
+^<<v18-42-12,12>>^ As for Jehovah, he blessed the end of Job afterward more than his beginning, so that he came to have fourteen thousand sheep^&#42;1^ and six thousand camels and a thousand spans of cattle and a thousand she-asses.
+
+[NOTE]
+====
+. See 1:3 ftn, “Sheep.”
+====
+
+[[v18-42-13]]
+
+^<<v18-42-13,13>>^ He also came to have seven sons and three daughters.
+
+[[v18-42-14]]
+
+^<<v18-42-14,14>>^ And he went calling the name of the first Je·miʹmah and the name of the second Ke·ziʹah and the name of the third Kerʹen-hapʹpuch.
+
+[[v18-42-15]]
+
+^<<v18-42-15,15>>^ And no women were found as pretty as Job’s daughters in all the land, and their father proceeded to give them an inheritance in among their brothers.
+
+[[v18-42-16]]
+
+^<<v18-42-16,16>>^ And Job continued living after this a hundred and forty years^&#42;1^ and came to see his sons and his grandsons—four generations.
+
+[NOTE]
+====
+. “But Job lived after the plague a hundred and seventy years; all the [years] that he lived were two hundred and forty-eight [LXXא,B omit “eight”] years,” LXX.
+====
+
+[[v18-42-17]]
+
+^<<v18-42-17,17>>^ And gradually Job died, old and satisfied with days.^&#42;1^
+
+[NOTE]
+====
+. LXX adds: “And it has been written that he will rise again with those whom Jehovah raises up. This [man] is described from the Syriac book as residing in the land of Ausitis [Uz], on the borders of Idumea and Arabia. And formerly his name was Jobab. After taking an Arabian wife, he became father to a son whose name was Ennon. But he himself was the son of his father Zare, a son of the sons of Esau, but [was the son] of his mother Bosorrha, so that he was the fifth [in line] from Abraham. And these are the kings that reigned in Edom, of which country he also was ruler: first, Balak, the son of Beor, and the name of his city was Dennaba; but after Balak, Jobab, the one called Job; but after this one Asom, who happened to be governor out of the country of Thaimanitis; but after this one Adad, the son of Barad, who cut off Madiam in the plain of Moab, and the name of his city was Gethaim. But the friends that came to him [were] Eliphaz, of the sons of Esau, king of the Thaimanites; Bildad the absolute ruler of the Sauchaians; Zophar the king of the Minaians.”
+====
+
+'''
+
+xref:018-job/018-job-041.adoc#v18-41-0[&#60; Capítulo Anterior] | <<v18-42-0,Topo>> | xref:019-psalm/019-psalm-001.adoc#v19-1-0[Próximo Capítulo &#62;]

@@ -1,3 +1,201 @@
-= Título da Tradução Aqui
+include::./index.adoc[]
 
-Este é um arquivo modelo. Coloque o conteúdo da tradução da Bíblia desejada na pasta acima deste arquivo.
+[[v1-1-0]]
+=== Genesis, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-1-1]]
+
+^<<v1-1-1,1>>^ In &#91;the&#93; beginning^&#42;1^ God^&#42;2^ created the heavens and the earth.
+
+[NOTE]
+====
+. “In the beginning.” Heb., Bereʼ·shithʹ. This first book of the Bible is named in Heb. after this opening word. LXXVg name the book “Genesis.”
+. “God.” Heb., אֱלֹהִים (ʼElo·himʹ), without the definite article. ʼElo·himʹ, “God,” with the definite article is first found in 5:22. The title ʼElo·himʹ is pl. to denote excellence or majesty and not a multiple personality or a number of gods. Gr., ὁ θεός (ho The·osʹ), sing. to denote an individual “God.” Compare Jg 16:23 ftn.
+====
+
+[[v1-1-2]]
+
+^<<v1-1-2,2>>^ Now the earth proved to be formless and waste and there was darkness upon the surface of &#91;the&#93; watery deep;^&#42;1^ and God’s active force^&#42;2^ was moving to and fro over the surface of the waters.
+
+[NOTE]
+====
+. Or, “surging waters; primeval ocean.” Heb., thehohmʹ; Gr., a·bysʹsou, “abyss”; Lat., a·bysʹsi. See 7:11 ftn, “Deep.” Compare 6:17 ftn, “Deluge.”
+. “And . . . active force (spirit).” Heb., weruʹach. Besides being translated “spirit,” ruʹach is also translated “wind” and by other words that denote an invisible active force. See 3:8 ftn, “Breezy part”; 8:1 ftn.
+====
+
+[[v1-1-3]]
+
+^<<v1-1-3,3>>^ And God proceeded to say:^&#42;1^ “Let light come to be.” Then there came to be light.
+
+[NOTE]
+====
+. “And . . . proceeded to say.” Heb., wai·yoʼʹmer. The first of more than 40 cases in Genesis chapter 1 of progressive action indicated by a Heb. verb in the imperfect state. See App 3C.
+====
+
+[[v1-1-4]]
+
+^<<v1-1-4,4>>^ After that God saw that the light was good, and God brought about a division between the light and the darkness.
+
+[[v1-1-5]]
+
+^<<v1-1-5,5>>^ And God began calling the light Day, but the darkness he called Night. And there came to be evening and there came to be morning, a first day.
+
+[[v1-1-6]]
+
+^<<v1-1-6,6>>^ And God went on to say: “Let an expanse come to be in between the waters and let a dividing occur between the waters and the waters.”
+
+[[v1-1-7]]
+
+^<<v1-1-7,7>>^ Then God proceeded to make the expanse and to make a division between the waters that should be beneath the expanse and the waters that should be above the expanse. And it came to be so.
+
+[[v1-1-8]]
+
+^<<v1-1-8,8>>^ And God began to call the expanse Heaven. And there came to be evening and there came to be morning, a second day.
+
+[[v1-1-9]]
+
+^<<v1-1-9,9>>^ And God went on to say: “Let the waters under the heavens be brought together into one place and let the dry land appear.” And it came to be so.
+
+[[v1-1-10]]
+
+^<<v1-1-10,10>>^ And God began calling the dry land Earth, but the bringing together of the waters he called Seas. Further, God saw that &#91;it was&#93; good.
+
+[[v1-1-11]]
+
+^<<v1-1-11,11>>^ And God went on to say: “Let the earth cause grass to shoot forth, vegetation bearing seed, fruit trees yielding fruit according to their kinds,^&#42;1^ the seed of which is in it, upon the earth.” And it came to be so.
+
+[NOTE]
+====
+. Lit., “according to its kind (genus).” Heb., lemi·nohʹ; Gr., geʹnos; Lat., geʹnus. The term “kind” here means a created or family kind, its older meaning or definition and not as present-day evolutionists use it.
+====
+
+[[v1-1-12]]
+
+^<<v1-1-12,12>>^ And the earth began to put forth grass, vegetation bearing seed according to its kind and trees yielding fruit, the seed of which is in it according to its kind. Then God saw that &#91;it was&#93; good.
+
+[[v1-1-13]]
+
+^<<v1-1-13,13>>^ And there came to be evening and there came to be morning, a third day.
+
+[[v1-1-14]]
+
+^<<v1-1-14,14>>^ And God went on to say: “Let luminaries come to be in the expanse of the heavens to make a division between the day and the night; and they must serve as signs and for seasons and for days and years.
+
+[[v1-1-15]]
+
+^<<v1-1-15,15>>^ And they must serve as luminaries in the expanse of the heavens to shine upon the earth.” And it came to be so.
+
+[[v1-1-16]]
+
+^<<v1-1-16,16>>^ And God proceeded to make^&#42;1^ the two great luminaries, the greater luminary for dominating the day and the lesser luminary for dominating the night, and also the stars.
+
+[NOTE]
+====
+. “And . . . proceeded to make.” Heb., wai·yaʹʽas (from ʽa·sahʹ). Different from “create” (ba·raʼʹ) found in vss 1, 21, 27; 2:3. Progressive action indicated by the imperfect state. See App 3C.
+====
+
+[[v1-1-17]]
+
+^<<v1-1-17,17>>^ Thus God put them in the expanse of the heavens to shine upon the earth,
+
+[[v1-1-18]]
+
+^<<v1-1-18,18>>^ and to dominate by day and by night and to make a division between the light and the darkness. Then God saw that &#91;it was&#93; good.
+
+[[v1-1-19]]
+
+^<<v1-1-19,19>>^ And there came to be evening and there came to be morning, a fourth day.
+
+[[v1-1-20]]
+
+^<<v1-1-20,20>>^ And God went on to say: “Let the waters swarm forth a swarm of living souls^&#42;1^ and let flying creatures fly over the earth upon the face of the expanse of the heavens.”
+
+[NOTE]
+====
+. “Of living souls.” Gr., ψυχῶν ζωσῶν (psy·khonʹ zo·sonʹ, pl.); Heb., neʹphesh chai·yahʹ, sing., referring to marine animals. In Heb. the same expression is used with reference to man in 2:7. See App 4A.
+====
+
+[[v1-1-21]]
+
+^<<v1-1-21,21>>^ And God proceeded to create^&#42;1^ the great sea monsters^&#42;2^ and every living soul^&#42;3^ that moves about, which the waters swarmed forth according to their kinds, and every winged flying creature according to its kind. And God got to see that &#91;it was&#93; good.
+
+[NOTE]
+====
+. “And . . . proceeded to create.” Heb., wai·yiv·raʼʹ (from ba·raʼʹ). Progressive action indicated by the imperfect state. See App 3C.
+. Or, “great reptiles.”
+. “Living soul.” Heb., neʹphesh ha·chai·yahʹ, sing.; Gr., ψυχὴν ζῴων (psy·khenʹ [sing.] zoiʹon [pl.], “soul of living ones”).
+====
+
+[[v1-1-22]]
+
+^<<v1-1-22,22>>^ With that God blessed them, saying: “Be fruitful and become many and fill the waters in the sea basins, and let the flying creatures become many in the earth.”
+
+[[v1-1-23]]
+
+^<<v1-1-23,23>>^ And there came to be evening and there came to be morning, a fifth day.
+
+[[v1-1-24]]
+
+^<<v1-1-24,24>>^ And God went on to say: “Let the earth put forth living souls according to their kinds, domestic animal^&#42;1^ and moving animal and wild beast^&#42;2^ of the earth according to its kind.” And it came to be so.
+
+[NOTE]
+====
+. Or, “tame animal.” Heb., behe·mahʹ, sing. Compare Job 40:15 ftn.
+. Or, “and living creature.” Heb., wecha·yethohʹ. Also “living creature” in vs 28.
+====
+
+[[v1-1-25]]
+
+^<<v1-1-25,25>>^ And God proceeded to make the wild beast of the earth according to its kind and the domestic animal according to its kind and every moving animal of the ground according to its kind. And God got to see that &#91;it was&#93; good.
+
+[[v1-1-26]]
+
+^<<v1-1-26,26>>^ And God^&#42;1^ went on to say: “Let us make^&#42;2^ man^&#42;3^ in our image,^&#42;4^ according to our likeness, and let them have in subjection the fish of the sea and the flying creatures of the heavens and the domestic animals and all the earth and every moving animal that is moving upon the earth.”
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ. See vs 1 ftn, “God.”
+. “Let us make.” Heb., na·ʽasehʹ. See vs 16 ftn.
+. Or, “earthling man.” Heb., ʼa·dhamʹ, without the definite article.
+. “In our image (shadow; sem­blance).” Heb., betsal·meʹnu.
+====
+
+[[v1-1-27]]
+
+^<<v1-1-27,27>>^ And God proceeded to create the man in his image, in God’s image he created him; male and female he created them.
+
+[[v1-1-28]]
+
+^<<v1-1-28,28>>^ Further, God blessed them and God said to them: “Be fruitful and become many and fill the earth and subdue it, and have in subjection the fish of the sea and the flying creatures of the heavens and every living creature that is moving^&#42;1^ upon the earth.”
+
+[NOTE]
+====
+. Or, “that is creeping.” Heb., ha·ro·meʹseth; Lat., quae mo·venʹtur.
+====
+
+[[v1-1-29]]
+
+^<<v1-1-29,29>>^ And God went on to say: “Here^&#42;1^ I have given to YOU all vegetation bearing seed which is on the surface of the whole earth and every tree on which there is the fruit of a tree bearing seed. To YOU let it serve as food.
+
+[NOTE]
+====
+. Or, “Look.” Heb., hin·nehʹ.
+====
+
+[[v1-1-30]]
+
+^<<v1-1-30,30>>^ And to every wild beast of the earth and to every flying creature of the heavens and to everything moving upon the earth in which there is life as a soul^&#42;1^ I have given all green vegetation for food.” And it came to be so.
+
+[NOTE]
+====
+. Lit., “living soul.” Heb., neʹphesh chai·yahʹ, also rendered “living soul(s)” in vs 20; 2:7.
+====
+
+[[v1-1-31]]
+
+^<<v1-1-31,31>>^ After that God saw everything he had made and, look! &#91;it was&#93; very good. And there came to be evening and there came to be morning, a sixth day.
+
+'''
+
+**&#60; Capítulo Anterior** | <<v1-1-0,Topo>> | xref:001-genesis/001-genesis-002.adoc#v1-2-0[Próximo Capítulo &#62;]

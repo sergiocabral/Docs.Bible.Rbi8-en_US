@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v19-21-0]]
+=== Psalms, 21
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. A melody of David._
+
+[[v19-21-1]]
+
+^<<v19-21-1,1>>^ O Jehovah, in your strength the king rejoices;
+And in your salvation how very joyful he wants to be!
+
+[[v19-21-2]]
+
+^<<v19-21-2,2>>^ The desire of his heart you have given him,
+And the wish of his lips you have not withheld. Seʹlah.
+
+[[v19-21-3]]
+
+^<<v19-21-3,3>>^ For you proceeded to meet him with blessings of good,
+&#91;And&#93; to place on his head a crown of refined gold.
+
+[[v19-21-4]]
+
+^<<v19-21-4,4>>^ Life he asked of you. You gave &#91;it&#93; to him,
+Length of days to time indefinite, even forever.
+
+[[v19-21-5]]
+
+^<<v19-21-5,5>>^ His glory is great in your salvation.
+Dignity and splendor you put upon him.
+
+[[v19-21-6]]
+
+^<<v19-21-6,6>>^ For you constitute him highly blessed forever;
+You make him feel glad with the rejoicing at your face.
+
+[[v19-21-7]]
+
+^<<v19-21-7,7>>^ For the king is trusting in Jehovah,
+Even in the loving-kindness^&#42;1^ of the Most High. He will not be caused to totter.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v19-21-8]]
+
+^<<v19-21-8,8>>^ Your hand will find all your enemies;
+Your own right hand will find those hating you.
+
+[[v19-21-9]]
+
+^<<v19-21-9,9>>^ You will constitute them as a fiery furnace at the appointed time for your attention.
+Jehovah in his anger will swallow them up, and the fire will devour them.
+
+[[v19-21-10]]
+
+^<<v19-21-10,10>>^ Their fruitage you will destroy from the very earth,
+And their offspring^&#42;1^ from the sons of men.^&#42;2^
+
+[NOTE]
+====
+. Or, “seed.”
+. Lit., “earthling man,” used collectively. Heb., ʼa·dhamʹ.
+====
+
+[[v19-21-11]]
+
+^<<v19-21-11,11>>^ For they have directed against you what is bad;
+They have thought out ideas that they are unable to carry out.
+
+[[v19-21-12]]
+
+^<<v19-21-12,12>>^ For you will make them turn their backs in flight
+By your bowstrings that you make ready against their face.
+
+[[v19-21-13]]
+
+^<<v19-21-13,13>>^ O be exalted in your strength, O Jehovah.
+We will sing and make melody to your mightiness.
+
+'''
+
+xref:019-psalm/019-psalm-020.adoc#v19-20-0[&#60; Capítulo Anterior] | <<v19-21-0,Topo>> | xref:019-psalm/019-psalm-022.adoc#v19-22-0[Próximo Capítulo &#62;]

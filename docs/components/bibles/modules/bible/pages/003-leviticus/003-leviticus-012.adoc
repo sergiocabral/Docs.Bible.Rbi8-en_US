@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v3-12-0]]
+=== Leviticus, 12
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-12-1]]
+
+^<<v3-12-1,1>>^ And Jehovah went on to speak to Moses, saying:
+
+[[v3-12-2]]
+
+^<<v3-12-2,2>>^ “Speak to the sons of Israel, saying, ‘In case a woman conceives seed and does bear a male, she must be unclean seven days; as in the days of the impurity when she is menstruating she will be unclean.
+
+[[v3-12-3]]
+
+^<<v3-12-3,3>>^ And on the eighth day the flesh of his foreskin will be circumcised.
+
+[[v3-12-4]]
+
+^<<v3-12-4,4>>^ For thirty-three days more she will stay in the blood of purification. She should not touch any holy thing, and she should not come into the holy place until the fulfilling of the days of her purification.
+
+[[v3-12-5]]
+
+^<<v3-12-5,5>>^ “‘Now if she should bear a female, she must then be unclean fourteen days,^&#42;1^ as during her menstruation. For sixty-six days more she will stay with the blood of purification.
+
+[NOTE]
+====
+. Lit., “two weeks.”
+====
+
+[[v3-12-6]]
+
+^<<v3-12-6,6>>^ Then at the fulfilling of the days of her purification for a son or for a daughter she will bring a young ram in its first year for a burnt offering and a young pigeon^&#42;1^ or a turtledove for a sin offering to the entrance of the tent of meeting to the priest.
+
+[NOTE]
+====
+. Lit., “son of a pigeon.”
+====
+
+[[v3-12-7]]
+
+^<<v3-12-7,7>>^ And he must present it before Jehovah and make atonement for her, and she must be clean from the source of her blood. This is the law about her who bears either a male or a female.
+
+[[v3-12-8]]
+
+^<<v3-12-8,8>>^ But if she cannot afford^&#42;1^ enough for a sheep, she must then take two turtledoves or two young pigeons,^&#42;2^ one for a burnt offering and one for a sin offering, and the priest must make atonement for her, and she must be clean.’”
+
+[NOTE]
+====
+. Lit., “if her hand cannot reach.”
+. Lit., “sons of a pigeon.”
+====
+
+'''
+
+xref:003-leviticus/003-leviticus-011.adoc#v3-11-0[&#60; Capítulo Anterior] | <<v3-12-0,Topo>> | xref:003-leviticus/003-leviticus-013.adoc#v3-13-0[Próximo Capítulo &#62;]

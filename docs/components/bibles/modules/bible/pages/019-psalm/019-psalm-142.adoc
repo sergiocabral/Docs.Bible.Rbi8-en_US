@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v19-142-0]]
+=== Psalms, 142
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Masʹkil.^&#42;1^ Of David, when he happened to be in the cave. A prayer._
+
+[[v19-142-1]]
+
+^<<v19-142-1,1>>^ With my voice, to Jehovah I proceeded to call for aid;
+With my voice, to Jehovah I began to cry for favor.
+
+[[v19-142-2]]
+
+^<<v19-142-2,2>>^ Before him I kept pouring out my concern;
+Before him I continued to tell about my own distress,
+
+[[v19-142-3]]
+
+^<<v19-142-3,3>>^ When my spirit fainted away within me.
+Then you yourself knew my roadway.
+In the path in which I walk
+They have hidden a trap for me.
+
+[[v19-142-4]]
+
+^<<v19-142-4,4>>^ Look to the right hand and see
+That there is no one giving any recognition to me.
+My place for flight has perished from me;
+There is no one inquiring for my soul.
+
+[[v19-142-5]]
+
+^<<v19-142-5,5>>^ I called to you, O Jehovah, for aid.
+I said: “You are my refuge,
+My share in the land of the living ones.”
+
+[[v19-142-6]]
+
+^<<v19-142-6,6>>^ Do pay attention to my entreating cry,
+For I have become very much impoverished.
+Deliver me from my persecutors,
+For they are stronger than I am.
+
+[[v19-142-7]]
+
+^<<v19-142-7,7>>^ Do bring my soul out of the very dungeon
+To laud your name.
+Around me let the righteous ones gather,
+Because you deal appropriately with me.
+
+'''
+
+xref:019-psalm/019-psalm-141.adoc#v19-141-0[&#60; Capítulo Anterior] | <<v19-142-0,Topo>> | xref:019-psalm/019-psalm-143.adoc#v19-143-0[Próximo Capítulo &#62;]

@@ -1,0 +1,332 @@
+include::./index.adoc[]
+
+[[v10-22-0]]
+=== The Second of Samuel, 22
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v10-22-1]]
+
+^<<v10-22-1,1>>^ And David proceeded to speak to Jehovah the words of this song in the day that Jehovah had delivered him out of the palm of all his enemies and out of Saul’s palm;
+
+[[v10-22-2]]
+
+^<<v10-22-2,2>>^ and he went on to say:
+“Jehovah is my crag and my stronghold and the Provider of escape for me.
+
+[[v10-22-3]]
+
+^<<v10-22-3,3>>^ My God is my rock. I shall take refuge in him,
+My shield and my horn of salvation, my secure height,
+And my place for flight, my Savior; from violence you save me.
+
+[[v10-22-4]]
+
+^<<v10-22-4,4>>^ On the One to be praised, Jehovah, I shall call,
+And from my enemies I shall be saved.
+
+[[v10-22-5]]
+
+^<<v10-22-5,5>>^ For deadly breaking waves encircled me;
+There were flash floods of good-for-nothing &#91;men&#93; that kept terrifying me.
+
+[[v10-22-6]]
+
+^<<v10-22-6,6>>^ The ropes of Sheʹol^&#42;1^ themselves surrounded me;
+The snares of death confronted me.
+
+[NOTE]
+====
+. “Sheol.” Heb., sheʼohlʹ; Syr., da·shiul; Vgc(Lat.), in·ferʹni; Gr., tha·naʹtou, “death.” See App 4B.
+====
+
+[[v10-22-7]]
+
+^<<v10-22-7,7>>^ In my distress I kept calling upon Jehovah,
+And to my God I kept calling.
+Then out of his temple he heard my voice,
+With my cry for help in his ears.
+
+[[v10-22-8]]
+
+^<<v10-22-8,8>>^ And back and forth the earth began to shake and to rock;
+The foundations of the heavens themselves became agitated,
+And they kept shaking back and forth because he had been angered.
+
+[[v10-22-9]]
+
+^<<v10-22-9,9>>^ Smoke went up at his nostrils, and fire itself from his mouth kept devouring;
+Coals themselves blazed up from him.
+
+[[v10-22-10]]
+
+^<<v10-22-10,10>>^ And he proceeded to bend the heavens down and to descend;
+And thick gloom was beneath his feet.
+
+[[v10-22-11]]
+
+^<<v10-22-11,11>>^ And he came riding upon a cherub and came flying;
+And he was visible^&#42;1^ upon the wings of a spirit.^&#42;2^
+
+[NOTE]
+====
+. Possibly, “he came darting,” by correcting one Heb. letter, and as in Ps 18:10 and many Heb. mss.
+. Or, “wings of wind.”
+====
+
+[[v10-22-12]]
+
+^<<v10-22-12,12>>^ Then he put a darkness around him as booths,
+Dark waters,^&#42;1^ thick clouds.
+
+[NOTE]
+====
+. Lit., “darkness of waters.”
+====
+
+[[v10-22-13]]
+
+^<<v10-22-13,13>>^ From the brightness in front of him burning coals of fire blazed up.
+
+[[v10-22-14]]
+
+^<<v10-22-14,14>>^ From heaven Jehovah began to thunder,
+And the Most High himself began to give forth his voice.
+
+[[v10-22-15]]
+
+^<<v10-22-15,15>>^ And he kept sending out arrows, that he might scatter them;
+Lightning, that he might throw them into confusion.
+
+[[v10-22-16]]
+
+^<<v10-22-16,16>>^ And the streambeds of the sea became visible,
+The foundations of the productive land^&#42;1^ became uncovered,
+At the rebuke of Jehovah, from the blast of the breath^&#42;2^ of his nostrils.
+
+[NOTE]
+====
+. “Productive land.” Heb., te·velʹ; Gr., oi·kou·meʹnes, “inhabited earth,” the same word as in Mt 24:14; Lat., orʹbis, “[terrestrial] circle.”
+. “Breath of.” Heb., ruʹach; Gr., pneuʹma·tos.
+====
+
+[[v10-22-17]]
+
+^<<v10-22-17,17>>^ He was sending from on high, he was taking me,
+He was drawing me out of great waters.
+
+[[v10-22-18]]
+
+^<<v10-22-18,18>>^ He was delivering me from my strong enemy,
+From those hating me; because they were stronger than I was.
+
+[[v10-22-19]]
+
+^<<v10-22-19,19>>^ They kept confronting me in the day of my disaster,
+But Jehovah became my support.
+
+[[v10-22-20]]
+
+^<<v10-22-20,20>>^ And he proceeded to bring me out into a roomy place;
+He was rescuing me, because he had found delight in me.
+
+[[v10-22-21]]
+
+^<<v10-22-21,21>>^ Jehovah rewards me according to my righteousness;
+According to the cleanness of my hands he repays me.
+
+[[v10-22-22]]
+
+^<<v10-22-22,22>>^ For I have kept the ways of Jehovah,
+And I have not wickedly departed from my God.
+
+[[v10-22-23]]
+
+^<<v10-22-23,23>>^ For all his judicial decisions are in front of me;
+And as for his statutes, I shall not turn aside from them.^&#42;1^
+
+[NOTE]
+====
+. Lit., “it,” fem.
+====
+
+[[v10-22-24]]
+
+^<<v10-22-24,24>>^ And I shall prove myself faultless toward him,
+And I will keep myself from error on my part.
+
+[[v10-22-25]]
+
+^<<v10-22-25,25>>^ And let Jehovah repay me according to my righteousness,
+According to my cleanness in front of his eyes.
+
+[[v10-22-26]]
+
+^<<v10-22-26,26>>^ With someone loyal you will act in loyalty;
+With the faultless, mighty one you will deal faultlessly;
+
+[[v10-22-27]]
+
+^<<v10-22-27,27>>^ With the one keeping clean you will show yourself clean,
+And with the crooked one you will act as silly.
+
+[[v10-22-28]]
+
+^<<v10-22-28,28>>^ And the humble people you will save;
+But your eyes are against the haughty ones, &#91;that&#93; you may bring &#91;them&#93; low.^&#42;1^
+
+[NOTE]
+====
+. Lit., “but your eyes you will lower against the haughty ones.”
+====
+
+[[v10-22-29]]
+
+^<<v10-22-29,29>>^ For you are my lamp, O Jehovah,
+And it is Jehovah that makes my darkness shine.
+
+[[v10-22-30]]
+
+^<<v10-22-30,30>>^ For by you I can run against a marauder band;
+By my God I can climb a wall.
+
+[[v10-22-31]]
+
+^<<v10-22-31,31>>^ As for the &#91;true&#93; God, perfect is his way;
+The saying of Jehovah is a refined one.
+A shield he is to all those taking refuge in him.
+
+[[v10-22-32]]
+
+^<<v10-22-32,32>>^ For who is a God^&#42;1^ besides Jehovah,
+And who is a rock besides our God?^&#42;2^
+
+[NOTE]
+====
+. “Who is a God,” M(Heb., mi-ʼElʹ)Vg; LXX, “who is a Strong One.”
+. “Our God.” Heb., ʼElo·hehʹnu; Gr., The·ouʹ; Lat., Deʹum.
+====
+
+[[v10-22-33]]
+
+^<<v10-22-33,33>>^ The &#91;true&#93; God is my strong fortress,^&#42;1^
+And he will cause my way to be perfect,
+
+[NOTE]
+====
+. In agreement with Ps 18:32, this text might be corrected to read: “The [true] God is girding me with vital energy.”
+====
+
+[[v10-22-34]]
+
+^<<v10-22-34,34>>^ Making^&#42;1^ my feet like those of the hinds;
+And upon places high for me he keeps me standing.
+
+[NOTE]
+====
+. Or, “setting.”
+====
+
+[[v10-22-35]]
+
+^<<v10-22-35,35>>^ He is teaching my hands for warfare;
+And my arms have pressed down a bow of copper.
+
+[[v10-22-36]]
+
+^<<v10-22-36,36>>^ And you will give me your shield of salvation,
+And it is your humility that makes me great.
+
+[[v10-22-37]]
+
+^<<v10-22-37,37>>^ You will make room large enough for my steps under me;
+And my ankles will certainly not wobble.
+
+[[v10-22-38]]
+
+^<<v10-22-38,38>>^ I will pursue my enemies, that I may annihilate them,
+And I shall not return until they are exterminated.
+
+[[v10-22-39]]
+
+^<<v10-22-39,39>>^ And I shall exterminate them and break them in pieces, that they may not rise up;
+And they will fall under my feet.
+
+[[v10-22-40]]
+
+^<<v10-22-40,40>>^ And you will gird me with vital energy for the battle;
+You will make those rising against me collapse under me.
+
+[[v10-22-41]]
+
+^<<v10-22-41,41>>^ And as for my enemies, you will certainly give me the back of their neck;
+Those hating me intensely—I shall also silence them.
+
+[[v10-22-42]]
+
+^<<v10-22-42,42>>^ They cry for help, but there is no savior;
+To Jehovah, but he actually does not answer them.
+
+[[v10-22-43]]
+
+^<<v10-22-43,43>>^ And I shall pound them fine like the dust of the earth;
+Like the mire of the streets I shall pulverize them;
+I shall beat them flat.
+
+[[v10-22-44]]
+
+^<<v10-22-44,44>>^ And you will provide me escape from the faultfinding of my people.
+You will safeguard me to be the head of nations;
+A people that I have not known—they will serve me.
+
+[[v10-22-45]]
+
+^<<v10-22-45,45>>^ Foreigners themselves will come cringing to me;
+Ears will be obedient to hear me.
+
+[[v10-22-46]]
+
+^<<v10-22-46,46>>^ Foreigners^&#42;1^ themselves will fade away,
+And they will come quaking out from their bulwarks.
+
+[NOTE]
+====
+. Lit., “Sons of a foreign (country).”
+====
+
+[[v10-22-47]]
+
+^<<v10-22-47,47>>^ Jehovah is living; and blessed be my Rock;
+And let the God of the rock of my salvation be exalted.
+
+[[v10-22-48]]
+
+^<<v10-22-48,48>>^ The &#91;true&#93; God is the Giver of acts of vengeance to me
+And the One bringing the peoples down under me,
+
+[[v10-22-49]]
+
+^<<v10-22-49,49>>^ And the One bringing me out from my enemies.
+And above those who rise up against me you will lift me up;
+From the man of violent deeds you will deliver me.
+
+[[v10-22-50]]
+
+^<<v10-22-50,50>>^ That is why I shall thank you, O Jehovah, among the nations;
+And to your name I shall make melody:
+
+[[v10-22-51]]
+
+^<<v10-22-51,51>>^ The One doing great acts of salvation for his king
+And exercising loving-kindness^&#42;1^ to his anointed one,^&#42;2^
+To David and to his seed^&#42;3^ for time indefinite.”
+
+[NOTE]
+====
+. Or, “loyal love.”
+. “To his anointed one.” Heb., lim·shi·chohʹ; Gr., khri·stoiʹ; Syr., lam·shi·cheh; Lat., chriʹsto.
+. Or, “offspring; posterity.”
+====
+
+'''
+
+xref:010-2-samuel/010-2-samuel-021.adoc#v10-21-0[&#60; Capítulo Anterior] | <<v10-22-0,Topo>> | xref:010-2-samuel/010-2-samuel-023.adoc#v10-23-0[Próximo Capítulo &#62;]

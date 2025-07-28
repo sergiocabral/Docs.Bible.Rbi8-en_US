@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v2-13-0]]
+=== Exodus, 13
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-13-1]]
+
+^<<v2-13-1,1>>^ And Jehovah spoke further to Moses, saying:
+
+[[v2-13-2]]
+
+^<<v2-13-2,2>>^ “Sanctify to me every male firstborn that opens each womb among the sons of Israel, among men and beasts. It is mine.”
+
+[[v2-13-3]]
+
+^<<v2-13-3,3>>^ And Moses went on to say to the people: “Let there be a remembering^&#42;1^ of this day on which YOU went out of Egypt, from the house of slaves, because by strength of hand Jehovah^&#42;2^ brought YOU out from here. So nothing leavened may be eaten.
+
+[NOTE]
+====
+. Compare 20:8 ftn.
+. Heb., Yeho·wahʹ. See App 1A.
+====
+
+[[v2-13-4]]
+
+^<<v2-13-4,4>>^ Today YOU are going out in the month of Aʹbib.^&#42;1^
+
+[NOTE]
+====
+. “Abib,” meaning “Green Ears,” the ears being ripe but still soft. Abib corresponds to the latter part of March and the first part of April. After the exile of the Jews in Babylon it came to be called Nisan. See App 8B.
+====
+
+[[v2-13-5]]
+
+^<<v2-13-5,5>>^ And it must occur that when Jehovah will have brought you into the land of the Caʹnaan·ites and the Hitʹtites and the Amʹor·ites and the Hiʹvites and the Jebʹu·sites, which he swore to your forefathers to give you, a land flowing with milk and honey, then you must render this service^&#42;1^ in this month.
+
+[NOTE]
+====
+. “Service (feature of worship).” Heb., ha·ʽavo·dhahʹ; Gr., la·treiʹan, “sacred service.” Compare 12:25 ftn.
+====
+
+[[v2-13-6]]
+
+^<<v2-13-6,6>>^ Seven days you are to eat unfermented cakes, and on the seventh day is a festival to Jehovah.
+
+[[v2-13-7]]
+
+^<<v2-13-7,7>>^ Unfermented cakes are to be eaten for the seven days; and nothing leavened is to be seen with you, and no sourdough is to be seen with you within all your boundaries.
+
+[[v2-13-8]]
+
+^<<v2-13-8,8>>^ And you must tell your son on that day, saying, ‘It is because of that which Jehovah has done to me when I came out of Egypt.’
+
+[[v2-13-9]]
+
+^<<v2-13-9,9>>^ And it must serve for you as a sign upon your hand and as a memorial between your eyes, in order that Jehovah’s law may prove to be in your mouth; because by a strong hand Jehovah brought you out of Egypt.
+
+[[v2-13-10]]
+
+^<<v2-13-10,10>>^ And you must keep this statute at its appointed time from year to year.^&#42;1^
+
+[NOTE]
+====
+. Lit., “from days to days.”
+====
+
+[[v2-13-11]]
+
+^<<v2-13-11,11>>^ “And it must occur that when Jehovah brings you into the land of the Caʹnaan·ites, just as he has sworn to you and to your forefathers, and when he does give it to you,
+
+[[v2-13-12]]
+
+^<<v2-13-12,12>>^ then you must devote everyone that opens the womb to Jehovah,^&#42;1^ and every firstling, the young of a beast, which will come to be yours. The males belong to Jehovah.
+
+[NOTE]
+====
+. “To Jehovah.” Heb., la·Yho·wahʹ. See App 1A.
+====
+
+[[v2-13-13]]
+
+^<<v2-13-13,13>>^ And every firstling ass you are to redeem with a sheep, and if you will not redeem it, then you must break its neck. And every firstborn of man among your sons you are to redeem.
+
+[[v2-13-14]]
+
+^<<v2-13-14,14>>^ “And it must occur that in case your son should inquire of you later on, saying, ‘What does this mean?’ then you must say to him, ‘By strength of hand Jehovah brought us out of Egypt, from the house of slaves.
+
+[[v2-13-15]]
+
+^<<v2-13-15,15>>^ And it came about that Pharʹaoh showed obstinacy toward sending us away, and Jehovah^&#42;1^ proceeded to kill every firstborn in the land of Egypt, from the firstborn of man to the firstborn of beast. That is why I am sacrificing to Jehovah all the males that open the womb, and every firstborn of my sons I redeem.’
+
+[NOTE]
+====
+. Heb., Yeho·wahʹ. See App 1A.
+====
+
+[[v2-13-16]]
+
+^<<v2-13-16,16>>^ And it must serve as a sign upon your hand and as a frontlet band between your eyes, because by strength of hand Jehovah brought us out of Egypt.”
+
+[[v2-13-17]]
+
+^<<v2-13-17,17>>^ And it came about at the time of Pharʹaoh’s sending the people away that God did not lead them by the way of the land of the Phi·lisʹtines just because it was near, for God said: “It might be the people will feel regret when they see war and will certainly return to Egypt.”
+
+[[v2-13-18]]
+
+^<<v2-13-18,18>>^ Hence God made the people go round about by the way of the wilderness of the Red Sea. But it was in battle formation^&#42;1^ that the sons of Israel went up out of the land of Egypt.
+
+[NOTE]
+====
+. “In battle formation,” possibly like an army in five parts, with vanguard, rear guard, main body and two wings.
+====
+
+[[v2-13-19]]
+
+^<<v2-13-19,19>>^ And Moses was taking Joseph’s bones with him, because he had made the sons of Israel solemnly swear, saying: “God will without fail turn his attention to YOU, and YOU must take my bones up out of here with YOU.”
+
+[[v2-13-20]]
+
+^<<v2-13-20,20>>^ And they proceeded to depart from Sucʹcoth and to encamp at Eʹtham at the edge of the wilderness.
+
+[[v2-13-21]]
+
+^<<v2-13-21,21>>^ And Jehovah was going ahead of them in the daytime in a pillar of cloud to lead them by the way, and in the nighttime in a pillar of fire to give them light to go in the daytime and nighttime.
+
+[[v2-13-22]]
+
+^<<v2-13-22,22>>^ The pillar of cloud would not move away from before the people in the daytime nor the pillar of fire in the nighttime.
+
+'''
+
+xref:002-exodus/002-exodus-012.adoc#v2-12-0[&#60; Capítulo Anterior] | <<v2-13-0,Topo>> | xref:002-exodus/002-exodus-014.adoc#v2-14-0[Próximo Capítulo &#62;]

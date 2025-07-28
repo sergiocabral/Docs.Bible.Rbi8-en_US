@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v20-12-0]]
+=== Proverbs, 12
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-12-1]]
+
+^<<v20-12-1,1>>^ A lover of discipline is a lover of knowledge, but a hater of reproof is unreasoning.
+
+[[v20-12-2]]
+
+^<<v20-12-2,2>>^ One that is good gets approval from Jehovah, but the man^&#42;1^ of &#91;wicked&#93; ideas he pronounces wicked.
+
+[NOTE]
+====
+. “But the man of.” Heb., weʼishʹ.
+====
+
+[[v20-12-3]]
+
+^<<v20-12-3,3>>^ No man^&#42;1^ will be firmly established by wickedness; but as for the root-foundation of the righteous ones, it will not be caused to stagger.
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v20-12-4]]
+
+^<<v20-12-4,4>>^ A capable wife is a crown to her owner, but as rottenness in his bones is she that acts shamefully.
+
+[[v20-12-5]]
+
+^<<v20-12-5,5>>^ The thoughts of the righteous ones are judgment; the steering by the wicked ones is deception.
+
+[[v20-12-6]]
+
+^<<v20-12-6,6>>^ The words of the wicked ones are a lying in wait^&#42;1^ for blood, but the mouth of the upright ones is what will deliver them.
+
+[NOTE]
+====
+. “A lying in wait.” In Heb. this is a verb in the infinitive construct.
+====
+
+[[v20-12-7]]
+
+^<<v20-12-7,7>>^ There is an overthrowing^&#42;1^ of the wicked ones and they are no more, but the very house of the righteous ones will keep standing.
+
+[NOTE]
+====
+. “There is an overthrowing.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v20-12-8]]
+
+^<<v20-12-8,8>>^ For his mouth of discretion a man will be praised, but one who is twisted at heart will come to be for contempt.
+
+[[v20-12-9]]
+
+^<<v20-12-9,9>>^ Better is the one lightly esteemed but having a servant than the one glorifying himself but in want of bread.
+
+[[v20-12-10]]
+
+^<<v20-12-10,10>>^ The righteous one is caring for the soul of his domestic animal, but the mercies of the wicked ones are cruel.
+
+[[v20-12-11]]
+
+^<<v20-12-11,11>>^ The one cultivating his ground will himself be satisfied with bread, but the one pursuing valueless things is in want of heart.^&#42;1^
+
+[NOTE]
+====
+. Or, “is lacking good motive.” Heb., chasar-levʹ.
+====
+
+[[v20-12-12]]
+
+^<<v20-12-12,12>>^ The wicked one has desired the netted prey of bad men; but as for the root of the righteous ones, it yields.
+
+[[v20-12-13]]
+
+^<<v20-12-13,13>>^ By the transgression of the lips the bad person is ensnared, but the righteous one gets out of distress.
+
+[[v20-12-14]]
+
+^<<v20-12-14,14>>^ From the fruitage of a man’s mouth^&#42;1^ he is satisfied with good, and the very doing of a man’s hands^&#42;2^ will come back to him.
+
+[NOTE]
+====
+. Lit., “mouth of a man.” Heb., phi-ʼishʹ.
+. Lit., “hands of a man.” Heb., yedheh-ʼa·dhamʹ.
+====
+
+[[v20-12-15]]
+
+^<<v20-12-15,15>>^ The way of the foolish one is right in his own eyes, but the one listening to counsel is wise.
+
+[[v20-12-16]]
+
+^<<v20-12-16,16>>^ It is a foolish person that makes known his vexation in the &#91;same&#93; day, but the shrewd one is covering over a dishonor.
+
+[[v20-12-17]]
+
+^<<v20-12-17,17>>^ He that launches forth faithfulness will tell what is righteous, but a false witness, deception.
+
+[[v20-12-18]]
+
+^<<v20-12-18,18>>^ There exists the one speaking thoughtlessly as with the stabs of a sword, but the tongue of the wise ones is a healing.
+
+[[v20-12-19]]
+
+^<<v20-12-19,19>>^ It is the lip of truth that will be firmly established forever, but the tongue of falsehood will be only as long as a moment.^&#42;1^
+
+[NOTE]
+====
+. Lit., “will be only as long as I am inclined to give rest [or, to twinkle].”
+====
+
+[[v20-12-20]]
+
+^<<v20-12-20,20>>^ Deception is in the heart of those fabricating mischief, but those counseling peace have rejoicing.
+
+[[v20-12-21]]
+
+^<<v20-12-21,21>>^ Nothing hurtful will befall the righteous one, but the wicked are the ones that will certainly be filled with calamity.
+
+[[v20-12-22]]
+
+^<<v20-12-22,22>>^ False lips are something detestable to Jehovah, but those acting in faithfulness are a pleasure to him.
+
+[[v20-12-23]]
+
+^<<v20-12-23,23>>^ A shrewd man^&#42;1^ is covering knowledge, but the heart of the stupid ones is one that calls out foolishness.
+
+[NOTE]
+====
+. “Man.” Heb., ʼa·dhamʹ.
+====
+
+[[v20-12-24]]
+
+^<<v20-12-24,24>>^ The hand of the diligent ones is the one that will rule, but the slack hand will come to be for forced labor.
+
+[[v20-12-25]]
+
+^<<v20-12-25,25>>^ Anxious care in the heart of a man^&#42;1^ is what will cause it to bow down, but the good word is what makes it rejoice.
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+====
+
+[[v20-12-26]]
+
+^<<v20-12-26,26>>^ The righteous one spies out his own pasturage, but the very way of wicked ones causes them to wander about.
+
+[[v20-12-27]]
+
+^<<v20-12-27,27>>^ Slackness will not start up one’s game animals, but the diligent one is a man’s^&#42;1^ precious wealth.
+
+[NOTE]
+====
+. “Man’s.” Heb., ʼa·dhamʹ.
+====
+
+[[v20-12-28]]
+
+^<<v20-12-28,28>>^ In the path of righteousness there is life, and the journey in its pathway means no death.
+
+'''
+
+xref:020-proverbs/020-proverbs-011.adoc#v20-11-0[&#60; Capítulo Anterior] | <<v20-12-0,Topo>> | xref:020-proverbs/020-proverbs-013.adoc#v20-13-0[Próximo Capítulo &#62;]

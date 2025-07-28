@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v1-20-0]]
+=== Genesis, 20
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-20-1]]
+
+^<<v1-20-1,1>>^ Now Abraham moved camp from there to the land of the Negʹeb and took up dwelling between Kaʹdesh and Shur and residing as an alien at Geʹrar.
+
+[[v1-20-2]]
+
+^<<v1-20-2,2>>^ And Abraham repeated concerning Sarah his wife: “She is my sister.” With that A·bimʹe·lech^&#42;1^ king of Geʹrar sent and took Sarah.
+
+[NOTE]
+====
+. Likely an official title.
+====
+
+[[v1-20-3]]
+
+^<<v1-20-3,3>>^ Afterward God came to A·bimʹe·lech in a dream by night and said to him: “Here you are as good as dead because of the woman whom you have taken, since she is owned by another owner as his wife.”
+
+[[v1-20-4]]
+
+^<<v1-20-4,4>>^ However, A·bimʹe·lech had not gone near her. Hence he said: “Jehovah,^&#42;1^ will you kill a nation that is really righteous?
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v1-20-5]]
+
+^<<v1-20-5,5>>^ Did not he say to me, ‘She is my sister’? and she—did not she too say, ‘He is my brother’? In the honesty of my heart and with innocency of my hands I have done this.”
+
+[[v1-20-6]]
+
+^<<v1-20-6,6>>^ At that the &#91;true&#93; God said to him in the dream: “I too have known that in the honesty of your heart you have done this, and I was also holding you back from sinning against me. That is why I did not allow you to touch her.
+
+[[v1-20-7]]
+
+^<<v1-20-7,7>>^ But now return the man’s wife, for he is a prophet,^&#42;1^ and he will make supplication for you. So keep living. But if you are not returning her, know that you will positively die, you and all who are yours.”
+
+[NOTE]
+====
+. “A prophet.” Heb., na·viʼʹ; the first occurrence of the word.
+====
+
+[[v1-20-8]]
+
+^<<v1-20-8,8>>^ So A·bimʹe·lech got up early in the morning and proceeded to call all his servants and to speak of all these things in their ears. And the men got very much afraid.
+
+[[v1-20-9]]
+
+^<<v1-20-9,9>>^ Then A·bimʹe·lech called Abraham and said to him: “What have you done to us, and what sin have I committed against you, in that you have brought upon me and my kingdom a great sin? Deeds that should not have been done you have done in connection with me.”
+
+[[v1-20-10]]
+
+^<<v1-20-10,10>>^ And A·bimʹe·lech went on to say to Abraham: “What did you have in view in that you have done this thing?”
+
+[[v1-20-11]]
+
+^<<v1-20-11,11>>^ To this Abraham said: “It was because I said to myself, ‘Doubtless there is no fear of God^&#42;1^ in this place, and they will certainly kill me because of my wife.’
+
+[NOTE]
+====
+. Heb., ʼElo·himʹ, pl. to denote the excellence of Abraham’s God.
+====
+
+[[v1-20-12]]
+
+^<<v1-20-12,12>>^ And, besides, she is truly my sister, the daughter of my father, only not the daughter of my mother; and she became my wife.
+
+[[v1-20-13]]
+
+^<<v1-20-13,13>>^ And it came about that, when God caused me to wander^&#42;1^ from the house of my father, then I said to her, ‘This is your loving-kindness^&#42;2^ which you may exercise toward me: At every place where we shall come say of me: “He is my brother.”’”
+
+[NOTE]
+====
+. “Caused . . . to wander,” pl. to correspond with ʼElo·himʹ, “God”; Sam, “he caused to wander.”
+. Or, “your loyal love.” Heb., chas·dekhʹ.
+====
+
+[[v1-20-14]]
+
+^<<v1-20-14,14>>^ Following that A·bimʹe·lech took sheep and cattle and menservants and maidservants and gave them to Abraham and returned to him Sarah his wife.
+
+[[v1-20-15]]
+
+^<<v1-20-15,15>>^ Further A·bimʹe·lech said: “Here my land is available to you.^&#42;1^ Dwell where it is good in your eyes.”
+
+[NOTE]
+====
+. Or, “open to you.” Lit., “before you.”
+====
+
+[[v1-20-16]]
+
+^<<v1-20-16,16>>^ And to Sarah he said: “Here I do give a thousand silver pieces of money^&#42;1^ to your brother. Here it^&#42;2^ is for you a covering of the eyes^&#42;3^ to all who are with you, and before everybody, and you are cleared of reproach.”^&#42;4^
+
+[NOTE]
+====
+. “Silver pieces of money,” that is, silver shekels. Heb., keʹseph.
+. Or, “he.” Heb., huʼ, masc.
+. “Covering of the eyes.” A Heb. idiom signifying a legal declaration of undamaged womanly reputation, clearing her from accusation in the eyes of others.
+. Or, “ ‘before everybody.’ And she [Sarah] was set in the right light.”
+====
+
+[[v1-20-17]]
+
+^<<v1-20-17,17>>^ And Abraham began to make supplication to the &#91;true&#93; God; and God^&#42;1^ proceeded to heal A·bimʹe·lech and his wife and his slave girls, and they began bearing children.
+
+[NOTE]
+====
+. Heb., ʼElo·himʹ, without the definite article ha.
+====
+
+[[v1-20-18]]
+
+^<<v1-20-18,18>>^ For Jehovah had tightly shut up every womb of the house of A·bimʹe·lech because of Sarah, Abraham’s wife.
+
+'''
+
+xref:001-genesis/001-genesis-019.adoc#v1-19-0[&#60; Capítulo Anterior] | <<v1-20-0,Topo>> | xref:001-genesis/001-genesis-021.adoc#v1-21-0[Próximo Capítulo &#62;]

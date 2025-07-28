@@ -1,0 +1,177 @@
+include::./index.adoc[]
+
+[[v40-20-0]]
+=== According to Matthew, 20
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v40-20-1]]
+
+^<<v40-20-1,1>>^ “For the kingdom of the heavens is like a man, a householder, who went out early in the morning to hire workers for his vineyard.
+
+[[v40-20-2]]
+
+^<<v40-20-2,2>>^ When he had agreed with the workers for a de·narʹi·us^&#42;1^ a day, he sent them forth into his vineyard.
+
+[NOTE]
+====
+. A Roman silver coin that weighed 3.85 g (0.124 oz t).
+====
+
+[[v40-20-3]]
+
+^<<v40-20-3,3>>^ Going out also about the third hour, he saw others standing unemployed in the marketplace;
+
+[[v40-20-4]]
+
+^<<v40-20-4,4>>^ and to those he said, ‘YOU also, go into the vineyard, and whatever is just I will give YOU.’
+
+[[v40-20-5]]
+
+^<<v40-20-5,5>>^ So off they went. Again he went out about the sixth and the ninth hour and did likewise.
+
+[[v40-20-6]]
+
+^<<v40-20-6,6>>^ Finally, about the eleventh hour he went out and found others standing, and he said to them, ‘Why have YOU been standing here all day unemployed?’
+
+[[v40-20-7]]
+
+^<<v40-20-7,7>>^ They said to him, ‘Because nobody has hired us.’ He said to them, ‘YOU too go into the vineyard.’
+
+[[v40-20-8]]
+
+^<<v40-20-8,8>>^ “When it became evening, the master of the vineyard said to his man in charge, ‘Call the workers and pay them their wages, proceeding from the last to the first.’
+
+[[v40-20-9]]
+
+^<<v40-20-9,9>>^ When the eleventh-hour men came, they each received a de·narʹi·us.
+
+[[v40-20-10]]
+
+^<<v40-20-10,10>>^ So, when the first came, they concluded they would receive more; but they also received pay at the rate of a de·narʹi·us.
+
+[[v40-20-11]]
+
+^<<v40-20-11,11>>^ On receiving it they began to murmur against the householder
+
+[[v40-20-12]]
+
+^<<v40-20-12,12>>^ and said, ‘These last put in one hour’s work; still you made them equal to us who bore the burden of the day and the burning heat!’
+
+[[v40-20-13]]
+
+^<<v40-20-13,13>>^ But in reply to one of them he said, ‘Fellow, I do you no wrong. You agreed with me for a de·narʹi·us, did you not?
+
+[[v40-20-14]]
+
+^<<v40-20-14,14>>^ Take what is yours and go. I want to give to this last one the same as to you.
+
+[[v40-20-15]]
+
+^<<v40-20-15,15>>^ Is it not lawful for me to do what I want with my own things? Or is your eye wicked^&#42;1^ because I am good?’
+
+[NOTE]
+====
+. Or, “envious.”
+====
+
+[[v40-20-16]]
+
+^<<v40-20-16,16>>^ In this way the last ones will be first, and the first ones last.”
+
+[[v40-20-17]]
+
+^<<v40-20-17,17>>^ Being now about to go up to Jerusalem, Jesus took the twelve disciples off privately and said to them on the road:
+
+[[v40-20-18]]
+
+^<<v40-20-18,18>>^ “Look! We are going up to Jerusalem, and the Son of man will be delivered up to the chief priests and scribes, and they will condemn him to death,
+
+[[v40-20-19]]
+
+^<<v40-20-19,19>>^ and will deliver him up to &#91;men of&#93; the nations to make fun of and to scourge and to impale,^&#42;1^ and the third day he will be raised up.”
+
+[NOTE]
+====
+. Or, “fasten on a stake (pole).” See App 5C.
+====
+
+[[v40-20-20]]
+
+^<<v40-20-20,20>>^ Then the mother of the sons of Zebʹe·dee approached him with her sons, doing obeisance and asking for something from him.
+
+[[v40-20-21]]
+
+^<<v40-20-21,21>>^ He said to her: “What do you want?” She said to him: “Give the word that these my two sons may sit down, one at your right hand and one at your left, in your kingdom.”
+
+[[v40-20-22]]
+
+^<<v40-20-22,22>>^ Jesus said in answer: “YOU men do not know what YOU are asking for. Can YOU drink the cup that I am about to drink?” They said to him: “We can.”
+
+[[v40-20-23]]
+
+^<<v40-20-23,23>>^ He said to them: “YOU will indeed drink my cup, but this sitting down at my right hand and at my left is not mine to give, but it belongs to those for whom it has been prepared by my Father.”
+
+[[v40-20-24]]
+
+^<<v40-20-24,24>>^ When the ten others heard of this, they became indignant at the two brothers.
+
+[[v40-20-25]]
+
+^<<v40-20-25,25>>^ But Jesus, calling them to him, said: “YOU know that the rulers of the nations lord it over them and the great men wield authority over them.
+
+[[v40-20-26]]
+
+^<<v40-20-26,26>>^ This is not the way among YOU; but whoever wants to become great among YOU must be YOUR minister,^&#42;1^
+
+[NOTE]
+====
+. Or, “servant.” Gr., di·aʹko·nos; Lat., mi·niʹster (from miʹnus, “less”); J22(Heb.), mesha·rethʹ.
+====
+
+[[v40-20-27]]
+
+^<<v40-20-27,27>>^ and whoever wants to be first among YOU must be YOUR slave.
+
+[[v40-20-28]]
+
+^<<v40-20-28,28>>^ Just as the Son of man came, not to be ministered to, but to minister^&#42;1^ and to give his soul^&#42;2^ a ransom^&#42;3^ in exchange for many.”
+
+[NOTE]
+====
+. Or, “to serve (attend).” Gr., di·a·ko·neʹsai; Lat., mi·ni·straʹre; J17,​18,​22(Heb.), lesha·rethʹ.
+. Or, “life.” Gr., psy·khenʹ; Lat., aʹni·mam; J17,​18,​22(Heb.), naph·shohʹ, “his life.”
+. “Ransom.” Gr., lyʹtron; Lat., re·dem·pti·oʹnem; J17,​18,​22(Heb.), koʹpher. Compare 1Ti 2:6 ftn, “Ransom.”
+====
+
+[[v40-20-29]]
+
+^<<v40-20-29,29>>^ Now as they were going out of Jerʹi·cho a great crowd followed him.
+
+[[v40-20-30]]
+
+^<<v40-20-30,30>>^ And, look! two blind men sitting beside the road, when they heard that Jesus was passing by, cried out, saying: “Lord,^&#42;1^ have mercy on us, Son of David!”
+
+[NOTE]
+====
+. “Lord,” P45BCWVg; א, “Jesus”; DSyc omit.
+====
+
+[[v40-20-31]]
+
+^<<v40-20-31,31>>^ But the crowd sternly told them to keep silent; yet they cried all the louder, saying: “Lord, have mercy on us, Son of David!”
+
+[[v40-20-32]]
+
+^<<v40-20-32,32>>^ So Jesus stopped, called them and said: “What do YOU want me to do for YOU?”
+
+[[v40-20-33]]
+
+^<<v40-20-33,33>>^ They said to him: “Lord, let our eyes be opened.”
+
+[[v40-20-34]]
+
+^<<v40-20-34,34>>^ Moved with pity, Jesus touched their eyes, and immediately they received sight, and they followed him.
+
+'''
+
+xref:040-matthew/040-matthew-019.adoc#v40-19-0[&#60; Capítulo Anterior] | <<v40-20-0,Topo>> | xref:040-matthew/040-matthew-021.adoc#v40-21-0[Próximo Capítulo &#62;]

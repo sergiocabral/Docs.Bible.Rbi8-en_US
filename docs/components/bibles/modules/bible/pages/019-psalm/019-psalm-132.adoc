@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v19-132-0]]
+=== Psalms, 132
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents._
+
+[[v19-132-1]]
+
+^<<v19-132-1,1>>^ Remember, O Jehovah, concerning David
+All his humiliations;
+
+[[v19-132-2]]
+
+^<<v19-132-2,2>>^ How he swore to Jehovah,
+How he vowed to the Powerful One of Jacob:
+
+[[v19-132-3]]
+
+^<<v19-132-3,3>>^ “I will not go into the tent of my house.
+I will not go up on the divan of my grand lounge,
+
+[[v19-132-4]]
+
+^<<v19-132-4,4>>^ I will not give sleep to my eyes,
+Nor slumber to my own beaming eyes,
+
+[[v19-132-5]]
+
+^<<v19-132-5,5>>^ Until I find a place for Jehovah,
+A grand tabernacle^&#42;1^ for the Powerful One of Jacob.”
+
+[NOTE]
+====
+. Or, “grand residence.” Lit., “tabernacles,” but pl. to denote excellence.
+====
+
+[[v19-132-6]]
+
+^<<v19-132-6,6>>^ Look! We have heard it in Ephʹra·thah,
+We have found it in the fields of the forest.
+
+[[v19-132-7]]
+
+^<<v19-132-7,7>>^ Let us come into his grand tabernacle;
+Let us bow down at his footstool.
+
+[[v19-132-8]]
+
+^<<v19-132-8,8>>^ Do arise, O Jehovah, to your resting-place,
+You and the ark of your strength.
+
+[[v19-132-9]]
+
+^<<v19-132-9,9>>^ Let your priests themselves be clothed with righteousness,
+And let your own loyal ones cry out joyfully.
+
+[[v19-132-10]]
+
+^<<v19-132-10,10>>^ On account of David your servant,
+Do not turn back the face of your anointed one.^&#42;1^
+
+[NOTE]
+====
+. “Your anointed one.” Heb., meshi·cheʹkha; Gr., khri·stouʹ; Syr., meshi·chakh; Lat., chriʹsti.
+====
+
+[[v19-132-11]]
+
+^<<v19-132-11,11>>^ Jehovah has sworn to David,
+Truly he will not draw back from it:^&#42;1^
+“Of the fruitage of your belly
+I shall set on your throne.
+
+[NOTE]
+====
+. Or, “a truth from which he will not draw back.”
+====
+
+[[v19-132-12]]
+
+^<<v19-132-12,12>>^ If your sons will keep my covenant
+And my reminders that I shall teach them,
+Their sons also forever
+Will sit upon your throne.”
+
+[[v19-132-13]]
+
+^<<v19-132-13,13>>^ For Jehovah has chosen Zion;
+He has longed for it^&#42;1^ as a dwelling for himself:
+
+[NOTE]
+====
+. Or, “her,” fem., referring to “Zion.”
+====
+
+[[v19-132-14]]
+
+^<<v19-132-14,14>>^ “This is my resting-place forever;
+Here I shall dwell, for I have longed for it.
+
+[[v19-132-15]]
+
+^<<v19-132-15,15>>^ Its^&#42;1^ provisions I shall bless without fail.
+Its poor ones I shall satisfy with bread.^&#42;2^
+
+[NOTE]
+====
+. See vs 13 ftn.
+. Or, “food.”
+====
+
+[[v19-132-16]]
+
+^<<v19-132-16,16>>^ And its priests I shall clothe with salvation;
+And its loyal ones will without fail cry out joyfully.
+
+[[v19-132-17]]
+
+^<<v19-132-17,17>>^ There I shall cause the horn of David to grow.
+I have set in order a lamp for my anointed one.^&#42;1^
+
+[NOTE]
+====
+. “For my anointed one.” Heb., lim·shi·chiʹ; Gr., khri·stoiʹ; Syr., lam·shi·cheh; Lat., chriʹsto.
+====
+
+[[v19-132-18]]
+
+^<<v19-132-18,18>>^ His enemies I shall clothe with shame;
+But upon him his diadem will flourish.”^&#42;1^
+
+[NOTE]
+====
+. Or, “put forth blossoms.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-131.adoc#v19-131-0[&#60; Capítulo Anterior] | <<v19-132-0,Topo>> | xref:019-psalm/019-psalm-133.adoc#v19-133-0[Próximo Capítulo &#62;]

@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v9-24-0]]
+=== The First of Samuel, 24
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-24-1]]
+
+^<<v9-24-1,1>>^ And it came about that, as soon as Saul returned from following the Phi·lisʹtines, they came reporting to him, saying: “Look! David is in the wilderness of En-geʹdi.”
+
+[[v9-24-2]]
+
+^<<v9-24-2,2>>^ And Saul proceeded to take three thousand chosen men out of all Israel and to go looking for David and his men upon the bare rocks of the mountain goats.
+
+[[v9-24-3]]
+
+^<<v9-24-3,3>>^ At length he came to the stone sheepfolds along the road, where a cave was. So Saul came in to ease nature,^&#42;1^ while David and his men were in the parts of the cave farthest back, sitting down.
+
+[NOTE]
+====
+. Lit., “came in to cover his feet.”
+====
+
+[[v9-24-4]]
+
+^<<v9-24-4,4>>^ And David’s men began to say to him: “Here is the day on which Jehovah does say to you, ‘Look! I am giving your enemy into your hand, and you must do to him just as it may seem good in your eyes.’” So David rose up and quietly cut off the skirt of the sleeveless coat that belonged to Saul.
+
+[[v9-24-5]]
+
+^<<v9-24-5,5>>^ But it came about afterward that David’s heart kept striking him for the reason that he had cut off the skirt &#91;of the sleeveless coat&#93;^&#42;1^ that belonged to Saul.
+
+[NOTE]
+====
+. “Skirt of the sleeveless coat,” TLXXSyVg and eight Heb. mss; M, “skirt.”
+====
+
+[[v9-24-6]]
+
+^<<v9-24-6,6>>^ Hence he said to his men: “It is unthinkable, on my part, from Jehovah’s standpoint, that I should do this thing to my lord, the anointed^&#42;1^ of Jehovah, by thrusting out my hand against him, for he is the anointed of Jehovah.”
+
+[NOTE]
+====
+. “To my lord, the anointed of.” Heb., laʼ·dho·niʹ lim·shiʹach; Gr., toi ky·riʹoi mou toi khri·stoiʹ; Syr., lemari lam·shi·cheh; Lat., doʹmi·no meʹo chriʹsto.
+====
+
+[[v9-24-7]]
+
+^<<v9-24-7,7>>^ Accordingly David dispersed his men with these words, and he did not allow them to rise up against Saul. As for Saul, he rose up from the cave and kept going on his way.
+
+[[v9-24-8]]
+
+^<<v9-24-8,8>>^ So David rose up afterward and went out from the cave and called out after Saul, saying: “My lord the king!” At this Saul looked behind him, and David proceeded to bow low with his face to the earth and prostrate himself.
+
+[[v9-24-9]]
+
+^<<v9-24-9,9>>^ And David went on to say to Saul: “Why do you listen to the words of man, saying, ‘Look! David is seeking your hurt’?
+
+[[v9-24-10]]
+
+^<<v9-24-10,10>>^ Here this day your eyes have seen how Jehovah gave you today into my hand in the cave; and someone said to kill you, but I felt sorry for you and said, ‘I shall not thrust out my hand against my lord, for he is the anointed of Jehovah.’
+
+[[v9-24-11]]
+
+^<<v9-24-11,11>>^ And, my father, see, yes, see the skirt of your sleeveless coat in my hand, for when I cut off the skirt of your sleeveless coat I did not kill you. Know and see that there is no badness or revolt in my hand, and I have not sinned against you, while you are lying in wait for my soul to take it away.
+
+[[v9-24-12]]
+
+^<<v9-24-12,12>>^ May Jehovah judge between me and you; and Jehovah must take vengeance for me from you, but my own hand will not come to be upon you.
+
+[[v9-24-13]]
+
+^<<v9-24-13,13>>^ Just as the proverb of the ancients says, ‘From the wicked ones wickedness will go forth,’ but my own hand will not come to be upon you.
+
+[[v9-24-14]]
+
+^<<v9-24-14,14>>^ After whom has the king of Israel gone out? After whom are you chasing? After a dead dog? After a single flea?
+
+[[v9-24-15]]
+
+^<<v9-24-15,15>>^ And Jehovah must become judge, and he must judge between me and you, and he will see and he will conduct the legal case for me and judge me &#91;to free me&#93; from your hand.”
+
+[[v9-24-16]]
+
+^<<v9-24-16,16>>^ And it came about that, at the moment that David finished speaking these words to Saul, Saul proceeded to say: “Is this your voice, my son David?” And Saul began to raise his own voice and weep.
+
+[[v9-24-17]]
+
+^<<v9-24-17,17>>^ And he went on to say to David: “You are more righteous than I am, for it is you who have rendered me good, and it is I who have rendered you evil.
+
+[[v9-24-18]]
+
+^<<v9-24-18,18>>^ And you—you have told today what good you have done in connection with me in that Jehovah surrendered me into your hand and you did not kill me.
+
+[[v9-24-19]]
+
+^<<v9-24-19,19>>^ Now in the case where a man finds his enemy, will he send him away on a good road? So Jehovah himself will reward you with good, due to the fact that this day you have done it to me.
+
+[[v9-24-20]]
+
+^<<v9-24-20,20>>^ And now, look! I well know that you will, without fail, rule as king, and that in your hand the kingdom of Israel will certainly endure.
+
+[[v9-24-21]]
+
+^<<v9-24-21,21>>^ So now do swear to me by Jehovah that you will not cut off my seed after me and that you will not annihilate my name out of the house of my father.”
+
+[[v9-24-22]]
+
+^<<v9-24-22,22>>^ Accordingly David swore to Saul, after which Saul went to his home. As for David and his men, they went up to the place difficult to approach.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-023.adoc#v9-23-0[&#60; Capítulo Anterior] | <<v9-24-0,Topo>> | xref:009-1-samuel/009-1-samuel-025.adoc#v9-25-0[Próximo Capítulo &#62;]

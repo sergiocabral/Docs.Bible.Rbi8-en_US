@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-60-0]]
+=== Psalms, 60
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director on The Lily of Reminder. Mikʹtam.^&#42;1^ Of David. For teaching. When he engaged in a struggle with Aʹram-na·ha·raʹim and Aʹram-Zoʹbah, and Joʹab proceeded to return and strike down Eʹdom in the Valley of Salt, even twelve thousand._
+
+[[v19-60-1]]
+
+^<<v19-60-1,1>>^ O God, you have cast us off, you have broken through us,
+You have become incensed. You should restore us.
+
+[[v19-60-2]]
+
+^<<v19-60-2,2>>^ You have caused the earth to rock, you have split it open.
+Heal its breaches, for it has tottered.
+
+[[v19-60-3]]
+
+^<<v19-60-3,3>>^ You have caused your people to see hardship.
+You have made us drink wine sending us reeling.
+
+[[v19-60-4]]
+
+^<<v19-60-4,4>>^ You have given to those fearing you a signal
+To flee zigzag^&#42;1^ on account of the bow. Seʹlah.
+
+[NOTE]
+====
+. “To run zigzag,” by one derivation of the root verb; by a different root word, “for it to be displayed,” or, “to rally around.”
+====
+
+[[v19-60-5]]
+
+^<<v19-60-5,5>>^ In order that your beloved ones may be rescued,
+O do save with your right hand and answer us.^&#42;1^
+
+[NOTE]
+====
+. “Us,” M; MmarginTLXXSyVg and many Heb. mss, “me.”
+====
+
+[[v19-60-6]]
+
+^<<v19-60-6,6>>^ God himself has spoken in his holiness:
+“I will exult, I will give out Sheʹchem as a portion;
+And the low plain of Sucʹcoth I shall measure off.
+
+[[v19-60-7]]
+
+^<<v19-60-7,7>>^ Gilʹe·ad belongs to me and Ma·nasʹseh belongs to me,
+And Eʹphra·im is the fortress of my head one;
+Judah is my commander’s staff.
+
+[[v19-60-8]]
+
+^<<v19-60-8,8>>^ Moʹab is my washing pot.
+Over Eʹdom I shall throw my sandal.
+Over Phi·lisʹti·a I shall shout in triumph.”^&#42;1^
+
+[NOTE]
+====
+. According to Sy; T, “Over the Philistines the congregation of Israel jubilates.”
+====
+
+[[v19-60-9]]
+
+^<<v19-60-9,9>>^ Who will bring me to the besieged city?
+Who will certainly lead me as far as Eʹdom?
+
+[[v19-60-10]]
+
+^<<v19-60-10,10>>^ Is it not you, O God, who have cast us off
+And who do not go forth with our armies as God?
+
+[[v19-60-11]]
+
+^<<v19-60-11,11>>^ Do give us assistance from distress,
+As salvation by earthling man is worthless.
+
+[[v19-60-12]]
+
+^<<v19-60-12,12>>^ By God we shall gain vital energy,
+And he himself will tread down our adversaries.
+
+'''
+
+xref:019-psalm/019-psalm-059.adoc#v19-59-0[&#60; Capítulo Anterior] | <<v19-60-0,Topo>> | xref:019-psalm/019-psalm-061.adoc#v19-61-0[Próximo Capítulo &#62;]

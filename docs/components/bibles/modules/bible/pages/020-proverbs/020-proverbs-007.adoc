@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v20-7-0]]
+=== Proverbs, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-7-1]]
+
+^<<v20-7-1,1>>^ My son, keep my sayings, and may you treasure up my own commandments with you.
+
+[[v20-7-2]]
+
+^<<v20-7-2,2>>^ Keep my commandments and continue living, and my law like the pupil of your eyes.
+
+[[v20-7-3]]
+
+^<<v20-7-3,3>>^ Tie them upon your fingers, and write them upon the tablet of your heart.
+
+[[v20-7-4]]
+
+^<<v20-7-4,4>>^ Say to wisdom: “You are my sister”; and may you call understanding itself “Kinswoman,”
+
+[[v20-7-5]]
+
+^<<v20-7-5,5>>^ to guard you against the woman stranger, against the foreigner who has made her own sayings smooth.
+
+[[v20-7-6]]
+
+^<<v20-7-6,6>>^ For at the window of my house, through my lattice I looked down,
+
+[[v20-7-7]]
+
+^<<v20-7-7,7>>^ that I might peer upon the inexperienced ones. I was interested in discerning among the sons a young man in want of heart,^&#42;1^
+
+[NOTE]
+====
+. Or, “lacking good motive.” Heb., chasar-levʹ.
+====
+
+[[v20-7-8]]
+
+^<<v20-7-8,8>>^ passing along on the street near her corner, and in the way to her house he marches,
+
+[[v20-7-9]]
+
+^<<v20-7-9,9>>^ in the twilight, in the evening of the day, at the approach^&#42;1^ of the night and the gloom.
+
+[NOTE]
+====
+. “Approach,” by a slight correction; M, “pupil (of the eye),” or, “middle.”
+====
+
+[[v20-7-10]]
+
+^<<v20-7-10,10>>^ And, look! there was a woman to meet him, with the garment of a prostitute and cunning^&#42;1^ of heart.
+
+[NOTE]
+====
+. Lit., “guarded.”
+====
+
+[[v20-7-11]]
+
+^<<v20-7-11,11>>^ She is boisterous and stubborn. In her house her feet do not keep residing.
+
+[[v20-7-12]]
+
+^<<v20-7-12,12>>^ Now she is outdoors, now she is in the public squares, and near every corner she lies in wait.
+
+[[v20-7-13]]
+
+^<<v20-7-13,13>>^ And she has grabbed hold of him and given him a kiss. She has put on a bold face, and she begins to say to him:
+
+[[v20-7-14]]
+
+^<<v20-7-14,14>>^ “Communion sacrifices were incumbent upon me. Today I have paid my vows.
+
+[[v20-7-15]]
+
+^<<v20-7-15,15>>^ That is why I have come out to meet you, to look for your face, that I may find you.
+
+[[v20-7-16]]
+
+^<<v20-7-16,16>>^ With coverlets I have bedecked my divan, with many-colored things, linen of Egypt.
+
+[[v20-7-17]]
+
+^<<v20-7-17,17>>^ I have besprinkled my bed with myrrh, aloes and cinnamon.
+
+[[v20-7-18]]
+
+^<<v20-7-18,18>>^ Do come, let us drink our fill of love until the morning; do let us enjoy each other with love expressions.
+
+[[v20-7-19]]
+
+^<<v20-7-19,19>>^ For the husband is not in his house; he has gone traveling on a way of some distance.
+
+[[v20-7-20]]
+
+^<<v20-7-20,20>>^ A bag of money^&#42;1^ he has taken in his hand. On the day of the full moon he will come to his house.”
+
+[NOTE]
+====
+. Lit., “the silver.”
+====
+
+[[v20-7-21]]
+
+^<<v20-7-21,21>>^ She has misled him by the abundance of her persuasiveness. By the smoothness of her lips she seduces him.
+
+[[v20-7-22]]
+
+^<<v20-7-22,22>>^ All of a sudden he is going after her,^&#42;1^ like a bull that comes even to the slaughter, and just as if fettered^&#42;2^ for the discipline of a foolish man,
+
+[NOTE]
+====
+. Or, “with her.”
+. “Fettered,” by a change of vowel pointing; M, “an anklet (fetter).”
+====
+
+[[v20-7-23]]
+
+^<<v20-7-23,23>>^ until an arrow cleaves open his liver, just as a bird hastens into the trap, and he has not known that it involves his very soul.^&#42;1^
+
+[NOTE]
+====
+. “That it involves his very soul (life).” Heb., ki-venaph·shohʹ huʼ; Gr., psy·khesʹ; Lat., aʹni·mae. See App 4A.
+====
+
+[[v20-7-24]]
+
+^<<v20-7-24,24>>^ And now, O sons, listen to me and pay attention to the sayings of my mouth.
+
+[[v20-7-25]]
+
+^<<v20-7-25,25>>^ May your heart not turn aside to her ways. Do not wander into her roadways.
+
+[[v20-7-26]]
+
+^<<v20-7-26,26>>^ For many are the ones she has caused to fall down slain, and all those being killed by her are numerous.
+
+[[v20-7-27]]
+
+^<<v20-7-27,27>>^ The ways to Sheʹol^&#42;1^ her house is; they are descending to the interior rooms of death.
+
+[NOTE]
+====
+. “Sheol.” Heb., sheʼohlʹ; Gr., haiʹdou; Lat., inʹfe·ri.
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-006.adoc#v20-6-0[&#60; Capítulo Anterior] | <<v20-7-0,Topo>> | xref:020-proverbs/020-proverbs-008.adoc#v20-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v16-1-0]]
+=== Nehemiah, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v16-1-1]]
+
+^<<v16-1-1,1>>^ ^&#42;1^ The words of Ne·he·miʹah the son of Hac·a·liʹah: Now it came about in the month Chisʹlev,^&#42;2^ in the twentieth year, that I myself happened to be in Shuʹshan the castle.^&#42;3^
+
+[NOTE]
+====
+. In LXX this is chapter 11 of Second Esdras (2 Ezra).
+. “Chislev.” The postexilic name of the ninth Jewish lunar month, which falls within November and December. See App 8B.
+. Or, “fortress.”
+====
+
+[[v16-1-2]]
+
+^<<v16-1-2,2>>^ Then Ha·naʹni, one of my brothers, came in, he and other men from Judah, and I proceeded to ask them about the Jews, those who had escaped, who had been left over of the captivity, and also about Jerusalem.
+
+[[v16-1-3]]
+
+^<<v16-1-3,3>>^ Accordingly they said to me: “Those left over, who have been left over from the captivity, there in the jurisdictional district, are in a very bad plight and in reproach; and the wall of Jerusalem is broken down, and its very gates have been burned with fire.”
+
+[[v16-1-4]]
+
+^<<v16-1-4,4>>^ And it came about that, as soon as I heard these words, I sat down and began to weep and mourn for days, and I was continually fasting and praying before the God of the heavens.
+
+[[v16-1-5]]
+
+^<<v16-1-5,5>>^ And I went on to say: “Ah, Jehovah the God^&#42;1^ of the heavens, the God^&#42;2^ great and fear-inspiring, keeping the covenant and loving-kindness^&#42;3^ toward those loving him and keeping his commandments,
+
+[NOTE]
+====
+. “The God of.” Heb., ʼElo·hehʹ, followed by the qualifying expression “the heavens.” See 2Ch 36:23 ftn.
+. “The God.” The title ʼEl preceded by the Heb. definite article ha, “the,” but followed by the qualifications “great and fear-inspiring.” See App 1G.
+. Or, “loyal love.”
+====
+
+[[v16-1-6]]
+
+^<<v16-1-6,6>>^ please, let your ear become attentive and your eyes opened, to listen to the prayer of your servant, which I am praying before you today, day and night, concerning the sons of Israel your servants, all the while making confession concerning the sins of the sons of Israel with which we have sinned against you. We have sinned, both I and the house of my father.
+
+[[v16-1-7]]
+
+^<<v16-1-7,7>>^ We have unquestionably acted corruptly against you and have not kept the commandments and the regulations and the judicial decisions that you gave in command to Moses your servant.
+
+[[v16-1-8]]
+
+^<<v16-1-8,8>>^ “Remember, please, the word that you commanded Moses your servant, saying, ‘Should YOU, for YOUR part, act unfaithfully, I, for my part, shall scatter YOU among the peoples.
+
+[[v16-1-9]]
+
+^<<v16-1-9,9>>^ When YOU will have returned to me and kept my commandments and done them, though YOUR dispersed people should happen to be at the end of the heavens, from there I shall collect them and certainly bring them to the place that I have chosen to have my name reside there.’
+
+[[v16-1-10]]
+
+^<<v16-1-10,10>>^ And they are your servants and your people, whom you redeemed by your great power and by your strong hand.
+
+[[v16-1-11]]
+
+^<<v16-1-11,11>>^ Ah, Jehovah,^&#42;1^ please, let your ear become attentive to the prayer of your servant and to the prayer of your servants who take delight in fearing your name; and, please, do grant success to your servant today and make him an object of pity before this man.”
+Now I myself happened to be cupbearer to the king.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+'''
+
+xref:015-ezra/015-ezra-010.adoc#v15-10-0[&#60; Capítulo Anterior] | <<v16-1-0,Topo>> | xref:016-nehemiah/016-nehemiah-002.adoc#v16-2-0[Próximo Capítulo &#62;]

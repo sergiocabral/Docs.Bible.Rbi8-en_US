@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v44-24-0]]
+=== Acts of Apostles, 24
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v44-24-1]]
+
+^<<v44-24-1,1>>^ Five days later the high priest An·a·niʹas came down with some older men^&#42;1^ and a public speaker, a certain Ter·tulʹlus, and they gave information to the governor against Paul.
+
+[NOTE]
+====
+. Or, “elders.”
+====
+
+[[v44-24-2]]
+
+^<<v44-24-2,2>>^ When he was called, Ter·tulʹlus started accusing him, saying:
+“Seeing that we enjoy great peace through you and that reforms are taking place in this nation through your forethought,
+
+[[v44-24-3]]
+
+^<<v44-24-3,3>>^ at all times and also in all places we receive it, Your Excellency Felix, with the greatest thankfulness.
+
+[[v44-24-4]]
+
+^<<v44-24-4,4>>^ But that I may not hinder you any further, I beseech you to hear us briefly in your kindliness.
+
+[[v44-24-5]]
+
+^<<v44-24-5,5>>^ For we have found this man a pestilent fellow and stirring up seditions among all the Jews throughout the inhabited earth and a spearhead^&#42;1^ of the sect^&#42;2^ of the Naz·a·renesʹ,
+
+[NOTE]
+====
+. Or, “chief leader.”
+. “Sect.” Gr., hai·reʹse·os; Lat., secʹtae.
+====
+
+[[v44-24-6]]
+
+^<<v44-24-6,6>>^ one who also tried to profane the temple and whom we seized.
+
+[[v44-24-7]]
+
+^<<v44-24-7,7>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. P74אABVg omit the following from vss 6-8, which read, according to VgcSyh,pArm: “and wanted to judge according to our Law. (7) But Lysias the military commander came up and with great force took him out of our hands, (8) commanding his accusers to come to you.”
+====
+
+[[v44-24-8]]
+
+^<<v44-24-8,8>>^ From him you yourself can by examination find out about all these things of which we are accusing him.”
+
+[[v44-24-9]]
+
+^<<v44-24-9,9>>^ With that the Jews also joined in the attack, asserting that these things were so.
+
+[[v44-24-10]]
+
+^<<v44-24-10,10>>^ And Paul, when the governor nodded to him to speak, answered:
+“Knowing well that this nation has had you as judge for many years, I readily speak in my defense the things about myself,
+
+[[v44-24-11]]
+
+^<<v44-24-11,11>>^ as you are in a position to find out that for me it has not been more than twelve days since I went up to worship in Jerusalem;
+
+[[v44-24-12]]
+
+^<<v44-24-12,12>>^ and they found me neither in the temple arguing with anyone nor causing a mob to rush together, either in the synagogues or throughout the city.
+
+[[v44-24-13]]
+
+^<<v44-24-13,13>>^ Nor can they prove to you the things of which they are accusing me right now.
+
+[[v44-24-14]]
+
+^<<v44-24-14,14>>^ But I do admit this to you, that, according to the way that they call a ‘sect,’ in this manner I am rendering sacred service^&#42;1^ to the God of my forefathers, as I believe all the things set forth in the Law and written in the Prophets;
+
+[NOTE]
+====
+. “I am rendering sacred service.” Gr., la·treuʹo; J17,​18(Heb.), ʼaniʹ ʽo·vedhʹ, “I am serving (worshiping).” See Ex 3:12 ftn.
+====
+
+[[v44-24-15]]
+
+^<<v44-24-15,15>>^ and I have hope toward God, which hope these &#91;men&#93; themselves also entertain, that there is going to be a resurrection^&#42;1^ of both the righteous and the unrighteous.
+
+[NOTE]
+====
+. “Resurrection.” Gr., a·naʹsta·sin, “raising up; standing up” (from a·naʹ, “up,” and staʹsis, “standing”); Lat., re·sur·rec·ti·oʹnem.
+====
+
+[[v44-24-16]]
+
+^<<v44-24-16,16>>^ In this respect, indeed, I am exercising myself continually to have a consciousness of committing no offense against God and men.
+
+[[v44-24-17]]
+
+^<<v44-24-17,17>>^ So after quite a number of years I arrived to bring gifts of mercy to my nation, and offerings.
+
+[[v44-24-18]]
+
+^<<v44-24-18,18>>^ While I was at these matters they found me ceremonially cleansed in the temple, but not with a crowd or with a tumult. But there were certain Jews from the &#91;district of&#93; Asia,
+
+[[v44-24-19]]
+
+^<<v44-24-19,19>>^ who ought to be present before you and to accuse me if they might have anything against me.
+
+[[v44-24-20]]
+
+^<<v44-24-20,20>>^ Or, let the &#91;men&#93; here say for themselves what wrong they found as I stood before the Sanʹhe·drin,
+
+[[v44-24-21]]
+
+^<<v44-24-21,21>>^ except with respect to this one utterance which I cried out while standing among them, ‘Over the resurrection of the dead I am today being judged before YOU!’”
+
+[[v44-24-22]]
+
+^<<v44-24-22,22>>^ However, Felix, knowing quite accurately the matters concerning this Way, began to put the &#91;men&#93; off and said: “Whenever Lysʹi·as the military commander^&#42;1^ comes down, I shall decide upon these matters involving YOU.”
+
+[NOTE]
+====
+. Lit., “the chiliarch,” a commander of 1,000 soldiers.
+====
+
+[[v44-24-23]]
+
+^<<v44-24-23,23>>^ And he ordered the army officer^&#42;1^ that the man be kept and have some relaxation &#91;of custody&#93;, and that he forbid no one of his people to wait upon him.
+
+[NOTE]
+====
+. Lit., “the centurion,” a commander of 100 soldiers.
+====
+
+[[v44-24-24]]
+
+^<<v44-24-24,24>>^ Some days later Felix arrived with Dru·silʹla his wife, who was a Jewess, and he sent for Paul and listened to him on the belief in Christ Jesus.
+
+[[v44-24-25]]
+
+^<<v44-24-25,25>>^ But as he talked about righteousness and self-control and the judgment to come, Felix became frightened and answered: “For the present go your way, but when I get an opportune time I shall send for you again.”
+
+[[v44-24-26]]
+
+^<<v44-24-26,26>>^ At the same time, though, he was hoping for money to be given him by Paul. On that account he sent for him even more frequently and would converse with him.
+
+[[v44-24-27]]
+
+^<<v44-24-27,27>>^ But, when two years had elapsed, Felix was succeeded by Porcius Festus; and because Felix desired to gain favor with the Jews, he left Paul bound.
+
+'''
+
+xref:044-acts/044-acts-023.adoc#v44-23-0[&#60; Capítulo Anterior] | <<v44-24-0,Topo>> | xref:044-acts/044-acts-025.adoc#v44-25-0[Próximo Capítulo &#62;]

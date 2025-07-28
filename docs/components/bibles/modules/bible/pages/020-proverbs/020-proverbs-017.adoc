@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v20-17-0]]
+=== Proverbs, 17
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-17-1]]
+
+^<<v20-17-1,1>>^ Better is a dry piece of bread with which there is quietness than a house full of the sacrifices of quarreling.
+
+[[v20-17-2]]
+
+^<<v20-17-2,2>>^ A servant that is showing insight will rule over the son who is acting shamefully, and in among the brothers he will have a share of the inheritance.
+
+[[v20-17-3]]
+
+^<<v20-17-3,3>>^ The refining^&#42;1^ pot is for silver and the furnace for gold, but Jehovah is the examiner of hearts.
+
+[NOTE]
+====
+. Lit., “melting.”
+====
+
+[[v20-17-4]]
+
+^<<v20-17-4,4>>^ The evildoer is paying attention to the lip of hurtfulness. A falsifier^&#42;1^ is giving ear to the tongue causing adversities.
+
+[NOTE]
+====
+. Lit., “Falsehood.”
+====
+
+[[v20-17-5]]
+
+^<<v20-17-5,5>>^ He that is holding the one of little means in derision has reproached his Maker. He that is joyful at &#91;another’s&#93; disaster will not be free from punishment.
+
+[[v20-17-6]]
+
+^<<v20-17-6,6>>^ The crown of old men is the grandsons, and the beauty of sons is their fathers.
+
+[[v20-17-7]]
+
+^<<v20-17-7,7>>^ For anyone senseless the lip of uprightness is not fitting. How much less so for a noble the lip of falsehood!
+
+[[v20-17-8]]
+
+^<<v20-17-8,8>>^ The gift is a stone winning favor in the eyes of its grand owner.^&#42;1^ Everywhere that he turns he has success.
+
+[NOTE]
+====
+. “Grand owner.” Lit., “owners,” pl. to denote grandeur. See GK, § 124 i.
+====
+
+[[v20-17-9]]
+
+^<<v20-17-9,9>>^ The one covering over transgression is seeking love, and he that keeps talking about a matter is separating those familiar with one another.
+
+[[v20-17-10]]
+
+^<<v20-17-10,10>>^ A rebuke works deeper in one having understanding than striking a stupid one a hundred times.
+
+[[v20-17-11]]
+
+^<<v20-17-11,11>>^ Only rebellion is what the bad one keeps seeking, and cruel is the messenger that is sent against him.
+
+[[v20-17-12]]
+
+^<<v20-17-12,12>>^ Let there be an encountering by a man of a bear bereaved of its cubs rather than anyone stupid in his foolishness.
+
+[[v20-17-13]]
+
+^<<v20-17-13,13>>^ As for anyone repaying bad for good, bad will not move away from his house.
+
+[[v20-17-14]]
+
+^<<v20-17-14,14>>^ The beginning of contention is as one letting out waters; so before the quarrel has burst forth, take your leave.
+
+[[v20-17-15]]
+
+^<<v20-17-15,15>>^ Anyone pronouncing the wicked one righteous and anyone pronouncing the righteous one wicked—even both of them are something detestable to Jehovah.
+
+[[v20-17-16]]
+
+^<<v20-17-16,16>>^ Why is it that there is in the hand of a stupid one the price to acquire wisdom, when he has no heart?^&#42;1^
+
+[NOTE]
+====
+. Or, “when he has no good motive.” Heb., welev-ʼaʹyin.
+====
+
+[[v20-17-17]]
+
+^<<v20-17-17,17>>^ A true companion is loving all the time, and is a brother that is born for when there is distress.^&#42;1^
+
+[NOTE]
+====
+. Or, “and a brother himself is born even for when there is distress.”
+====
+
+[[v20-17-18]]
+
+^<<v20-17-18,18>>^ A man that is wanting in heart^&#42;1^ shakes hands,^&#42;2^ going full surety before his companion.
+
+[NOTE]
+====
+. Or, “that is lacking good motive.” Heb., chasar-levʹ.
+. Lit., “is striking the palm (hand).” Heb., toh·qeʹaʽ kaph.
+====
+
+[[v20-17-19]]
+
+^<<v20-17-19,19>>^ Anyone loving transgression is loving a struggle. Anyone making his entryway high is seeking a crash.
+
+[[v20-17-20]]
+
+^<<v20-17-20,20>>^ He that is crooked at heart will not find good, and he that is turned around in his tongue will fall into calamity.
+
+[[v20-17-21]]
+
+^<<v20-17-21,21>>^ Anyone becoming father to a stupid child—it is a grief to him; and the father of a senseless child does not rejoice.
+
+[[v20-17-22]]
+
+^<<v20-17-22,22>>^ A heart that is joyful does good as a curer,^&#42;1^ but a spirit that is stricken makes the bones dry.
+
+[NOTE]
+====
+. “Does good to the body,” by a correction of M.
+====
+
+[[v20-17-23]]
+
+^<<v20-17-23,23>>^ One who is wicked will take even a bribe from the bosom to bend the paths of judgment.
+
+[[v20-17-24]]
+
+^<<v20-17-24,24>>^ Wisdom is before the face of the understanding one, but the eyes of the stupid one are at the extremity of the earth.
+
+[[v20-17-25]]
+
+^<<v20-17-25,25>>^ A stupid son is a vexation to his father and a bitterness to her that gave him birth.
+
+[[v20-17-26]]
+
+^<<v20-17-26,26>>^ Furthermore, the laying of a fine upon the righteous one is not good. To strike nobles is against what is upright.
+
+[[v20-17-27]]
+
+^<<v20-17-27,27>>^ Anyone holding back his sayings is possessed of knowledge, and a man of discernment is cool of spirit.
+
+[[v20-17-28]]
+
+^<<v20-17-28,28>>^ Even anyone foolish, when keeping silent, will be regarded as wise; anyone closing up his own lips, as having understanding.
+
+'''
+
+xref:020-proverbs/020-proverbs-016.adoc#v20-16-0[&#60; Capítulo Anterior] | <<v20-17-0,Topo>> | xref:020-proverbs/020-proverbs-018.adoc#v20-18-0[Próximo Capítulo &#62;]

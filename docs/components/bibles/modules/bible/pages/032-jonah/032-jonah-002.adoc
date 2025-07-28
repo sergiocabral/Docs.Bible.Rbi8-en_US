@@ -1,0 +1,90 @@
+include::./index.adoc[]
+
+[[v32-2-0]]
+=== Jonah, 2
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v32-2-1]]
+
+^<<v32-2-1,1>>^ Then Joʹnah prayed to Jehovah his God^&#42;1^ from the inward parts of the fish
+
+[NOTE]
+====
+. “His God.” Heb., ʼElo·havʹ.
+====
+
+[[v32-2-2]]
+
+^<<v32-2-2,2>>^ and said:
+“Out of my distress I called out to Jehovah, and he proceeded to answer me.
+Out of the belly of Sheʹol^&#42;1^ I cried for help.
+You heard my voice.
+
+[NOTE]
+====
+. “Sheol.” Heb., sheʼohlʹ; Gr., haiʹdou; Lat., in·ferʹni. See App 4B.
+====
+
+[[v32-2-3]]
+
+^<<v32-2-3,3>>^ When you threw me &#91;to&#93; the depths, into the heart of the open sea,
+Then a very river encircled me.
+All your breakers and your waves—over me they passed on.
+
+[[v32-2-4]]
+
+^<<v32-2-4,4>>^ And as for me, I said, ‘I have been driven away from in front of your eyes!
+How shall I^&#42;1^ gaze again upon your holy temple?’
+
+[NOTE]
+====
+. Or, “Indeed (Surely) I shall.” Th, “How shall I?”
+====
+
+[[v32-2-5]]
+
+^<<v32-2-5,5>>^ Waters encircled me clear to &#91;the&#93; soul; the watery deep itself^&#42;1^ kept enclosing me.
+Weeds were wound around my head.
+
+[NOTE]
+====
+. Or, “the surging waters themselves.” Heb., tehohmʹ; LXXVg, “an abyss.”
+====
+
+[[v32-2-6]]
+
+^<<v32-2-6,6>>^ To the bottoms of &#91;the&#93; mountains I went down.
+As for the earth, its bars were upon me for time indefinite.
+But out of &#91;the&#93; pit you proceeded to bring up my life, O Jehovah my God.
+
+[[v32-2-7]]
+
+^<<v32-2-7,7>>^ When my soul^&#42;1^ fainted away within me, Jehovah was the One whom I remembered.
+Then my prayer came in to you, into your holy temple.
+
+[NOTE]
+====
+. “My soul.” Heb., naph·shiʹ; Gr., psy·khenʹ; Lat., aʹni·ma. See App 4A.
+====
+
+[[v32-2-8]]
+
+^<<v32-2-8,8>>^ As for those who are observing the idols of untruth, they leave their own loving-kindness.
+
+[[v32-2-9]]
+
+^<<v32-2-9,9>>^ But as for me, with the voice of thanksgiving I will sacrifice to you.
+What I have vowed, I will pay. Salvation belongs to Jehovah.”
+
+[[v32-2-10]]
+
+^<<v32-2-10,10>>^ In time Jehovah commanded^&#42;1^ the fish, so that it vomited out Joʹnah onto the dry land.
+
+[NOTE]
+====
+. Lit., “said to.”
+====
+
+'''
+
+xref:032-jonah/032-jonah-001.adoc#v32-1-0[&#60; Capítulo Anterior] | <<v32-2-0,Topo>> | xref:032-jonah/032-jonah-003.adoc#v32-3-0[Próximo Capítulo &#62;]

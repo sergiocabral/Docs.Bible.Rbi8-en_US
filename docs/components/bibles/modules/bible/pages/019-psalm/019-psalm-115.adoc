@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v19-115-0]]
+=== Psalms, 115
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-115-1]]
+
+^<<v19-115-1,1>>^ ^&#42;1^ To us belongs nothing, O Jehovah, to us belongs nothing,
+But to your name give glory
+According to your loving-kindness, according to your trueness.^&#42;2^
+
+[NOTE]
+====
+. LXXTh and many Heb. mss combine Ps 114 and 115 to form one continuous psalm (Ps 114) of 26 vss.
+. “Your trueness (truthfulness; truth).” Heb., ʼamit·teʹkha; Lat., ve·ri·taʹte tuʹa.
+====
+
+[[v19-115-2]]
+
+^<<v19-115-2,2>>^ Why should the nations say:
+“Where, now, is their God?”
+
+[[v19-115-3]]
+
+^<<v19-115-3,3>>^ But our God is in the heavens;
+Everything that he delighted &#91;to do&#93; he has done.
+
+[[v19-115-4]]
+
+^<<v19-115-4,4>>^ Their idols are silver and gold,
+The work of the hands of earthling man.^&#42;1^
+
+[NOTE]
+====
+. “Earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-115-5]]
+
+^<<v19-115-5,5>>^ A mouth they have, but they cannot speak;
+Eyes they have, but they cannot see;
+
+[[v19-115-6]]
+
+^<<v19-115-6,6>>^ Ears they have, but they cannot hear.
+A nose they have, but they cannot smell.
+
+[[v19-115-7]]
+
+^<<v19-115-7,7>>^ Hands are theirs, but they cannot feel.
+Feet are theirs, but they cannot walk;
+They utter no sound with their throat.
+
+[[v19-115-8]]
+
+^<<v19-115-8,8>>^ Those making them will become just like them,
+All those who are trusting in them.
+
+[[v19-115-9]]
+
+^<<v19-115-9,9>>^ O Israel, trust in Jehovah;
+He is their help and their shield.
+
+[[v19-115-10]]
+
+^<<v19-115-10,10>>^ O house of Aaron, put YOUR trust in Jehovah;
+He is their help and their shield.
+
+[[v19-115-11]]
+
+^<<v19-115-11,11>>^ YOU that fear Jehovah, trust in Jehovah;
+He is their help and their shield.
+
+[[v19-115-12]]
+
+^<<v19-115-12,12>>^ Jehovah himself has remembered us; he will bless,
+He will bless the house of Israel,
+He will bless the house of Aaron.
+
+[[v19-115-13]]
+
+^<<v19-115-13,13>>^ He will bless those fearing Jehovah,
+The small ones as well as the great ones.
+
+[[v19-115-14]]
+
+^<<v19-115-14,14>>^ Jehovah will give increase to YOU,
+To YOU and to YOUR sons.
+
+[[v19-115-15]]
+
+^<<v19-115-15,15>>^ YOU are the ones blessed by Jehovah,
+The Maker of heaven and earth.
+
+[[v19-115-16]]
+
+^<<v19-115-16,16>>^ As regards the heavens, to Jehovah the heavens belong,
+But the earth he has given to the sons of men.^&#42;1^
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-115-17]]
+
+^<<v19-115-17,17>>^ The dead themselves do not praise Jah,^&#42;1^
+Nor do any going down into silence.
+
+[NOTE]
+====
+. “Jah.” Heb., Yah. See 68:4 ftn.
+====
+
+[[v19-115-18]]
+
+^<<v19-115-18,18>>^ But we ourselves^&#42;1^ will bless Jah^&#42;2^
+From now on and to time indefinite.
+Praise Jah, YOU people!^&#42;3^
+
+[NOTE]
+====
+. “We ourselves,” M; LXX, “we the living”; Vg, “we who are alive.”
+. “Jah,” MT; LXXSyVg, “Jehovah.”
+. See 104:35 ftns.
+====
+
+'''
+
+xref:019-psalm/019-psalm-114.adoc#v19-114-0[&#60; Capítulo Anterior] | <<v19-115-0,Topo>> | xref:019-psalm/019-psalm-116.adoc#v19-116-0[Próximo Capítulo &#62;]

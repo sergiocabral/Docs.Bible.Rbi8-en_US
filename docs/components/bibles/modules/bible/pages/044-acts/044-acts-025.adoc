@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v44-25-0]]
+=== Acts of Apostles, 25
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v44-25-1]]
+
+^<<v44-25-1,1>>^ Therefore Festus, after entering upon the &#91;government of the&#93; province,^&#42;1^ went up three days later to Jerusalem from Caes·a·reʹa;
+
+[NOTE]
+====
+. That is, of Judea, with Caesarea serving as the governor’s residence.
+====
+
+[[v44-25-2]]
+
+^<<v44-25-2,2>>^ and the chief priests and the principal men of the Jews gave him information against Paul. So they began to entreat him,
+
+[[v44-25-3]]
+
+^<<v44-25-3,3>>^ asking for themselves as a favor against the &#91;man&#93; that he would send for him to come to Jerusalem, as they were laying an ambush to do away with him along the road.
+
+[[v44-25-4]]
+
+^<<v44-25-4,4>>^ However, Festus answered that Paul was to be kept in Caes·a·reʹa and that he himself was about to depart shortly for there.
+
+[[v44-25-5]]
+
+^<<v44-25-5,5>>^ “Hence let those who are in power among YOU,” he said, “come down with me and accuse him, if there is anything out of the way about the man.”
+
+[[v44-25-6]]
+
+^<<v44-25-6,6>>^ So when he had spent not more than eight or ten days among them, he went down to Caes·a·reʹa, and the next day he sat down on the judgment seat and commanded Paul to be brought in.
+
+[[v44-25-7]]
+
+^<<v44-25-7,7>>^ When he arrived, the Jews that had come down from Jerusalem stood round about him, leveling against him many and serious charges for which they were unable to show evidence.
+
+[[v44-25-8]]
+
+^<<v44-25-8,8>>^ But Paul said in defense: “Neither against the Law of the Jews nor against the temple nor against Caesar^&#42;1^ have I committed any sin.”
+
+[NOTE]
+====
+. Or, “the emperor.”
+====
+
+[[v44-25-9]]
+
+^<<v44-25-9,9>>^ Festus, desiring to gain favor with the Jews, said in reply to Paul: “Do you wish to go up to Jerusalem and be judged there before me concerning these things?”
+
+[[v44-25-10]]
+
+^<<v44-25-10,10>>^ But Paul said: “I am standing before the judgment seat of Caesar, where I ought to be judged. I have done no wrong to the Jews, as you also are finding out quite well.
+
+[[v44-25-11]]
+
+^<<v44-25-11,11>>^ If, on the one hand, I am really a wrongdoer and have committed anything deserving of death, I do not beg off from dying; if, on the other hand, none of those things exists of which these &#91;men&#93; accuse me, no man can hand me over to them as a favor. I appeal to Caesar!”
+
+[[v44-25-12]]
+
+^<<v44-25-12,12>>^ Then Festus, after speaking with the assembly of counselors, replied: “To Caesar you have appealed; to Caesar you shall go.”
+
+[[v44-25-13]]
+
+^<<v44-25-13,13>>^ Now when some days had passed, A·gripʹpa^&#42;1^ the king and Ber·niʹce^&#42;2^ arrived in Caes·a·reʹa for a visit of courtesy to Festus.
+
+[NOTE]
+====
+. That is, Herod Agrippa II.
+. The sister of Herod Agrippa II, but living incestuously with him.
+====
+
+[[v44-25-14]]
+
+^<<v44-25-14,14>>^ So, as they were spending a number of days there, Festus laid before the king the matters respecting Paul, saying:
+“There is a certain man left prisoner by Felix,
+
+[[v44-25-15]]
+
+^<<v44-25-15,15>>^ and when I was in Jerusalem the chief priests and the older men^&#42;1^ of the Jews brought information about him, asking a judgment of condemnation against him.
+
+[NOTE]
+====
+. Or, “elders.” Gr., pre·sbyʹte·roi.
+====
+
+[[v44-25-16]]
+
+^<<v44-25-16,16>>^ But I replied to them that it is not Roman procedure to hand any man over as a favor before the accused man meets his accusers face to face and gets a chance to speak in his defense concerning the complaint.
+
+[[v44-25-17]]
+
+^<<v44-25-17,17>>^ Therefore when they got together here, I made no delay, but the next day I sat down on the judgment seat and commanded the man to be brought in.
+
+[[v44-25-18]]
+
+^<<v44-25-18,18>>^ Taking the stand, the accusers produced no charge of the wicked things I had supposed concerning him.
+
+[[v44-25-19]]
+
+^<<v44-25-19,19>>^ They simply had certain disputes with him concerning their own worship of the deity^&#42;1^ and concerning a certain Jesus who was dead but who Paul kept asserting was alive.
+
+[NOTE]
+====
+. “Worship of the deity.” Lit., “dread of demons.” Gr., dei·si·dai·mo·niʹas; Lat., su·per·sti·ti·oʹne; J17,​18, “service of their God.” See 17:22 ftn.
+====
+
+[[v44-25-20]]
+
+^<<v44-25-20,20>>^ So, being perplexed as to the dispute over these matters, I proceeded to ask if he would like to go to Jerusalem and there be judged concerning these matters.
+
+[[v44-25-21]]
+
+^<<v44-25-21,21>>^ But when Paul appealed to be kept for the decision by the August One,^&#42;1^ I commanded him to be kept until I should send him on up to Caesar.”
+
+[NOTE]
+====
+. Or, “Augustus; the emperor.” Gr., Se·ba·stouʹ; Lat., Au·guʹsti. The title of Nero Caesar, the fourth in succession from Octavian who first held this title.
+====
+
+[[v44-25-22]]
+
+^<<v44-25-22,22>>^ Here A·gripʹpa &#91;said&#93; to Festus: “I myself would also like to hear the man.” “Tomorrow,” he said, “you shall hear him.”
+
+[[v44-25-23]]
+
+^<<v44-25-23,23>>^ Therefore, on the next day, A·gripʹpa and Ber·niʹce came with much pompous show and entered into the audience chamber together with military commanders^&#42;1^ as well as men of eminence in the city, and when Festus gave the command, Paul was brought in.
+
+[NOTE]
+====
+. Lit., “with chiliarchs.”
+====
+
+[[v44-25-24]]
+
+^<<v44-25-24,24>>^ And Festus said: “King A·gripʹpa and all YOU men who are present with us, YOU are beholding this man concerning whom all the multitude of the Jews together have applied to me both in Jerusalem and here, shouting that he ought not to live any longer.
+
+[[v44-25-25]]
+
+^<<v44-25-25,25>>^ But I perceived he had committed nothing deserving of death. So when this &#91;man&#93; himself appealed to the August One, I decided to send him.
+
+[[v44-25-26]]
+
+^<<v44-25-26,26>>^ But concerning him I have nothing certain to write to &#91;my&#93; Lord.^&#42;1^ Therefore I brought him forth before YOU, and especially before you, King A·gripʹpa, in order that, after the judicial examination has taken place, I might get something to write.
+
+[NOTE]
+====
+. Or, “to the Lord.”
+====
+
+[[v44-25-27]]
+
+^<<v44-25-27,27>>^ For it seems unreasonable to me to send a prisoner and not also to signify the charges against him.”
+
+'''
+
+xref:044-acts/044-acts-024.adoc#v44-24-0[&#60; Capítulo Anterior] | <<v44-25-0,Topo>> | xref:044-acts/044-acts-026.adoc#v44-26-0[Próximo Capítulo &#62;]

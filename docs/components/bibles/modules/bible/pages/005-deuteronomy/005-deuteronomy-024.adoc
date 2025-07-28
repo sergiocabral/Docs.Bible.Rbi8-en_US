@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v5-24-0]]
+=== Deuteronomy, 24
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-24-1]]
+
+^<<v5-24-1,1>>^ “In case a man takes a woman and does make her his possession as a wife, it must also occur that if she should find no favor in his eyes because he has found something indecent^&#42;1^ on her part, he must also write out a certificate of divorce for her and put it in her hand and dismiss her from his house.
+
+[NOTE]
+====
+. Lit., “the nakedness of a thing.”
+====
+
+[[v5-24-2]]
+
+^<<v5-24-2,2>>^ And she must go out of his house and go and become another man’s.
+
+[[v5-24-3]]
+
+^<<v5-24-3,3>>^ If the latter man has come to hate her and has written out a certificate of divorce for her and put it in her hand and dismissed her from his house, or in case the latter man who took her as his wife should die,
+
+[[v5-24-4]]
+
+^<<v5-24-4,4>>^ the first owner of her who dismissed her will not be allowed to take her back again to become his wife after she has been defiled; for that is something detestable before Jehovah, and you must not lead the land that Jehovah^&#42;1^ your God is giving you as an inheritance into sin.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-24-5]]
+
+^<<v5-24-5,5>>^ “In case a man takes a new wife, he should not go out into the army, nor should anything else be imposed onto him. He should continue exempt at his house for one year, and he must make his wife whom he has taken rejoice.
+
+[[v5-24-6]]
+
+^<<v5-24-6,6>>^ “No one should^&#42;1^ seize a hand mill or its upper grindstone as a pledge, because it is a soul^&#42;2^ that he is seizing as a pledge.
+
+[NOTE]
+====
+. “No one should,” MSam; LXXSyVg, “You must not.”
+. “Because it is a soul (means of life).” Heb., ki-neʹphesh; Gr., psy·khenʹ; Lat., aʹni·mam.
+====
+
+[[v5-24-7]]
+
+^<<v5-24-7,7>>^ “In case a man is found kidnapping a soul of his brothers of the sons of Israel, and he has dealt tyrannically with him and sold him, that kidnapper must also die. And you must clear away what is bad from your midst.
+
+[[v5-24-8]]
+
+^<<v5-24-8,8>>^ “Be on your guard in the plague of leprosy to take good care and do according to all that the priests, the Levites, will instruct YOU. Just as I have commanded them, YOU should be careful to do.
+
+[[v5-24-9]]
+
+^<<v5-24-9,9>>^ There should be a remembering^&#42;1^ of what Jehovah^&#42;2^ your God did to Mirʹi·am in the way when YOU were coming out of Egypt.
+
+[NOTE]
+====
+. “There should be a remembering.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and impersonal.
+. See App 1C §1.
+====
+
+[[v5-24-10]]
+
+^<<v5-24-10,10>>^ “In case you lend your fellowman a loan of any sort, you must not enter into his house to take from him what he has pledged.
+
+[[v5-24-11]]
+
+^<<v5-24-11,11>>^ You should stand on the outside, and the man to whom you are making a loan should bring the pledge outside to you.
+
+[[v5-24-12]]
+
+^<<v5-24-12,12>>^ And if the man is in trouble, you must not go to bed with his pledge.
+
+[[v5-24-13]]
+
+^<<v5-24-13,13>>^ You should by all means return the pledge to him as soon as the sun sets, and he must go to bed in his garment, and he must bless you; and it will mean righteousness for you before Jehovah your God.
+
+[[v5-24-14]]
+
+^<<v5-24-14,14>>^ “You must not defraud a hired laborer who is in trouble and poor, whether of your brothers or of your alien residents who are in your land, within your gates.
+
+[[v5-24-15]]
+
+^<<v5-24-15,15>>^ In his day you should give him his wages, and the sun should not set upon them, because he is in trouble and is lifting up his soul to his wages; that he may not cry out to Jehovah against you, and it must become sin on your part.
+
+[[v5-24-16]]
+
+^<<v5-24-16,16>>^ “Fathers should not be put to death^&#42;1^ on account of children, and children should not be put to death on account of fathers. Each one should be put to death^&#42;2^ for his own sin.
+
+[NOTE]
+====
+. According to MSamVg; LXXSy, “should not die.”
+. According to MSam; LXXSyVg, “should die.”
+====
+
+[[v5-24-17]]
+
+^<<v5-24-17,17>>^ “You must not pervert the judgment of the alien resident or of the fatherless boy, and you must not seize the garment of a widow as a pledge.
+
+[[v5-24-18]]
+
+^<<v5-24-18,18>>^ And you must remember that you became a slave in Egypt, and Jehovah your God proceeded to redeem you from there. That is why I am commanding you to do this thing.
+
+[[v5-24-19]]
+
+^<<v5-24-19,19>>^ “In case you reap your harvest in your field, and you have forgotten a sheaf in the field, you must not go back to get it. It should stay for the alien resident, for the fatherless boy and for the widow; in order that Jehovah your God may bless you in every deed of your hand.
+
+[[v5-24-20]]
+
+^<<v5-24-20,20>>^ “In case you beat your olive tree, you must not go over its boughs^&#42;1^ following up yourself. It should stay for the alien resident, for the fatherless boy and for the widow.
+
+[NOTE]
+====
+. Or, “not knock down [olives] from the boughs.”
+====
+
+[[v5-24-21]]
+
+^<<v5-24-21,21>>^ “In case you gather the grapes of your vineyard, you must not gather the leftovers following up yourself. They should stay for the alien resident, for the fatherless boy and for the widow.
+
+[[v5-24-22]]
+
+^<<v5-24-22,22>>^ And you must remember that you became a slave in the land of Egypt. That is why I am commanding you to do this thing.
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-023.adoc#v5-23-0[&#60; Capítulo Anterior] | <<v5-24-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-025.adoc#v5-25-0[Próximo Capítulo &#62;]

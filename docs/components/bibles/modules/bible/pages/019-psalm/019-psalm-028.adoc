@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v19-28-0]]
+=== Psalms, 28
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_Of David._
+
+[[v19-28-1]]
+
+^<<v19-28-1,1>>^ To you, O Jehovah, I keep calling.
+O my Rock, do not be deaf to me,^&#42;1^
+That you may not keep still toward me
+And I do not have to become like those going down to the pit.
+
+[NOTE]
+====
+. Or, “do not turn from me in silence.”
+====
+
+[[v19-28-2]]
+
+^<<v19-28-2,2>>^ Hear the voice of my entreaties when I cry to you for help,
+When I raise my hands to the innermost room of your holy place.
+
+[[v19-28-3]]
+
+^<<v19-28-3,3>>^ Do not draw me along with wicked people and with practicers of what is hurtful,
+Those who are speaking peace with their companions but in whose hearts is what is bad.
+
+[[v19-28-4]]
+
+^<<v19-28-4,4>>^ Give to them according to their acting
+And according to the badness of their practices.
+According to the work of their hands do you give to them.
+Pay back to them their own doing.
+
+[[v19-28-5]]
+
+^<<v19-28-5,5>>^ For they have no regard for the activities of Jehovah,
+Nor for the work of his hands.
+He will tear them down and not build them up.
+
+[[v19-28-6]]
+
+^<<v19-28-6,6>>^ Blessed be Jehovah,^&#42;1^ for he has heard the voice of my entreaties.
+
+[NOTE]
+====
+. See App 1C §10.
+====
+
+[[v19-28-7]]
+
+^<<v19-28-7,7>>^ Jehovah^&#42;1^ is my strength and my shield.
+In him my heart has trusted,
+And I have been helped, so that my heart exults,
+And with my song I shall laud him.
+
+[NOTE]
+====
+. See App 1C §10.
+====
+
+[[v19-28-8]]
+
+^<<v19-28-8,8>>^ Jehovah^&#42;1^ is a strength to his people,^&#42;2^
+And he is a stronghold of the grand salvation of his anointed one.^&#42;3^
+
+[NOTE]
+====
+. See App 1C §10.
+. “To his people,” LXXSyVg and eight Heb. mss; M, “to them.”
+. “His anointed one.” Heb., meshi·chohʹ; Gr., khri·stouʹ; Syr., meshi·cheh; Lat., chriʹsti.
+====
+
+[[v19-28-9]]
+
+^<<v19-28-9,9>>^ Do save your people, and bless your inheritance;
+And shepherd them and carry them to time indefinite.
+
+'''
+
+xref:019-psalm/019-psalm-027.adoc#v19-27-0[&#60; Capítulo Anterior] | <<v19-28-0,Topo>> | xref:019-psalm/019-psalm-029.adoc#v19-29-0[Próximo Capítulo &#62;]

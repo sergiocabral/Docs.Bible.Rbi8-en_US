@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v4-28-0]]
+=== Numbers, 28
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-28-1]]
+
+^<<v4-28-1,1>>^ And Jehovah spoke further to Moses, saying:
+
+[[v4-28-2]]
+
+^<<v4-28-2,2>>^ “Command the sons of Israel, and you must say to them, ‘YOU should take care to present to me my offering, my bread, for my offerings made by fire as a restful odor to me, at their appointed times.’^&#42;1^
+
+[NOTE]
+====
+. “At their appointed times,” SyVg; M, “at its appointed time.”
+====
+
+[[v4-28-3]]
+
+^<<v4-28-3,3>>^ “And you must say to them, ‘This is the offering made by fire that YOU will present to Jehovah: two sound year-old male lambs a day as a burnt offering constantly.
+
+[[v4-28-4]]
+
+^<<v4-28-4,4>>^ The one male lamb you will render up in the morning, and the other male lamb you will render up between the two evenings,^&#42;1^
+
+[NOTE]
+====
+. See Ex 12:6 ftn.
+====
+
+[[v4-28-5]]
+
+^<<v4-28-5,5>>^ together with the tenth of an eʹphah of fine flour as a grain offering moistened with the fourth of a hin of beaten oil;
+
+[[v4-28-6]]
+
+^<<v4-28-6,6>>^ the constant burnt offering, which was rendered up at Mount Siʹnai as a restful odor, an offering made by fire to Jehovah,
+
+[[v4-28-7]]
+
+^<<v4-28-7,7>>^ along with its drink offering, the fourth of a hin to each male lamb. Pour out in the holy place the drink offering of intoxicating liquor to Jehovah.
+
+[[v4-28-8]]
+
+^<<v4-28-8,8>>^ And you will render up the other male lamb between the two evenings. With the same grain offering as of the morning and with its same drink offering you will render it up as an offering made by fire, of a restful odor to Jehovah.
+
+[[v4-28-9]]
+
+^<<v4-28-9,9>>^ “‘However, on the sabbath day there will be two sound year-old male lambs and two tenth measures of fine flour as a grain offering moistened with oil, together with its drink offering,
+
+[[v4-28-10]]
+
+^<<v4-28-10,10>>^ as a sabbath burnt offering on its sabbath,^&#42;1^ along with the constant burnt offering and its drink offering.
+
+[NOTE]
+====
+. “As a burnt offering sabbath by sabbath,” SamSy.
+====
+
+[[v4-28-11]]
+
+^<<v4-28-11,11>>^ “‘And at the commencements of YOUR months YOU people will present as a burnt offering to Jehovah two young bulls and one ram, seven sound male lambs each a year old,
+
+[[v4-28-12]]
+
+^<<v4-28-12,12>>^ and three tenth measures of fine flour as a grain offering moistened with oil for each bull and two tenth measures of fine flour as a grain offering moistened with oil for the one ram,
+
+[[v4-28-13]]
+
+^<<v4-28-13,13>>^ and a tenth measure of fine flour respectively as a grain offering moistened with oil for each male lamb, as a burnt offering, a restful odor, an offering made by fire to Jehovah.
+
+[[v4-28-14]]
+
+^<<v4-28-14,14>>^ And as their drink offerings there should go half a hin of wine for a bull and a third of a hin for the ram and a fourth of a hin for a male lamb.^&#42;1^ This is the monthly burnt offering in its month for the months of the year.
+
+[NOTE]
+====
+. Lit., “the male lamb,” M; LXX, “each male lamb.”
+====
+
+[[v4-28-15]]
+
+^<<v4-28-15,15>>^ Also, one kid of the goats should be rendered up as a sin offering to Jehovah in addition to the constant burnt offering together with its drink offering.
+
+[[v4-28-16]]
+
+^<<v4-28-16,16>>^ “‘And in the first month, on the fourteenth day of the month, will be Jehovah’s passover.
+
+[[v4-28-17]]
+
+^<<v4-28-17,17>>^ And on the fifteenth day of this month will be a festival. Seven days unfermented cakes will be eaten.
+
+[[v4-28-18]]
+
+^<<v4-28-18,18>>^ On the first day there will be a holy convention. No sort of laborious work must YOU do.
+
+[[v4-28-19]]
+
+^<<v4-28-19,19>>^ And YOU must present as an offering made by fire, a burnt offering to Jehovah, two young bulls and one ram and seven male lambs each a year old. They should prove to be sound ones for YOU.
+
+[[v4-28-20]]
+
+^<<v4-28-20,20>>^ And as their grain offerings of fine flour moistened with oil YOU will render up three tenth measures for a bull and two tenth measures for the ram.
+
+[[v4-28-21]]
+
+^<<v4-28-21,21>>^ You will render up a tenth measure respectively for each male lamb of the seven male lambs;
+
+[[v4-28-22]]
+
+^<<v4-28-22,22>>^ and one goat of sin offering to make atonement for YOU.
+
+[[v4-28-23]]
+
+^<<v4-28-23,23>>^ Aside from the morning burnt offering, which is for the constant burnt offering, YOU will render these up.
+
+[[v4-28-24]]
+
+^<<v4-28-24,24>>^ The same as these YOU will render up daily for the seven days as bread, an offering made by fire, of a restful odor to Jehovah. Along with the constant burnt offering it should be rendered, and its drink offering.
+
+[[v4-28-25]]
+
+^<<v4-28-25,25>>^ And on the seventh day YOU should hold a holy convention. No sort of laborious work must YOU do.
+
+[[v4-28-26]]
+
+^<<v4-28-26,26>>^ “‘And on the day of the first ripe fruits, when YOU present a new grain offering to Jehovah, in YOUR feast of weeks YOU should hold a holy convention. No sort of laborious work must YOU do.
+
+[[v4-28-27]]
+
+^<<v4-28-27,27>>^ And YOU must present as a burnt offering for a restful odor to Jehovah two young bulls, one ram, seven male lambs each a year old;
+
+[[v4-28-28]]
+
+^<<v4-28-28,28>>^ and as their grain offering of fine flour moistened with oil three tenth measures for each bull, two tenth measures for the one ram,
+
+[[v4-28-29]]
+
+^<<v4-28-29,29>>^ a tenth measure respectively for each male lamb of the seven male lambs;
+
+[[v4-28-30]]
+
+^<<v4-28-30,30>>^ one kid of the goats to make atonement for YOU.
+
+[[v4-28-31]]
+
+^<<v4-28-31,31>>^ Aside from the constant burnt offering and its grain offering YOU will render them up. They should prove to be sound ones for YOU, together with their drink offerings.
+
+'''
+
+xref:004-numbers/004-numbers-027.adoc#v4-27-0[&#60; Capítulo Anterior] | <<v4-28-0,Topo>> | xref:004-numbers/004-numbers-029.adoc#v4-29-0[Próximo Capítulo &#62;]

@@ -1,0 +1,185 @@
+include::./index.adoc[]
+
+[[v4-29-0]]
+=== Numbers, 29
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-29-1]]
+
+^<<v4-29-1,1>>^ “‘And in the seventh month, on the first of the month, YOU should hold a holy convention. No sort of laborious work must YOU do. It should prove to be a day of the trumpet blast for YOU.
+
+[[v4-29-2]]
+
+^<<v4-29-2,2>>^ And YOU must render up as a burnt offering for a restful odor to Jehovah one young bull, one ram, seven male lambs each a year old, sound ones;
+
+[[v4-29-3]]
+
+^<<v4-29-3,3>>^ and their grain offering of fine flour moistened with oil, three tenth measures for the bull, two tenth measures for the ram,
+
+[[v4-29-4]]
+
+^<<v4-29-4,4>>^ and one tenth measure for each male lamb of the seven male lambs;
+
+[[v4-29-5]]
+
+^<<v4-29-5,5>>^ and one male kid of the goats as a sin offering to make atonement for YOU;
+
+[[v4-29-6]]
+
+^<<v4-29-6,6>>^ aside from the monthly burnt offering and its grain offering and the constant burnt offering and its grain offering, together with their drink offerings, according to the regular procedure for them, as a restful odor, an offering made by fire to Jehovah.
+
+[[v4-29-7]]
+
+^<<v4-29-7,7>>^ “‘And on the tenth of this seventh month YOU should hold a holy convention, and YOU must afflict YOUR souls. No sort of work must YOU do.
+
+[[v4-29-8]]
+
+^<<v4-29-8,8>>^ And YOU must present as a burnt offering to Jehovah, as a restful odor, one young bull, one ram, seven male lambs each a year old. They should prove to be sound ones for YOU.
+
+[[v4-29-9]]
+
+^<<v4-29-9,9>>^ And as their grain offering of fine flour moistened with oil three tenth measures for the bull, two tenth measures for the one ram,
+
+[[v4-29-10]]
+
+^<<v4-29-10,10>>^ a tenth measure respectively for each male lamb of the seven male lambs;
+
+[[v4-29-11]]
+
+^<<v4-29-11,11>>^ one kid of the goats as a sin offering, aside from the sin offering of atonement and the constant burnt offering and its grain offering, together with their drink offerings.
+
+[[v4-29-12]]
+
+^<<v4-29-12,12>>^ “‘And on the fifteenth day of the seventh month YOU should hold a holy convention. No sort of laborious work must YOU do, and YOU must celebrate a festival to Jehovah seven days.
+
+[[v4-29-13]]
+
+^<<v4-29-13,13>>^ And YOU must present as a burnt offering, an offering made by fire, of a restful odor to Jehovah, thirteen young bulls, two rams, fourteen male lambs each a year old. They should prove to be sound ones.
+
+[[v4-29-14]]
+
+^<<v4-29-14,14>>^ And as their grain offering of fine flour moistened with oil three tenth measures for each bull of the thirteen bulls, two tenth measures for each ram of the two rams,
+
+[[v4-29-15]]
+
+^<<v4-29-15,15>>^ and a tenth measure^&#42;1^ for each male lamb of the fourteen male lambs;^&#42;2^
+
+[NOTE]
+====
+. “And a tenth measure.” Lit., “and a tenth measure, a tenth measure.” But in M the first “a tenth measure” is marked by the Sopherim with an extraordinary point to indicate it should be omitted and read the same as vs 4. See App 2A.
+. “Male lambs,” MLXXSyVg; Sam, “male lambs and their drink offerings.”
+====
+
+[[v4-29-16]]
+
+^<<v4-29-16,16>>^ and one kid of the goats as a sin offering, aside from the constant burnt offering, its grain offering and its drink offering.
+
+[[v4-29-17]]
+
+^<<v4-29-17,17>>^ “‘And on the second day twelve young bulls, two rams, fourteen male lambs each a year old, sound ones;
+
+[[v4-29-18]]
+
+^<<v4-29-18,18>>^ and their grain offering and their drink offerings for the bulls, the rams and the male lambs by their number according to the regular procedure;
+
+[[v4-29-19]]
+
+^<<v4-29-19,19>>^ and one kid of the goats as a sin offering, aside from the constant burnt offering and its grain offering, together with their drink offerings.
+
+[[v4-29-20]]
+
+^<<v4-29-20,20>>^ “‘And on the third day eleven bulls, two rams, fourteen male lambs each a year old, sound ones;
+
+[[v4-29-21]]
+
+^<<v4-29-21,21>>^ and their grain offering and their drink offerings for the bulls, the rams and the male lambs by their number according to the regular procedure;
+
+[[v4-29-22]]
+
+^<<v4-29-22,22>>^ and one goat^&#42;1^ as a sin offering, aside from the constant burnt offering and its grain offering and its drink offering.
+
+[NOTE]
+====
+. Or, “male kid.”
+====
+
+[[v4-29-23]]
+
+^<<v4-29-23,23>>^ “‘And on the fourth day ten bulls, two rams, fourteen male lambs each a year old, sound ones;
+
+[[v4-29-24]]
+
+^<<v4-29-24,24>>^ their grain offering and their drink offerings for the bulls, the rams and the male lambs by their number according to the regular procedure;
+
+[[v4-29-25]]
+
+^<<v4-29-25,25>>^ and one kid of the goats as a sin offering, aside from the constant burnt offering, its grain offering and its drink offering.
+
+[[v4-29-26]]
+
+^<<v4-29-26,26>>^ “‘And on the fifth day nine bulls, two rams, fourteen male lambs each a year old, sound ones;
+
+[[v4-29-27]]
+
+^<<v4-29-27,27>>^ and their grain offering and their drink offerings for the bulls, the rams and the male lambs by their number according to the regular procedure;
+
+[[v4-29-28]]
+
+^<<v4-29-28,28>>^ and one goat as a sin offering, aside from the constant burnt offering and its grain offering and its drink offering.
+
+[[v4-29-29]]
+
+^<<v4-29-29,29>>^ “‘And on the sixth day eight bulls, two rams, fourteen male lambs each a year old, sound ones;
+
+[[v4-29-30]]
+
+^<<v4-29-30,30>>^ and their grain offering and their drink offerings for the bulls, the rams and the male lambs by their number according to the regular procedure;
+
+[[v4-29-31]]
+
+^<<v4-29-31,31>>^ and one goat as a sin offering, aside from the constant burnt offering, its grain offering and its drink offerings.
+
+[[v4-29-32]]
+
+^<<v4-29-32,32>>^ “‘And on the seventh day seven bulls, two rams, fourteen male lambs each a year old, sound ones;
+
+[[v4-29-33]]
+
+^<<v4-29-33,33>>^ and their grain offering and their drink offerings for the bulls, the rams and the male lambs by their number according to the regular procedure for them;
+
+[[v4-29-34]]
+
+^<<v4-29-34,34>>^ and one goat as a sin offering, aside from the constant burnt offering, its grain offering and its drink offering.
+
+[[v4-29-35]]
+
+^<<v4-29-35,35>>^ “‘And on the eighth day YOU should hold a solemn assembly. No sort of laborious work must YOU do.
+
+[[v4-29-36]]
+
+^<<v4-29-36,36>>^ And YOU must present as a burnt offering, an offering made by fire, of a restful odor to Jehovah, one bull, one ram, seven male lambs each a year old, sound ones;
+
+[[v4-29-37]]
+
+^<<v4-29-37,37>>^ and their grain offering and their drink offerings for the bull, the ram and the male lambs by their number according to the regular procedure;
+
+[[v4-29-38]]
+
+^<<v4-29-38,38>>^ and one goat as a sin offering, aside from the constant burnt offering and its grain offering and its drink offering.
+
+[[v4-29-39]]
+
+^<<v4-29-39,39>>^ “‘These YOU will render up to Jehovah at YOUR seasonal festivals, besides YOUR vow offerings and YOUR voluntary offerings as YOUR burnt offerings and YOUR grain offerings and YOUR drink offerings and YOUR communion sacrifices.’”^&#42;1^
+
+[NOTE]
+====
+. MLXXVg end chapter 29 here.
+====
+
+[[v4-29-40]]
+
+^<<v4-29-40,40>>^ And Moses proceeded to talk to the sons of Israel according to everything that Jehovah had commanded Moses.
+
+'''
+
+xref:004-numbers/004-numbers-028.adoc#v4-28-0[&#60; Capítulo Anterior] | <<v4-29-0,Topo>> | xref:004-numbers/004-numbers-030.adoc#v4-30-0[Próximo Capítulo &#62;]

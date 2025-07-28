@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v19-47-0]]
+=== Psalms, 47
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. Of the sons of Koʹrah. A melody._
+
+[[v19-47-1]]
+
+^<<v19-47-1,1>>^ All YOU peoples, clap YOUR hands.^&#42;1^
+Shout in triumph to God with the sound of a joyful cry.
+
+[NOTE]
+====
+. Lit., “palm.”
+====
+
+[[v19-47-2]]
+
+^<<v19-47-2,2>>^ For Jehovah, the Most High, is fear-inspiring,
+A great King over all the earth.
+
+[[v19-47-3]]
+
+^<<v19-47-3,3>>^ He will subdue peoples under us
+And national groups under our feet.
+
+[[v19-47-4]]
+
+^<<v19-47-4,4>>^ He will choose for us our inheritance,
+The pride of Jacob, whom he has loved. Seʹlah.
+
+[[v19-47-5]]
+
+^<<v19-47-5,5>>^ God has ascended with joyful shouting,
+Jehovah with the sound of the horn.^&#42;1^
+
+[NOTE]
+====
+. Or, “shofar.” A ram’s horn used as a trumpet.
+====
+
+[[v19-47-6]]
+
+^<<v19-47-6,6>>^ MAKE melody to God, make melody.
+Make melody to our King, make melody.
+
+[[v19-47-7]]
+
+^<<v19-47-7,7>>^ For God is King of all the earth;
+MAKE melody, acting with discretion.^&#42;1^
+
+[NOTE]
+====
+. “Acting with discretion,” by rendering the Heb. participle in the pl. Heb., mas·kilʹ, sing. See 53:2 ftn, “Insight.”
+====
+
+[[v19-47-8]]
+
+^<<v19-47-8,8>>^ God has become king over the nations.
+God himself has taken his seat upon his holy throne.
+
+[[v19-47-9]]
+
+^<<v19-47-9,9>>^ The nobles of the peoples themselves have gathered together,
+&#91;With&#93; the people of the God^&#42;1^ of Abraham.
+For to God the shields^&#42;2^ of the earth belong.
+He is very high in his ascent.
+
+[NOTE]
+====
+. “The people of the God,” M; LXXSyVg, “with the God.”
+. “Shields,” MT; LXX, “powerful ones”; Sy, “realms (empires)”; Vg, “strong ones.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-046.adoc#v19-46-0[&#60; Capítulo Anterior] | <<v19-47-0,Topo>> | xref:019-psalm/019-psalm-048.adoc#v19-48-0[Próximo Capítulo &#62;]

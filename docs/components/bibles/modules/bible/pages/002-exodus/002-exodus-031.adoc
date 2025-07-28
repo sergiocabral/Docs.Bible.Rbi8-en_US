@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v2-31-0]]
+=== Exodus, 31
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-31-1]]
+
+^<<v2-31-1,1>>^ And Jehovah continued to speak to Moses, saying:
+
+[[v2-31-2]]
+
+^<<v2-31-2,2>>^ “See, I do call by name Bezʹal·el the son of Uʹri the son of Hur of the tribe of Judah.
+
+[[v2-31-3]]
+
+^<<v2-31-3,3>>^ And I shall fill him with the spirit of God in wisdom and in understanding and in knowledge and in every kind of craftsmanship,
+
+[[v2-31-4]]
+
+^<<v2-31-4,4>>^ for designing devices, for working in gold and silver and copper,
+
+[[v2-31-5]]
+
+^<<v2-31-5,5>>^ and in working of stones to set them and in working of wood to make products of every kind.
+
+[[v2-31-6]]
+
+^<<v2-31-6,6>>^ As for me, look! I do put with him^&#42;1^ O·hoʹli·ab the son of A·hisʹa·mach of the tribe of Dan, and in the heart of everyone wise of heart I do put wisdom, that they may indeed make everything I have commanded you:
+
+[NOTE]
+====
+. Or, “I do give to be with him.”
+====
+
+[[v2-31-7]]
+
+^<<v2-31-7,7>>^ the tent of meeting and the Ark for the testimony and the cover that is upon it, and all the utensils of the tent,
+
+[[v2-31-8]]
+
+^<<v2-31-8,8>>^ and the table and its utensils, and the lampstand of pure gold and all its utensils, and the altar of incense,
+
+[[v2-31-9]]
+
+^<<v2-31-9,9>>^ and the altar of burnt offering and all its utensils, and the basin and its stand,
+
+[[v2-31-10]]
+
+^<<v2-31-10,10>>^ and the garments of knitted work^&#42;1^ and the holy garments for Aaron the priest and the garments of his sons for acting as priests;
+
+[NOTE]
+====
+. Or, “garments of official dress.” LXX, “garments for public service.”
+====
+
+[[v2-31-11]]
+
+^<<v2-31-11,11>>^ and the anointing oil and the perfumed incense for the sanctuary. According to everything I have commanded you they will do.”^&#42;1^
+
+[NOTE]
+====
+. Or, “make.”
+====
+
+[[v2-31-12]]
+
+^<<v2-31-12,12>>^ And Jehovah said further to Moses:
+
+[[v2-31-13]]
+
+^<<v2-31-13,13>>^ “As for you, speak to the sons of Israel, saying, ‘Especially my sabbaths YOU are to keep, for it is a sign between me and YOU during YOUR generations that YOU may know that I Jehovah am sanctifying YOU.^&#42;1^
+
+[NOTE]
+====
+. Or, “know that I am Jehovah who is sanctifying you.” See Le 20:8 ftn.
+====
+
+[[v2-31-14]]
+
+^<<v2-31-14,14>>^ And YOU must keep the sabbath, for it is something holy to YOU. A profaner of it will positively be put to death. In case there is anyone doing work on it, then that soul must be cut off from the midst of his people.
+
+[[v2-31-15]]
+
+^<<v2-31-15,15>>^ Six days may work be done, but on the seventh day is a sabbath of complete rest.^&#42;1^ It is something holy to Jehovah. Anyone doing work on the sabbath day will positively be put to death.
+
+[NOTE]
+====
+. Or, “of sabbath observance.”
+====
+
+[[v2-31-16]]
+
+^<<v2-31-16,16>>^ And the sons of Israel must keep the sabbath, so as to carry out the sabbath during their generations. It is a covenant to time indefinite.
+
+[[v2-31-17]]
+
+^<<v2-31-17,17>>^ Between me and the sons of Israel it is a sign to time indefinite, because in six days Jehovah made the heavens and the earth and on the seventh day he rested^&#42;1^ and proceeded to refresh himself.’”
+
+[NOTE]
+====
+. Or, “desisted.” See Ge 2:3 ftn, “Resting.”
+====
+
+[[v2-31-18]]
+
+^<<v2-31-18,18>>^ Now as soon as he had finished speaking with him on Mount Siʹnai he proceeded to give Moses two tablets of the Testimony, tablets of stone written on by God’s finger.
+
+'''
+
+xref:002-exodus/002-exodus-030.adoc#v2-30-0[&#60; Capítulo Anterior] | <<v2-31-0,Topo>> | xref:002-exodus/002-exodus-032.adoc#v2-32-0[Próximo Capítulo &#62;]

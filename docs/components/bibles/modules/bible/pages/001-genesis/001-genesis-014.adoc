@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v1-14-0]]
+=== Genesis, 14
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v1-14-1]]
+
+^<<v1-14-1,1>>^ Now it came about in the days of^&#42;1^ Amʹra·phel king^&#42;2^ of Shiʹnar, Arʹi·och king of El·laʹsar, Ched·or·la·oʹmer king of Eʹlam, and Tiʹdal king of Goiʹim,^&#42;3^
+
+[NOTE]
+====
+. “Now it came about in the days of.” Heb., wai·hiʹ bi·mehʹ. This phrase occurs six times in M; here, also in Ru 1:1; Es 1:1; Isa 7:1; Jer 1:3, and with an insert in 2Sa 21:1. It points to a period of trial ending in blessing.
+. “King.” Heb., meʹlekh; the first occurrence of this title, and without the definite article but followed by a proper noun in the genitive case.
+. “Nations,” LXXVg.
+====
+
+[[v1-14-2]]
+
+^<<v1-14-2,2>>^ that these made war with Beʹra king of Sodʹom, and with Birʹsha king of Go·morʹrah, Shiʹnab king of Adʹmah, and Shem·eʹber king of Ze·boiʹim, and the king of Beʹla (that is to say, Zoʹar).
+
+[[v1-14-3]]
+
+^<<v1-14-3,3>>^ All these marched as allies to the Low Plain of Sidʹdim,^&#42;1^ that is, the Salt Sea.
+
+[NOTE]
+====
+. Or, “Valley of the Fields.”
+====
+
+[[v1-14-4]]
+
+^<<v1-14-4,4>>^ Twelve years they had served Ched·or·la·oʹmer, but the thirteenth year they rebelled.
+
+[[v1-14-5]]
+
+^<<v1-14-5,5>>^ And in the fourteenth year Ched·or·la·oʹmer came, and also the kings who were with him, and they inflicted defeats on the Rephʹa·im in Ashʹte·roth-kar·naʹim, and the Zuʹzim in Ham, and the Eʹmim in Shaʹveh-kir·i·a·thaʹim,
+
+[[v1-14-6]]
+
+^<<v1-14-6,6>>^ and the Horʹites in their mountain of Seʹir, down to El-paʹran, which is at the wilderness.
+
+[[v1-14-7]]
+
+^<<v1-14-7,7>>^ Then they turned about and came to En-mishʹpat, that is, Kaʹdesh, and defeated the whole field of the A·malʹek·ites and also the Amʹor·ites who were dwelling in Hazʹa·zon-taʹmar.
+
+[[v1-14-8]]
+
+^<<v1-14-8,8>>^ At this point the king of Sodʹom went on the march, and also the king of Go·morʹrah and the king of Adʹmah and the king of Ze·boiʹim and the king of Beʹla (that is to say, Zoʹar), and they drew up in battle order against them in the Low Plain of Sidʹdim,
+
+[[v1-14-9]]
+
+^<<v1-14-9,9>>^ against Ched·or·la·oʹmer king of Eʹlam and Tiʹdal king of Goiʹim and Amʹra·phel king of Shiʹnar and Arʹi·och king of El·laʹsar; four kings against the five.
+
+[[v1-14-10]]
+
+^<<v1-14-10,10>>^ Now the Low Plain of Sidʹdim was pits upon pits of bitumen; and the kings of Sodʹom and Go·morʹrah took to flight and went falling into them, and those who remained fled to the mountainous region.
+
+[[v1-14-11]]
+
+^<<v1-14-11,11>>^ Then the victors^&#42;1^ took all the goods of Sodʹom and Go·morʹrah and all their food and went on their way.
+
+[NOTE]
+====
+. Lit., “Then they,” that is, the victors.
+====
+
+[[v1-14-12]]
+
+^<<v1-14-12,12>>^ They also took Lot the son of Aʹbram’s brother and his goods and continued on their way. He was then dwelling in Sodʹom.
+
+[[v1-14-13]]
+
+^<<v1-14-13,13>>^ After that a man who had escaped came and told Aʹbram the Hebrew.^&#42;1^ He was then tabernacling among the big trees of Mamʹre the Amʹor·ite, the brother of Eshʹcol and brother of Aʹner; and they were confederates^&#42;2^ of Aʹbram.
+
+[NOTE]
+====
+. “The Hebrew.” Heb., ha·ʽIv·riʹ; the first occurrence; next found in 39:14, 17.
+. Lit., “owners (masters) of the covenant of.” Heb., ba·ʽalehʹ verithʹ.
+====
+
+[[v1-14-14]]
+
+^<<v1-14-14,14>>^ Thus Aʹbram got to hear that his brother had been taken captive. With that he mustered his trained men, three hundred and eighteen slaves born in his household,^&#42;1^ and went in pursuit up to Dan.
+
+[NOTE]
+====
+. Lit., “born ones of his house.” They were children of slaves and not purchased.
+====
+
+[[v1-14-15]]
+
+^<<v1-14-15,15>>^ And by night he resorted to dividing his forces, he and his slaves, against them, and thus he defeated them and kept in pursuit of them up to Hoʹbah, which is north^&#42;1^ of Damascus.
+
+[NOTE]
+====
+. Lit., “to the left,” that is, when facing east.
+====
+
+[[v1-14-16]]
+
+^<<v1-14-16,16>>^ And he proceeded to recover all the goods, and he recovered also Lot his brother and his goods and also the women and the people.
+
+[[v1-14-17]]
+
+^<<v1-14-17,17>>^ Then the king of Sodʹom went out to meet him after he returned from defeating Ched·or·la·oʹmer and the kings that were with him, to the Low Plain of Shaʹveh,^&#42;1^ that is, the king’s Low Plain.
+
+[NOTE]
+====
+. Or, “Valley of the Level (Plain).” This valley was near Salem, or Jerusalem.
+====
+
+[[v1-14-18]]
+
+^<<v1-14-18,18>>^ And Mel·chizʹe·dek king of Saʹlem brought out bread and wine, and he was priest^&#42;1^ of the Most High God.^&#42;2^
+
+[NOTE]
+====
+. “Priest of.” Heb., kho·henʹ; the first occurrence of the word.
+. “Of the Most High God.” Heb., leʼElʹ ʽEl·yohnʹ. The Heb. word here is, not ʼElo·himʹ, but ʼEl without the definite article, even though ʼEl is followed by the adjective ʽEl·yohnʹ, “Most High.”
+====
+
+[[v1-14-19]]
+
+^<<v1-14-19,19>>^ Then he blessed him and said:
+“Blessed be Aʹbram of the Most High God,
+Producer^&#42;1^ of heaven and earth;
+
+[NOTE]
+====
+. “Producer.” LXXVg, “who created”; but in vs 22 Vg reads, “Possessor.”
+====
+
+[[v1-14-20]]
+
+^<<v1-14-20,20>>^ And blessed be the Most High God,
+Who has delivered your oppressors into your hand!”
+At that Aʹbram^&#42;1^ gave him a tenth^&#42;2^ of everything.
+
+[NOTE]
+====
+. Lit., “he.”
+. Or, “tithe.” The first mention of the tithe, or tenth.
+====
+
+[[v1-14-21]]
+
+^<<v1-14-21,21>>^ After that the king of Sodʹom said to Aʹbram: “Give me the souls,^&#42;1^ but take the goods for yourself.”
+
+[NOTE]
+====
+. “The souls,” M(Heb., han·neʹphesh, sing. but used collectively)SyVg; LXX, “men.”
+====
+
+[[v1-14-22]]
+
+^<<v1-14-22,22>>^ At this Aʹbram said to the king of Sodʹom: “I do lift up my hand &#91;in an oath&#93; to Jehovah the Most High God, Producer of heaven and earth,
+
+[[v1-14-23]]
+
+^<<v1-14-23,23>>^ that, from a thread to a sandal lace, no, I shall take nothing from anything that is yours, in order that you may not say, ‘It was I who made Aʹbram rich.’
+
+[[v1-14-24]]
+
+^<<v1-14-24,24>>^ Nothing for me! Only what the young men have already eaten, and the share of the men who went with me, Aʹner, Eshʹcol and Mamʹre—let them take their share.”
+
+'''
+
+xref:001-genesis/001-genesis-013.adoc#v1-13-0[&#60; Capítulo Anterior] | <<v1-14-0,Topo>> | xref:001-genesis/001-genesis-015.adoc#v1-15-0[Próximo Capítulo &#62;]

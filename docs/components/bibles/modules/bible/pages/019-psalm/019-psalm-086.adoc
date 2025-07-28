@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v19-86-0]]
+=== Psalms, 86
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A prayer of David._
+
+[[v19-86-1]]
+
+^<<v19-86-1,1>>^ Incline, O Jehovah, your ear. Answer me,
+For I am afflicted and poor.
+
+[[v19-86-2]]
+
+^<<v19-86-2,2>>^ O do guard my soul, for I am loyal.
+Save your servant—you are my God—that is trusting in you.
+
+[[v19-86-3]]
+
+^<<v19-86-3,3>>^ Show me favor, O Jehovah,^&#42;1^
+For to you I keep calling all day long.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-86-4]]
+
+^<<v19-86-4,4>>^ Make the soul of your servant rejoice,
+For to you, O Jehovah,^&#42;1^ I lift up my very soul.
+
+[NOTE]
+====
+. See vs 3 ftn.
+====
+
+[[v19-86-5]]
+
+^<<v19-86-5,5>>^ For you, O Jehovah,^&#42;1^ are good and ready to forgive;
+And the loving-kindness to all those calling upon you is abundant.
+
+[NOTE]
+====
+. See vs 3 ftn.
+====
+
+[[v19-86-6]]
+
+^<<v19-86-6,6>>^ Do give ear, O Jehovah, to my prayer;
+And do pay attention to the voice of my entreaties.
+
+[[v19-86-7]]
+
+^<<v19-86-7,7>>^ In the day of my distress I will call upon you,
+For you will answer me.
+
+[[v19-86-8]]
+
+^<<v19-86-8,8>>^ There is none like you among the gods,^&#42;1^ O Jehovah,^&#42;2^
+Neither are there any works like yours.
+
+[NOTE]
+====
+. “Among the gods.” Heb., va·ʼelo·himʹ; Gr., the·oisʹ; Lat., diʹis; T, “lofty angels.”
+. See vs 3 ftn.
+====
+
+[[v19-86-9]]
+
+^<<v19-86-9,9>>^ All the nations whom you have made will themselves come,
+And they will bow down before you, O Jehovah,^&#42;1^
+And will give glory to your name.
+
+[NOTE]
+====
+. See vs 3 ftn.
+====
+
+[[v19-86-10]]
+
+^<<v19-86-10,10>>^ For you are great and are doing wondrous things;
+You are God, you alone.
+
+[[v19-86-11]]
+
+^<<v19-86-11,11>>^ Instruct me, O Jehovah, about your way.
+I shall walk in your truth.
+Unify my heart to fear your name.
+
+[[v19-86-12]]
+
+^<<v19-86-12,12>>^ I laud you, O Jehovah^&#42;1^ my God, with all my heart,
+And I will glorify your name to time indefinite,
+
+[NOTE]
+====
+. See vs 3 ftn.
+====
+
+[[v19-86-13]]
+
+^<<v19-86-13,13>>^ For your loving-kindness is great toward me,
+And you have delivered my soul out of Sheʹol, its lowest place.
+
+[[v19-86-14]]
+
+^<<v19-86-14,14>>^ O God, the presumptuous ones themselves have risen up against me;
+And the very assembly of tyrannical ones have looked for my soul,
+And they have not set you in front of themselves.
+
+[[v19-86-15]]
+
+^<<v19-86-15,15>>^ But you, O Jehovah,^&#42;1^ are a God^&#42;2^ merciful and gracious,
+Slow to anger and abundant in loving-kindness and trueness.^&#42;3^
+
+[NOTE]
+====
+. See vs 3 ftn.
+. “God.” Heb., ʼEl.
+. Or, “and truth.” Heb., we·ʼemethʹ.
+====
+
+[[v19-86-16]]
+
+^<<v19-86-16,16>>^ Turn to me and show me favor.
+Do give your strength to your servant,
+And do save the son of your slave girl.
+
+[[v19-86-17]]
+
+^<<v19-86-17,17>>^ Work out with me a sign meaning goodness,
+That those hating me may see &#91;it&#93; and be ashamed.
+For you yourself, O Jehovah, have helped me and comforted me.
+
+'''
+
+xref:019-psalm/019-psalm-085.adoc#v19-85-0[&#60; Capítulo Anterior] | <<v19-86-0,Topo>> | xref:019-psalm/019-psalm-087.adoc#v19-87-0[Próximo Capítulo &#62;]

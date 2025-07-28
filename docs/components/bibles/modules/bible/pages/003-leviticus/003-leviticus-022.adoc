@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v3-22-0]]
+=== Leviticus, 22
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-22-1]]
+
+^<<v3-22-1,1>>^ And Jehovah spoke further to Moses, saying:
+
+[[v3-22-2]]
+
+^<<v3-22-2,2>>^ “Speak to Aaron and his sons, that they may keep themselves separate from the holy things of the sons of Israel and not profane my holy name in the things they are sanctifying to me. I am Jehovah.
+
+[[v3-22-3]]
+
+^<<v3-22-3,3>>^ Say to them, ‘Throughout YOUR generations any man of all YOUR offspring who comes near to the holy things, which the sons of Israel will sanctify to Jehovah, while his uncleanness is upon him, that soul must be cut off from before me. I am Jehovah.
+
+[[v3-22-4]]
+
+^<<v3-22-4,4>>^ No man of Aaron’s offspring when he is leprous or has a running discharge may eat of the holy things until he becomes clean, neither he who touches anyone unclean by a deceased soul^&#42;1^ or a man from whom there goes out a seminal emission,
+
+[NOTE]
+====
+. Lit., “by a soul,” that is, a dead soul. Lat., morʹtu·o, “someone dead”; Heb., neʹphesh; LXX, “he who touches any uncleanness of a soul [Gr., psy·khesʹ].”
+====
+
+[[v3-22-5]]
+
+^<<v3-22-5,5>>^ nor a man who touches any swarming thing that is unclean for him or touches a man who is unclean for him as respects any uncleanness of his.
+
+[[v3-22-6]]
+
+^<<v3-22-6,6>>^ The soul who touches any such must be unclean until the evening and may not eat any of the holy things, but he must bathe his flesh in water.
+
+[[v3-22-7]]
+
+^<<v3-22-7,7>>^ When the sun has set, he must also be clean, and afterward he may eat some of the holy things, because it is his bread.
+
+[[v3-22-8]]
+
+^<<v3-22-8,8>>^ He should also not eat any body &#91;already&#93; dead or anything torn by wild beasts so as to become unclean by it. I am Jehovah.
+
+[[v3-22-9]]
+
+^<<v3-22-9,9>>^ “‘And they must keep their obligation to me, that they may not carry sin because of it and have to die for it because they were profaning it. I am Jehovah who is sanctifying them.
+
+[[v3-22-10]]
+
+^<<v3-22-10,10>>^ “‘And no stranger^&#42;1^ at all may eat anything holy. No settler with a priest nor a hired laborer may eat anything holy.
+
+[NOTE]
+====
+. That is, a non-Aaronite, a man not of the family of Aaron.
+====
+
+[[v3-22-11]]
+
+^<<v3-22-11,11>>^ But in case a priest should purchase a soul, as a purchase with his money, he as such may share in eating it. As for slaves born^&#42;1^ in his house, they as such may share in eating his bread.
+
+[NOTE]
+====
+. “Slaves born,” SamLXXSy; MVg, “a slave born.”
+====
+
+[[v3-22-12]]
+
+^<<v3-22-12,12>>^ And in case the daughter of a priest should become a man’s who is a stranger, she as such may not eat of the contribution of the holy things.
+
+[[v3-22-13]]
+
+^<<v3-22-13,13>>^ But in case the daughter of a priest should become a widow or divorced^&#42;1^ when she has no offspring, and she must return to her father’s house as in her youth, she may eat some of her father’s bread; but no stranger at all may feed on it.
+
+[NOTE]
+====
+. Lit., “driven out; cast out.” See Mt 19:3 ftn.
+====
+
+[[v3-22-14]]
+
+^<<v3-22-14,14>>^ “‘Now in case a man eats a holy thing by mistake, he must then add the fifth of it to it and must give the holy thing to the priest.
+
+[[v3-22-15]]
+
+^<<v3-22-15,15>>^ So they^&#42;1^ should not profane the holy things of the sons of Israel, which they may contribute to Jehovah,
+
+[NOTE]
+====
+. That is, the priests.
+====
+
+[[v3-22-16]]
+
+^<<v3-22-16,16>>^ and actually cause them to bear the punishment of guiltiness because of their eating their holy things; for I am Jehovah who is sanctifying them.’”
+
+[[v3-22-17]]
+
+^<<v3-22-17,17>>^ And Jehovah continued to speak to Moses, saying:
+
+[[v3-22-18]]
+
+^<<v3-22-18,18>>^ “Speak to Aaron and his sons and all the sons of Israel, and you must say to them, ‘As for any man of the house of Israel or some alien resident in Israel who presents his offering, for any of their vows or for any of their voluntary offerings, which they may present to Jehovah for a burnt offering,
+
+[[v3-22-19]]
+
+^<<v3-22-19,19>>^ to gain approval for YOU it must be sound, a male among the herd, among the young rams or among the goats.
+
+[[v3-22-20]]
+
+^<<v3-22-20,20>>^ Anything in which there is a defect YOU must not present, because it will not serve to gain approval for YOU.
+
+[[v3-22-21]]
+
+^<<v3-22-21,21>>^ “‘And in case a man should present a communion sacrifice to Jehovah in order to pay a vow or as a voluntary offering, it should prove to be a sound one among the herd or the flock, in order to gain approval. No defect at all should prove to be in it.
+
+[[v3-22-22]]
+
+^<<v3-22-22,22>>^ No case of blindness or fracture or having a cut or wart or scabbiness or ringworm, none of these must YOU present to Jehovah, and no offering made by fire from them must YOU put upon the altar for Jehovah.
+
+[[v3-22-23]]
+
+^<<v3-22-23,23>>^ As for a bull or a sheep having a member too long or too short, you may make it a voluntary offering; but for a vow it will not be accepted with approval.
+
+[[v3-22-24]]
+
+^<<v3-22-24,24>>^ But one having the testicles squeezed or crushed or pulled off or cut off^&#42;1^ YOU must not present to Jehovah, and in YOUR land YOU should not render them up.
+
+[NOTE]
+====
+. Or, “or one with the urinary passage cut off.” See De 23:1.
+====
+
+[[v3-22-25]]
+
+^<<v3-22-25,25>>^ And any of all these from the hand of a foreigner YOU must not present as the bread of YOUR God, because their corruption is in them. There is a defect in them. They will not be accepted with approval of YOU.’”
+
+[[v3-22-26]]
+
+^<<v3-22-26,26>>^ And Jehovah spoke further to Moses, saying:
+
+[[v3-22-27]]
+
+^<<v3-22-27,27>>^ “Should a bull or a young ram or a goat be born, then it must continue under its mother seven days, but from the eighth day and forward it will be accepted with approval as an offering, an offering made by fire to Jehovah.
+
+[[v3-22-28]]
+
+^<<v3-22-28,28>>^ As for a bull and a sheep, YOU must not slaughter it and its young one on the one day.
+
+[[v3-22-29]]
+
+^<<v3-22-29,29>>^ “And in case YOU should sacrifice a thanksgiving sacrifice^&#42;1^ to Jehovah, YOU should sacrifice it to gain approval for YOU.
+
+[NOTE]
+====
+. Or, “a sacrifice of praise.”
+====
+
+[[v3-22-30]]
+
+^<<v3-22-30,30>>^ On that day it should be eaten. YOU must not leave any of it until morning. I am Jehovah.
+
+[[v3-22-31]]
+
+^<<v3-22-31,31>>^ “And YOU must keep my commandments and do them. I am Jehovah.
+
+[[v3-22-32]]
+
+^<<v3-22-32,32>>^ And YOU must not profane my holy name, and I must be sanctified^&#42;1^ in the midst of the sons of Israel. I am Jehovah who is sanctifying YOU,
+
+[NOTE]
+====
+. Or, “I must sanctify myself.”
+====
+
+[[v3-22-33]]
+
+^<<v3-22-33,33>>^ the One bringing YOU out of the land of Egypt to prove myself God to YOU. I am Jehovah.”
+
+'''
+
+xref:003-leviticus/003-leviticus-021.adoc#v3-21-0[&#60; Capítulo Anterior] | <<v3-22-0,Topo>> | xref:003-leviticus/003-leviticus-023.adoc#v3-23-0[Próximo Capítulo &#62;]

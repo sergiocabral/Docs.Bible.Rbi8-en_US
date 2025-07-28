@@ -1,0 +1,244 @@
+include::./index.adoc[]
+
+[[v18-9-0]]
+=== Job, 9
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v18-9-1]]
+
+^<<v18-9-1,1>>^ And Job proceeded to answer and say:
+
+[[v18-9-2]]
+
+^<<v18-9-2,2>>^ “For a fact I do know that it is so.
+But how can mortal man be in the right in a case with God?^&#42;1^
+
+[NOTE]
+====
+. “God.” Heb., ʼEl; LXX, “Jehovah.”
+====
+
+[[v18-9-3]]
+
+^<<v18-9-3,3>>^ If he should find delight in contending with him,
+He cannot answer him once out of a thousand.
+
+[[v18-9-4]]
+
+^<<v18-9-4,4>>^ He is wise in heart and strong in power.
+Who can show stubbornness to him and come off uninjured?
+
+[[v18-9-5]]
+
+^<<v18-9-5,5>>^ He is moving mountains away, so that people do not even know &#91;of them&#93;,
+He who has overthrown them in his anger.
+
+[[v18-9-6]]
+
+^<<v18-9-6,6>>^ He is making the earth go quaking from its place,
+So that its very pillars shudder.
+
+[[v18-9-7]]
+
+^<<v18-9-7,7>>^ He is saying to the sun^&#42;1^ that it should not shine forth,
+And around stars he puts a seal,
+
+[NOTE]
+====
+. “To the sun.” Heb., la·cheʹres; Gr., he·liʹoi; Lat., soʹli.
+====
+
+[[v18-9-8]]
+
+^<<v18-9-8,8>>^ Stretching out the heavens by himself
+And treading upon the high waves^&#42;1^ of the sea;
+
+[NOTE]
+====
+. Lit., “high places.”
+====
+
+[[v18-9-9]]
+
+^<<v18-9-9,9>>^ Making the Ash constellation,^&#42;1^ the Keʹsil constellation,^&#42;2^
+And the Kiʹmah constellation^&#42;3^ and the interior rooms of the South;^&#42;4^
+
+[NOTE]
+====
+. “The Ash constellation.” Heb., ʽAsh. Thought by some to be the constellation Ursa Major (Great Bear).
+. “The Kesil constellation.” Heb., Kesilʹ. Thought by some to be the constellation Orion.
+. “And the Kimah constellation.” Heb., weKhi·mahʹ. Thought by some to be the Pleiades stars in the Taurus constellation.
+. “The One making the Pleiades and Hesperus and Arcturus and the storerooms of the South,” LXX; Vg, “who makes Arcturus and Orion and the Hyades and the interior rooms of the South.” The interior rooms of the South are understood to be the constellations below the equator, in the southern hemisphere.
+====
+
+[[v18-9-10]]
+
+^<<v18-9-10,10>>^ Doing great things unsearchable,
+And wonderful things without number.
+
+[[v18-9-11]]
+
+^<<v18-9-11,11>>^ Look! He passes by me and I do not see &#91;him&#93;,
+And he moves on and I do not discern him.
+
+[[v18-9-12]]
+
+^<<v18-9-12,12>>^ Look! He snatches away. Who can resist him?
+Who will say to him, ‘What are you doing?’
+
+[[v18-9-13]]
+
+^<<v18-9-13,13>>^ God^&#42;1^ himself will not turn back his anger;
+Beneath him the helpers of a stormer^&#42;2^ must bow down.
+
+[NOTE]
+====
+. “God.” Heb., ʼElohʹah. See 3:4 ftn.
+. “Stormer.” Heb., raʹhav. See 26:12 ftn.
+====
+
+[[v18-9-14]]
+
+^<<v18-9-14,14>>^ How much more so in case I myself answer him!
+I will choose my words with him,
+
+[[v18-9-15]]
+
+^<<v18-9-15,15>>^ Whom I would not answer, even though I were really in the right.
+Of my opponent-at-law I would implore favor.
+
+[[v18-9-16]]
+
+^<<v18-9-16,16>>^ If I called him, would he answer me?
+I do not believe that he would give ear to my voice;
+
+[[v18-9-17]]
+
+^<<v18-9-17,17>>^ Who with a storm bruises me
+And certainly makes my wounds many for no reason.
+
+[[v18-9-18]]
+
+^<<v18-9-18,18>>^ He will not grant me my taking^&#42;1^ of a fresh breath,
+For he keeps glutting me with bitter things.
+
+[NOTE]
+====
+. “Taking.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and is here used as the object of the verb “grant.”
+====
+
+[[v18-9-19]]
+
+^<<v18-9-19,19>>^ If in power anyone is strong, there &#91;he is&#93;;^&#42;1^
+And if in justice &#91;anyone is strong&#93;, O that I may be summoned!
+
+[NOTE]
+====
+. “There he is,” T; M, “look!”
+====
+
+[[v18-9-20]]
+
+^<<v18-9-20,20>>^ If I were in the right, my own mouth^&#42;1^ would pronounce me wicked;
+Were I blameless, then he would declare me crooked.
+
+[NOTE]
+====
+. “My own mouth,” MLXXSyVg; by a correction of M, “his own mouth.”
+====
+
+[[v18-9-21]]
+
+^<<v18-9-21,21>>^ Were I blameless, I would not know my soul;
+I would refuse my life.
+
+[[v18-9-22]]
+
+^<<v18-9-22,22>>^ One thing there is. That is why I do say,
+‘One blameless, also a wicked one, he is bringing to their end.’
+
+[[v18-9-23]]
+
+^<<v18-9-23,23>>^ If a flash flood^&#42;1^ itself should cause death suddenly,
+At the very despair of the innocent ones he would mock.
+
+[NOTE]
+====
+. “Scourge,” by another derivation of the Heb. word.
+====
+
+[[v18-9-24]]
+
+^<<v18-9-24,24>>^ Earth itself has been given into the hand of the wicked one;
+The face of its judges he covers.
+If not, who, then, is it?
+
+[[v18-9-25]]
+
+^<<v18-9-25,25>>^ Also my own days have become swifter than a runner;
+They have run away, they will certainly not see good.
+
+[[v18-9-26]]
+
+^<<v18-9-26,26>>^ They have moved on like reed boats,
+Like an eagle that darts to and fro for something to eat.
+
+[[v18-9-27]]
+
+^<<v18-9-27,27>>^ If I have said, ‘Let me forget my concern,
+Let me alter my countenance and brighten up,’
+
+[[v18-9-28]]
+
+^<<v18-9-28,28>>^ I have been scared of all my pains;
+I do know that you will not hold me innocent.
+
+[[v18-9-29]]
+
+^<<v18-9-29,29>>^ I myself am to become wicked.
+Why is it that I toil merely in vain?
+
+[[v18-9-30]]
+
+^<<v18-9-30,30>>^ If I actually washed myself in snow water,
+And I actually cleansed my hands^&#42;1^ in potash,
+
+[NOTE]
+====
+. Or, “palms.”
+====
+
+[[v18-9-31]]
+
+^<<v18-9-31,31>>^ Then in a pit you would dip me,
+And my garments would certainly detest me.
+
+[[v18-9-32]]
+
+^<<v18-9-32,32>>^ For he is not a man like me &#91;that&#93; I should answer him,
+That we should come together in judgment.
+
+[[v18-9-33]]
+
+^<<v18-9-33,33>>^ There exists no^&#42;1^ person to decide^&#42;2^ between us,
+That he should put his hand upon both of us.
+
+[NOTE]
+====
+. “There exists no,” MVg; LXX, “If only there were.”
+. Or, “mediator.” Gr., me·siʹtes, as in 1Ti 2:5.
+====
+
+[[v18-9-34]]
+
+^<<v18-9-34,34>>^ Let him remove his rod from upon me,
+And his frightfulness, let it not terrify me.
+
+[[v18-9-35]]
+
+^<<v18-9-35,35>>^ Let me speak and not be afraid of him,
+For I am not so disposed in myself.
+
+'''
+
+xref:018-job/018-job-008.adoc#v18-8-0[&#60; Capítulo Anterior] | <<v18-9-0,Topo>> | xref:018-job/018-job-010.adoc#v18-10-0[Próximo Capítulo &#62;]

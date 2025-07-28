@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v6-20-0]]
+=== Joshua, 20
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v6-20-1]]
+
+^<<v6-20-1,1>>^ Then Jehovah spoke to Joshua, saying:
+
+[[v6-20-2]]
+
+^<<v6-20-2,2>>^ “Speak to the sons of Israel, saying, ‘Give for yourselves the cities of refuge of which I spoke to YOU by means of Moses,
+
+[[v6-20-3]]
+
+^<<v6-20-3,3>>^ for the manslayer who fatally strikes a soul unintentionally without knowing it to flee there; and they must serve YOU as a refuge from the avenger^&#42;1^ of blood.
+
+[NOTE]
+====
+. Or, “the goel.”
+====
+
+[[v6-20-4]]
+
+^<<v6-20-4,4>>^ And he must flee to one of these cities and stand at the entrance of the gate of the city and speak his words in the hearing of the older men of that city; and they must receive him into the city to themselves and give him a place and he must dwell with them.
+
+[[v6-20-5]]
+
+^<<v6-20-5,5>>^ And in case the avenger of blood chases after him, then they should not surrender the manslayer into his hand; for it was without knowing it that he struck his fellowman fatally, and he was not hating him formerly.
+
+[[v6-20-6]]
+
+^<<v6-20-6,6>>^ And he must dwell in that city until his standing before the assembly for judgment, until the death of the high priest^&#42;1^ who happens to be in those days. It is then that the manslayer may return, and he must enter into his city and into his house, into the city from which he had fled.’”
+
+[NOTE]
+====
+. Lit., “the great priest,” M; Lat., sa·cerʹdos maʹgnus.
+====
+
+[[v6-20-7]]
+
+^<<v6-20-7,7>>^ Accordingly they gave a sacred status to Keʹdesh^&#42;1^ in Galʹi·lee^&#42;2^ in the mountainous region of Naphʹta·li, and Sheʹchem in the mountainous region of Eʹphra·im, and Kirʹi·ath-arʹba, that is to say, Heʹbron, in the mountainous region of Judah.
+
+[NOTE]
+====
+. Or, “they sanctified Kedesh.”
+. Or, “in the circuit.” Heb., bag·Ga·lilʹ; Gr., Ga·li·laiʹai; Lat., Ga·li·leʹa. “Galilee” later designated the Roman province north of Samaria.
+====
+
+[[v6-20-8]]
+
+^<<v6-20-8,8>>^ And in the region of the Jordan, at Jerʹi·cho, toward the east they gave Beʹzer in the wilderness on the tableland out of the tribe of Reuʹben, and Raʹmoth in Gilʹe·ad out of the tribe of Gad, and Goʹlan in Baʹshan out of the tribe of Ma·nasʹseh.
+
+[[v6-20-9]]
+
+^<<v6-20-9,9>>^ These became the cities appointed for all the sons of Israel and for the alien resident who resides as an alien in their midst, for anyone to flee there who fatally strikes a soul unintentionally, that he may not die by the hand of the avenger of blood until his standing before the assembly.
+
+'''
+
+xref:006-joshua/006-joshua-019.adoc#v6-19-0[&#60; Capítulo Anterior] | <<v6-20-0,Topo>> | xref:006-joshua/006-joshua-021.adoc#v6-21-0[Próximo Capítulo &#62;]

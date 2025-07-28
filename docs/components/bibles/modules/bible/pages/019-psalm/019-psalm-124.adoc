@@ -1,0 +1,58 @@
+include::./index.adoc[]
+
+[[v19-124-0]]
+=== Psalms, 124
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents. Of David._
+
+[[v19-124-1]]
+
+^<<v19-124-1,1>>^ “Had it not been that Jehovah proved to be for us,”
+Let Israel now say,
+
+[[v19-124-2]]
+
+^<<v19-124-2,2>>^ “Had it not been that Jehovah proved to be for us
+When men^&#42;1^ rose up against us,
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-124-3]]
+
+^<<v19-124-3,3>>^ Then they would have swallowed us up even alive,
+When their anger was burning against us.
+
+[[v19-124-4]]
+
+^<<v19-124-4,4>>^ Then the very waters would have washed us away,
+The torrent itself would have passed over our soul.
+
+[[v19-124-5]]
+
+^<<v19-124-5,5>>^ Then there would have passed over our soul
+The waters of presumptuousness.
+
+[[v19-124-6]]
+
+^<<v19-124-6,6>>^ Blessed be Jehovah, who has not given us
+As a prey to their teeth.
+
+[[v19-124-7]]
+
+^<<v19-124-7,7>>^ Our soul is like a bird that is escaped
+From the trap of baiters.
+The trap is broken,
+And we ourselves have escaped.
+
+[[v19-124-8]]
+
+^<<v19-124-8,8>>^ Our help is in the name of Jehovah,
+The Maker of heaven and earth.”
+
+'''
+
+xref:019-psalm/019-psalm-123.adoc#v19-123-0[&#60; Capítulo Anterior] | <<v19-124-0,Topo>> | xref:019-psalm/019-psalm-125.adoc#v19-125-0[Próximo Capítulo &#62;]

@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v19-84-0]]
+=== Psalms, 84
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_For the director upon the Gitʹtith.^&#42;1^ Of the sons of Koʹrah. A melody._
+
+[[v19-84-1]]
+
+^<<v19-84-1,1>>^ How lovely your grand tabernacle is,
+O Jehovah of armies!
+
+[[v19-84-2]]
+
+^<<v19-84-2,2>>^ My soul has yearned and also pined away for the courtyards of Jehovah.
+My own heart and my very flesh cry out joyfully to the living God.^&#42;1^
+
+[NOTE]
+====
+. Or, “the living Divine One.” Heb., ʼEl-chaiʹ.
+====
+
+[[v19-84-3]]
+
+^<<v19-84-3,3>>^ Even the bird itself has found a house,
+And the swallow a nest for herself,
+Where she has put her young ones—
+Your grand altar,^&#42;1^ O Jehovah of armies, my King and my God!^&#42;2^
+
+[NOTE]
+====
+. Lit., “your altars,” pl., likely to denote grandeur. Compare “grand tabernacle” in vs 1.
+. “And my God.” Heb., wEʼ·lo·haiʹ.
+====
+
+[[v19-84-4]]
+
+^<<v19-84-4,4>>^ Happy are those dwelling in your house!
+They still keep on praising you. Seʹlah.
+
+[[v19-84-5]]
+
+^<<v19-84-5,5>>^ Happy are the men^&#42;1^ whose strength is in you,^&#42;2^
+In whose heart are the highways.
+
+[NOTE]
+====
+. Lit., “earthling man.” Heb., ʼa·dhamʹ.
+. “You,” MVg; LXX, “you, O Jehovah”; T, “your Meimra.”
+====
+
+[[v19-84-6]]
+
+^<<v19-84-6,6>>^ Passing along through the low plain of the baʹca bushes,
+They turn it into a spring itself;
+Even with blessings the instructor enwraps himself.
+
+[[v19-84-7]]
+
+^<<v19-84-7,7>>^ They will walk on from vital energy to vital energy;
+Each one appears to God in Zion.^&#42;1^
+
+[NOTE]
+====
+. “They will see the God of gods in Zion,” by a slight correction in M; LXXSyVg, “the God of gods will be seen in Zion.”
+====
+
+[[v19-84-8]]
+
+^<<v19-84-8,8>>^ O Jehovah God^&#42;1^ of armies, do hear my prayer;
+Do give ear, O God of Jacob. Seʹlah.
+
+[NOTE]
+====
+. “God of.” Heb., ʼElo·himʹ.
+====
+
+[[v19-84-9]]
+
+^<<v19-84-9,9>>^ O shield of ours, see, O God,
+And look upon the face of your anointed one.^&#42;1^
+
+[NOTE]
+====
+. Or, “your messiah.” Heb., meshi·cheʹkha; Gr., khri·stouʹ; Syr., meshi·chakh; Lat., chriʹsti.
+====
+
+[[v19-84-10]]
+
+^<<v19-84-10,10>>^ For a day in your courtyards is better than a thousand &#91;elsewhere&#93;.
+I have chosen to stand at the threshold in the house of my God
+Rather than to move around in the tents of wickedness.
+
+[[v19-84-11]]
+
+^<<v19-84-11,11>>^ For Jehovah God is a sun and a shield;
+Favor and glory are what he gives.
+Jehovah himself will not hold back anything good from those walking in faultlessness.
+
+[[v19-84-12]]
+
+^<<v19-84-12,12>>^ O Jehovah of armies, happy is the man^&#42;1^ that is trusting in you.
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+'''
+
+xref:019-psalm/019-psalm-083.adoc#v19-83-0[&#60; Capítulo Anterior] | <<v19-84-0,Topo>> | xref:019-psalm/019-psalm-085.adoc#v19-85-0[Próximo Capítulo &#62;]

@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v20-1-0]]
+=== Proverbs, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-1-1]]
+
+^<<v20-1-1,1>>^ The proverbs of Solʹo·mon the son of David, the king of Israel,
+
+[[v20-1-2]]
+
+^<<v20-1-2,2>>^ for one to know wisdom and discipline, to discern the sayings of understanding,
+
+[[v20-1-3]]
+
+^<<v20-1-3,3>>^ to receive the discipline that gives insight, righteousness and judgment and uprightness,
+
+[[v20-1-4]]
+
+^<<v20-1-4,4>>^ to give to the inexperienced ones shrewdness, to a young man knowledge and thinking ability.
+
+[[v20-1-5]]
+
+^<<v20-1-5,5>>^ A wise person will listen and take in more instruction, and a man of understanding is the one who acquires skillful direction,
+
+[[v20-1-6]]
+
+^<<v20-1-6,6>>^ to understand a proverb and a puzzling saying, the words of wise persons and their riddles.
+
+[[v20-1-7]]
+
+^<<v20-1-7,7>>^ The fear of Jehovah is the beginning of knowledge. Wisdom and discipline are what mere fools have despised.
+
+[[v20-1-8]]
+
+^<<v20-1-8,8>>^ Listen, my son, to the discipline of your father, and do not forsake the law of your mother.
+
+[[v20-1-9]]
+
+^<<v20-1-9,9>>^ For they are a wreath of attractiveness to your head and a fine necklace to your throat.
+
+[[v20-1-10]]
+
+^<<v20-1-10,10>>^ My son, if sinners try to seduce you, do not consent.
+
+[[v20-1-11]]
+
+^<<v20-1-11,11>>^ If they keep saying: “Do go with us. Do let us lie in ambush for blood. Do let us lie in concealment for the innocent men without any cause.
+
+[[v20-1-12]]
+
+^<<v20-1-12,12>>^ Let us swallow them down alive just like Sheʹol,^&#42;1^ even whole, like those going down into a pit.
+
+[NOTE]
+====
+. “Just like Sheol.” Heb., kish·ʼohlʹ; Gr., haiʹdes; Syr., shiul; Lat., in·ferʹnus. See App 4B.
+====
+
+[[v20-1-13]]
+
+^<<v20-1-13,13>>^ Let us find all sorts of precious valuables. Let us fill our houses with spoil.
+
+[[v20-1-14]]
+
+^<<v20-1-14,14>>^ Your lot you ought to cast in among us. Let there come to be just one bag belonging to all of us”—
+
+[[v20-1-15]]
+
+^<<v20-1-15,15>>^ my son, do not go in the way with them. Hold back your foot from their roadway.
+
+[[v20-1-16]]
+
+^<<v20-1-16,16>>^ For their feet are those that run to sheer badness, and they keep hastening to shed blood.
+
+[[v20-1-17]]
+
+^<<v20-1-17,17>>^ For it is for nothing that the net is spread before the eyes of anything owning wings.
+
+[[v20-1-18]]
+
+^<<v20-1-18,18>>^ Consequently they themselves lie in ambush for the very blood of these; they lie in concealment for their souls.^&#42;1^
+
+[NOTE]
+====
+. “For their souls (lives).” Heb., lenaph·sho·thamʹ, pl.; Lat., aʹni·mas. See App 4A.
+====
+
+[[v20-1-19]]
+
+^<<v20-1-19,19>>^ Thus are the paths of everyone making unjust profit. It takes away the very soul of its owners.
+
+[[v20-1-20]]
+
+^<<v20-1-20,20>>^ True wisdom itself^&#42;1^ keeps crying aloud in the very street. In the public squares it keeps giving forth its voice.
+
+[NOTE]
+====
+. Or, “herself,” referring to “wisdom,” fem.
+====
+
+[[v20-1-21]]
+
+^<<v20-1-21,21>>^ At the upper end of the noisy streets^&#42;1^ it calls out. At the entrances of the gates into the city it says its own sayings:
+
+[NOTE]
+====
+. “On top of the walls,” LXX and by a correction of M.
+====
+
+[[v20-1-22]]
+
+^<<v20-1-22,22>>^ “How long will YOU inexperienced ones keep loving inexperience, and &#91;how long&#93; must YOU ridiculers desire for yourselves outright ridicule, and &#91;how long&#93; will YOU stupid ones keep hating knowledge?
+
+[[v20-1-23]]
+
+^<<v20-1-23,23>>^ Turn back at my reproof. Then to YOU I will cause my spirit to bubble forth; I will make my words known to YOU.
+
+[[v20-1-24]]
+
+^<<v20-1-24,24>>^ Because I have called out but YOU keep refusing, I have stretched out my hand but there is no one paying attention,
+
+[[v20-1-25]]
+
+^<<v20-1-25,25>>^ and YOU keep neglecting all my counsel, and my reproof YOU have not accepted,
+
+[[v20-1-26]]
+
+^<<v20-1-26,26>>^ I also, for my part, shall laugh at YOUR own disaster, I shall mock when what YOU dread comes,
+
+[[v20-1-27]]
+
+^<<v20-1-27,27>>^ when what YOU dread comes just like a storm, and YOUR own disaster gets here just like a storm wind, when distress and hard times come upon YOU.
+
+[[v20-1-28]]
+
+^<<v20-1-28,28>>^ At that time they will keep calling me, but I shall not answer; they will keep looking for me, but they will not find me,
+
+[[v20-1-29]]
+
+^<<v20-1-29,29>>^ for the reason that they hated knowledge, and the fear of Jehovah they did not choose.
+
+[[v20-1-30]]
+
+^<<v20-1-30,30>>^ They did not consent to my counsel; they disrespected all my reproof.
+
+[[v20-1-31]]
+
+^<<v20-1-31,31>>^ So they will eat from the fruitage of their way, and they will be glutted with their own counsels.
+
+[[v20-1-32]]
+
+^<<v20-1-32,32>>^ For the renegading of the inexperienced ones is what will kill them, and the easygoingness of the stupid is what will destroy them.
+
+[[v20-1-33]]
+
+^<<v20-1-33,33>>^ As for the one listening to me, he will reside in security and be undisturbed from dread of calamity.”
+
+'''
+
+xref:019-psalm/019-psalm-150.adoc#v19-150-0[&#60; Capítulo Anterior] | <<v20-1-0,Topo>> | xref:020-proverbs/020-proverbs-002.adoc#v20-2-0[Próximo Capítulo &#62;]

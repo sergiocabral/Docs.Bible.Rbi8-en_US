@@ -1,0 +1,168 @@
+include::./index.adoc[]
+
+[[v10-7-0]]
+=== The Second of Samuel, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v10-7-1]]
+
+^<<v10-7-1,1>>^ And it came about that, when the king dwelt in his own house and Jehovah himself had given him rest from all his enemies round about,
+
+[[v10-7-2]]
+
+^<<v10-7-2,2>>^ then the king said to Nathan the prophet: “See, now, I am dwelling in a house of cedars while the ark of the &#91;true&#93; God is dwelling in the middle of tent cloths.”
+
+[[v10-7-3]]
+
+^<<v10-7-3,3>>^ Upon that Nathan said to the king: “Everything that is in your heart—go, do, because Jehovah is with you.”
+
+[[v10-7-4]]
+
+^<<v10-7-4,4>>^ And it came about on that night that the word of Jehovah came to Nathan, saying:
+
+[[v10-7-5]]
+
+^<<v10-7-5,5>>^ “Go, and you must say to my servant David, ‘This is what Jehovah has said: “Should you yourself build me a house for me to dwell in?
+
+[[v10-7-6]]
+
+^<<v10-7-6,6>>^ For I have not dwelt in a house from the day of my bringing the sons of Israel up out of Egypt to this day, but I was continually walking about in a tent and in a tabernacle.
+
+[[v10-7-7]]
+
+^<<v10-7-7,7>>^ During all the time that I have walked about among all the sons of Israel, was there a word that I spoke with one of the tribes^&#42;1^ of Israel that I commanded to shepherd my people Israel, saying, ‘Why did YOU people not build me a house of cedars?’”’
+
+[NOTE]
+====
+. “Tribes,” MSyVg; in 1Ch 17:6, “judges.”
+====
+
+[[v10-7-8]]
+
+^<<v10-7-8,8>>^ And now this is what you will say to my servant David, ‘This is what Jehovah of armies has said: “I myself took you from the pasture ground from following the flock to become a leader over my people Israel.
+
+[[v10-7-9]]
+
+^<<v10-7-9,9>>^ And I shall prove to be with you wherever you do go, and I will cut off all your enemies from before you; and I shall certainly make for you a great name, like the name of the great ones that are in the earth.
+
+[[v10-7-10]]
+
+^<<v10-7-10,10>>^ And I shall certainly appoint a place for my people Israel and plant them, and they will indeed reside where they are, and no more will they be disturbed; and the sons of unrighteousness will not afflict them again as they did at the first,
+
+[[v10-7-11]]
+
+^<<v10-7-11,11>>^ even from the day that I put judges in command over my people Israel; and I will give you rest from all your enemies.
+“‘“And Jehovah has told you that a house is what Jehovah will make for you.
+
+[[v10-7-12]]
+
+^<<v10-7-12,12>>^ When your days come to the full, and you must lie down with your forefathers, then I shall certainly raise up your seed after you, which will come out of your inward parts; and I shall indeed firmly establish his kingdom.
+
+[[v10-7-13]]
+
+^<<v10-7-13,13>>^ He is the one that will build a house for my name, and I shall certainly establish the throne of his kingdom firmly to time indefinite.
+
+[[v10-7-14]]
+
+^<<v10-7-14,14>>^ I myself shall become his father, and he himself will become my son. When he does wrong, I will also reprove him with the rod of men and with the strokes of the sons of Adam.^&#42;1^
+
+[NOTE]
+====
+. Or, “of an earthling man.” Heb., ʼa·dhamʹ; LXXSyVg, “of men.”
+====
+
+[[v10-7-15]]
+
+^<<v10-7-15,15>>^ As for my loving-kindness,^&#42;1^ it will not depart from him the way I removed it from Saul, whom I removed on account of you.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v10-7-16]]
+
+^<<v10-7-16,16>>^ And your house and your kingdom will certainly be steadfast to time indefinite before you; your very throne will become one firmly established to time indefinite.”’”
+
+[[v10-7-17]]
+
+^<<v10-7-17,17>>^ According to all these words and according to all this vision was the way that Nathan spoke to David.
+
+[[v10-7-18]]
+
+^<<v10-7-18,18>>^ At that King David came in and sat down before Jehovah and said: “Who am I, O Sovereign Lord Jehovah? And what is my house that you have brought me thus far?
+
+[[v10-7-19]]
+
+^<<v10-7-19,19>>^ As though this should even be something little in your eyes, O Sovereign Lord Jehovah, yet you also speak respecting the house of your servant down to a distant future time; and this is the law given for mankind,^&#42;1^ O Sovereign Lord Jehovah.
+
+[NOTE]
+====
+. “Mankind.” Heb., ha·ʼa·dhamʹ; LXX, “the man”; Lat., aʹdam.
+====
+
+[[v10-7-20]]
+
+^<<v10-7-20,20>>^ And what more can David add and speak to you, when you yourself know your servant well, O Sovereign Lord Jehovah?
+
+[[v10-7-21]]
+
+^<<v10-7-21,21>>^ For the sake of your word and in agreement with your own heart you have done all these great things to cause your servant to know them.
+
+[[v10-7-22]]
+
+^<<v10-7-22,22>>^ That is why you are indeed great, O Sovereign Lord Jehovah; for there is no other like you, and there is no God except you among all of whom we have heard with our ears.
+
+[[v10-7-23]]
+
+^<<v10-7-23,23>>^ And what one^&#42;1^ nation in the earth is like your people Israel, whom God went to redeem to himself as a people and to assign himself a name and to do for them^&#42;2^ great and fear-inspiring things—to drive out^&#42;3^ because of your people, whom you have redeemed to yourself from Egypt, the nations and their gods?
+
+[NOTE]
+====
+. “One,” MSy; LXX, “other.”
+. “For them,” four Heb. mss (compare TSyVg); M, “for you people.”
+. “To drive out,” in agreement with LXX and 1Ch 17:21; M, “for your land”; Vg, “upon the land (earth).”
+====
+
+[[v10-7-24]]
+
+^<<v10-7-24,24>>^ And you proceeded to establish your people Israel firmly for yourself as your people to time indefinite; and you yourself, O Jehovah, have become their God.
+
+[[v10-7-25]]
+
+^<<v10-7-25,25>>^ “And now, Jehovah God,^&#42;1^ the word that you have spoken concerning your servant and concerning his house carry out to time indefinite and do just as you have spoken.
+
+[NOTE]
+====
+. “Jehovah God.” Heb., Yehwahʹ ʼElo·himʹ; the first occurrence since Ex 9:30.
+====
+
+[[v10-7-26]]
+
+^<<v10-7-26,26>>^ And let your own name become great to time indefinite, saying, ‘Jehovah of armies is God over Israel,’ and let the very house of your servant David become firmly established before you.
+
+[[v10-7-27]]
+
+^<<v10-7-27,27>>^ For you, Jehovah of armies the God of Israel, have made a revelation to your servant’s ear, saying, ‘A house I shall build for you.’ That is why your servant has taken heart^&#42;1^ to pray to you with this prayer.
+
+[NOTE]
+====
+. Lit., “has found his heart.”
+====
+
+[[v10-7-28]]
+
+^<<v10-7-28,28>>^ And now, O Sovereign Lord Jehovah, you are the &#91;true&#93; God; and as for your words, let them prove to be truth,^&#42;1^ since you promise to your servant this goodness.
+
+[NOTE]
+====
+. Or, “true.” Heb., ʼemethʹ.
+====
+
+[[v10-7-29]]
+
+^<<v10-7-29,29>>^ And now take it upon yourself and bless the house of your servant &#91;for it&#93; to continue to time indefinite before you; for you yourself, O Sovereign Lord Jehovah, have promised, and due to your blessing let the house of your servant be blessed to time indefinite.”
+
+'''
+
+xref:010-2-samuel/010-2-samuel-006.adoc#v10-6-0[&#60; Capítulo Anterior] | <<v10-7-0,Topo>> | xref:010-2-samuel/010-2-samuel-008.adoc#v10-8-0[Próximo Capítulo &#62;]

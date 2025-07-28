@@ -1,0 +1,148 @@
+include::./index.adoc[]
+
+[[v19-80-0]]
+=== Psalms, 80
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director upon The Lilies.^&#42;1^ A reminder.^&#42;2^ Of Aʹsaph. A melody._
+
+[[v19-80-1]]
+
+^<<v19-80-1,1>>^ O Shepherd of Israel, do give ear,
+You who are conducting Joseph just like a flock.
+O you who are sitting upon the cherubs, do beam forth.
+
+[[v19-80-2]]
+
+^<<v19-80-2,2>>^ Before Eʹphra·im and Benjamin and Ma·nasʹseh do rouse up your mightiness,
+And do come to our salvation.
+
+[[v19-80-3]]
+
+^<<v19-80-3,3>>^ O God, bring us back;
+And light up your face, that we may be saved.
+
+[[v19-80-4]]
+
+^<<v19-80-4,4>>^ O Jehovah God of armies, how long must you fume against the prayer of your people?
+
+[[v19-80-5]]
+
+^<<v19-80-5,5>>^ You have made them eat the bread of tears,
+And you keep making them drink tears upon tears in &#91;great&#93; measure.^&#42;1^
+
+[NOTE]
+====
+. “In [great] measure.” Lit., “third part,” that is, of some undetermined measure. Heb., sha·lishʹ.
+====
+
+[[v19-80-6]]
+
+^<<v19-80-6,6>>^ You set us for strife to our neighbors,
+And our very enemies keep deriding as they please.
+
+[[v19-80-7]]
+
+^<<v19-80-7,7>>^ O God of armies,^&#42;1^ bring us back;
+And light up your face, that we may be saved.
+
+[NOTE]
+====
+. “God of armies,” MTSy; Gr., Kyʹri·e ho The·osʹ ton dy·naʹme·on, “Jehovah God of powers,” as in vs 19 (79:20, LXX).
+====
+
+[[v19-80-8]]
+
+^<<v19-80-8,8>>^ You proceeded to make a vine depart from Egypt.
+You kept driving out the nations, that you might plant it.
+
+[[v19-80-9]]
+
+^<<v19-80-9,9>>^ You made a clearing before it, that it might take root and fill the land.
+
+[[v19-80-10]]
+
+^<<v19-80-10,10>>^ The mountains were covered with its shadow,
+And the cedars of God with its boughs.
+
+[[v19-80-11]]
+
+^<<v19-80-11,11>>^ It gradually sent forth its boughs as far as the sea,
+And to the River^&#42;1^ its twigs.
+
+[NOTE]
+====
+. That is, the Euphrates.
+====
+
+[[v19-80-12]]
+
+^<<v19-80-12,12>>^ Why have you broken down its stone walls,
+And &#91;why&#93; have all those passing by on the road plucked at it?
+
+[[v19-80-13]]
+
+^<<v19-80-13,13>>^ A boar out of the woods^&#42;1^ keeps eating it away,
+And the animal throngs of the open field keep feeding upon it.
+
+[NOTE]
+====
+. In this Heb. noun the letter ʽAʹyin is suspended to mark the middle of the Psalms.
+====
+
+[[v19-80-14]]
+
+^<<v19-80-14,14>>^ O God of armies,^&#42;1^ return,^&#42;2^ please;
+Look down from heaven and see and take care of this vine,
+
+[NOTE]
+====
+. “God of armies.” Heb., ʼElo·himʹ tseva·ʼohthʹ.
+. Or, “once again,” referring to the verbs in the next line.
+====
+
+[[v19-80-15]]
+
+^<<v19-80-15,15>>^ And the stock^&#42;1^ that your right hand has planted,
+And &#91;look&#93; upon the son^&#42;2^ whom you have made strong for yourself.
+
+[NOTE]
+====
+. Or, “branch [of the vine].” By a change of the first Heb. letter, “garden.”
+. “Son,” M; LXXSyVgc, “son of man”; T, “king Messiah (anointed).”
+====
+
+[[v19-80-16]]
+
+^<<v19-80-16,16>>^ It is burned with fire, cut off.
+From the rebuke of your face they perish.
+
+[[v19-80-17]]
+
+^<<v19-80-17,17>>^ Let your hand prove to be upon the man^&#42;1^ of your right hand,
+Upon the son of mankind^&#42;2^ whom you have made strong for yourself,
+
+[NOTE]
+====
+. “Man of.” Heb., ʼish.
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-80-18]]
+
+^<<v19-80-18,18>>^ And we shall not turn back from you.
+May you preserve us alive, that we may call upon your own name.
+
+[[v19-80-19]]
+
+^<<v19-80-19,19>>^ O Jehovah God of armies,^&#42;1^ bring us back;
+Light up your face, that we may be saved.
+
+[NOTE]
+====
+. Compare vs 7a.
+====
+
+'''
+
+xref:019-psalm/019-psalm-079.adoc#v19-79-0[&#60; Capítulo Anterior] | <<v19-80-0,Topo>> | xref:019-psalm/019-psalm-081.adoc#v19-81-0[Próximo Capítulo &#62;]

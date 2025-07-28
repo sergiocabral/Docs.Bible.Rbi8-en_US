@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v2-16-0]]
+=== Exodus, 16
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-16-1]]
+
+^<<v2-16-1,1>>^ Later they departed from Eʹlim, and the entire assembly of the sons of Israel finally came to the wilderness of Sin, which is between Eʹlim and Siʹnai, on the fifteenth day of the second month after their coming out of the land of Egypt.
+
+[[v2-16-2]]
+
+^<<v2-16-2,2>>^ And the entire assembly of the sons of Israel began to murmur against Moses and Aaron in the wilderness.
+
+[[v2-16-3]]
+
+^<<v2-16-3,3>>^ And the sons of Israel kept saying to them: “If only we had died by Jehovah’s hand in the land of Egypt while we were sitting by the pots of meat, while we were eating bread to satisfaction, because YOU have brought us out into this wilderness to put this whole congregation to death by famine.”
+
+[[v2-16-4]]
+
+^<<v2-16-4,4>>^ Then Jehovah said to Moses: “Here I am raining down bread for YOU from the heavens; and the people must go out and pick up each his amount day for day, in order that I may put them to the test as to whether they will walk in my law or not.
+
+[[v2-16-5]]
+
+^<<v2-16-5,5>>^ And it must occur on the sixth day that they must prepare what they will bring in, and it must prove double what they keep picking up day by day.”
+
+[[v2-16-6]]
+
+^<<v2-16-6,6>>^ So Moses and Aaron said to all the sons of Israel: “At evening YOU will certainly know that it is Jehovah who has brought YOU out from the land of Egypt.
+
+[[v2-16-7]]
+
+^<<v2-16-7,7>>^ And in the morning YOU will indeed see Jehovah’s glory, because he has heard YOUR murmurings against Jehovah. And what are we that YOU should murmur against us?”
+
+[[v2-16-8]]
+
+^<<v2-16-8,8>>^ And Moses continued: “It will be when Jehovah gives YOU in the evening meat to eat and in the morning bread to satisfaction, because Jehovah has heard YOUR murmurings that YOU are murmuring against him. And what are we? YOUR murmurings are not against us, but against Jehovah.”
+
+[[v2-16-9]]
+
+^<<v2-16-9,9>>^ And Moses went on to say to Aaron: “Say to the entire assembly of the sons of Israel, ‘Come near before Jehovah, because he has heard YOUR murmurings.’”
+
+[[v2-16-10]]
+
+^<<v2-16-10,10>>^ Then it occurred that as soon as Aaron had spoken to the entire assembly of the sons of Israel, they turned and faced toward the wilderness, and, look! Jehovah’s glory appeared in the cloud.
+
+[[v2-16-11]]
+
+^<<v2-16-11,11>>^ And Jehovah spoke further to Moses, saying:
+
+[[v2-16-12]]
+
+^<<v2-16-12,12>>^ “I have heard the murmurings of the sons of Israel. Speak to them, saying, ‘Between the two evenings^&#42;1^ YOU will eat meat and in the morning YOU will be satisfied with bread; and YOU will certainly know that I am Jehovah YOUR God.’”
+
+[NOTE]
+====
+. Or, “At evening.” See 12:6 ftn.
+====
+
+[[v2-16-13]]
+
+^<<v2-16-13,13>>^ Accordingly it occurred that in the evening the quails began to come up and cover the camp, and in the morning there had developed a layer of dew round about the camp.
+
+[[v2-16-14]]
+
+^<<v2-16-14,14>>^ In time the layer of dew evaporated^&#42;1^ and here upon the surface of the wilderness there was a fine flaky^&#42;2^ thing, fine like hoarfrost upon the earth.
+
+[NOTE]
+====
+. Lit., “ascended.”
+. Or, “crack­ling.”
+====
+
+[[v2-16-15]]
+
+^<<v2-16-15,15>>^ When the sons of Israel got to see it, they began to say to one another: “What is it?”^&#42;1^ For they did not know what it was. Hence Moses said to them: “It is the bread that Jehovah has given YOU for food.
+
+[NOTE]
+====
+. “What is it (this)?” Heb., man huʼ? Syr., ma·nu?
+====
+
+[[v2-16-16]]
+
+^<<v2-16-16,16>>^ This is the word that Jehovah has commanded, ‘Pick up some of it, each one in proportion to his eating. YOU are to take an omer^&#42;1^ measure for each individual^&#42;2^ according to the number of the souls that each of YOU has in his tent.’”
+
+[NOTE]
+====
+. About 2.2 L (2 dry qt).
+. Lit., “skull.”
+====
+
+[[v2-16-17]]
+
+^<<v2-16-17,17>>^ And the sons of Israel began to do so; and they went picking it up, some gathering much and some gathering little.
+
+[[v2-16-18]]
+
+^<<v2-16-18,18>>^ When they would measure it by the omer, he that had gathered much had no surplus and he that had gathered little had no shortage. They picked it up each one in proportion to his eating.
+
+[[v2-16-19]]
+
+^<<v2-16-19,19>>^ Then Moses said to them: “Let nobody leave any of it until the morning.”
+
+[[v2-16-20]]
+
+^<<v2-16-20,20>>^ But they did not listen to Moses. When some men would leave some of it until the morning, it would breed worms and stink; so that Moses became indignant at them.
+
+[[v2-16-21]]
+
+^<<v2-16-21,21>>^ And they would pick it up morning by morning, each one in proportion to his eating. When the sun got hot, it melted.
+
+[[v2-16-22]]
+
+^<<v2-16-22,22>>^ And it came about on the sixth day that they picked up twice as much bread, two omer measures for one person. So all the chieftains^&#42;1^ of the assembly came and reported it to Moses.
+
+[NOTE]
+====
+. Or, “nasis.” Compare Ge 17:20 ftn.
+====
+
+[[v2-16-23]]
+
+^<<v2-16-23,23>>^ At that he said to them: “It is what Jehovah has spoken. Tomorrow there will be a sabbath observance^&#42;1^ of a holy sabbath to Jehovah. What YOU can bake, bake, and what YOU can boil, boil, and all the surplus that there is save it up for YOU as something to be kept until the morning.”
+
+[NOTE]
+====
+. Or, “a sabbatical feast.”
+====
+
+[[v2-16-24]]
+
+^<<v2-16-24,24>>^ Accordingly they saved it up until the morning, just as Moses had commanded; and it did not stink nor did maggots develop in it.
+
+[[v2-16-25]]
+
+^<<v2-16-25,25>>^ Then Moses said: “Eat it today, because today is a sabbath to Jehovah. Today YOU will not find it in the field.
+
+[[v2-16-26]]
+
+^<<v2-16-26,26>>^ Six days YOU will pick it up, but on the seventh day is a sabbath. On it none will form.”
+
+[[v2-16-27]]
+
+^<<v2-16-27,27>>^ However, it came about on the seventh day that some of the people did go out to pick &#91;it&#93; up, but they found none.
+
+[[v2-16-28]]
+
+^<<v2-16-28,28>>^ Consequently Jehovah said to Moses: “How long must YOU people refuse to keep my commandments and my laws?
+
+[[v2-16-29]]
+
+^<<v2-16-29,29>>^ Mark the fact that Jehovah has given YOU the sabbath. That is why he is giving YOU on the sixth day the bread of two days. Keep sitting each one in his own place. Let nobody go out from his locality on the seventh day.”
+
+[[v2-16-30]]
+
+^<<v2-16-30,30>>^ And the people proceeded to observe the sabbath^&#42;1^ on the seventh day.
+
+[NOTE]
+====
+. Or, “proceeded to rest.”
+====
+
+[[v2-16-31]]
+
+^<<v2-16-31,31>>^ And the house of Israel began to call its name “manna.”^&#42;1^ And it was white like coriander seed, and its taste was like that of flat cakes with honey.
+
+[NOTE]
+====
+. “Manna.” Syr., man·naʼ; MSamLXXVg, man.
+====
+
+[[v2-16-32]]
+
+^<<v2-16-32,32>>^ Then Moses said: “This is the word that Jehovah has commanded, ‘Fill an omer measure of it as something to be kept throughout YOUR generations, in order that they may see the bread that I made YOU eat in the wilderness when I was bringing YOU out of the land of Egypt.’”
+
+[[v2-16-33]]
+
+^<<v2-16-33,33>>^ So Moses said to Aaron: “Take a jar and put in it an omerful of manna and deposit it before Jehovah as something to be kept throughout YOUR generations.”
+
+[[v2-16-34]]
+
+^<<v2-16-34,34>>^ Just as Jehovah had commanded Moses, Aaron proceeded to deposit it before the Testimony^&#42;1^ as something to be kept.
+
+[NOTE]
+====
+. Or, “Reminder,” that is, the archive for the safekeeping of important documents.
+====
+
+[[v2-16-35]]
+
+^<<v2-16-35,35>>^ And the sons of Israel ate the manna forty years, until their coming to a land inhabited. The manna was what they ate until their coming to the frontier of the land of Caʹnaan.
+
+[[v2-16-36]]
+
+^<<v2-16-36,36>>^ Now an omer is a tenth of an eʹphah^&#42;1^ measure.
+
+[NOTE]
+====
+. An ephah equaled 22 L (20 dry qt).
+====
+
+'''
+
+xref:002-exodus/002-exodus-015.adoc#v2-15-0[&#60; Capítulo Anterior] | <<v2-16-0,Topo>> | xref:002-exodus/002-exodus-017.adoc#v2-17-0[Próximo Capítulo &#62;]

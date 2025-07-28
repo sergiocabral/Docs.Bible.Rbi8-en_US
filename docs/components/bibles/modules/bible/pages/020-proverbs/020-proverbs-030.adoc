@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v20-30-0]]
+=== Proverbs, 30
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-30-1]]
+
+^<<v20-30-1,1>>^ The words of Aʹgur the son of Jaʹkeh, the weighty message. The utterance of the able-bodied man to Ithʹi·el, to Ithʹi·el and Uʹcal.
+
+[[v20-30-2]]
+
+^<<v20-30-2,2>>^ For I am more unreasoning than anyone else, and I do not have the understanding of mankind;
+
+[[v20-30-3]]
+
+^<<v20-30-3,3>>^ and I have not learned wisdom; and the knowledge of the Most Holy One^&#42;1^ I do not know.
+
+[NOTE]
+====
+. “The Most Holy One.” Heb., Qedho·shimʹ, pl. of qa·dhohshʹ, to denote excellence and majesty. See 9:10 ftn.
+====
+
+[[v20-30-4]]
+
+^<<v20-30-4,4>>^ Who has ascended to heaven that he may descend? Who has gathered the wind in the hollow of both hands? Who has wrapped up the waters in a mantle? Who has made all the ends of the earth to rise? What is his name and what the name of his son, in case you know?
+
+[[v20-30-5]]
+
+^<<v20-30-5,5>>^ Every saying of God^&#42;1^ is refined. He is a shield to those taking refuge in him.
+
+[NOTE]
+====
+. “Every saying of God.” Heb., kol-ʼim·rathʹ ʼElohʹah.
+====
+
+[[v20-30-6]]
+
+^<<v20-30-6,6>>^ Add nothing to his words, that he may not reprove you, and that you may not have to be proved a liar.
+
+[[v20-30-7]]
+
+^<<v20-30-7,7>>^ Two things I have asked of you. Do not withhold them from me before I die.
+
+[[v20-30-8]]
+
+^<<v20-30-8,8>>^ Untruth and the lying word put far away from me. Give me neither poverty nor riches. Let me devour the food prescribed for me,
+
+[[v20-30-9]]
+
+^<<v20-30-9,9>>^ that I may not become satisfied and I actually deny &#91;you&#93; and say: “Who is Jehovah?” and that I may not come to poverty and I actually steal and assail the name of my God.^&#42;1^
+
+[NOTE]
+====
+. “The name of my God.” Heb., shem ʼElo·haiʹ, pl. of ʼElohʹah.
+====
+
+[[v20-30-10]]
+
+^<<v20-30-10,10>>^ Do not slander a servant to his master,^&#42;1^ that he may not call down evil upon you, and that you may not have to be held guilty.
+
+[NOTE]
+====
+. “His master.” Mmargin(Heb.), ʼadho·navʹ, pl. of ʼa·dhohnʹ, to denote excellence.
+====
+
+[[v20-30-11]]
+
+^<<v20-30-11,11>>^ There is a generation that calls down evil even upon its father and that does not bless even its mother.
+
+[[v20-30-12]]
+
+^<<v20-30-12,12>>^ There is a generation that is pure in its own eyes but that has not been washed from its own excrement.
+
+[[v20-30-13]]
+
+^<<v20-30-13,13>>^ There is a generation whose eyes have become O how lofty! and whose beaming eyes are lifted up.
+
+[[v20-30-14]]
+
+^<<v20-30-14,14>>^ There is a generation whose teeth are swords and whose jawbones are slaughtering knives, to eat up the afflicted ones off the earth and the poor ones from among mankind.^&#42;1^
+
+[NOTE]
+====
+. Lit., “from among earthling man.” Heb., me·ʼa·dhamʹ; but possibly meant to read me·ʼadha·mahʹ, “from the ground.”
+====
+
+[[v20-30-15]]
+
+^<<v20-30-15,15>>^ The leeches have two daughters &#91;that cry&#93;: “Give! Give!” There are three things that do not get satisfied, four that have not said: “Enough!”
+
+[[v20-30-16]]
+
+^<<v20-30-16,16>>^ Sheʹol and a restrained womb,^&#42;1^ a land that has not been satisfied with water, and fire that has not said: “Enough!”
+
+[NOTE]
+====
+. Lit., “restraint of the womb.”
+====
+
+[[v20-30-17]]
+
+^<<v20-30-17,17>>^ The eye that holds a father in derision and that despises obedience to a mother—the ravens of the torrent valley will pick it out and the sons of the eagle will eat it up.
+
+[[v20-30-18]]
+
+^<<v20-30-18,18>>^ There are three things that have proved too wonderful^&#42;1^ for me, and four that I have not come to know:
+
+[NOTE]
+====
+. “Impossible things; too difficult,” LXX; Lat., dif·fi·ciʹli·a, “difficult things.”
+====
+
+[[v20-30-19]]
+
+^<<v20-30-19,19>>^ the way of an eagle in the heavens, the way of a serpent on a rock, the way of a ship in the heart of the sea and the way of an able-bodied man with a maiden.
+
+[[v20-30-20]]
+
+^<<v20-30-20,20>>^ Here is the way of an adulterous woman: she has eaten and has wiped her mouth and she has said: “I have committed no wrong.”
+
+[[v20-30-21]]
+
+^<<v20-30-21,21>>^ Under three things the earth has been agitated, and under four it is not able to endure:
+
+[[v20-30-22]]
+
+^<<v20-30-22,22>>^ under a slave when he rules as king, and someone senseless when he has his sufficiency of food;
+
+[[v20-30-23]]
+
+^<<v20-30-23,23>>^ under a hated woman when she is taken possession of as a wife, and a maidservant when she dispossesses her mistress.
+
+[[v20-30-24]]
+
+^<<v20-30-24,24>>^ There are four things that are the smallest of the earth, but they are instinctively wise:^&#42;1^
+
+[NOTE]
+====
+. Lit., “are wise ones, being made wise.”
+====
+
+[[v20-30-25]]
+
+^<<v20-30-25,25>>^ the ants are a people not strong, and yet in the summer they prepare their food;
+
+[[v20-30-26]]
+
+^<<v20-30-26,26>>^ the rock badgers are a people not mighty, and yet upon a crag is where they put their house;
+
+[[v20-30-27]]
+
+^<<v20-30-27,27>>^ the locusts have no king, and yet they go forth all of them divided into groups;
+
+[[v20-30-28]]
+
+^<<v20-30-28,28>>^ the gecko lizard takes hold with its own hands and it is in the grand palace^&#42;1^ of a king.
+
+[NOTE]
+====
+. Or, “in the palaces.” Heb., beheh·khelehʹ.
+====
+
+[[v20-30-29]]
+
+^<<v20-30-29,29>>^ There are three that do well in &#91;their&#93; pacing, and four that do well in &#91;their&#93; moving along:
+
+[[v20-30-30]]
+
+^<<v20-30-30,30>>^ the lion, which is the mightiest among the beasts and which does not turn back from before anyone;
+
+[[v20-30-31]]
+
+^<<v20-30-31,31>>^ the greyhound^&#42;1^ or the he-goat, and a king of a band of soldiers of his own people.^&#42;2^
+
+[NOTE]
+====
+. Or, “the rooster”; or, “the war-horse.” Lit., “the [animal] girded in at the hips (loins).”
+. Or, “a king against whom there is no rising up by his people.”
+====
+
+[[v20-30-32]]
+
+^<<v20-30-32,32>>^ If you have acted senselessly by lifting yourself up, and if you have fixed your thought &#91;upon it&#93;, &#91;put&#93; the hand to the mouth.
+
+[[v20-30-33]]
+
+^<<v20-30-33,33>>^ For the churning of milk is what brings forth butter, and the squeezing of the nose is what brings forth blood, and the squeezing out of anger is what brings forth quarreling.
+
+'''
+
+xref:020-proverbs/020-proverbs-029.adoc#v20-29-0[&#60; Capítulo Anterior] | <<v20-30-0,Topo>> | xref:020-proverbs/020-proverbs-031.adoc#v20-31-0[Próximo Capítulo &#62;]

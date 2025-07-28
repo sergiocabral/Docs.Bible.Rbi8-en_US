@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v40-19-0]]
+=== According to Matthew, 19
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v40-19-1]]
+
+^<<v40-19-1,1>>^ Now when Jesus had finished these words, he departed from Galʹi·lee and came to the frontiers of Ju·deʹa across the Jordan.
+
+[[v40-19-2]]
+
+^<<v40-19-2,2>>^ Also, great crowds followed him, and he cured them there.
+
+[[v40-19-3]]
+
+^<<v40-19-3,3>>^ And Pharisees came up to him, intent on tempting him and saying: “Is it lawful for a man to divorce^&#42;1^ his wife on every sort of ground?”
+
+[NOTE]
+====
+. Lit., “to loose off.” Compare Le 22:13 ftn.
+====
+
+[[v40-19-4]]
+
+^<<v40-19-4,4>>^ In reply he said: “Did YOU not read that he who created them from &#91;the&#93; beginning made them male and female
+
+[[v40-19-5]]
+
+^<<v40-19-5,5>>^ and said, ‘For this reason a man will leave his father and his mother and will stick to his wife, and the two will be one flesh’?
+
+[[v40-19-6]]
+
+^<<v40-19-6,6>>^ So that they are no longer two, but one flesh. Therefore, what God has yoked together let no man put apart.”
+
+[[v40-19-7]]
+
+^<<v40-19-7,7>>^ They said to him: “Why, then, did Moses prescribe giving a certificate of dismissal and divorcing her?”
+
+[[v40-19-8]]
+
+^<<v40-19-8,8>>^ He said to them: “Moses, out of regard for YOUR hardheartedness, made the concession to YOU of divorcing YOUR wives, but such has not been the case from &#91;the&#93; beginning.
+
+[[v40-19-9]]
+
+^<<v40-19-9,9>>^ I say to YOU that whoever divorces his wife, except on the ground of fornication,^&#42;1^ and marries another commits adultery.”^&#42;2^
+
+[NOTE]
+====
+. “Fornication.” Gr., por·neiʹai, dative, sing.; Lat., for·ni·ca·ti·oʹnem; J17,​18,​22(Heb.), zenuthʹ. See App 5A.
+. See vs 18 ftn.
+====
+
+[[v40-19-10]]
+
+^<<v40-19-10,10>>^ The disciples said to him: “If such is the situation of a man with his wife, it is not advisable to marry.”
+
+[[v40-19-11]]
+
+^<<v40-19-11,11>>^ He said to them: “Not all men make room for the saying, but only those who have the gift.
+
+[[v40-19-12]]
+
+^<<v40-19-12,12>>^ For there are eunuchs that were born such from their mother’s womb, and there are eunuchs that were made eunuchs by men, and there are eunuchs that have made themselves eunuchs on account of the kingdom of the heavens. Let him that can make room for it make room for it.”
+
+[[v40-19-13]]
+
+^<<v40-19-13,13>>^ Then young children were brought to him, for him to put his hands upon them and offer prayer; but the disciples reprimanded them.
+
+[[v40-19-14]]
+
+^<<v40-19-14,14>>^ Jesus, however, said: “Let the young children alone, and stop hindering them from coming to me, for the kingdom of the heavens belongs to suchlike ones.”
+
+[[v40-19-15]]
+
+^<<v40-19-15,15>>^ And he put his hands upon them and went from there.
+
+[[v40-19-16]]
+
+^<<v40-19-16,16>>^ Now, look! a certain one came up to him and said: “Teacher, what good must I do in order to get everlasting life?”
+
+[[v40-19-17]]
+
+^<<v40-19-17,17>>^ He said to him: “Why do you ask me about what is good? One there is that is good. If, though, you want to enter into life, observe the commandments continually.”
+
+[[v40-19-18]]
+
+^<<v40-19-18,18>>^ He said to him: “Which ones?” Jesus said: “Why, You must not murder, You must not commit adultery,^&#42;1^ You must not steal, You must not bear false witness,
+
+[NOTE]
+====
+. “Commit adultery.” Gr., moi·kheuʹseis; Lat., a·dul·te·raʹbis; J18,​22(Heb.), tin·ʼaphʹ. See 5:32 ftn, “Adultery”; Eze 16:32 ftn.
+====
+
+[[v40-19-19]]
+
+^<<v40-19-19,19>>^ Honor &#91;your&#93; father and &#91;your&#93; mother, and, You must love your neighbor as yourself.”
+
+[[v40-19-20]]
+
+^<<v40-19-20,20>>^ The young man said to him: “I have kept all these; what yet am I lacking?”
+
+[[v40-19-21]]
+
+^<<v40-19-21,21>>^ Jesus said to him: “If you want to be perfect, go sell your belongings and give to the poor and you will have treasure in heaven, and come be my follower.”
+
+[[v40-19-22]]
+
+^<<v40-19-22,22>>^ When the young man heard this saying, he went away grieved, for he was holding many possessions.
+
+[[v40-19-23]]
+
+^<<v40-19-23,23>>^ But Jesus said to his disciples: “Truly I say to YOU that it will be a difficult thing for a rich man to get into the kingdom of the heavens.
+
+[[v40-19-24]]
+
+^<<v40-19-24,24>>^ Again I say to YOU, It is easier for a camel to get through a needle’s eye than for a rich man to get into the kingdom of God.”
+
+[[v40-19-25]]
+
+^<<v40-19-25,25>>^ When the disciples heard that, they expressed very great surprise, saying: “Who really can be saved?”
+
+[[v40-19-26]]
+
+^<<v40-19-26,26>>^ Looking them in the face, Jesus said to them: “With men this is impossible, but with God all things are possible.”
+
+[[v40-19-27]]
+
+^<<v40-19-27,27>>^ Then Peter said to him in reply: “Look! We have left all things and followed you; what actually will there be for us?”
+
+[[v40-19-28]]
+
+^<<v40-19-28,28>>^ Jesus said to them: “Truly I say to YOU, In the re-creation,^&#42;1^ when the Son of man sits down upon his glorious throne, YOU who have followed me will also yourselves sit upon twelve thrones, judging the twelve tribes of Israel.
+
+[NOTE]
+====
+. Or, “regeneration; rebirth.” Gr., pa·lin·ge·ne·siʹai; Lat., re·ge·ne·ra·ti·oʹne; Syr., beʽal·maʼ chad·taʼ, “in the new age (era).” Compare Tit 3:5 ftn.
+====
+
+[[v40-19-29]]
+
+^<<v40-19-29,29>>^ And everyone that has left houses or brothers or sisters or father or mother or children or lands for the sake of my name will receive many times more and will inherit everlasting life.
+
+[[v40-19-30]]
+
+^<<v40-19-30,30>>^ “But many that are first will be last and the last first.
+
+'''
+
+xref:040-matthew/040-matthew-018.adoc#v40-18-0[&#60; Capítulo Anterior] | <<v40-19-0,Topo>> | xref:040-matthew/040-matthew-020.adoc#v40-20-0[Próximo Capítulo &#62;]

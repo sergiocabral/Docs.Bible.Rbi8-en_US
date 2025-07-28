@@ -1,0 +1,116 @@
+include::./index.adoc[]
+
+[[v21-10-0]]
+=== Ecclesiastes, 10
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v21-10-1]]
+
+^<<v21-10-1,1>>^ Dead flies^&#42;1^ are what cause the oil of the ointment maker to stink, to bubble forth. &#91;So&#93; a little foolishness does to one who is precious for wisdom and glory.
+
+[NOTE]
+====
+. Lit., “Flies of death.”
+====
+
+[[v21-10-2]]
+
+^<<v21-10-2,2>>^ The heart of the wise is at his right hand, but the heart of the stupid at his left hand.
+
+[[v21-10-3]]
+
+^<<v21-10-3,3>>^ And also in whatever way the foolish one is walking, his own heart is lacking,^&#42;1^ and he certainly says to everybody that he is foolish.
+
+[NOTE]
+====
+. Or, “his own good motive is lacking.” Heb., lib·bohʹ cha·serʹ.
+====
+
+[[v21-10-4]]
+
+^<<v21-10-4,4>>^ If the spirit of a ruler should mount up against you, do not leave your own place, for calmness itself allays great sins.
+
+[[v21-10-5]]
+
+^<<v21-10-5,5>>^ There exists something calamitous that I have seen under the sun, as when there is a mistake going forth on account of the one in power:
+
+[[v21-10-6]]
+
+^<<v21-10-6,6>>^ Foolishness^&#42;1^ has been put in many high positions, but the rich ones themselves keep dwelling merely in a low condition.
+
+[NOTE]
+====
+. “Foolishness,” M; LXXSyVg, “The foolish one.”
+====
+
+[[v21-10-7]]
+
+^<<v21-10-7,7>>^ I have seen servants on horses but princes walking on the earth just like servants.
+
+[[v21-10-8]]
+
+^<<v21-10-8,8>>^ He that is digging a pit will himself fall right into it; and he that is breaking through a stone wall, a serpent will bite him.
+
+[[v21-10-9]]
+
+^<<v21-10-9,9>>^ He that is quarrying out stones will hurt himself with them. He that is splitting logs will have to be careful with them.
+
+[[v21-10-10]]
+
+^<<v21-10-10,10>>^ If an iron tool has become blunt and someone has not whetted its edge, then he will exert his own vital energies. So the using of wisdom to success means advantage.
+
+[[v21-10-11]]
+
+^<<v21-10-11,11>>^ If the serpent bites when no charming results, then there is no advantage to the one indulging in the tongue.
+
+[[v21-10-12]]
+
+^<<v21-10-12,12>>^ The words of the mouth of the wise one mean favor, but the lips of the stupid one swallow him up.
+
+[[v21-10-13]]
+
+^<<v21-10-13,13>>^ The start of the words of his mouth is foolishness, and the end afterward of his mouth is calamitous madness.
+
+[[v21-10-14]]
+
+^<<v21-10-14,14>>^ And the foolish one speaks many words.
+Man^&#42;1^ does not know what will come to be; and that which will come to be after him, who can tell him?
+
+[NOTE]
+====
+. Lit., “The earthling man.” Heb., ha·ʼa·dhamʹ.
+====
+
+[[v21-10-15]]
+
+^<<v21-10-15,15>>^ The hard work of the stupid ones makes them weary, because not one has come to know how to go to the city.
+
+[[v21-10-16]]
+
+^<<v21-10-16,16>>^ How will it be with you, O land, when your king is a boy and your own princes keep eating even in the morning?
+
+[[v21-10-17]]
+
+^<<v21-10-17,17>>^ Happy are you, O land, when your king is the son of noble ones and your own princes eat at the proper time for mightiness, not for mere drinking.
+
+[[v21-10-18]]
+
+^<<v21-10-18,18>>^ Through great laziness the beamwork sinks in, and through the letting down of the hands the house leaks.
+
+[[v21-10-19]]
+
+^<<v21-10-19,19>>^ Bread^&#42;1^ is for the laughter of the workers, and wine itself makes life rejoice; but money^&#42;2^ is what meets a response in all things.
+
+[NOTE]
+====
+. Or, “Food.” Heb., leʹchem.
+. Lit., “but the silver.” Heb., wehak·keʹseph.
+====
+
+[[v21-10-20]]
+
+^<<v21-10-20,20>>^ Even in your bedroom do not call down evil upon the king himself, and in the interior rooms where you lie down do not call down evil upon anyone rich; for a flying creature of the heavens will convey the sound and something owning wings will tell the matter.
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-009.adoc#v21-9-0[&#60; Capítulo Anterior] | <<v21-10-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-011.adoc#v21-11-0[Próximo Capítulo &#62;]

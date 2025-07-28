@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v2-18-0]]
+=== Exodus, 18
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v2-18-1]]
+
+^<<v2-18-1,1>>^ Now Jethʹro the priest of Midʹi·an, Moses’ father-in-law,^&#42;1^ got to hear about all that God had done for Moses and for Israel his people, how Jehovah had brought Israel out of Egypt.
+
+[NOTE]
+====
+. Or, “whose son-in-law Moses was.”
+====
+
+[[v2-18-2]]
+
+^<<v2-18-2,2>>^ So Jethʹro, Moses’ father-in-law, took Zip·poʹrah, Moses’ wife, after the sending of her away,^&#42;1^
+
+[NOTE]
+====
+. Lit., “Moses’ wife after her being sent away.”
+====
+
+[[v2-18-3]]
+
+^<<v2-18-3,3>>^ and her two sons, the name of one of whom was Gerʹshom,^&#42;1^ “because,” he said, “an alien resident I have come to be in a foreign land”;
+
+[NOTE]
+====
+. Meaning “An Alien Resident There.”
+====
+
+[[v2-18-4]]
+
+^<<v2-18-4,4>>^ and the name of the other was E·li·eʹzer,^&#42;1^ “because,” to quote him, “the God of my father is my helper in that he delivered me from Pharʹaoh’s sword.”
+
+[NOTE]
+====
+. Meaning “My God Is Helper.”
+====
+
+[[v2-18-5]]
+
+^<<v2-18-5,5>>^ So Jethʹro, Moses’ father-in-law, and his sons and his wife came to Moses into the wilderness where he was camping, at the mountain of the &#91;true&#93; God.
+
+[[v2-18-6]]
+
+^<<v2-18-6,6>>^ Then he sent word to Moses: “I,^&#42;1^ your father-in-law,^&#42;2^ Jethʹro, am come to you, and also your wife and her two sons with her.”
+
+[NOTE]
+====
+. “Then someone said to Moses: ‘Look!’ ” SamLXXSy; Vg, “And he sent to Moses, saying: ‘I.’ ”
+. Or, “I, the one whose son-in-law you are.”
+====
+
+[[v2-18-7]]
+
+^<<v2-18-7,7>>^ At once Moses went on out to meet his father-in-law, and he proceeded to prostrate himself and to kiss him; and they each one began asking how the other was getting along. After that they went into the tent.
+
+[[v2-18-8]]
+
+^<<v2-18-8,8>>^ And Moses went to relating to his father-in-law all that Jehovah had done to Pharʹaoh and Egypt on account of Israel, and all the hardship that had befallen them in the way, and yet Jehovah was delivering them.
+
+[[v2-18-9]]
+
+^<<v2-18-9,9>>^ Then Jethʹro felt glad over all the good that Jehovah had done for Israel in that he had delivered them^&#42;1^ from the hand of Egypt.
+
+[NOTE]
+====
+. Or, “Israel whom he had delivered.”
+====
+
+[[v2-18-10]]
+
+^<<v2-18-10,10>>^ Consequently Jethʹro said: “Blessed be Jehovah, who has delivered YOU from the hand of Egypt and from the hand of Pharʹaoh, and who has delivered the people from under the hand of Egypt.
+
+[[v2-18-11]]
+
+^<<v2-18-11,11>>^ Now I do know that Jehovah is greater than all the &#91;other&#93; gods^&#42;1^ by reason of this affair in which they acted presumptuously against them.”^&#42;2^
+
+[NOTE]
+====
+. “The [other] gods.” Heb., ha·ʼelo·himʹ; Gr., tous the·ousʹ, pl.
+. “Them,” that is, the Israelites.
+====
+
+[[v2-18-12]]
+
+^<<v2-18-12,12>>^ Then Jethʹro, Moses’ father-in-law, took a burnt offering and sacrifices for God; and Aaron and all the older men of Israel came to eat bread with Moses’ father-in-law, before the &#91;true&#93; God.
+
+[[v2-18-13]]
+
+^<<v2-18-13,13>>^ And it came about on the next day that Moses sat down as usual to serve as judge for the people, and the people kept standing before Moses from the morning till the evening.
+
+[[v2-18-14]]
+
+^<<v2-18-14,14>>^ And Moses’ father-in-law got to see all that he was doing for the people. So he said: “What kind of business is this that you are doing for the people? Why do you alone continue sitting and all the people continue taking their stand before you from morning till evening?”
+
+[[v2-18-15]]
+
+^<<v2-18-15,15>>^ Then Moses said to his father-in-law: “Because the people keep coming to me to inquire of God.
+
+[[v2-18-16]]
+
+^<<v2-18-16,16>>^ In the event that they have a case arise, it must come to me and I must judge between the one party and the other, and I must make known the decisions of the &#91;true&#93; God and his laws.”
+
+[[v2-18-17]]
+
+^<<v2-18-17,17>>^ At this Moses’ father-in-law said to him: “It is not good the way you are doing.
+
+[[v2-18-18]]
+
+^<<v2-18-18,18>>^ You will surely wear out, both you and this people who are with you, because this business is too big a load for you. You are unable to do it by yourself.
+
+[[v2-18-19]]
+
+^<<v2-18-19,19>>^ Now listen to my voice. I shall advise you, and God will prove to be with you. You yourself serve as representative for the people before the &#91;true&#93; God, and you yourself must bring the cases to the &#91;true&#93; God.
+
+[[v2-18-20]]
+
+^<<v2-18-20,20>>^ And you must warn them of what the regulations and the laws are, and you must make known to them the way in which they should walk and the work that they should do.
+
+[[v2-18-21]]
+
+^<<v2-18-21,21>>^ But you yourself should select out of all the people capable men, fearing God, trustworthy^&#42;1^ men, hating unjust profit; and you must set these over them as chiefs^&#42;2^ over thousands,^&#42;3^ chiefs over hundreds,^&#42;4^ chiefs over fifties and chiefs over tens.^&#42;5^
+
+[NOTE]
+====
+. Or, “truthful; faithful.”
+. “Chiefs.” Heb., sa·rehʹ.
+. “Chiefs over thousands.” Gr., khi·li·arʹkhous, “chiliarchs.”
+. “Chiefs over hundreds.” Lat., cen·tu·ri·oʹnes, “centurions.”
+. “Chiefs over tens.” Lat., de·caʹnos, “deacons; deans.”
+====
+
+[[v2-18-22]]
+
+^<<v2-18-22,22>>^ And they must judge the people on every proper occasion; and it must occur that every big case they will bring to you, but every small case they themselves will handle as judges. So make it lighter for yourself, and they must carry the load with you.
+
+[[v2-18-23]]
+
+^<<v2-18-23,23>>^ If you do this very thing, and God has commanded you, you will then certainly be able to stand it and, besides, this people will all come to their own place in peace.”
+
+[[v2-18-24]]
+
+^<<v2-18-24,24>>^ Immediately Moses listened to the voice of his father-in-law and did all that he had said.
+
+[[v2-18-25]]
+
+^<<v2-18-25,25>>^ And Moses proceeded to choose capable men out of all Israel and to give them positions as heads over the people, as chiefs of thousands, chiefs of hundreds, chiefs of fifties and chiefs of tens.
+
+[[v2-18-26]]
+
+^<<v2-18-26,26>>^ And they judged the people on every proper occasion. A hard case they would bring to Moses, but every small case they themselves would handle as judges.
+
+[[v2-18-27]]
+
+^<<v2-18-27,27>>^ After that Moses saw his father-in-law off, and he went his way to his land.
+
+'''
+
+xref:002-exodus/002-exodus-017.adoc#v2-17-0[&#60; Capítulo Anterior] | <<v2-18-0,Topo>> | xref:002-exodus/002-exodus-019.adoc#v2-19-0[Próximo Capítulo &#62;]

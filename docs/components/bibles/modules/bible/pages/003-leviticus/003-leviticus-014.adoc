@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v3-14-0]]
+=== Leviticus, 14
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v3-14-1]]
+
+^<<v3-14-1,1>>^ And Jehovah continued to speak to Moses, saying:
+
+[[v3-14-2]]
+
+^<<v3-14-2,2>>^ “This will become the law of the leper in the day for establishing his purification, when he must be brought to the priest.
+
+[[v3-14-3]]
+
+^<<v3-14-3,3>>^ And the priest must go forth outside the camp, and the priest must look; and if the plague of leprosy has been cured in the leprous one,
+
+[[v3-14-4]]
+
+^<<v3-14-4,4>>^ the priest must then give command; and he^&#42;1^ must take for cleansing himself two live clean birds and cedarwood and coccus scarlet material and hyssop.
+
+[NOTE]
+====
+. “He,” MVg; SamLXXSy, “they.”
+====
+
+[[v3-14-5]]
+
+^<<v3-14-5,5>>^ And the priest must give command, and the one bird must be killed^&#42;1^ in an earthenware vessel over running water.^&#42;2^
+
+[NOTE]
+====
+. Lit., “and he must kill the one bird,” M; SamLXXSy, “and they must kill the one bird.”
+. Lit., “living water.”
+====
+
+[[v3-14-6]]
+
+^<<v3-14-6,6>>^ As for the living bird, he should take it and the cedarwood and the coccus scarlet material and the hyssop, and he must dip them and the living bird in the blood of the bird that was killed over the running water.
+
+[[v3-14-7]]
+
+^<<v3-14-7,7>>^ Then he must spatter it seven times upon the one cleansing himself from the leprosy and he must pronounce him clean, and he must send away the living bird over the open field.^&#42;1^
+
+[NOTE]
+====
+. Lit., “over the face of the field.”
+====
+
+[[v3-14-8]]
+
+^<<v3-14-8,8>>^ “And the one cleansing himself must wash his garments and shave off all his hair and bathe in water and must be clean, and afterward he may come into the camp. And he must dwell outside his tent seven days.
+
+[[v3-14-9]]
+
+^<<v3-14-9,9>>^ And it must occur on the seventh day that he should shave off all his hair on his head and his chin and his eyebrows. Yes, he should shave off all his hair, and he must wash his garments and bathe his flesh in water; and he must be clean.
+
+[[v3-14-10]]
+
+^<<v3-14-10,10>>^ “And on the eighth day he will take two sound young rams^&#42;1^ and one sound female lamb, in its first year, and three tenths of an eʹphah of fine flour as a grain offering moistened with oil and one log^&#42;2^ measure of oil;
+
+[NOTE]
+====
+. SamLXX add, “a year old.”
+. A log equaled 0.31 L (0.66 pt).
+====
+
+[[v3-14-11]]
+
+^<<v3-14-11,11>>^ and the priest who pronounces him clean must present the man^&#42;1^ who is cleansing himself, and the things, before Jehovah at the entrance of the tent of meeting.
+
+[NOTE]
+====
+. Lit., “must make the man stand.”
+====
+
+[[v3-14-12]]
+
+^<<v3-14-12,12>>^ And the priest must take the one young ram and offer it for a guilt offering together with the log measure of oil and must wave them to and fro as a wave offering before Jehovah.
+
+[[v3-14-13]]
+
+^<<v3-14-13,13>>^ And he must slaughter the young ram in the place where the sin offering and the burnt offering are regularly slaughtered,^&#42;1^ in a holy place, because, like the sin offering, the guilt offering belongs to the priest. It is something most holy.
+
+[NOTE]
+====
+. Lit., “where he regularly slaughters the . . . offering,” M; SamLXX, “where they regularly slaughter the . . . offering.”
+====
+
+[[v3-14-14]]
+
+^<<v3-14-14,14>>^ “And the priest must take some of the blood of the guilt offering, and the priest must put it upon the lobe of the right ear of the one cleansing himself and upon the thumb of his right hand and upon the big toe of his right foot.
+
+[[v3-14-15]]
+
+^<<v3-14-15,15>>^ And the priest must take some of the log measure of oil and pour it upon the priest’s left palm.
+
+[[v3-14-16]]
+
+^<<v3-14-16,16>>^ And the priest must dip his right finger into the oil that is upon his left palm and must spatter some of the oil with his finger seven times before Jehovah.
+
+[[v3-14-17]]
+
+^<<v3-14-17,17>>^ And of the rest of the oil that is upon his palm the priest will put some upon the lobe of the right ear of the one cleansing himself and upon the thumb of his right hand and upon the big toe of his right foot over the blood of the guilt offering.
+
+[[v3-14-18]]
+
+^<<v3-14-18,18>>^ And what is left over of the oil that is upon the priest’s palm he will put upon the head of the one cleansing himself, and the priest must make atonement for him before Jehovah.
+
+[[v3-14-19]]
+
+^<<v3-14-19,19>>^ “And the priest must render up the sin offering and make atonement for the one cleansing himself from his impurity, and afterward he will slaughter the burnt offering.
+
+[[v3-14-20]]
+
+^<<v3-14-20,20>>^ And the priest must offer up the burnt offering and the grain offering upon the altar, and the priest must make atonement for him; and he must be clean.
+
+[[v3-14-21]]
+
+^<<v3-14-21,21>>^ “However, if he is lowly and does not have enough means,^&#42;1^ he must then take one young ram as a guilt offering for a wave offering in order to make atonement for him and one tenth of an eʹphah of fine flour moistened with oil as a grain offering and a log measure of oil,
+
+[NOTE]
+====
+. Lit., “and his hand is not attaining [it].” Vss 22, 30-32 have similar expressions.
+====
+
+[[v3-14-22]]
+
+^<<v3-14-22,22>>^ and two turtledoves or two young pigeons,^&#42;1^ according as he may have the means, and the one must serve as a sin offering and the other as a burnt offering.
+
+[NOTE]
+====
+. Lit., “sons of a pigeon.”
+====
+
+[[v3-14-23]]
+
+^<<v3-14-23,23>>^ And on the eighth day he must bring them for establishing his purification to the priest at the entrance of the tent of meeting before Jehovah.
+
+[[v3-14-24]]
+
+^<<v3-14-24,24>>^ “And the priest must take the young ram of the guilt offering and the log measure of oil, and the priest must wave them to and fro as a wave offering before Jehovah.
+
+[[v3-14-25]]
+
+^<<v3-14-25,25>>^ And he must slaughter the young ram of the guilt offering, and the priest must take some of the blood of the guilt offering and put it upon the lobe of the right ear of the one cleansing himself and upon the thumb of his right hand and upon the big toe of his right foot.
+
+[[v3-14-26]]
+
+^<<v3-14-26,26>>^ And the priest will pour some of the oil upon the priest’s left palm.
+
+[[v3-14-27]]
+
+^<<v3-14-27,27>>^ And the priest must spatter with his right finger some of the oil that is upon his left palm seven times before Jehovah.
+
+[[v3-14-28]]
+
+^<<v3-14-28,28>>^ And the priest must put some of the oil that is on his palm upon the lobe of the right ear of the one cleansing himself and upon the thumb of his right hand and upon the big toe of his right foot over the place of the blood of the guilt offering.
+
+[[v3-14-29]]
+
+^<<v3-14-29,29>>^ And what is left over of the oil that is on the priest’s palm he will put upon the head of the one cleansing himself in order to make atonement for him before Jehovah.
+
+[[v3-14-30]]
+
+^<<v3-14-30,30>>^ “And he must render up the one of the turtledoves or of the young pigeons for which he may have the means,
+
+[[v3-14-31]]
+
+^<<v3-14-31,31>>^ the one of them for which he may have the means as a sin offering and the other as a burnt offering along with the grain offering; and the priest must make atonement for the one cleansing himself before Jehovah.
+
+[[v3-14-32]]
+
+^<<v3-14-32,32>>^ “This is the law for the one in whom the plague of leprosy was who may not have the means when establishing his purification.”
+
+[[v3-14-33]]
+
+^<<v3-14-33,33>>^ And Jehovah proceeded to speak to Moses and Aaron, saying:
+
+[[v3-14-34]]
+
+^<<v3-14-34,34>>^ “When YOU come into the land of Caʹnaan, which I am giving YOU as a possession, and I do put the plague of leprosy in a house of the land of YOUR possession,
+
+[[v3-14-35]]
+
+^<<v3-14-35,35>>^ the one to whom the house belongs must then come and tell the priest, saying, ‘Something like a plague has appeared to me in the house.’
+
+[[v3-14-36]]
+
+^<<v3-14-36,36>>^ And the priest must give orders, and they must clear out the house before the priest may come in to see the plague, that he may not declare unclean everything that is in the house; and after that the priest will come in to see the house.
+
+[[v3-14-37]]
+
+^<<v3-14-37,37>>^ When he has seen the plague, then if the plague is in the walls of the house, with yellowish-green or reddish depressions, and their appearance is lower than the wall surface,
+
+[[v3-14-38]]
+
+^<<v3-14-38,38>>^ the priest must then go out of the house to the entrance of the house and he must quarantine the house seven days.
+
+[[v3-14-39]]
+
+^<<v3-14-39,39>>^ “And the priest must return on the seventh day and must take a look; and if the plague has spread in the walls of the house,
+
+[[v3-14-40]]
+
+^<<v3-14-40,40>>^ the priest must then give orders, and they must tear out the stones in which the plague is, and they must throw them outside the city into an unclean place.
+
+[[v3-14-41]]
+
+^<<v3-14-41,41>>^ And he will have the house scraped off^&#42;1^ all around inside, and they must pour the clay mortar that they cut off^&#42;2^ outside the city into an unclean place.
+
+[NOTE]
+====
+. “And they will scrape the house off,” SamLXXSy.
+. “Cut off,” M; TOSy, “scraped off.”
+====
+
+[[v3-14-42]]
+
+^<<v3-14-42,42>>^ And they must take other stones and insert them in the place of the former stones; and he^&#42;1^ will have different clay mortar taken, and he must have the house plastered.
+
+[NOTE]
+====
+. That is, the priest.
+====
+
+[[v3-14-43]]
+
+^<<v3-14-43,43>>^ “If, though, the plague returns and it does break out in the house after having torn out the stones and after having cut off^&#42;1^ the house and plastered it,
+
+[NOTE]
+====
+. “After having cut off,” M; TOLXXSy, “after having scraped off.”
+====
+
+[[v3-14-44]]
+
+^<<v3-14-44,44>>^ the priest must then come in and take a look; and if the plague has spread in the house, it is malignant leprosy in the house. It is unclean.
+
+[[v3-14-45]]
+
+^<<v3-14-45,45>>^ And he must have the house pulled down with its stones and its timbers and all the clay mortar of the house and must have it carried forth outside the city to an unclean place.
+
+[[v3-14-46]]
+
+^<<v3-14-46,46>>^ But whoever comes into the house any of the days of quarantining it will be unclean until the evening;
+
+[[v3-14-47]]
+
+^<<v3-14-47,47>>^ and whoever lies down in the house should wash his garments, and whoever eats in the house should wash his garments.
+
+[[v3-14-48]]
+
+^<<v3-14-48,48>>^ “However, if the priest comes at all and he does take a look, and, there now, the plague has not spread in the house after having plastered the house, the priest must then pronounce the house clean, because the plague has been healed.
+
+[[v3-14-49]]
+
+^<<v3-14-49,49>>^ And to purify the house from sin he must take two birds and cedarwood and coccus scarlet material and hyssop.
+
+[[v3-14-50]]
+
+^<<v3-14-50,50>>^ And he must kill the one bird in an earthenware vessel over running water.
+
+[[v3-14-51]]
+
+^<<v3-14-51,51>>^ And he must take the cedarwood and the hyssop and the coccus scarlet material and the live bird and dip them in the blood of the bird that was killed and in the running water, and he must spatter it toward the house seven times.
+
+[[v3-14-52]]
+
+^<<v3-14-52,52>>^ And he must purify the house from sin with the blood of the bird and the running water and the live bird and the cedarwood and the hyssop and the coccus scarlet material.
+
+[[v3-14-53]]
+
+^<<v3-14-53,53>>^ And he must send the live bird away outside the city into the open field and must make atonement for the house; and it must be clean.
+
+[[v3-14-54]]
+
+^<<v3-14-54,54>>^ “This is the law respecting any plague of leprosy and respecting the abnormal falling off of hair
+
+[[v3-14-55]]
+
+^<<v3-14-55,55>>^ and respecting the leprosy of the garment and in the house,
+
+[[v3-14-56]]
+
+^<<v3-14-56,56>>^ and respecting the eruption and the scab and the blotch,
+
+[[v3-14-57]]
+
+^<<v3-14-57,57>>^ in order to give instructions when something is unclean and when something is clean.^&#42;1^ This is the law about leprosy.”
+
+[NOTE]
+====
+. Lit., “in the day of the unclean and in the day of the clean.”
+====
+
+'''
+
+xref:003-leviticus/003-leviticus-013.adoc#v3-13-0[&#60; Capítulo Anterior] | <<v3-14-0,Topo>> | xref:003-leviticus/003-leviticus-015.adoc#v3-15-0[Próximo Capítulo &#62;]

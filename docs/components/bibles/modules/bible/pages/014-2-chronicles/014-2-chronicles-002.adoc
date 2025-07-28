@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v14-2-0]]
+=== The Second of Chronicles, 2
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v14-2-1]]
+
+^<<v14-2-1,1>>^ Solʹo·mon now gave the word to build a house to Jehovah’s name and a house for his kingship.^&#42;1^
+
+[NOTE]
+====
+. MLXX end chapter 1 here.
+====
+
+[[v14-2-2]]
+
+^<<v14-2-2,2>>^ Accordingly Solʹo·mon counted off seventy thousand men as burden bearers and eighty thousand men as cutters in the mountain, and as overseers over them three thousand six hundred.
+
+[[v14-2-3]]
+
+^<<v14-2-3,3>>^ Further, Solʹo·mon sent to Hiʹram^&#42;1^ the king of Tyre, saying: “Just as you dealt with David my father and you kept sending him cedarwood to build himself a house in which to dwell,—
+
+[NOTE]
+====
+. “Hiram,” LXXSyVg, some Heb. mss and 1Ch 14:1; M, “Huram.”
+====
+
+[[v14-2-4]]
+
+^<<v14-2-4,4>>^ here I am building a house to the name of Jehovah my God to sanctify it to him, to burn perfumed incense before him, with the constant layer bread and burnt offerings in the morning and in the evening, on the sabbaths and on the new moons and at the festival seasons of Jehovah our God. To time indefinite this will be upon Israel.
+
+[[v14-2-5]]
+
+^<<v14-2-5,5>>^ And the house that I am building will be great, for our God^&#42;1^ is greater than all the &#91;other&#93; gods.^&#42;2^
+
+[NOTE]
+====
+. “Our God.” Heb., ʼElo·hehʹnu, pl. of ʼElohʹah, to denote majesty and divine powers.
+. “The [other] gods.” Heb., ha·ʼelo·himʹ; Gr., the·ousʹ; Lat., deʹos.
+====
+
+[[v14-2-6]]
+
+^<<v14-2-6,6>>^ And who could retain power to build him a house? For the heavens and the heaven of the heavens cannot contain him, and who am I that I should build him a house except for making sacrificial smoke before him?
+
+[[v14-2-7]]
+
+^<<v14-2-7,7>>^ And now send me a skillful man to work in gold and in silver and in copper and in iron and in wool dyed reddish purple and crimson and blue thread, and knowing how to cut engravings, along with the skillful ones that are with me in Judah and in Jerusalem, whom David my father has prepared.
+
+[[v14-2-8]]
+
+^<<v14-2-8,8>>^ And send me timbers of cedar, juniper and algum^&#42;1^ from Lebʹa·non, for I myself well know that your servants are experienced^&#42;2^ at cutting down the trees of Lebʹa·non, (and here my servants are together with your servants,)
+
+[NOTE]
+====
+. “And algum.” Heb., weʼal·gum·mimʹ.
+. Lit., “are knowing.”
+====
+
+[[v14-2-9]]
+
+^<<v14-2-9,9>>^ even for preparing timbers for me in great number, for the house that I am building will be great, yes, in a wonderful way.
+
+[[v14-2-10]]
+
+^<<v14-2-10,10>>^ And, look! to the gatherers of wood, the cutters of the trees, I do give wheat as food^&#42;1^ for your servants, twenty thousand cors, and barley twenty thousand cors, and wine twenty thousand baths, and oil twenty thousand baths.”
+
+[NOTE]
+====
+. “Food,” by a slight correction of M in agreement with TSyVg and 1Ki 5:11.
+====
+
+[[v14-2-11]]
+
+^<<v14-2-11,11>>^ At that Hiʹram the king of Tyre said &#91;the word&#93; in writing and sent &#91;it&#93; to Solʹo·mon: “Because Jehovah loved his people he has constituted you king over them.”
+
+[[v14-2-12]]
+
+^<<v14-2-12,12>>^ And Hiʹram^&#42;1^ went on to say: “Blessed be Jehovah the God of Israel, who made the heavens and the earth, because he has given to David the king a wise son, experienced in discretion and understanding, who will build a house to Jehovah and a house for his kingship.
+
+[NOTE]
+====
+. See vs 3 ftn.
+====
+
+[[v14-2-13]]
+
+^<<v14-2-13,13>>^ And now I do send a skillful man, experienced in understanding, belonging to Hiʹram-aʹbi,^&#42;1^
+
+[NOTE]
+====
+. Or, “to Hiram my father.” Lit., “to Huram my father.” Heb., leChu·ramʹ ʼa·viʹ. Compare 4:16 ftn.
+====
+
+[[v14-2-14]]
+
+^<<v14-2-14,14>>^ the son of a woman of the sons of Dan but whose father was a man of Tyre, experienced, to work in gold and in silver, in copper, in iron, in stones and in timbers, in wool dyed reddish purple, in blue thread and in fine fabric and in crimson and at cutting every sort of engraving and at designing every sort of device that may be given to him along with your own skillful men and the skillful men of my lord David your father.
+
+[[v14-2-15]]
+
+^<<v14-2-15,15>>^ And now the wheat and the barley, the oil and the wine that my lord has promised, let him send to his servants.
+
+[[v14-2-16]]
+
+^<<v14-2-16,16>>^ As for ourselves, we shall cut down trees from Lebʹa·non according to all your need, and we shall bring them to you as rafts by sea to Jopʹpa, and you, for your part, will take them up to Jerusalem.”
+
+[[v14-2-17]]
+
+^<<v14-2-17,17>>^ Then Solʹo·mon took a count of all the men that were alien residents,^&#42;1^ who were in the land of Israel, after the census that David his father had taken of them; and there came to be found a hundred and fifty-three thousand six hundred.
+
+[NOTE]
+====
+. “That were alien residents.” Or, “the temporary residents.” Heb., hag·geh·rimʹ; LXXVg, “the proselytes.”
+====
+
+[[v14-2-18]]
+
+^<<v14-2-18,18>>^ So he made seventy thousand of them burden bearers and eighty thousand cutters in the mountain and three thousand six hundred overseers for keeping the people in service.
+
+'''
+
+xref:014-2-chronicles/014-2-chronicles-001.adoc#v14-1-0[&#60; Capítulo Anterior] | <<v14-2-0,Topo>> | xref:014-2-chronicles/014-2-chronicles-003.adoc#v14-3-0[Próximo Capítulo &#62;]

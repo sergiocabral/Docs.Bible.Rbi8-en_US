@@ -1,0 +1,80 @@
+include::./index.adoc[]
+
+[[v19-82-0]]
+=== Psalms, 82
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody of Aʹsaph._
+
+[[v19-82-1]]
+
+^<<v19-82-1,1>>^ God^&#42;1^ is stationing himself in the assembly of the Divine One;^&#42;2^
+In the middle of the gods^&#42;3^ he judges:
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ.
+. Or, “God.” Heb., ʼEl; LXXVg, “gods”; Sy, “angels.”
+. Or, “godlike ones.” Heb., ʼelo·himʹ; LXXVgc, “gods”; Sy, “angels”; T, “judges.”
+====
+
+[[v19-82-2]]
+
+^<<v19-82-2,2>>^ “How long will YOU keep on judging with injustice
+And showing partiality to^&#42;1^ the wicked themselves? Seʹlah.
+
+[NOTE]
+====
+. Lit., “lifting up the faces of.”
+====
+
+[[v19-82-3]]
+
+^<<v19-82-3,3>>^ Be judges for the lowly one and the fatherless boy.
+To the afflicted one and the one of little means do justice.
+
+[[v19-82-4]]
+
+^<<v19-82-4,4>>^ Provide escape for the lowly one and the poor one;
+Out of the hand of the wicked ones deliver &#91;them&#93;.”
+
+[[v19-82-5]]
+
+^<<v19-82-5,5>>^ They have not known, and they do not understand;
+In darkness they keep walking about;
+All the foundations of the earth are made to totter.
+
+[[v19-82-6]]
+
+^<<v19-82-6,6>>^ “I myself have said, ‘YOU are gods,^&#42;1^
+And all of YOU are sons of the Most High.
+
+[NOTE]
+====
+. Or, “godlike ones.” Heb., ʼelo·himʹ; Gr., the·oiʹ; Syr., daʼ·la·hin; Lat., diʹi; T, “like angels.”
+====
+
+[[v19-82-7]]
+
+^<<v19-82-7,7>>^ Surely YOU will die just as men^&#42;1^ do;
+And like any one of the princes YOU will fall!’”
+
+[NOTE]
+====
+. Or, “just as earthling man.” Heb., keʼa·dhamʹ.
+====
+
+[[v19-82-8]]
+
+^<<v19-82-8,8>>^ Do rise up, O God,^&#42;1^ do judge the earth;
+For you yourself should^&#42;2^ take possession of all the nations.
+
+[NOTE]
+====
+. “God.” Heb., ʼElo·himʹ.
+. Or, “will.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-081.adoc#v19-81-0[&#60; Capítulo Anterior] | <<v19-82-0,Topo>> | xref:019-psalm/019-psalm-083.adoc#v19-83-0[Próximo Capítulo &#62;]

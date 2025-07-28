@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-2-0]]
+=== Psalms, 2
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-2-1]]
+
+^<<v19-2-1,1>>^ Why have the nations been in tumult
+And the national groups themselves kept muttering an empty thing?
+
+[[v19-2-2]]
+
+^<<v19-2-2,2>>^ The kings of earth take their stand
+And high officials themselves have massed together as one
+Against Jehovah and against his anointed one,^&#42;1^
+
+[NOTE]
+====
+. “And against his anointed one.” Heb., weʽal-meshi·chohʹ; Gr., khri·stouʹ; Syr., meshi·cheh; Lat., chriʹstum.
+====
+
+[[v19-2-3]]
+
+^<<v19-2-3,3>>^ &#91;Saying:&#93; “Let us tear their bands apart
+And cast their cords away from us!”
+
+[[v19-2-4]]
+
+^<<v19-2-4,4>>^ The very One sitting in the heavens will laugh;
+Jehovah^&#42;1^ himself will hold them in derision.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-2-5]]
+
+^<<v19-2-5,5>>^ At that time he will speak to them in his anger
+And in his hot displeasure he will disturb them,
+
+[[v19-2-6]]
+
+^<<v19-2-6,6>>^ &#91;Saying:&#93; “I, even I, have installed my king
+Upon Zion, my holy mountain.”^&#42;1^
+
+[NOTE]
+====
+. Lit., “mountain of my holiness.”
+====
+
+[[v19-2-7]]
+
+^<<v19-2-7,7>>^ Let me refer to the decree of Jehovah;
+He has said to me: “You are my son;
+I, today, I have become your father.
+
+[[v19-2-8]]
+
+^<<v19-2-8,8>>^ Ask of me, that I may give nations as your inheritance
+And the ends of the earth as your own possession.
+
+[[v19-2-9]]
+
+^<<v19-2-9,9>>^ You will break^&#42;1^ them with an iron scepter,
+As though a potter’s vessel you will dash them to pieces.”
+
+[NOTE]
+====
+. “Break,” M; LXX, “shepherd.”
+====
+
+[[v19-2-10]]
+
+^<<v19-2-10,10>>^ And now, O kings, exercise insight;
+Let yourselves be corrected, O judges of the earth.
+
+[[v19-2-11]]
+
+^<<v19-2-11,11>>^ Serve Jehovah with fear
+And be joyful with trembling.
+
+[[v19-2-12]]
+
+^<<v19-2-12,12>>^ Kiss the son,^&#42;1^ that He may not become incensed
+And YOU may not perish &#91;from&#93; the way,^&#42;2^
+For his anger flares up easily.^&#42;3^
+Happy are all those taking refuge in him.
+
+[NOTE]
+====
+. “Kiss the son.” Heb., nash·shequ-varʹ. Here var, Aram., is used; not ben, Heb., as in 3:Sup; T, “Receive instruction”; LXX, “Accept correction”; Vg, “Learn discipline.” See Pr 31:2 ftn.
+. “[From] the way,” in agreement with LXXVg, which read, “from the righteous way.”
+. Or, “quickly.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-001.adoc#v19-1-0[&#60; Capítulo Anterior] | <<v19-2-0,Topo>> | xref:019-psalm/019-psalm-003.adoc#v19-3-0[Próximo Capítulo &#62;]

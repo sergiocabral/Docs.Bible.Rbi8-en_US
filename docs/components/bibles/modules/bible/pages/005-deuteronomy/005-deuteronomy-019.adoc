@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v5-19-0]]
+=== Deuteronomy, 19
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v5-19-1]]
+
+^<<v5-19-1,1>>^ “When Jehovah your God cuts off the nations whose land Jehovah your God is giving you, and you have dispossessed them and have dwelt in their cities and their houses,
+
+[[v5-19-2]]
+
+^<<v5-19-2,2>>^ you will set apart three cities for yourself in the midst of your land that Jehovah your God is giving you to take possession of it.
+
+[[v5-19-3]]
+
+^<<v5-19-3,3>>^ You will prepare for yourself the way, and you must divide up the territory of your land that Jehovah your God proceeded to give you as a possession into three parts, and it must be for any manslayer to flee there.
+
+[[v5-19-4]]
+
+^<<v5-19-4,4>>^ “Now this is the case of the manslayer who may flee there and has to live: When he strikes his fellowman without knowing it and he was no hater of him formerly;
+
+[[v5-19-5]]
+
+^<<v5-19-5,5>>^ or when he goes with his fellowman into the woods to gather^&#42;1^ wood, and his hand has been raised to strike with the ax to cut the tree, and the iron has slipped off from the wooden handle, and it has hit his fellowman and he has died, he himself should flee to one of these cities and must live.
+
+[NOTE]
+====
+. Or, “cut.”
+====
+
+[[v5-19-6]]
+
+^<<v5-19-6,6>>^ Otherwise, the avenger of blood^&#42;1^ may, because his heart is hot, chase after the manslayer and actually overtake him, since the way is great; and he may indeed strike his soul fatally,^&#42;2^ whereas there is no sentence of death for him, because he was no hater of him formerly.
+
+[NOTE]
+====
+. “The avenger (goel) of blood.” Heb., go·ʼelʹ had·damʹ; Vg, “the neighbor of him whose blood was shed.”
+. Lit., “strike him to the soul,” M; LXXVg, “strike his soul.”
+====
+
+[[v5-19-7]]
+
+^<<v5-19-7,7>>^ That is why I am commanding you, saying, ‘Three cities you will set apart for yourself.’
+
+[[v5-19-8]]
+
+^<<v5-19-8,8>>^ “And if Jehovah^&#42;1^ your God widens out your territory according to what he swore to your forefathers, and he has given you all the land that he promised to give to your forefathers,
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-19-9]]
+
+^<<v5-19-9,9>>^ because you will keep all this commandment that I am commanding you today by doing it, to love Jehovah your God and to walk in his ways always, you must then add three other cities for yourself to these three,
+
+[[v5-19-10]]
+
+^<<v5-19-10,10>>^ that no innocent blood may be spilled in the midst of your land that Jehovah your God is giving you as an inheritance, and no bloodguilt^&#42;1^ has to be upon you.
+
+[NOTE]
+====
+. Lit., “bloods.” Heb., da·mimʹ.
+====
+
+[[v5-19-11]]
+
+^<<v5-19-11,11>>^ “But in case there should happen to be a man hating his fellowman, and he has lain in wait for him and has risen up against him and struck his soul fatally and he has died, and the man has fled to one of these cities,
+
+[[v5-19-12]]
+
+^<<v5-19-12,12>>^ the older men of his city must then send and take him from there, and they must deliver him into the hand of the avenger of blood,^&#42;1^ and he must die.
+
+[NOTE]
+====
+. See vs 6 ftn, “Blood.”
+====
+
+[[v5-19-13]]
+
+^<<v5-19-13,13>>^ Your eye should not feel sorry for him, and you must clear away the guilt of innocent blood out of Israel, that you may have good.
+
+[[v5-19-14]]
+
+^<<v5-19-14,14>>^ “You must not move back the boundary marks of your fellowman, when the ancestors will have set the boundaries in your inheritance that you will inherit in the land that Jehovah^&#42;1^ your God is giving you to take possession of it.
+
+[NOTE]
+====
+. See App 1C §1.
+====
+
+[[v5-19-15]]
+
+^<<v5-19-15,15>>^ “No single witness should rise up against a man respecting any error or any sin, in the case of any sin that he may commit. At the mouth of two witnesses or at the mouth of three witnesses the matter should stand good.
+
+[[v5-19-16]]
+
+^<<v5-19-16,16>>^ In case a witness scheming violence should rise up against a man to bring a charge of revolt against him,
+
+[[v5-19-17]]
+
+^<<v5-19-17,17>>^ the two men who have the dispute must also stand before Jehovah, before the priests and the judges who will be acting in those days.
+
+[[v5-19-18]]
+
+^<<v5-19-18,18>>^ And the judges must search thoroughly, and if the witness is a false witness and has brought a false charge against his brother,
+
+[[v5-19-19]]
+
+^<<v5-19-19,19>>^ YOU must also do to him just as he had schemed to do to his brother, and you must clear away what is bad from your midst.
+
+[[v5-19-20]]
+
+^<<v5-19-20,20>>^ So those who remain will hear and be afraid, and they will never again do anything bad like this in your midst.
+
+[[v5-19-21]]
+
+^<<v5-19-21,21>>^ And your eye should not feel sorry: soul will be for soul, eye for eye, tooth for tooth, hand for hand, foot for foot.
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-018.adoc#v5-18-0[&#60; Capítulo Anterior] | <<v5-19-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-020.adoc#v5-20-0[Próximo Capítulo &#62;]

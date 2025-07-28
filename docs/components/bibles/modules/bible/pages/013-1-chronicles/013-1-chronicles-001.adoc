@@ -1,0 +1,312 @@
+include::./index.adoc[]
+
+[[v13-1-0]]
+=== The First of Chronicles, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v13-1-1]]
+
+^<<v13-1-1,1>>^ Adam,
+Seth,
+Eʹnosh,
+
+[[v13-1-2]]
+
+^<<v13-1-2,2>>^ Keʹnan,
+Ma·halʹa·lel,
+Jaʹred,
+
+[[v13-1-3]]
+
+^<<v13-1-3,3>>^ Eʹnoch,
+Me·thuʹse·lah,
+Laʹmech,
+
+[[v13-1-4]]
+
+^<<v13-1-4,4>>^ Noah,
+Shem, Ham and Jaʹpheth.
+
+[[v13-1-5]]
+
+^<<v13-1-5,5>>^ The sons of Jaʹpheth were Goʹmer and Maʹgog and Maʹda·i and Jaʹvan and Tuʹbal and Meʹshech and Tiʹras.
+
+[[v13-1-6]]
+
+^<<v13-1-6,6>>^ And the sons of Goʹmer were Ashʹke·naz and Riʹphath^&#42;1^ and To·garʹmah.
+
+[NOTE]
+====
+. “Riphath,” LXXVg, about 30 Heb. mss and Ge 10:3; M, “Diphath.”
+====
+
+[[v13-1-7]]
+
+^<<v13-1-7,7>>^ And the sons of Jaʹvan were E·liʹshah and Tarʹshish,^&#42;1^ Kitʹtim and Roʹda·nim.^&#42;2^
+
+[NOTE]
+====
+. “Tarshish,” LXXVg and Ge 10:4; M, “Tarshishah.”
+. “Rodanim,” MLXX; SyVg, many Heb. mss and Ge 10:4, “Dodanim.”
+====
+
+[[v13-1-8]]
+
+^<<v13-1-8,8>>^ The sons of Ham were Cush and Mizʹra·im, Put and Caʹnaan.
+
+[[v13-1-9]]
+
+^<<v13-1-9,9>>^ And the sons of Cush were Seʹba and Havʹi·lah and Sabʹtah and Raʹa·mah and Sabʹte·ca.
+And the sons of Raʹa·mah were Sheʹba and Deʹdan.
+
+[[v13-1-10]]
+
+^<<v13-1-10,10>>^ And Cush himself became father to Nimʹrod. He it was that made the start in becoming a mighty one in the earth.
+
+[[v13-1-11]]
+
+^<<v13-1-11,11>>^ As for Mizʹra·im, he became father to Luʹdim and Anʹa·mim and Le·haʹbim and Naph·tuʹhim
+
+[[v13-1-12]]
+
+^<<v13-1-12,12>>^ and Path·ruʹsim and Cas·luʹhim (from among whom the Phi·lisʹtines went forth) and Caphʹto·rim.
+
+[[v13-1-13]]
+
+^<<v13-1-13,13>>^ As for Caʹnaan, he became father to Siʹdon his firstborn and Heth
+
+[[v13-1-14]]
+
+^<<v13-1-14,14>>^ and the Jebʹu·site and the Amʹor·ite and the Girʹga·shite
+
+[[v13-1-15]]
+
+^<<v13-1-15,15>>^ and the Hiʹvite and the Arkʹite and the Siʹnite
+
+[[v13-1-16]]
+
+^<<v13-1-16,16>>^ and the Arʹvad·ite and the Zemʹa·rite and the Haʹmath·ite.
+
+[[v13-1-17]]
+
+^<<v13-1-17,17>>^ The sons of Shem were Eʹlam and Asʹshur and Ar·pachʹshad and Lud and Aʹram,
+And Uz^&#42;1^ and Hul and Geʹther and Mash.^&#42;2^
+
+[NOTE]
+====
+. “And Uz,” MSyVg; LXXA, Heb. msKennicott 175 and Ge 10:23, “and the sons of Aram were Uz.”
+. “Mash,” Sy, six Heb. mss and Ge 10:23; M, “Meshech”; LXXAVg, “Mosoch.”
+====
+
+[[v13-1-18]]
+
+^<<v13-1-18,18>>^ As for Ar·pachʹshad, he became father to Sheʹlah, and Sheʹlah himself became father to Eʹber.
+
+[[v13-1-19]]
+
+^<<v13-1-19,19>>^ And to Eʹber two sons were born. The name of the one was Peʹleg,^&#42;1^ because in his days the earth^&#42;2^ was divided; and the name of his brother was Jokʹtan.
+
+[NOTE]
+====
+. Meaning “Division; Stream.”
+. Or, “earth’s population.”
+====
+
+[[v13-1-20]]
+
+^<<v13-1-20,20>>^ As for Jokʹtan, he became father to Al·moʹdad and Sheʹleph and Ha·zar·maʹveth and Jeʹrah
+
+[[v13-1-21]]
+
+^<<v13-1-21,21>>^ and Ha·doʹram and Uʹzal and Dikʹlah
+
+[[v13-1-22]]
+
+^<<v13-1-22,22>>^ and Oʹbal^&#42;1^ and A·bimʹa·el and Sheʹba
+
+[NOTE]
+====
+. “Obal,” Sy, 19 Heb. mss and Ge 10:28; MVg, “Ebal.”
+====
+
+[[v13-1-23]]
+
+^<<v13-1-23,23>>^ and Oʹphir and Havʹi·lah and Joʹbab; all these were the sons of Jokʹtan.
+
+[[v13-1-24]]
+
+^<<v13-1-24,24>>^ Shem,
+Ar·pachʹshad,
+Sheʹlah,
+
+[[v13-1-25]]
+
+^<<v13-1-25,25>>^ Eʹber,
+Peʹleg,
+Reʹu,
+
+[[v13-1-26]]
+
+^<<v13-1-26,26>>^ Seʹrug,
+Naʹhor,
+Teʹrah,
+
+[[v13-1-27]]
+
+^<<v13-1-27,27>>^ Aʹbram, that is to say, Abraham.
+
+[[v13-1-28]]
+
+^<<v13-1-28,28>>^ The sons of Abraham were Isaac and Ishʹma·el.
+
+[[v13-1-29]]
+
+^<<v13-1-29,29>>^ These are their family origins: Ishʹma·el’s firstborn Ne·baʹioth and Keʹdar and Adʹbe·el and Mibʹsam,
+
+[[v13-1-30]]
+
+^<<v13-1-30,30>>^ Mishʹma and Duʹmah, Masʹsa, Haʹdad and Teʹma,
+
+[[v13-1-31]]
+
+^<<v13-1-31,31>>^ Jeʹtur, Naʹphish and Kedʹe·mah. These were the sons of Ishʹma·el.
+
+[[v13-1-32]]
+
+^<<v13-1-32,32>>^ As for the sons of Ke·tuʹrah, Abraham’s concubine, she gave birth to Zimʹran and Jokʹshan and Meʹdan and Midʹi·an and Ishʹbak and Shuʹah.
+And the sons of Jokʹshan were Sheʹba and Deʹdan.
+
+[[v13-1-33]]
+
+^<<v13-1-33,33>>^ And the sons of Midʹi·an were Eʹphah and Eʹpher and Haʹnoch and A·biʹda and El·daʹah.
+All these were the sons of Ke·tuʹrah.
+
+[[v13-1-34]]
+
+^<<v13-1-34,34>>^ And Abraham came to be father to Isaac. The sons of Isaac were Eʹsau and Israel.
+
+[[v13-1-35]]
+
+^<<v13-1-35,35>>^ The sons of Eʹsau were Elʹi·phaz, Reuʹel and Jeʹush and Jaʹlam and Koʹrah.
+
+[[v13-1-36]]
+
+^<<v13-1-36,36>>^ The sons of Elʹi·phaz were Teʹman and Oʹmar, Zeʹpho^&#42;1^ and Gaʹtam, Keʹnaz and Timʹna and Amʹa·lek.
+
+[NOTE]
+====
+. “Zepho,” about 30 Heb. mss and Ge 36:11; M, “Zephi.”
+====
+
+[[v13-1-37]]
+
+^<<v13-1-37,37>>^ The sons of Reuʹel were Naʹhath, Zeʹrah, Shamʹmah and Mizʹzah.
+
+[[v13-1-38]]
+
+^<<v13-1-38,38>>^ And the sons of Seʹir were Loʹtan and Shoʹbal and Zibʹe·on and Aʹnah and Diʹshon and Eʹzer and Diʹshan.
+
+[[v13-1-39]]
+
+^<<v13-1-39,39>>^ And the sons of Loʹtan were Hoʹri and Hoʹmam.^&#42;1^ And Loʹtan’s sister was Timʹna.
+
+[NOTE]
+====
+. “Homam,” MSyVg; LXX and Ge 36:22, “Hemam.”
+====
+
+[[v13-1-40]]
+
+^<<v13-1-40,40>>^ The sons of Shoʹbal were Alʹvan^&#42;1^ and Manʹa·hath and Eʹbal, Sheʹpho^&#42;2^ and Oʹnam.
+And the sons of Zibʹe·on were Aʹiah and Aʹnah.
+
+[NOTE]
+====
+. “Alvan,” many Heb. mss and Ge 36:23; MVg, “Alian.”
+. “Shepho,” some Heb. mss and Ge 36:23; MVgc, “Shephi.”
+====
+
+[[v13-1-41]]
+
+^<<v13-1-41,41>>^ The sons of Aʹnah were Diʹshon.
+And the sons of Diʹshon were Hemʹdan^&#42;1^ and Eshʹban and Ithʹran and Cheʹran.
+
+[NOTE]
+====
+. “Hemdan,” LXXA, many Heb. mss and Ge 36:26; MSy, “Hamran”; Vgc, “Hamram.”
+====
+
+[[v13-1-42]]
+
+^<<v13-1-42,42>>^ The sons of Eʹzer were Bilʹhan and Zaʹa·van and Aʹkan.^&#42;1^
+The sons of Diʹshan^&#42;2^ were Uz and Aʹran.
+
+[NOTE]
+====
+. “And Akan,” LXXA, 22 Heb. mss and Ge 36:27; M, “Jaakan.”
+. “Dishan,” Vgc and Ge 36:28; MLXXSyVg, “Dishon.”
+====
+
+[[v13-1-43]]
+
+^<<v13-1-43,43>>^ And these are the kings that reigned in the land of Eʹdom before any king reigned over the sons of Israel: Beʹla the son of Beʹor, the name of whose city was Dinʹha·bah.
+
+[[v13-1-44]]
+
+^<<v13-1-44,44>>^ Eventually Beʹla died, and Joʹbab the son of Zeʹrah from Bozʹrah began to reign in place of him.
+
+[[v13-1-45]]
+
+^<<v13-1-45,45>>^ Eventually Joʹbab died, and Huʹsham from the land of the Teʹman·ites began to reign in place of him.
+
+[[v13-1-46]]
+
+^<<v13-1-46,46>>^ Eventually Huʹsham died, and Haʹdad the son of Beʹdad, who defeated Midʹi·an in the field of Moʹab, began to reign in place of him. And the name of his city was Aʹvith.
+
+[[v13-1-47]]
+
+^<<v13-1-47,47>>^ Eventually Haʹdad died, and Samʹlah from Mas·reʹkah began to reign in place of him.
+
+[[v13-1-48]]
+
+^<<v13-1-48,48>>^ Eventually Samʹlah died, and Shaʹul from Re·hoʹboth by the River began to reign in place of him.
+
+[[v13-1-49]]
+
+^<<v13-1-49,49>>^ Eventually Shaʹul died, and Baʹal-haʹnan the son of Achʹbor began to reign in place of him.
+
+[[v13-1-50]]
+
+^<<v13-1-50,50>>^ Eventually Baʹal-haʹnan died, and Haʹdad^&#42;1^ began to reign in place of him; and the name of his city was Paʹu,^&#42;2^ and the name of his wife was Me·hetʹa·bel, the daughter of Maʹtred, the daughter of Meʹza·hab.
+
+[NOTE]
+====
+. “Hadad,” MLXXSyVg; in Ge 36:39, “Hadar.”
+. “Pau,” TLXXLSyVgc, many Heb. mss and Ge 36:39; M, “Pai.”
+====
+
+[[v13-1-51]]
+
+^<<v13-1-51,51>>^ Eventually Haʹdad died.
+And the sheiks of Eʹdom came to be sheik Timʹna, sheik Alʹvah,^&#42;1^ sheik Jeʹtheth,
+
+[NOTE]
+====
+. “Alvah,” MmarginTVg, many Heb. mss and Ge 36:40; M, “Aliah.”
+====
+
+[[v13-1-52]]
+
+^<<v13-1-52,52>>^ sheik O·hol·i·baʹmah, sheik Eʹlah, sheik Piʹnon,
+
+[[v13-1-53]]
+
+^<<v13-1-53,53>>^ sheik Keʹnaz, sheik Teʹman, sheik Mibʹzar,
+
+[[v13-1-54]]
+
+^<<v13-1-54,54>>^ sheik Magʹdi·el, sheik Iʹram. These were the sheiks of Eʹdom.
+
+'''
+
+xref:012-2-kings/012-2-kings-025.adoc#v12-25-0[&#60; Capítulo Anterior] | <<v13-1-0,Topo>> | xref:013-1-chronicles/013-1-chronicles-002.adoc#v13-2-0[Próximo Capítulo &#62;]

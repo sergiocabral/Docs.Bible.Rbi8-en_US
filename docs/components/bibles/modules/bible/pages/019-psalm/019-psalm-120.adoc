@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-120-0]]
+=== Psalms, 120
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A Song of the Ascents.^&#42;1^_
+
+[[v19-120-1]]
+
+^<<v19-120-1,1>>^ To Jehovah I called in the distress of mine,
+And he proceeded to answer me.
+
+[[v19-120-2]]
+
+^<<v19-120-2,2>>^ O Jehovah, do deliver my soul from false lips,
+From the tricky tongue.
+
+[[v19-120-3]]
+
+^<<v19-120-3,3>>^ What will one give to you, and what will one add to you,
+O you tricky tongue?
+
+[[v19-120-4]]
+
+^<<v19-120-4,4>>^ Sharpened arrows of a mighty man,
+Along with burning coals of the broom trees.
+
+[[v19-120-5]]
+
+^<<v19-120-5,5>>^ Woe to me, for I have resided as an alien in Meʹshech!
+I have tabernacled together with the tents of Keʹdar.
+
+[[v19-120-6]]
+
+^<<v19-120-6,6>>^ For too long a time my soul has tabernacled
+With the haters^&#42;1^ of peace.
+
+[NOTE]
+====
+. “Haters,” LXXSyVg and eight Heb. mss; M, “hater.”
+====
+
+[[v19-120-7]]
+
+^<<v19-120-7,7>>^ I stand for peace; but when I speak,
+They are for war.
+
+'''
+
+xref:019-psalm/019-psalm-119.adoc#v19-119-0[&#60; Capítulo Anterior] | <<v19-120-0,Topo>> | xref:019-psalm/019-psalm-121.adoc#v19-121-0[Próximo Capítulo &#62;]

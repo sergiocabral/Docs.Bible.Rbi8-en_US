@@ -1,0 +1,120 @@
+include::./index.adoc[]
+
+[[v19-17-0]]
+=== Psalms, 17
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A prayer of David._
+
+[[v19-17-1]]
+
+^<<v19-17-1,1>>^ Do hear what is righteous, O Jehovah; do pay attention to my entreating cry;
+Do give ear to my prayer without lips of deception.
+
+[[v19-17-2]]
+
+^<<v19-17-2,2>>^ From before you may my judgment go forth;
+May your own eyes behold uprightness.
+
+[[v19-17-3]]
+
+^<<v19-17-3,3>>^ You have examined my heart, you have made inspection by night,
+You have refined me; you will discover &#91;that&#93; I have not schemed.
+My mouth will not transgress.
+
+[[v19-17-4]]
+
+^<<v19-17-4,4>>^ As for the activities of men,^&#42;1^
+By the word of your lips I myself have watched against the paths of the robber.
+
+[NOTE]
+====
+. Lit., “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-17-5]]
+
+^<<v19-17-5,5>>^ Let my steps take hold^&#42;1^ on your tracks,
+&#91;In which&#93; my footsteps will certainly not be made to totter.
+
+[NOTE]
+====
+. Lit., “Let there be a taking hold by my steps.” The Heb. verb in this phrase is in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v19-17-6]]
+
+^<<v19-17-6,6>>^ I myself do call upon you, because you will answer me, O God.^&#42;1^
+Incline your ear to me. Hear my saying.
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+[[v19-17-7]]
+
+^<<v19-17-7,7>>^ Make your acts of loving-kindnesses^&#42;1^ wonderful, O Savior of those seeking refuge
+From the revolters against your right hand.
+
+[NOTE]
+====
+. Lit., “your loving-kindnesses.”
+====
+
+[[v19-17-8]]
+
+^<<v19-17-8,8>>^ Keep me as the pupil of the eyeball,
+In the shadow of your wings may you conceal me,
+
+[[v19-17-9]]
+
+^<<v19-17-9,9>>^ Because of the wicked who have despoiled me.
+The enemies against my soul themselves keep closing in upon me.
+
+[[v19-17-10]]
+
+^<<v19-17-10,10>>^ They have enclosed &#91;themselves&#93; with their own fat;
+With their mouth they have spoken in haughtiness;
+
+[[v19-17-11]]
+
+^<<v19-17-11,11>>^ As regards our steps, now they have surrounded us;
+They fix their eyes to incline to the earth.
+
+[[v19-17-12]]
+
+^<<v19-17-12,12>>^ His likeness is that of a lion that yearns to tear to pieces
+And that of a young lion sitting in concealed places.
+
+[[v19-17-13]]
+
+^<<v19-17-13,13>>^ Do rise up, O Jehovah; do confront him to the face;
+Make him bow down; do provide escape for my soul from the wicked one with your sword,
+
+[[v19-17-14]]
+
+^<<v19-17-14,14>>^ From men, &#91;by&#93; your hand, O Jehovah,
+From men of &#91;this&#93; system of things,^&#42;1^ whose share is in &#91;this&#93; life,
+And whose belly you fill with your concealed treasure,
+Who are satisfied with sons
+And who do lay up for their children what they leave over.
+
+[NOTE]
+====
+. “Of [this] system of things.” Or, “of the duration of life.” Heb., me·cheʹledh.
+====
+
+[[v19-17-15]]
+
+^<<v19-17-15,15>>^ As for me, in righteousness I shall behold your face;
+I will be satisfied when awakening &#91;to see&#93; your form.^&#42;1^
+
+[NOTE]
+====
+. Or, “awakening as to your form,” M; by a correction, “looking at your form”; LXX, “your glory is seen.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-016.adoc#v19-16-0[&#60; Capítulo Anterior] | <<v19-17-0,Topo>> | xref:019-psalm/019-psalm-018.adoc#v19-18-0[Próximo Capítulo &#62;]

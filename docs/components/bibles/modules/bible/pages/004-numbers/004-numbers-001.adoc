@@ -1,0 +1,266 @@
+include::./index.adoc[]
+
+[[v4-1-0]]
+=== Numbers, 1
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-1-1]]
+
+^<<v4-1-1,1>>^ And Jehovah proceeded to speak to Moses in the wilderness^&#42;1^ of Siʹnai, in the tent of meeting, on the first day of the second month in the second year of their coming out of the land of Egypt, and he said:
+
+[NOTE]
+====
+. “In the wilderness.” Heb., Bemidh·barʹ. In Heb. this fourth book of Moses is named after this word. LXXVg name this book “Numbers” (Gr., A·rith·moiʹ; Lat., Nuʹme·ri).
+====
+
+[[v4-1-2]]
+
+^<<v4-1-2,2>>^ “TAKE the sum of the whole assembly of the sons of Israel according to their families, according to the house of their fathers, by the number of names, all the males, head by head of them,^&#42;1^
+
+[NOTE]
+====
+. Lit., “by their skulls.”
+====
+
+[[v4-1-3]]
+
+^<<v4-1-3,3>>^ from twenty years old upward, everyone going out to the army in Israel. YOU should register them according to their armies, you and Aaron.
+
+[[v4-1-4]]
+
+^<<v4-1-4,4>>^ “And some men should be with YOU, one man to a tribe; each is a head to the house of his fathers.
+
+[[v4-1-5]]
+
+^<<v4-1-5,5>>^ And these are the names of the men who will stand with YOU: Of Reuʹben, E·liʹzur the son of Shedʹe·ur;
+
+[[v4-1-6]]
+
+^<<v4-1-6,6>>^ of Simʹe·on, She·luʹmi·el the son of Zu·ri·shadʹdai;
+
+[[v4-1-7]]
+
+^<<v4-1-7,7>>^ of Judah, Nahʹshon the son of Am·minʹa·dab;
+
+[[v4-1-8]]
+
+^<<v4-1-8,8>>^ of Isʹsa·char, Ne·thanʹel the son of Zuʹar;
+
+[[v4-1-9]]
+
+^<<v4-1-9,9>>^ of Zebʹu·lun, E·liʹab the son of Heʹlon;
+
+[[v4-1-10]]
+
+^<<v4-1-10,10>>^ of the sons of Joseph: of Eʹphra·im, E·lishʹa·ma the son of Am·miʹhud; of Ma·nasʹseh, Ga·maʹli·el the son of Pe·dahʹzur;
+
+[[v4-1-11]]
+
+^<<v4-1-11,11>>^ of Benjamin, Abʹi·dan the son of Gid·e·oʹni;
+
+[[v4-1-12]]
+
+^<<v4-1-12,12>>^ of Dan, A·hi·eʹzer the son of Am·mi·shadʹdai;
+
+[[v4-1-13]]
+
+^<<v4-1-13,13>>^ of Ashʹer, Paʹgi·el the son of Ochʹran;
+
+[[v4-1-14]]
+
+^<<v4-1-14,14>>^ of Gad, E·liʹa·saph the son of Deuʹel;^&#42;1^
+
+[NOTE]
+====
+. “Deuel,” MSamVg; LXX, “Raguel”; Sy, “Reuel.”
+====
+
+[[v4-1-15]]
+
+^<<v4-1-15,15>>^ of Naphʹta·li, A·hiʹra the son of Eʹnan.
+
+[[v4-1-16]]
+
+^<<v4-1-16,16>>^ These are the ones called of the assembly, the chieftains^&#42;1^ of the tribes of their fathers. They are the heads of the thousands of Israel.”
+
+[NOTE]
+====
+. Or, “nasis.” Heb., nesi·ʼehʹ.
+====
+
+[[v4-1-17]]
+
+^<<v4-1-17,17>>^ So Moses and Aaron took these men who had been designated by names.
+
+[[v4-1-18]]
+
+^<<v4-1-18,18>>^ And they congregated all the assembly on the first day of the second month, that they might have their descent acknowledged as regards their families in the house of their fathers, by the number of the names, from twenty years old upward, head by head of them,
+
+[[v4-1-19]]
+
+^<<v4-1-19,19>>^ just as Jehovah had commanded Moses; and he proceeded to register them in the wilderness of Siʹnai.
+
+[[v4-1-20]]
+
+^<<v4-1-20,20>>^ And the sons of Reuʹben, Israel’s firstborn, their births according to their families in the house of their fathers, came to be by the number of names, head by head of them, all the males from twenty years old upward, everyone going out to the army,
+
+[[v4-1-21]]
+
+^<<v4-1-21,21>>^ those registered of them of the tribe of Reuʹben, forty-six thousand five hundred.
+
+[[v4-1-22]]
+
+^<<v4-1-22,22>>^ Of the sons of Simʹe·on, their births according to their families in the house of their fathers, those registered ones of his by the number of names, head by head of them, all the males from twenty years old upward, everyone going out to the army,
+
+[[v4-1-23]]
+
+^<<v4-1-23,23>>^ those registered of them of the tribe of Simʹe·on were fifty-nine thousand three hundred.
+
+[[v4-1-24]]
+
+^<<v4-1-24,24>>^ Of the sons of Gad, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[[v4-1-25]]
+
+^<<v4-1-25,25>>^ those registered of them of the tribe of Gad were forty-five thousand six hundred and fifty.
+
+[[v4-1-26]]
+
+^<<v4-1-26,26>>^ Of the sons of Judah, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[[v4-1-27]]
+
+^<<v4-1-27,27>>^ those registered of them of the tribe of Judah were seventy-four thousand six hundred.
+
+[[v4-1-28]]
+
+^<<v4-1-28,28>>^ Of the sons of Isʹsa·char, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[[v4-1-29]]
+
+^<<v4-1-29,29>>^ those registered of them of the tribe of Isʹsa·char were fifty-four thousand four hundred.
+
+[[v4-1-30]]
+
+^<<v4-1-30,30>>^ Of the sons of Zebʹu·lun, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[[v4-1-31]]
+
+^<<v4-1-31,31>>^ those registered of them of the tribe of Zebʹu·lun were fifty-seven thousand four hundred.
+
+[[v4-1-32]]
+
+^<<v4-1-32,32>>^ Of the sons of Joseph: of the sons of Eʹphra·im, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[[v4-1-33]]
+
+^<<v4-1-33,33>>^ those registered of them of the tribe of Eʹphra·im were forty thousand five hundred.
+
+[[v4-1-34]]
+
+^<<v4-1-34,34>>^ Of the sons of Ma·nasʹseh, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[[v4-1-35]]
+
+^<<v4-1-35,35>>^ those registered of them of the tribe of Ma·nasʹseh were thirty-two thousand two hundred.
+
+[[v4-1-36]]
+
+^<<v4-1-36,36>>^ Of the sons of Benjamin, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[[v4-1-37]]
+
+^<<v4-1-37,37>>^ those registered of them of the tribe of Benjamin were thirty-five thousand four hundred.
+
+[[v4-1-38]]
+
+^<<v4-1-38,38>>^ Of the sons of Dan, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[[v4-1-39]]
+
+^<<v4-1-39,39>>^ those registered of them of the tribe of Dan were sixty-two thousand seven hundred.
+
+[[v4-1-40]]
+
+^<<v4-1-40,40>>^ Of the sons of Ashʹer, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[[v4-1-41]]
+
+^<<v4-1-41,41>>^ those registered of them of the tribe of Ashʹer were forty-one thousand five hundred.
+
+[[v4-1-42]]
+
+^<<v4-1-42,42>>^ Of the sons^&#42;1^ of Naphʹta·li, their births according to their families in the house of their fathers by the number of names from twenty years old upward, everyone going out to the army,
+
+[NOTE]
+====
+. “Of the sons,” SamLXXVg and ten Heb. mss; M, “The sons.”
+====
+
+[[v4-1-43]]
+
+^<<v4-1-43,43>>^ those registered of them of the tribe of Naphʹta·li were fifty-three thousand four hundred.
+
+[[v4-1-44]]
+
+^<<v4-1-44,44>>^ These are the ones registered, whom Moses registered, together with Aaron and the chieftains of Israel, twelve men. They represented one each the house of his fathers.
+
+[[v4-1-45]]
+
+^<<v4-1-45,45>>^ And all those registered of the sons of Israel according to the house of their fathers from twenty years old upward, everyone going out to the army in Israel, came to be,
+
+[[v4-1-46]]
+
+^<<v4-1-46,46>>^ yes, all those registered came to be six hundred and three thousand five hundred and fifty.
+
+[[v4-1-47]]
+
+^<<v4-1-47,47>>^ However, the Levites according to the tribe of their fathers did not get registered in among them.
+
+[[v4-1-48]]
+
+^<<v4-1-48,48>>^ Accordingly Jehovah spoke to Moses, saying:
+
+[[v4-1-49]]
+
+^<<v4-1-49,49>>^ “Only the tribe of Leʹvi you must not register, and the sum of them you must not take in among the sons of Israel.
+
+[[v4-1-50]]
+
+^<<v4-1-50,50>>^ And you yourself appoint the Levites over the tabernacle of the Testimony and over all its utensils and over everything that belongs to it.^&#42;1^ They themselves will carry the tabernacle and all its utensils, and they themselves will minister at it; and around the tabernacle they are to camp.
+
+[NOTE]
+====
+. “That belongs to it,” MSam; LXXSy, “which is in it.”
+====
+
+[[v4-1-51]]
+
+^<<v4-1-51,51>>^ And whenever the tabernacle is setting out, the Levites should take it down; and when the tabernacle encamps, the Levites should set it up; and any stranger^&#42;1^ coming near should be put to death.
+
+[NOTE]
+====
+. That is, a non-Levite.
+====
+
+[[v4-1-52]]
+
+^<<v4-1-52,52>>^ “And the sons of Israel must encamp each with reference to his camp,^&#42;1^ and each man by his &#91;three-tribe&#93; division^&#42;2^ by their armies.
+
+[NOTE]
+====
+. “His camp.” Heb., ma·chaneʹhu; Gr., tei he·au·touʹ taʹxei, “his own order”; Lat., turʹmas, “troops.” These terms imply people arranged under order, or people organized. See 1Co 14:40 ftn.
+. “His [three-tribe] division.” Heb., digh·lohʹ (from deʹghel).
+====
+
+[[v4-1-53]]
+
+^<<v4-1-53,53>>^ And the Levites should encamp around the tabernacle of the Testimony, that no indignation may arise against the assembly of the sons of Israel; and the Levites must keep the service due to the tabernacle of the Testimony.”
+
+[[v4-1-54]]
+
+^<<v4-1-54,54>>^ And the sons of Israel proceeded to do according to all that Jehovah had commanded Moses. They did just so.
+
+'''
+
+xref:003-leviticus/003-leviticus-027.adoc#v3-27-0[&#60; Capítulo Anterior] | <<v4-1-0,Topo>> | xref:004-numbers/004-numbers-002.adoc#v4-2-0[Próximo Capítulo &#62;]

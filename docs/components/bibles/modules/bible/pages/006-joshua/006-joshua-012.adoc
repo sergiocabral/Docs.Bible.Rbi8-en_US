@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v6-12-0]]
+=== Joshua, 12
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v6-12-1]]
+
+^<<v6-12-1,1>>^ Now these are the kings of the land whom the sons of Israel defeated and whose land they then took possession of on the side of the Jordan toward the rising of the sun, from the torrent valley of Arʹnon up to Mount Herʹmon and all the Arʹa·bah toward the sunrise:^&#42;1^
+
+[NOTE]
+====
+. Or, “east.”
+====
+
+[[v6-12-2]]
+
+^<<v6-12-2,2>>^ Siʹhon the king of the Amʹor·ites, who dwelt in Heshʹbon, ruling from A·roʹer, which was on the bank of the torrent valley of Arʹnon, and the middle of the torrent valley, and half of Gilʹe·ad as far as Jabʹbok the torrent valley, the boundary of the sons of Amʹmon,
+
+[[v6-12-3]]
+
+^<<v6-12-3,3>>^ and the Arʹa·bah as far as the sea of Chinʹne·reth toward the east and as far as the sea of the Arʹa·bah, the Salt Sea, to the east in the direction of Beth-jeshʹi·moth, and toward the south under the slopes of Pisʹgah.
+
+[[v6-12-4]]
+
+^<<v6-12-4,4>>^ And the territory of Og the king of Baʹshan, of what was left over of the Rephʹa·im, who dwelt in Ashʹta·roth and Edʹre·i,
+
+[[v6-12-5]]
+
+^<<v6-12-5,5>>^ and who ruled in Mount Herʹmon and in Salʹe·cah and in all Baʹshan, as far as the boundary of the Geshʹur·ites and the Ma·acʹa·thites, and half of Gilʹe·ad, to the territory of Siʹhon the king of Heshʹbon.
+
+[[v6-12-6]]
+
+^<<v6-12-6,6>>^ It was Moses the servant of Jehovah and the sons of Israel who defeated them, after which Moses the servant of Jehovah gave it as a holding to the Reuʹben·ites and the Gadʹites and half of the tribe of Ma·nasʹseh.
+
+[[v6-12-7]]
+
+^<<v6-12-7,7>>^ And these are the kings of the land whom Joshua and the sons of Israel defeated on the side of the Jordan toward the west, from Baʹal-gad in the valley plain of Lebʹa·non and as far as Mount Haʹlak, which goes up to Seʹir, after which Joshua gave it to the tribes of Israel as a holding by their shares,
+
+[[v6-12-8]]
+
+^<<v6-12-8,8>>^ in the mountainous region and in the She·pheʹlah and in the Arʹa·bah and on the slopes and in the wilderness and in the Negʹeb—the Hitʹtites, the Amʹor·ites and the Caʹnaan·ites, the Perʹiz·zites, the Hiʹvites and the Jebʹu·sites:
+
+[[v6-12-9]]
+
+^<<v6-12-9,9>>^ The king of Jerʹi·cho, one; the king of Aʹi, which was beside Bethʹel, one;
+
+[[v6-12-10]]
+
+^<<v6-12-10,10>>^ the king of Jerusalem, one; the king of Heʹbron, one;
+
+[[v6-12-11]]
+
+^<<v6-12-11,11>>^ the king of Jarʹmuth, one; the king of Laʹchish, one;
+
+[[v6-12-12]]
+
+^<<v6-12-12,12>>^ the king of Egʹlon, one; the king of Geʹzer, one;
+
+[[v6-12-13]]
+
+^<<v6-12-13,13>>^ the king of Deʹbir, one; the king of Geʹder, one;
+
+[[v6-12-14]]
+
+^<<v6-12-14,14>>^ the king of Horʹmah, one; the king of Aʹrad, one;
+
+[[v6-12-15]]
+
+^<<v6-12-15,15>>^ the king of Libʹnah, one; the king of A·dulʹlam, one;
+
+[[v6-12-16]]
+
+^<<v6-12-16,16>>^ the king of Mak·keʹdah, one; the king of Bethʹel, one;
+
+[[v6-12-17]]
+
+^<<v6-12-17,17>>^ the king of Tapʹpu·ah, one; the king of Heʹpher, one;
+
+[[v6-12-18]]
+
+^<<v6-12-18,18>>^ the king of Aʹphek, one; the king of Las·sharʹon, one;
+
+[[v6-12-19]]
+
+^<<v6-12-19,19>>^ the king of Maʹdon, one; the king of Haʹzor, one;
+
+[[v6-12-20]]
+
+^<<v6-12-20,20>>^ the king of Shimʹron-meʹron,^&#42;1^ one; the king of Achʹshaph, one;
+
+[NOTE]
+====
+. “Shimron-meron,” M; Sy, “Shimron and Meron”; LXXLVg, “Shimron.”
+====
+
+[[v6-12-21]]
+
+^<<v6-12-21,21>>^ the king of Taʹa·nach, one; the king of Me·gidʹdo, one;
+
+[[v6-12-22]]
+
+^<<v6-12-22,22>>^ the king of Keʹdesh, one; the king of Jokʹne·am in Carʹmel, one;
+
+[[v6-12-23]]
+
+^<<v6-12-23,23>>^ the king of Dor on the mountain ridge of Dor, one; the king of Goiʹim in Gilʹgal,^&#42;1^ one;
+
+[NOTE]
+====
+. Probably Jiljulieh, north of the brook Kanah, near the plain of Sharon. LXX, “Galilee.”
+====
+
+[[v6-12-24]]
+
+^<<v6-12-24,24>>^ the king of Tirʹzah, one;
+all the kings being thirty-one.
+
+'''
+
+xref:006-joshua/006-joshua-011.adoc#v6-11-0[&#60; Capítulo Anterior] | <<v6-12-0,Topo>> | xref:006-joshua/006-joshua-013.adoc#v6-13-0[Próximo Capítulo &#62;]

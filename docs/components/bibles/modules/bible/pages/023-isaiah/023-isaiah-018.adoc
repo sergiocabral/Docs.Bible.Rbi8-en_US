@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-18-0]]
+=== Isaiah, 18
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v23-18-1]]
+
+^<<v23-18-1,1>>^ Ha for the land of the whirring insects with wings,^&#42;1^ which is in the region of the rivers of E·thi·oʹpi·a!^&#42;2^
+
+[NOTE]
+====
+. Or, “the whirring of [insect] wings.”
+. “Ethiopia,” LXXVg; MSy, “Cush.”
+====
+
+[[v23-18-2]]
+
+^<<v23-18-2,2>>^ It is the one sending forth envoys by means of the sea, and by means of vessels of papyrus upon the surface of the waters, &#91;saying:&#93; “Go, YOU swift messengers, to a nation drawn out and scoured,^&#42;1^ to a people fear-inspiring everywhere, a nation of tensile strength^&#42;2^ and of treading down, whose land the rivers have washed away.”
+
+[NOTE]
+====
+. Or, “a nation long and smooth,” that is, a tall and smooth-faced people.
+. “Of elasticity,” by reading two Heb. words as one word of two syllables, as in 1QIsa; M, “of measuring line, of measuring line.”
+====
+
+[[v23-18-3]]
+
+^<<v23-18-3,3>>^ All YOU inhabitants of the productive land^&#42;1^ and YOU residents of the earth, YOU will see a sight just as when there is the raising up of a signal^&#42;2^ upon the mountains, and YOU will hear a sound just as when there is the blowing of a horn.^&#42;3^
+
+[NOTE]
+====
+. See 13:11 ftn, “Land.”
+. “Signal.” Heb., nes.
+. Or, “shofar.”
+====
+
+[[v23-18-4]]
+
+^<<v23-18-4,4>>^ For this is what Jehovah has said to me: “I will keep undisturbed and look upon my established place, like the dazzling heat along with the light, like the cloud of dew in the heat of harvest.
+
+[[v23-18-5]]
+
+^<<v23-18-5,5>>^ For before the harvest, when the blossom comes to perfection and the bloom becomes a ripening grape, one must also cut off the sprigs with pruning shears and must remove the tendrils, must lop &#91;them&#93; off.
+
+[[v23-18-6]]
+
+^<<v23-18-6,6>>^ They will be left all together for the bird of prey of the mountains and for the beast of the earth. And upon it the bird of prey will certainly pass the summer, and upon it even every beast of the earth will pass the harvesttime.
+
+[[v23-18-7]]
+
+^<<v23-18-7,7>>^ “In that time a gift will be brought to Jehovah of armies, &#91;from&#93; a people drawn out and scoured, even from a people fear-inspiring everywhere, a nation of tensile strength^&#42;1^ and of treading down, whose land the rivers have washed away, to the place of the name of Jehovah of armies, Mount Zion.”
+
+[NOTE]
+====
+. See vs 2 ftn, “Strength.”
+====
+
+'''
+
+xref:023-isaiah/023-isaiah-017.adoc#v23-17-0[&#60; Capítulo Anterior] | <<v23-18-0,Topo>> | xref:023-isaiah/023-isaiah-019.adoc#v23-19-0[Próximo Capítulo &#62;]

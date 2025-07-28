@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v19-61-0]]
+=== Psalms, 61
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director on stringed instruments. Of David._
+
+[[v19-61-1]]
+
+^<<v19-61-1,1>>^ Do hear, O God, my entreating cry.
+Do pay attention to my prayer.
+
+[[v19-61-2]]
+
+^<<v19-61-2,2>>^ From the extremity of the earth I shall cry, even to you, when my heart grows feeble.
+Onto a rock that is higher than I am may you lead me.
+
+[[v19-61-3]]
+
+^<<v19-61-3,3>>^ For you have proved to be a refuge for me,
+A strong tower in the face of the enemy.
+
+[[v19-61-4]]
+
+^<<v19-61-4,4>>^ I will be a guest in your tent for times indefinite;
+I will take refuge in the concealment of your wings. Seʹlah.
+
+[[v19-61-5]]
+
+^<<v19-61-5,5>>^ For you yourself, O God, have listened to my vows.
+You have given &#91;me&#93; the possession of those fearing your name.
+
+[[v19-61-6]]
+
+^<<v19-61-6,6>>^ Days you will add to the days of the king;
+His years will be like generation after generation.
+
+[[v19-61-7]]
+
+^<<v19-61-7,7>>^ He will dwell to time indefinite before God;
+O assign loving-kindness and trueness,^&#42;1^ that these may safeguard him.
+
+[NOTE]
+====
+. Or, “truth.”
+====
+
+[[v19-61-8]]
+
+^<<v19-61-8,8>>^ So I will make melody to your name forever,
+That I may pay my vows day after day.
+
+'''
+
+xref:019-psalm/019-psalm-060.adoc#v19-60-0[&#60; Capítulo Anterior] | <<v19-61-0,Topo>> | xref:019-psalm/019-psalm-062.adoc#v19-62-0[Próximo Capítulo &#62;]

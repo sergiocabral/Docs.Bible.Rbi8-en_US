@@ -1,0 +1,104 @@
+include::./index.adoc[]
+
+[[v19-16-0]]
+=== Psalms, 16
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A mikʹtam^&#42;1^ of David._
+
+[[v19-16-1]]
+
+^<<v19-16-1,1>>^ Keep me, O God,^&#42;1^ for I have taken refuge in you.
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+[[v19-16-2]]
+
+^<<v19-16-2,2>>^ I have said^&#42;1^ to Jehovah: “You are Jehovah;^&#42;2^ my goodness is, not for your sake,
+
+[NOTE]
+====
+. “I have said,” LXXSyVg and some Heb. mss; M, “You have said,” addressed to something fem.
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-16-3]]
+
+^<<v19-16-3,3>>^ &#91;But&#93; to the holy ones that are in the earth.
+They, even the majestic ones, are the ones in whom is all my delight.”
+
+[[v19-16-4]]
+
+^<<v19-16-4,4>>^ Pains become many to those &#91;who&#93;, when there is someone else, do hurry &#91;after him&#93;.
+I shall not pour out their drink offerings of blood,
+And I shall not carry their names upon my lips.
+
+[[v19-16-5]]
+
+^<<v19-16-5,5>>^ Jehovah is the portion of my allotted share and of my cup.^&#42;1^
+You are holding fast my lot.
+
+[NOTE]
+====
+. “Jehovah, you have appointed my share and my cup,” by a correction of M.
+====
+
+[[v19-16-6]]
+
+^<<v19-16-6,6>>^ The measuring lines themselves have fallen for me in pleasant places.
+Really, &#91;my own&#93; possession^&#42;1^ has proved agreeable to me.
+
+[NOTE]
+====
+. “My own possession,” LXXSyVg.
+====
+
+[[v19-16-7]]
+
+^<<v19-16-7,7>>^ I shall bless Jehovah, who has given me advice.
+Really, during the nights my kidneys^&#42;1^ have corrected me.
+
+[NOTE]
+====
+. Or, “my deepest emotions.” Heb., khil·yoh·thaiʹ.
+====
+
+[[v19-16-8]]
+
+^<<v19-16-8,8>>^ I have placed Jehovah in front of me constantly.
+Because &#91;he&#93; is at my right hand, I shall not be made to totter.
+
+[[v19-16-9]]
+
+^<<v19-16-9,9>>^ Therefore my heart does rejoice, and my glory^&#42;1^ is inclined to be joyful.
+Also, my own flesh will reside in security.
+
+[NOTE]
+====
+. “Tongue,” LXXVg.
+====
+
+[[v19-16-10]]
+
+^<<v19-16-10,10>>^ For you will not leave my soul^&#42;1^ in Sheʹol.^&#42;2^
+You will not allow your loyal one to see the pit.^&#42;3^
+
+[NOTE]
+====
+. “My soul.” Heb., naph·shiʹ; Gr., psy·khenʹ; Lat., aʹni·mam. See App 4A.
+. “Sheol,” MSy; Gr., haiʹden; Lat., in·ferʹno. See App 4B.
+. “Pit,” M; LXXSyVg, “corruption.”
+====
+
+[[v19-16-11]]
+
+^<<v19-16-11,11>>^ You will cause me to know the path of life.
+Rejoicing to satisfaction is with your face;
+There is pleasantness at your right hand forever.
+
+'''
+
+xref:019-psalm/019-psalm-015.adoc#v19-15-0[&#60; Capítulo Anterior] | <<v19-16-0,Topo>> | xref:019-psalm/019-psalm-017.adoc#v19-17-0[Próximo Capítulo &#62;]

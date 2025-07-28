@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-6-0]]
+=== Psalms, 6
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director on stringed instruments on the lower octave.^&#42;1^ A melody of David._
+
+[[v19-6-1]]
+
+^<<v19-6-1,1>>^ O Jehovah, do not in your anger reprove me,
+And do not in your rage correct me.
+
+[[v19-6-2]]
+
+^<<v19-6-2,2>>^ Show me favor, O Jehovah, for I am fading away.
+Heal me, O Jehovah, for my bones have been disturbed.
+
+[[v19-6-3]]
+
+^<<v19-6-3,3>>^ Yes, my own soul has been very much disturbed;
+And you, O Jehovah—how long?
+
+[[v19-6-4]]
+
+^<<v19-6-4,4>>^ Do return, O Jehovah, do rescue my soul;
+Save me for the sake of your loving-kindness.^&#42;1^
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v19-6-5]]
+
+^<<v19-6-5,5>>^ For in death there is no mention^&#42;1^ of you;
+In Sheʹol^&#42;2^ who will laud you?
+
+[NOTE]
+====
+. Or, “remembrance.”
+. “Sheol,” MSy; Gr., haiʹdei; Lat., in·ferʹno. See App 4B.
+====
+
+[[v19-6-6]]
+
+^<<v19-6-6,6>>^ I have grown weary with my sighing;
+All night long I make my couch swim;
+With my tears I make my own divan overflow.
+
+[[v19-6-7]]
+
+^<<v19-6-7,7>>^ From vexation my eye has become weak,
+It has grown old because of all those showing hostility to me.
+
+[[v19-6-8]]
+
+^<<v19-6-8,8>>^ Get away from me, all YOU practicers of what is hurtful,
+For Jehovah will certainly hear the sound of my weeping.
+
+[[v19-6-9]]
+
+^<<v19-6-9,9>>^ Jehovah will indeed hear my request for favor;
+Jehovah himself will accept my own prayer.
+
+[[v19-6-10]]
+
+^<<v19-6-10,10>>^ All my enemies will be very much ashamed and disturbed;
+They will turn back, they will be ashamed instantly.
+
+'''
+
+xref:019-psalm/019-psalm-005.adoc#v19-5-0[&#60; Capítulo Anterior] | <<v19-6-0,Topo>> | xref:019-psalm/019-psalm-007.adoc#v19-7-0[Próximo Capítulo &#62;]

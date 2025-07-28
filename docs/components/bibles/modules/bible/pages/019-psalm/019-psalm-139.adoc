@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v19-139-0]]
+=== Psalms, 139
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_For the director. Of David. A melody._
+
+[[v19-139-1]]
+
+^<<v19-139-1,1>>^ O Jehovah, you have searched through me, and you know &#91;me&#93;.
+
+[[v19-139-2]]
+
+^<<v19-139-2,2>>^ You yourself have come to know my sitting down and my rising up.
+You have considered my thought from far off.
+
+[[v19-139-3]]
+
+^<<v19-139-3,3>>^ My journeying and my lying outstretched you have measured off,
+And you have become familiar even with all my ways.
+
+[[v19-139-4]]
+
+^<<v19-139-4,4>>^ For there is not a word on my tongue,
+But, look! O Jehovah, you already know it all.
+
+[[v19-139-5]]
+
+^<<v19-139-5,5>>^ Behind and before, you have besieged me;
+And you place your hand upon me.
+
+[[v19-139-6]]
+
+^<<v19-139-6,6>>^ &#91;Such&#93; knowledge is too wonderful for me.
+It is so high up that I cannot attain to it.
+
+[[v19-139-7]]
+
+^<<v19-139-7,7>>^ Where can I go from your spirit,^&#42;1^
+And where can I run away from your face?
+
+[NOTE]
+====
+. “From your spirit.” Heb., me·ru·cheʹkha; Gr., pneuʹma·tosʹ; Lat., spiʹri·tu.
+====
+
+[[v19-139-8]]
+
+^<<v19-139-8,8>>^ If I should ascend to heaven, there you would be;
+And if I should spread out my couch in Sheʹol,^&#42;1^ look! you &#91;would be there&#93;.
+
+[NOTE]
+====
+. “Sheol.” Heb., sheʼohlʹ; Gr., haiʹden; Syr., la·shiul; Lat., in·ferʹnum. See App 4B.
+====
+
+[[v19-139-9]]
+
+^<<v19-139-9,9>>^ Were I to take the wings of the dawn,
+That I might reside in the most remote sea,
+
+[[v19-139-10]]
+
+^<<v19-139-10,10>>^ There, also, your own hand would lead me
+And your right hand would lay hold of me.
+
+[[v19-139-11]]
+
+^<<v19-139-11,11>>^ And were I to say: “Surely darkness itself will hastily seize me!”
+Then night would be light about me.
+
+[[v19-139-12]]
+
+^<<v19-139-12,12>>^ Even the darkness itself would not prove too dark for you,
+But night itself would shine just as the day does;
+The darkness might just as well be the light.^&#42;1^
+
+[NOTE]
+====
+. Lit., “like the darkness, like the light”; or, “as the darkness, so the light.”
+====
+
+[[v19-139-13]]
+
+^<<v19-139-13,13>>^ For you yourself produced my kidneys;
+You kept me screened off in the belly of my mother.
+
+[[v19-139-14]]
+
+^<<v19-139-14,14>>^ I shall laud you because in a fear-inspiring way I am wonderfully made.
+Your works are wonderful,
+As my soul is very well aware.
+
+[[v19-139-15]]
+
+^<<v19-139-15,15>>^ My bones were not hidden from you
+When I was made in secret,
+When I was woven in the lowest parts^&#42;1^ of the earth.
+
+[NOTE]
+====
+. “Lowest parts.” Compare 63:9 ftn.
+====
+
+[[v19-139-16]]
+
+^<<v19-139-16,16>>^ Your eyes saw even the embryo of me,
+And in your book all its parts were down in writing,
+As regards the days when they were formed
+And there was not yet one among them.
+
+[[v19-139-17]]
+
+^<<v19-139-17,17>>^ So, to me how precious your thoughts are!
+O God,^&#42;1^ how much does the grand sum of them amount to!
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+[[v19-139-18]]
+
+^<<v19-139-18,18>>^ Were I to try to count them, they are more than even the grains of sand.
+I have awaked,^&#42;1^ and yet I am still with you.
+
+[NOTE]
+====
+. “I have come to my end,” three Heb. mss.
+====
+
+[[v19-139-19]]
+
+^<<v19-139-19,19>>^ O that you, O God,^&#42;1^ would slay the wicked one!
+Then even the bloodguilty men^&#42;2^ will certainly depart from me,
+
+[NOTE]
+====
+. “God.” Heb., ʼElohʹah.
+. Or, “bloodthirsty men.” Lit., “men of bloods.”
+====
+
+[[v19-139-20]]
+
+^<<v19-139-20,20>>^ Who say things about you according to &#91;their&#93; idea;
+They have taken up &#91;your name&#93; in a worthless way—your adversaries.
+
+[[v19-139-21]]
+
+^<<v19-139-21,21>>^ Do I not hate those who are intensely hating you, O Jehovah,
+And do I not feel a loathing for those revolting against you?
+
+[[v19-139-22]]
+
+^<<v19-139-22,22>>^ With a complete hatred I do hate them.
+They have become to me real enemies.
+
+[[v19-139-23]]
+
+^<<v19-139-23,23>>^ Search through me, O God,^&#42;1^ and know my heart.
+Examine me, and know my disquieting thoughts,
+
+[NOTE]
+====
+. “God.” Heb., ʼEl.
+====
+
+[[v19-139-24]]
+
+^<<v19-139-24,24>>^ And see whether there is in me any painful way,
+And lead me in the way of time indefinite.
+
+'''
+
+xref:019-psalm/019-psalm-138.adoc#v19-138-0[&#60; Capítulo Anterior] | <<v19-139-0,Topo>> | xref:019-psalm/019-psalm-140.adoc#v19-140-0[Próximo Capítulo &#62;]

@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-114-0]]
+=== Psalms, 114
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v19-114-1]]
+
+^<<v19-114-1,1>>^ ^&#42;1^ When Israel went forth from Egypt,
+The house of Jacob from a people speaking unintelligibly,
+
+[NOTE]
+====
+. Appropriately, part of the six Hallel Psalms, Ps 113 and 114 (according to the School of Hillel), were sung during the Passover meal after the second cup of wine had been poured and the significance of the observance explained. Ps 115–118, which constitute the remainder of the Hallel Psalms, were sung over the fourth cup of wine. Doubtless this was done by Jesus and his disciples. See Mt 26:30.
+====
+
+[[v19-114-2]]
+
+^<<v19-114-2,2>>^ Judah became his holy place,
+Israel his grand dominion.
+
+[[v19-114-3]]
+
+^<<v19-114-3,3>>^ The sea itself saw and took to flight;
+As for the Jordan, it began to turn back.
+
+[[v19-114-4]]
+
+^<<v19-114-4,4>>^ The mountains themselves skipped about like rams,
+The hills like lambs.^&#42;1^
+
+[NOTE]
+====
+. Lit., “sons of sheep; sons of the flock.”
+====
+
+[[v19-114-5]]
+
+^<<v19-114-5,5>>^ What was the matter with you, O sea, that you took to flight,
+O Jordan, that you began to turn back?
+
+[[v19-114-6]]
+
+^<<v19-114-6,6>>^ O mountains, that YOU went skipping about like rams;
+O hills, like lambs?
+
+[[v19-114-7]]
+
+^<<v19-114-7,7>>^ Because of the Lord^&#42;1^ be in severe pains, O earth,
+Because of the God^&#42;2^ of Jacob,
+
+[NOTE]
+====
+. “The Lord.” Heb., ʼA·dhohnʹ.
+. “God of.” Heb., ʼElohʹah.
+====
+
+[[v19-114-8]]
+
+^<<v19-114-8,8>>^ Who is changing the rock into a reedy pool of water,
+A flinty rock into a spring of water.
+
+'''
+
+xref:019-psalm/019-psalm-113.adoc#v19-113-0[&#60; Capítulo Anterior] | <<v19-114-0,Topo>> | xref:019-psalm/019-psalm-115.adoc#v19-115-0[Próximo Capítulo &#62;]

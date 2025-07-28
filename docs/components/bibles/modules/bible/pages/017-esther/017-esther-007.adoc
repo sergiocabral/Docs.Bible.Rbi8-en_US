@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v17-7-0]]
+=== Esther, 7
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v17-7-1]]
+
+^<<v17-7-1,1>>^ Then the king and Haʹman came in to banquet with Esther the queen.
+
+[[v17-7-2]]
+
+^<<v17-7-2,2>>^ The king now said to Esther also on the second day during the banquet of wine: “What is your petition, O Esther the queen? Let it even be given to you. And what is your request? To the half of the kingship—let it even be done!”
+
+[[v17-7-3]]
+
+^<<v17-7-3,3>>^ At this Esther the queen answered and said: “If I have found favor in your eyes, O king, and if to the king it does seem good, let there be given me my own soul^&#42;1^ at my petition and my people at my request.
+
+[NOTE]
+====
+. “My own soul (life).” Heb. and Syr., naph·shiʹ; Lat., aʹni·mam meʹam.
+====
+
+[[v17-7-4]]
+
+^<<v17-7-4,4>>^ For we have been sold, I and my people, to be annihilated, killed and destroyed. Now if we had been sold for mere men slaves and for mere maidservants, I should have kept silent. But the distress is not appropriate when with damage to the king.”^&#42;1^
+
+[NOTE]
+====
+. Or, “But the distress is not to be compared with the damage to the king.” Vg, “But now our enemy is one whose cruelty redounds against the king.”
+====
+
+[[v17-7-5]]
+
+^<<v17-7-5,5>>^ King A·has·u·eʹrus now said, yes, he went on to say to Esther the queen: “Who is this, and just where is the one^&#42;1^ who has emboldened himself^&#42;2^ to do that way?”
+
+[NOTE]
+====
+. “This, and just where is the one?” This appears to be an acrostic of the divine pronouncement “I shall prove to be.” The acrostic is formed by the final letters אהיה (EHYH), and some Heb. mss point this out by using majuscule letters, as follows: הז־יוא הז אהו. See Ex 3:14 ftn.
+. Lit., “who has filled him as to his heart.” Compare Ac 5:3 ftn.
+====
+
+[[v17-7-6]]
+
+^<<v17-7-6,6>>^ Then Esther said: “The man, the adversary and enemy, is this bad Haʹman.”
+As for Haʹman, he became terrified because of the king and the queen.
+
+[[v17-7-7]]
+
+^<<v17-7-7,7>>^ As for the king, he rose up in his rage from the banquet of wine &#91;to go&#93; to the garden of the palace; and Haʹman himself stood up to make request for his soul^&#42;1^ from Esther the queen, for he saw that bad had been determined against him^&#42;2^ by the king.
+
+[NOTE]
+====
+. “His soul (life).” Heb., naph·shohʹ; Lat., aʹni·ma suʹa.
+. “That bad had been determined against him.” In this acrostic kI-khol·thaHʹ ʼe·laVʹ ha·ra·ʽaHʹ (Heb.), the I corresponds to Y and the V corresponds to W. This appears to be the fourth acrostic of the divine name, יהוה (YHWH), in Esther. It is formed by the final letters of the four words, read from right to left in Heb., as follows: ההרע ואלי הכלת־יכ.
+====
+
+[[v17-7-8]]
+
+^<<v17-7-8,8>>^ And the king himself returned from the garden of the palace to the house of the wine banquet; and Haʹman was fallen upon the couch on which Esther was. Consequently the king said: “Is there also to be a raping of the queen, with me in the house?” The word itself went out of the king’s mouth, and Haʹman’s face they covered.
+
+[[v17-7-9]]
+
+^<<v17-7-9,9>>^ Har·boʹna, one of the court officials before the king, now said: “Also, there is the stake that Haʹman made for Morʹde·cai, who had spoken good concerning the king, standing in Haʹman’s house—fifty cubits^&#42;1^ high.” At that the king said: “YOU men, hang him on it.”
+
+[NOTE]
+====
+. See 5:14 ftn, “Cubits.”
+====
+
+[[v17-7-10]]
+
+^<<v17-7-10,10>>^ And they proceeded to hang Haʹman on the stake that he had prepared for Morʹde·cai; and the king’s rage itself subsided.
+
+'''
+
+xref:017-esther/017-esther-006.adoc#v17-6-0[&#60; Capítulo Anterior] | <<v17-7-0,Topo>> | xref:017-esther/017-esther-008.adoc#v17-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,152 @@
+include::./index.adoc[]
+
+[[v9-22-0]]
+=== The First of Samuel, 22
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-22-1]]
+
+^<<v9-22-1,1>>^ So David proceeded to go from there and escape to the cave of A·dulʹlam; and his brothers and the entire house of his father got to hear of it and made their way down there to him.
+
+[[v9-22-2]]
+
+^<<v9-22-2,2>>^ And all men in distress and all men who had a creditor and all men bitter in soul began to collect together to him, and he came to be a chief^&#42;1^ over them; and there came to be with him about four hundred men.
+
+[NOTE]
+====
+. Lit., “as a prince.” Heb., lesarʹ. See Ge 40:2 ftn.
+====
+
+[[v9-22-3]]
+
+^<<v9-22-3,3>>^ Later David went from there to Mizʹpeh in Moʹab and said to the king of Moʹab: “Let my father and my mother, please, dwell with YOU people^&#42;1^ until I know what God will do to me.”
+
+[NOTE]
+====
+. Lit., “please, come out [to be] with you people.”
+====
+
+[[v9-22-4]]
+
+^<<v9-22-4,4>>^ Accordingly he settled them before the king of Moʹab, and they continued dwelling with him all the days that David happened to be in the inaccessible place.^&#42;1^
+
+[NOTE]
+====
+. Or, “the stronghold.” Sy, “Mizpah.”
+====
+
+[[v9-22-5]]
+
+^<<v9-22-5,5>>^ In time Gad the prophet said to David: “You must not keep dwelling in the inaccessible place. Go away, and you must come yourself into the land of Judah.” Hence David went away and came into the forest of Heʹreth.
+
+[[v9-22-6]]
+
+^<<v9-22-6,6>>^ And Saul got to hear that David and the men that were with him had been discovered, while Saul was sitting in Gibʹe·ah under the tamarisk tree on the high place^&#42;1^ with his spear in his hand and all his servants stationed about him.
+
+[NOTE]
+====
+. “On the high place.” Or, “in Ramah.” Heb., ba·ra·mahʹ; LXXB,L, “in Bama.”
+====
+
+[[v9-22-7]]
+
+^<<v9-22-7,7>>^ Then Saul said to his servants stationed about him: “Listen, please, YOU Benʹja·min·ites. Will the son of Jesʹse also give to all of YOU fields and vineyards? Will he appoint all of YOU chiefs of thousands and chiefs of hundreds?
+
+[[v9-22-8]]
+
+^<<v9-22-8,8>>^ For YOU have conspired, all of YOU, against me; and there is no one disclosing it to my ear when my own son concludes &#91;a covenant&#93; with the son of Jesʹse, and there is no one of YOU having sympathy for me^&#42;1^ and disclosing to my ear that my own son has raised up my own servant against me as a lier in ambush^&#42;2^ the way it is this day.”
+
+[NOTE]
+====
+. “Having sympathy for me.” Lit., “feeling sorry for me.”
+. “Lier in ambush,” MVg; LXX, “enemy.”
+====
+
+[[v9-22-9]]
+
+^<<v9-22-9,9>>^ At this Doʹeg the Eʹdom·ite, being stationed as he was over^&#42;1^ the servants of Saul, answered and said: “I saw the son of Jesʹse come to Nob to A·himʹe·lech the son of A·hiʹtub.
+
+[NOTE]
+====
+. Or, “alongside.”
+====
+
+[[v9-22-10]]
+
+^<<v9-22-10,10>>^ And he proceeded to inquire of Jehovah^&#42;1^ for him; and provisions he gave him, and the sword of Go·liʹath the Phi·lisʹtine he gave him.”
+
+[NOTE]
+====
+. “Jehovah,” MVg; LXXSy, “God.”
+====
+
+[[v9-22-11]]
+
+^<<v9-22-11,11>>^ At once the king sent to call A·himʹe·lech the son of A·hiʹtub the priest and all the house of his father, the priests that were in Nob. So all of them came to the king.
+
+[[v9-22-12]]
+
+^<<v9-22-12,12>>^ Saul now said: “Listen, please, you son of A·hiʹtub!” to which he said: “Here I am, my lord.”
+
+[[v9-22-13]]
+
+^<<v9-22-13,13>>^ And Saul went on to say to him: “Why have YOU men conspired against me, you and the son of Jesʹse, by your giving him bread and a sword, and there being an inquiry^&#42;1^ of God for him, to rise up against me as a lier in ambush the way it is this day?”
+
+[NOTE]
+====
+. “There being an inquiry.” In Heb. this is a verb in the infinitive absolute, indefinite as to time and impersonal.
+====
+
+[[v9-22-14]]
+
+^<<v9-22-14,14>>^ At this A·himʹe·lech answered the king and said: “And who among all your servants is like David, faithful, and the son-in-law of the king and a chief over your bodyguard and honored in your house?
+
+[[v9-22-15]]
+
+^<<v9-22-15,15>>^ Is it today that I have started to inquire of God for him? It is unthinkable on my part! Do not let the king lay anything against his servant &#91;and&#93; against the entire house of my father, for in all this your servant did not know a thing small or great.”
+
+[[v9-22-16]]
+
+^<<v9-22-16,16>>^ But the king said: “You will positively die, A·himʹe·lech, you with all the house of your father.”
+
+[[v9-22-17]]
+
+^<<v9-22-17,17>>^ With that the king said to the runners stationed about him: “Turn and put to death the priests of Jehovah, because their hand also is with David and because they knew that he was a runaway and they did not disclose it to my ear!” And the servants of the king did not want to thrust out their hand to assault the priests of Jehovah.
+
+[[v9-22-18]]
+
+^<<v9-22-18,18>>^ Finally the king said to Doʹeg: “You turn and assault the priests!” Immediately Doʹeg the Eʹdom·ite turned and himself assaulted the priests and put to death on that day eighty-five men bearing an ephʹod of linen.^&#42;1^
+
+[NOTE]
+====
+. “Of linen,” MSyVg; LXX omits.
+====
+
+[[v9-22-19]]
+
+^<<v9-22-19,19>>^ Even Nob the city of the priests he struck with the edge of the sword, man as well as woman, child as well as suckling and bull and ass and sheep with the edge of the sword.
+
+[[v9-22-20]]
+
+^<<v9-22-20,20>>^ However, one son of A·himʹe·lech the son of A·hiʹtub, whose name was A·biʹa·thar, made his escape and went running away to follow David.
+
+[[v9-22-21]]
+
+^<<v9-22-21,21>>^ Then A·biʹa·thar told David: “Saul has killed the priests of Jehovah.”
+
+[[v9-22-22]]
+
+^<<v9-22-22,22>>^ At this David said to A·biʹa·thar: “I well knew on that day, because Doʹeg the Eʹdom·ite was there, that he would without fail tell Saul. I personally have wronged^&#42;1^ every soul of the house of your father.
+
+[NOTE]
+====
+. Lit., “I have turned against,” M; SyVg, “I am guilty respecting”; LXX, “I am responsible for.”
+====
+
+[[v9-22-23]]
+
+^<<v9-22-23,23>>^ Just dwell with me. Do not be afraid, for whoever looks for my soul looks for your soul, for you are one needing protection with me.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-021.adoc#v9-21-0[&#60; Capítulo Anterior] | <<v9-22-0,Topo>> | xref:009-1-samuel/009-1-samuel-023.adoc#v9-23-0[Próximo Capítulo &#62;]

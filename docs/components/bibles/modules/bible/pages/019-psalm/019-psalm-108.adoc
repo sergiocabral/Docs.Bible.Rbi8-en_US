@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v19-108-0]]
+=== Psalms, 108
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A song. A melody of David._
+
+[[v19-108-1]]
+
+^<<v19-108-1,1>>^ My heart is steadfast, O God.
+I will sing and make melody,
+Even my glory.
+
+[[v19-108-2]]
+
+^<<v19-108-2,2>>^ Do awake, O stringed instrument; you too, O harp.
+I will awaken the dawn.
+
+[[v19-108-3]]
+
+^<<v19-108-3,3>>^ I shall laud you among the peoples, O Jehovah;
+And I shall make melody to you among the national groups.
+
+[[v19-108-4]]
+
+^<<v19-108-4,4>>^ For your loving-kindness^&#42;1^ is great up to the heavens,
+And your trueness up to the skies.
+
+[NOTE]
+====
+. Or, “loyal love.”
+====
+
+[[v19-108-5]]
+
+^<<v19-108-5,5>>^ O be exalted above the heavens, O God;
+And let your glory be above all the earth.
+
+[[v19-108-6]]
+
+^<<v19-108-6,6>>^ In order that your beloved ones may be rescued,
+O do save with your right hand and answer me.
+
+[[v19-108-7]]
+
+^<<v19-108-7,7>>^ God himself has spoken in his holiness:
+“I will exult, I will give out Sheʹchem as a portion;
+And the low plain of Sucʹcoth I shall measure off.
+
+[[v19-108-8]]
+
+^<<v19-108-8,8>>^ Gilʹe·ad belongs to me; Ma·nasʹseh belongs to me;
+And Eʹphra·im is the fortress of my head one;
+Judah is my commander’s staff.
+
+[[v19-108-9]]
+
+^<<v19-108-9,9>>^ Moʹab is my washing pot.
+Over Eʹdom I shall throw my sandal.
+Over Phi·lisʹti·a I shall shout in triumph.”^&#42;1^
+
+[NOTE]
+====
+. See 60:8 and ftn.
+====
+
+[[v19-108-10]]
+
+^<<v19-108-10,10>>^ Who will bring me to the fortified city?
+Who will actually lead me as far as Eʹdom?
+
+[[v19-108-11]]
+
+^<<v19-108-11,11>>^ Is it not &#91;you&#93;, O God, who have cast us off
+And who do not go forth with our armies as God?
+
+[[v19-108-12]]
+
+^<<v19-108-12,12>>^ Do give us assistance from distress,
+As salvation by earthling man^&#42;1^ is worthless.
+
+[NOTE]
+====
+. “Earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-108-13]]
+
+^<<v19-108-13,13>>^ By God we shall gain vital energy,
+And he himself will tread down our adversaries.
+
+'''
+
+xref:019-psalm/019-psalm-107.adoc#v19-107-0[&#60; Capítulo Anterior] | <<v19-108-0,Topo>> | xref:019-psalm/019-psalm-109.adoc#v19-109-0[Próximo Capítulo &#62;]

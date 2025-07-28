@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-14-0]]
+=== Psalms, 14
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. Of David._
+
+[[v19-14-1]]
+
+^<<v19-14-1,1>>^ The senseless one has said in his heart:
+“There is no Jehovah.”^&#42;1^
+They have acted ruinously, they have acted detestably in &#91;their&#93; dealing.
+There is no one doing good.^&#42;2^
+
+[NOTE]
+====
+. One of eight scribal changes from YHWH to ʼElo·himʹ. See App 1B.
+. LXX adds, “there is not even one.”
+====
+
+[[v19-14-2]]
+
+^<<v19-14-2,2>>^ As for Jehovah, he has looked down from heaven itself upon the sons of men,
+To see whether there exists anyone having insight, anyone seeking Jehovah.^&#42;1^
+
+[NOTE]
+====
+. One of eight scribal changes from YHWH to ʼElo·himʹ; T, “Jehovah.” See App 1B.
+====
+
+[[v19-14-3]]
+
+^<<v19-14-3,3>>^ They have all turned aside, they are &#91;all&#93; alike corrupt;
+There is no one doing good,
+Not even one.^&#42;1^
+
+[NOTE]
+====
+. LXXVg add the words found in Ro 3:13-18: “Their throat is an opened grave, they have used deceit with their tongues. Poison of asps is behind their lips. And their mouth is full of cursing and bitter expression. Their feet are speedy to shed blood. Ruin and misery are in their ways, and they have not known the way of peace. There is no fear of God before their eyes.”
+====
+
+[[v19-14-4]]
+
+^<<v19-14-4,4>>^ Have none of the practicers of what is hurtful got knowledge,
+Eating up my people as they have eaten bread?
+They have not called even upon Jehovah.
+
+[[v19-14-5]]
+
+^<<v19-14-5,5>>^ There they were filled with a great dread,^&#42;1^
+For Jehovah^&#42;2^ is among the generation of the righteous one.
+
+[NOTE]
+====
+. Lit., “they dreaded a dread.”
+. One of eight scribal changes from YHWH to ʼElo·himʹ; TVgc, “Jehovah.” See App 1B.
+====
+
+[[v19-14-6]]
+
+^<<v19-14-6,6>>^ The counsel of the afflicted one YOU people would put to shame,
+Because Jehovah is his refuge.
+
+[[v19-14-7]]
+
+^<<v19-14-7,7>>^ O that out of Zion there were the salvation of Israel!
+When Jehovah gathers back the captive ones of his people,
+Let Jacob be joyful, let Israel rejoice.
+
+'''
+
+xref:019-psalm/019-psalm-013.adoc#v19-13-0[&#60; Capítulo Anterior] | <<v19-14-0,Topo>> | xref:019-psalm/019-psalm-015.adoc#v19-15-0[Próximo Capítulo &#62;]

@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v20-20-0]]
+=== Proverbs, 20
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v20-20-1]]
+
+^<<v20-20-1,1>>^ Wine is a ridiculer, intoxicating liquor is boisterous, and everyone going astray by it is not wise.
+
+[[v20-20-2]]
+
+^<<v20-20-2,2>>^ The frightfulness of a king is a growling like that of a maned young lion. Anyone drawing his fury against himself is sinning against his own soul.
+
+[[v20-20-3]]
+
+^<<v20-20-3,3>>^ It is a glory for a man to desist from disputing, but everyone foolish will burst out &#91;in it&#93;.
+
+[[v20-20-4]]
+
+^<<v20-20-4,4>>^ Because of winter the lazy one will not plow; he will be begging in reaping time, but there will be nothing.
+
+[[v20-20-5]]
+
+^<<v20-20-5,5>>^ Counsel in the heart of a man is as deep waters, but the man of discernment is one that will draw it up.
+
+[[v20-20-6]]
+
+^<<v20-20-6,6>>^ A multitude of men^&#42;1^ will proclaim each one his own loving-kindness,^&#42;2^ but a faithful man^&#42;3^ who can find?
+
+[NOTE]
+====
+. “A multitude of men.” Heb., rov-ʼa·dhamʹ.
+. Or, “loyal love.”
+. Lit., “but a man of faithfulnesses.” Heb., weʼishʹ ʼemu·nimʹ.
+====
+
+[[v20-20-7]]
+
+^<<v20-20-7,7>>^ The righteous is walking in his integrity. Happy are his sons after him.
+
+[[v20-20-8]]
+
+^<<v20-20-8,8>>^ The king is sitting upon the throne of judgment,^&#42;1^ scattering all badness with his own eyes.
+
+[NOTE]
+====
+. “Judgment.” Heb., dhin; Lat., iu·diʹci·i.
+====
+
+[[v20-20-9]]
+
+^<<v20-20-9,9>>^ Who can say: “I have cleansed my heart; I have become pure from my sin”?
+
+[[v20-20-10]]
+
+^<<v20-20-10,10>>^ Two sorts of weights and two sorts of eʹphah measures—they are both of them together something detestable to Jehovah.
+
+[[v20-20-11]]
+
+^<<v20-20-11,11>>^ Even by his practices a boy makes himself recognized as to whether his activity is pure and upright.
+
+[[v20-20-12]]
+
+^<<v20-20-12,12>>^ The hearing ear and the seeing eye—Jehovah himself has made even both of them.
+
+[[v20-20-13]]
+
+^<<v20-20-13,13>>^ Do not love sleep, that you may not come to poverty. Open your eyes; be satisfied with bread.
+
+[[v20-20-14]]
+
+^<<v20-20-14,14>>^ “It is bad, bad!” says the buyer, and he is going his way. Then it is that he boasts about himself.
+
+[[v20-20-15]]
+
+^<<v20-20-15,15>>^ There exists gold, also an abundance of corals; but the lips of knowledge are precious vessels.
+
+[[v20-20-16]]
+
+^<<v20-20-16,16>>^ Take one’s garment, in case one has gone surety for a stranger; and in the instance of a foreign woman, seize from him a pledge.
+
+[[v20-20-17]]
+
+^<<v20-20-17,17>>^ Bread &#91;gained by&#93; falsehood is pleasurable to a man, but afterward his mouth will be filled with gravel.
+
+[[v20-20-18]]
+
+^<<v20-20-18,18>>^ By counsel plans themselves are firmly established, and by skillful direction carry on your war.
+
+[[v20-20-19]]
+
+^<<v20-20-19,19>>^ He that is going about as a slanderer is uncovering confidential talk; and with one that is enticed^&#42;1^ with his lips you must have no fellowship.
+
+[NOTE]
+====
+. “Is wide open,” by another derivation.
+====
+
+[[v20-20-20]]
+
+^<<v20-20-20,20>>^ As for anyone calling down evil upon his father and his mother, his lamp will be extinguished at the approach of darkness.
+
+[[v20-20-21]]
+
+^<<v20-20-21,21>>^ An inheritance is being got by greed^&#42;1^ at first, but its own future will not be blessed.
+
+[NOTE]
+====
+. “Got by greed,” M; TSyVg, “got hastily.”
+====
+
+[[v20-20-22]]
+
+^<<v20-20-22,22>>^ Do not say: “I will pay back evil!” Hope in Jehovah, and he will save you.
+
+[[v20-20-23]]
+
+^<<v20-20-23,23>>^ Two sorts of weights are something detestable to Jehovah, and a cheating pair of scales is not good.
+
+[[v20-20-24]]
+
+^<<v20-20-24,24>>^ From Jehovah are the steppings of an able-bodied man. As regards earthling man, how can he discern his way?
+
+[[v20-20-25]]
+
+^<<v20-20-25,25>>^ It is a snare when earthling man has rashly cried out, “Holy!” and after vows &#91;he is disposed&#93; to make examination.
+
+[[v20-20-26]]
+
+^<<v20-20-26,26>>^ A wise king is scattering wicked people, and he turns around upon them a wheel.^&#42;1^
+
+[NOTE]
+====
+. “A wheel,” M; by a slight correction, “their own hurtfulness.”
+====
+
+[[v20-20-27]]
+
+^<<v20-20-27,27>>^ The breath^&#42;1^ of earthling man is the lamp of Jehovah, carefully searching all the innermost parts of the belly.
+
+[NOTE]
+====
+. “The breath of.” Heb., nish·mathʹ, as in Ge 2:7.
+====
+
+[[v20-20-28]]
+
+^<<v20-20-28,28>>^ Loving-kindness and trueness^&#42;1^—they safeguard the king; and by loving-kindness he has sustained his throne.
+
+[NOTE]
+====
+. Or, “and truth.” Heb., we·ʼemethʹ.
+====
+
+[[v20-20-29]]
+
+^<<v20-20-29,29>>^ The beauty of young men is their power, and the splendor of old men is their gray-headedness.
+
+[[v20-20-30]]
+
+^<<v20-20-30,30>>^ Bruising wounds are what scours away the bad; and strokes, the innermost parts of the belly.
+
+'''
+
+xref:020-proverbs/020-proverbs-019.adoc#v20-19-0[&#60; Capítulo Anterior] | <<v20-20-0,Topo>> | xref:020-proverbs/020-proverbs-021.adoc#v20-21-0[Próximo Capítulo &#62;]

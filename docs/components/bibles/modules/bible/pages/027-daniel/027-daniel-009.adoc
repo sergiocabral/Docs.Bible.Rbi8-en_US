@@ -1,0 +1,252 @@
+include::./index.adoc[]
+
+[[v27-9-0]]
+=== Daniel, 9
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v27-9-1]]
+
+^<<v27-9-1,1>>^ In the first year of Da·riʹus the son of A·has·u·eʹrus^&#42;1^ of the seed of the Medes, who had been made king over the kingdom of the Chal·deʹans;
+
+[NOTE]
+====
+. “Ahasuerus,” MLXXBagsterSyVg; LXX, “Xerxes.”
+====
+
+[[v27-9-2]]
+
+^<<v27-9-2,2>>^ in the first year of his reigning I myself, Daniel, discerned by the books the number of the years concerning which the word of Jehovah^&#42;1^ had occurred to Jeremiah the prophet, for fulfilling the devastations of Jerusalem, &#91;namely,&#93; seventy years.
+
+[NOTE]
+====
+. “Jehovah.” Heb., Yehwahʹ; Gr., tei gei, “to the earth.” In a brief communication published in Journal of Biblical Literature, Vol. 40, 1921, p. 86, James A. Montgomery wrote “that τῃ γῃ [tei gei] is a survival of the presence of the Hebrew Tetragrammaton, i. e. ΤΗΓΗ = ΓΙΓΙ, the patristic tradition for the transliteration of יהוה. The variation has been obtained probably by a reallocation of the upright lines . . . . In the form ΤΗΓΗ the transliteration made some kind of sense and so has been preserved.”
+====
+
+[[v27-9-3]]
+
+^<<v27-9-3,3>>^ And I proceeded to set my face to Jehovah^&#42;1^ the &#91;true&#93; God,^&#42;2^ in order to seek &#91;him&#93; with prayer and with entreaties, with fasting and sackcloth and ashes.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+. “The [true] God.” Heb., ha·ʼElo·himʹ, the definite article ha, “the,” preceding ʼElo·himʹ for emphasis; Gr., The·onʹ; Lat., Deʹum. See App 1F.
+====
+
+[[v27-9-4]]
+
+^<<v27-9-4,4>>^ And I began to pray to Jehovah my God and to make confession and to say:
+“Ah Jehovah^&#42;1^ the &#91;true&#93; God,^&#42;2^ the great One and the fear-inspiring One, keeping the covenant and the loving-kindness^&#42;3^ to those loving him and to those keeping his commandments,
+
+[NOTE]
+====
+. See vs 3 ftn, “Jehovah.”
+. “The [true] God.” Heb., ha·ʼElʹ; Gr., ho The·osʹ; Lat., Deʹus. See App 1G.
+. Or, “and the loyal love.” Heb., weha·cheʹsedh.
+====
+
+[[v27-9-5]]
+
+^<<v27-9-5,5>>^ we have sinned and done wrong and acted wickedly and rebelled; and there has been a turning aside from your commandments and from your judicial decisions.
+
+[[v27-9-6]]
+
+^<<v27-9-6,6>>^ And we have not listened to your servants the prophets, who have spoken in your name to our kings, our princes and our forefathers and to all the people of the land.^&#42;1^
+
+[NOTE]
+====
+. See Eze 7:27 ftn.
+====
+
+[[v27-9-7]]
+
+^<<v27-9-7,7>>^ To you, O Jehovah,^&#42;1^ there belongs the righteousness, but to us the shame of face as at this day, to the men^&#42;2^ of Judah and to the inhabitants of Jerusalem and to all those of Israel, those nearby and those far away in all the lands to which you dispersed them because of their unfaithfulness with which they acted against you.
+
+[NOTE]
+====
+. See vs 3 ftn, “Jehovah.”
+. Or, “to each one.” Heb., leʼishʹ.
+====
+
+[[v27-9-8]]
+
+^<<v27-9-8,8>>^ “O Jehovah,^&#42;1^ to us belongs the shame of face, to our kings, to our princes and to our forefathers, because we have sinned against you.
+
+[NOTE]
+====
+. “Jehovah,” Leningrad B 19A.
+====
+
+[[v27-9-9]]
+
+^<<v27-9-9,9>>^ To Jehovah^&#42;1^ our God^&#42;2^ belong the mercies and the acts of forgiveness, for we have rebelled against him.
+
+[NOTE]
+====
+. See vs 3 ftn, “Jehovah.”
+. “Our God.” Heb., ʼElo·hehʹnu, pl.
+====
+
+[[v27-9-10]]
+
+^<<v27-9-10,10>>^ And we have not obeyed^&#42;1^ the voice of Jehovah our God by walking in his laws that he set before us by the hand of his servants the prophets.
+
+[NOTE]
+====
+. Or, “listened to.”
+====
+
+[[v27-9-11]]
+
+^<<v27-9-11,11>>^ And all those of Israel have overstepped your law, and there has been a turning aside by not obeying your voice, so that you poured out upon us the curse and the sworn oath that is written in the law of Moses the servant of the &#91;true&#93; God, for we have sinned against Him.^&#42;1^
+
+[NOTE]
+====
+. “Him,” MLXXSyVg; many Heb. mss, “you.”
+====
+
+[[v27-9-12]]
+
+^<<v27-9-12,12>>^ And he proceeded to carry out his words that he had spoken against us and against our judges who judged us, by bringing upon us great calamity, such as was not done under the whole heavens as what has been done in Jerusalem.
+
+[[v27-9-13]]
+
+^<<v27-9-13,13>>^ Just as it is written in the law of Moses, all this calamity—it has come upon us, and we have not softened the face of Jehovah our God^&#42;1^ by turning back from our error and by showing insight into your trueness.
+
+[NOTE]
+====
+. See vs 9 ftn, “God.”
+====
+
+[[v27-9-14]]
+
+^<<v27-9-14,14>>^ “And Jehovah kept alert to the calamity and finally brought it upon us, for Jehovah our God is righteous in all his works that he has done; and we have not obeyed^&#42;1^ his voice.
+
+[NOTE]
+====
+. Or, “listened to.”
+====
+
+[[v27-9-15]]
+
+^<<v27-9-15,15>>^ “And now, O Jehovah^&#42;1^ our God, you who brought your people out from the land of Egypt by a strong hand and proceeded to make a name for yourself as at this day, we have sinned, we have acted wickedly.
+
+[NOTE]
+====
+. See vs 3 ftn, “Jehovah.”
+====
+
+[[v27-9-16]]
+
+^<<v27-9-16,16>>^ O Jehovah,^&#42;1^ according to all your acts of righteousness, please, may your anger and your rage turn back from your city Jerusalem, your holy mountain; for, because of our sins and because of the errors of our forefathers, Jerusalem and your people are an object of reproach to all those round about us.
+
+[NOTE]
+====
+. See vs 3 ftn, “Jehovah.”
+====
+
+[[v27-9-17]]
+
+^<<v27-9-17,17>>^ And now listen, O our God,^&#42;1^ to the prayer of your servant and to his entreaties, and cause your face to shine upon your sanctuary that is desolated, for the sake of Jehovah.^&#42;2^
+
+[NOTE]
+====
+. See vs 9 ftn, “God.”
+. See vs 3 ftn, “Jehovah.”
+====
+
+[[v27-9-18]]
+
+^<<v27-9-18,18>>^ Incline your ear, O my God, and hear. Do open your eyes and see our desolated conditions and the city that has been called by your name;^&#42;1^ for not according to our righteous acts are we letting our entreaties fall before you, but according to your many mercies.
+
+[NOTE]
+====
+. Lit., “upon which your name has been called.”
+====
+
+[[v27-9-19]]
+
+^<<v27-9-19,19>>^ O Jehovah,^&#42;1^ do hear. O Jehovah,^&#42;2^ do forgive. O Jehovah,^&#42;3^ do pay attention and act. Do not delay, for your own sake, O my God, for your own name has been called upon your city and upon your people.”
+
+[NOTE]
+====
+. See vs 3 ftn, “Jehovah.”
+. See vs 3 ftn, “Jehovah.”
+. See vs 3 ftn, “Jehovah.”
+====
+
+[[v27-9-20]]
+
+^<<v27-9-20,20>>^ While I was yet speaking and praying and confessing my sin and the sin of my people Israel and letting my request for favor fall before Jehovah my God concerning the holy mountain of my God,
+
+[[v27-9-21]]
+
+^<<v27-9-21,21>>^ and &#91;while&#93; I was yet speaking in the prayer, why, the man^&#42;1^ Gaʹbri·el,^&#42;2^ whom I had seen in the vision at the start, having been made weary with tiredness,^&#42;3^ was arriving by me at the time of the evening gift offering.
+
+[NOTE]
+====
+. “Why, the man.” Heb., weha·ʼishʹ; Gr., kai i·douʹ ho a·nerʹ; Lat., ecʹce vir.
+. See 8:16 ftn, “Gabriel.”
+. According to M; LXX, “being borne along speedily”; Vg, “flying speedily.”
+====
+
+[[v27-9-22]]
+
+^<<v27-9-22,22>>^ And he proceeded to impart understanding and speak with me and say:
+“O Daniel, now I have come forth to make you have insight with understanding.
+
+[[v27-9-23]]
+
+^<<v27-9-23,23>>^ At the start of your entreaties a word went forth, and I myself have come to make report, because you are someone very desirable. So give consideration to the matter, and have understanding in the thing seen.
+
+[[v27-9-24]]
+
+^<<v27-9-24,24>>^ “There are seventy weeks^&#42;1^ that have been determined^&#42;2^ upon your people and upon your holy city, in order to terminate the transgression, and to finish off sin, and to make atonement^&#42;3^ for error, and to bring in righteousness for times indefinite, and to imprint a seal upon^&#42;4^ vision and prophet,^&#42;5^ and to anoint the Holy of Holies.^&#42;6^
+
+[NOTE]
+====
+. “Seventy weeks.” Heb., sha·vu·ʽimʹ shiv·ʽimʹ; that is, 70 weeks of years totaling 490 years. “Week of years” is mentioned in the Jewish Mishnah in Baba Metzia 9,x and in Sanhedrin 5,i. See H. Danby’s English translation of the Mishnah, 1950 ed., pp. 363, 388. Compare Le 25:8 ftns.
+. Or, “have been decided (decreed).” Lit., “have been severed (cut off).” Heb., nech·takhʹ.
+. Or, “and to make propitiation.” Heb., u·lekhap·perʹ.
+. Or, “and to confirm”; or, “and to give authority to.” Lit., “and to seal.” Heb., welach·tomʹ.
+. “Prophet,” that is, the prophecy.
+. Or, “the Most Holy.” Heb., Qoʹdhesh Qo·dha·shimʹ. Compare Nu 18:10; 1Ki (6:16; 7:50; 8:6).
+====
+
+[[v27-9-25]]
+
+^<<v27-9-25,25>>^ And you should know and have the insight &#91;that&#93; from the going forth of &#91;the&#93; word to restore and to rebuild Jerusalem until Mes·siʹah^&#42;1^ &#91;the&#93; Leader, there will be seven weeks, also sixty-two weeks. She will return and be actually rebuilt, with a public square and moat, but in the straits of the times.
+
+[NOTE]
+====
+. Or, “Anointed One.” Heb., Ma·shiʹach; LXXBagster(Gr.), Khri·stouʹ; Syr., Meshi·chaʼ, “the Messiah”; Lat., Chriʹstum.
+====
+
+[[v27-9-26]]
+
+^<<v27-9-26,26>>^ “And after the sixty-two weeks Mes·siʹah^&#42;1^ will be cut off, with nothing^&#42;2^ for himself.
+“And the city and the holy place the people of a leader that is coming will bring to their ruin. And the end of it^&#42;3^ will be by the flood. And until &#91;the&#93; end there will be war; what is decided upon is desolations.
+
+[NOTE]
+====
+. See vs 25 ftn.
+. Or, “no one.”
+. Or, “him,” masc.; not referring to the “city,” fem.
+====
+
+[[v27-9-27]]
+
+^<<v27-9-27,27>>^ “And he must keep &#91;the&#93; covenant in force^&#42;1^ for the many^&#42;2^ for one week; and at the half of the week he will cause sacrifice and gift offering to cease.
+“And upon the wing^&#42;3^ of disgusting things there will be the one causing desolation; and until an extermination, the very thing decided upon will go pouring out^&#42;4^ also upon the one lying desolate.”^&#42;5^
+
+[NOTE]
+====
+. Lit., “And must make mighty a covenant.”
+. Or, “for the grand ones.” Heb., la·rab·bimʹ; LXXBagster(Gr.), pol·loisʹ; Lat., mulʹtis.
+. Or, “extremity.” Heb., kenaphʹ.
+. Or, “be poured out.”
+. Possibly, “the one causing desolation.” Heb., sho·memʹ, a participle developed from the poʹʽel form of participle, mesho·memʹ, “the one causing desolation,” found earlier in this vs. See 8:13 ftn.
+====
+
+'''
+
+xref:027-daniel/027-daniel-008.adoc#v27-8-0[&#60; Capítulo Anterior] | <<v27-9-0,Topo>> | xref:027-daniel/027-daniel-010.adoc#v27-10-0[Próximo Capítulo &#62;]

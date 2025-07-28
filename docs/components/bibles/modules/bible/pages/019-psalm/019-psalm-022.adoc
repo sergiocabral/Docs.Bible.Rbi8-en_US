@@ -1,0 +1,250 @@
+include::./index.adoc[]
+
+[[v19-22-0]]
+=== Psalms, 22
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director upon the Hind^&#42;1^ of the Dawn. A melody of David._
+
+[[v19-22-1]]
+
+^<<v19-22-1,1>>^ My God, my God, why have you left me?^&#42;1^
+&#91;Why are you&#93; far from saving me,
+&#91;From&#93; the words of my roaring?^&#42;2^
+
+[NOTE]
+====
+. “My God, my God, why have you left me?” Heb., ʼE·liʹ, ʼE·liʹ, la·mahʹ ʽazav·taʹni?; Syr., ʼA·lahi ʼA·lahi lema·naʼ sebaq·tani? Compare Mt 27:46; Mr 15:34.
+. “Far from my salvation are the words of my trespasses,” LXXVg.
+====
+
+[[v19-22-2]]
+
+^<<v19-22-2,2>>^ O my God,^&#42;1^ I keep calling by day, and you do not answer;
+And by night, and there is no silence on my part.
+
+[NOTE]
+====
+. “My God.” Heb., ʼElo·haiʹ, pl.
+====
+
+[[v19-22-3]]
+
+^<<v19-22-3,3>>^ But you are holy,
+Inhabiting the praises of Israel.
+
+[[v19-22-4]]
+
+^<<v19-22-4,4>>^ In you our fathers trusted;
+They trusted, and you kept providing them with escape.
+
+[[v19-22-5]]
+
+^<<v19-22-5,5>>^ To you they cried out, and they got away safe;
+In you they trusted, and they did not come to shame.
+
+[[v19-22-6]]
+
+^<<v19-22-6,6>>^ But I am a worm, and not a man,^&#42;1^
+A reproach to men^&#42;2^ and despicable to the people.
+
+[NOTE]
+====
+. “Man.” Heb., ʼish.
+. Lit., “earthling man,” used collectively. Heb., ʼa·dhamʹ.
+====
+
+[[v19-22-7]]
+
+^<<v19-22-7,7>>^ As for all those seeing me, they hold me in derision;
+They keep opening their mouths wide,^&#42;1^ they keep wagging &#91;their&#93; head:
+
+[NOTE]
+====
+. Lit., “they make a separation with the lip.” Or, “they draw their mouth.”
+====
+
+[[v19-22-8]]
+
+^<<v19-22-8,8>>^ “He committed himself^&#42;1^ to Jehovah. Let Him provide him with escape!
+Let him deliver him, since he has taken delight in him!”
+
+[NOTE]
+====
+. Or, “Commit [yourself],” M; LXXVg, “He hoped.”
+====
+
+[[v19-22-9]]
+
+^<<v19-22-9,9>>^ For you were the One drawing me forth from the belly,
+The One making me trust while upon the breasts of my mother.
+
+[[v19-22-10]]
+
+^<<v19-22-10,10>>^ Upon you I have been thrown from the womb;
+From the belly of my mother you have been my God.^&#42;1^
+
+[NOTE]
+====
+. “My God.” Heb., ʼEʹli.
+====
+
+[[v19-22-11]]
+
+^<<v19-22-11,11>>^ Do not keep far off from me, because distress is nearby,
+Because there is no other helper.
+
+[[v19-22-12]]
+
+^<<v19-22-12,12>>^ Many young bulls have surrounded me;
+The powerful ones of Baʹshan themselves have got around me.
+
+[[v19-22-13]]
+
+^<<v19-22-13,13>>^ They have opened against me their mouth,
+As a lion tearing in pieces and roaring.
+
+[[v19-22-14]]
+
+^<<v19-22-14,14>>^ Like water I have been poured out,
+And all my bones have been separated from one another.
+My heart has become like wax;
+It has melted deep in my inward parts.
+
+[[v19-22-15]]
+
+^<<v19-22-15,15>>^ My power^&#42;1^ has dried up just like a fragment of earthenware,
+And my tongue is made to stick to my gums;^&#42;2^
+And in the dust of death you are setting me.
+
+[NOTE]
+====
+. “Palate,” by transposing two Heb. letters in M.
+. Or, “jaws.”
+====
+
+[[v19-22-16]]
+
+^<<v19-22-16,16>>^ For dogs have surrounded me;
+The assembly of evildoers themselves have enclosed me.
+Like a lion &#91;they are at&#93; my hands and my feet.^&#42;1^
+
+[NOTE]
+====
+. “Like the lion​—⁠my hands and (my) feet,” M; T, “Biting like a lion my hands and my feet”; LXXVg, “They bored (dug through) my hands and my feet.”
+====
+
+[[v19-22-17]]
+
+^<<v19-22-17,17>>^ I can count all my bones.
+They themselves look, they gaze upon me.
+
+[[v19-22-18]]
+
+^<<v19-22-18,18>>^ They apportion my garments among themselves,
+And upon my clothing they cast lots.
+
+[[v19-22-19]]
+
+^<<v19-22-19,19>>^ But you, O Jehovah, O do not keep far off.
+O you my strength, do make haste to my assistance.
+
+[[v19-22-20]]
+
+^<<v19-22-20,20>>^ Do deliver from the sword my soul,
+My only one^&#42;1^ from the very paw of the dog;
+
+[NOTE]
+====
+. “My only one,” fem., referring to “my soul.”
+====
+
+[[v19-22-21]]
+
+^<<v19-22-21,21>>^ Save me from the mouth of the lion,
+And from the horns of wild bulls you must answer &#91;and save&#93; me.
+
+[[v19-22-22]]
+
+^<<v19-22-22,22>>^ I will declare your name to my brothers;
+In the middle of the congregation^&#42;1^ I shall praise you.
+
+[NOTE]
+====
+. “Congregation.” Heb., qa·halʹ; Gr., ek·kle·siʹas; Lat., ec·cleʹsi·a.
+====
+
+[[v19-22-23]]
+
+^<<v19-22-23,23>>^ YOU fearers of Jehovah, praise him!
+All YOU the seed of Jacob, glorify him!
+And be frightened at him, all YOU the seed of Israel.
+
+[[v19-22-24]]
+
+^<<v19-22-24,24>>^ For he has neither despised
+Nor loathed the affliction of the afflicted one;
+And he has not concealed his face from him,
+And when he cried to him for help he heard.
+
+[[v19-22-25]]
+
+^<<v19-22-25,25>>^ From you my praise will be in the large congregation;
+My vows I shall pay in front of those fearing him.
+
+[[v19-22-26]]
+
+^<<v19-22-26,26>>^ The meek ones will eat and be satisfied;
+Those seeking him will praise Jehovah.
+May YOUR hearts^&#42;1^ live forever.
+
+[NOTE]
+====
+. Lit., “heart.”
+====
+
+[[v19-22-27]]
+
+^<<v19-22-27,27>>^ All the ends of the earth will remember and turn back to Jehovah.
+And all the families of the nations will bow down before you.
+
+[[v19-22-28]]
+
+^<<v19-22-28,28>>^ For the kingship belongs to Jehovah,
+And he is dominating the nations.
+
+[[v19-22-29]]
+
+^<<v19-22-29,29>>^ All the fat ones of the earth shall eat and will bow down;
+Before him all those going down to the dust will bend down,
+And no one will ever preserve his own soul^&#42;1^ alive.
+
+[NOTE]
+====
+. “And . . . his own soul.” Heb., wenaph·shohʹ. See App 4A.
+====
+
+[[v19-22-30]]
+
+^<<v19-22-30,30>>^ A seed^&#42;1^ itself will serve him;
+It will be declared concerning Jehovah^&#42;2^ to the generation.
+
+[NOTE]
+====
+. Or, “offspring.”
+. One of 134 scrib­al changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-22-31]]
+
+^<<v19-22-31,31>>^ They will come and tell of his righteousness
+To the people that is to be born, that he^&#42;1^ has done &#91;this&#93;.
+
+[NOTE]
+====
+. “He,” MT; LXXSyVg, “Jehovah.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-021.adoc#v19-21-0[&#60; Capítulo Anterior] | <<v19-22-0,Topo>> | xref:019-psalm/019-psalm-023.adoc#v19-23-0[Próximo Capítulo &#62;]

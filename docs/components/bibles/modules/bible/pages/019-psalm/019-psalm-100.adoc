@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v19-100-0]]
+=== Psalms, 100
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_A melody of thanksgiving._
+
+[[v19-100-1]]
+
+^<<v19-100-1,1>>^ Shout in triumph to Jehovah, all &#91;YOU people of&#93; the earth.^&#42;1^
+
+[NOTE]
+====
+. See 96:1 ftn, “Earth.”
+====
+
+[[v19-100-2]]
+
+^<<v19-100-2,2>>^ Serve^&#42;1^ Jehovah with rejoicing.
+Come in before him with a joyful cry.
+
+[NOTE]
+====
+. Lit., “May you worship (render sacred service).” Heb., ʽiv·dhuʹ, pl.
+====
+
+[[v19-100-3]]
+
+^<<v19-100-3,3>>^ Know that Jehovah is God.^&#42;1^
+It is he that has made us, and not we ourselves.^&#42;2^
+&#91;We are&#93; his people and the sheep of his pasturage.
+
+[NOTE]
+====
+. Lit., “he [is] God,” M(Heb., huʼ ʼElo·himʹ)T; Gr., ho The·osʹ; Sy, “our God.”
+. According to MLXXSyVg; MmarginTAq and many Heb. mss, “and we are his.”
+====
+
+[[v19-100-4]]
+
+^<<v19-100-4,4>>^ Come into his gates with thanksgiving,
+Into his courtyards with praise.
+Give thanks to him, bless his name.
+
+[[v19-100-5]]
+
+^<<v19-100-5,5>>^ For Jehovah is good;
+His loving-kindness is to time indefinite,
+And his faithfulness to generation after generation.^&#42;1^
+
+[NOTE]
+====
+. Or, “to all generations.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-099.adoc#v19-99-0[&#60; Capítulo Anterior] | <<v19-100-0,Topo>> | xref:019-psalm/019-psalm-101.adoc#v19-101-0[Próximo Capítulo &#62;]

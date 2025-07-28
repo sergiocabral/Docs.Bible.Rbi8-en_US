@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v4-19-0]]
+=== Numbers, 19
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v4-19-1]]
+
+^<<v4-19-1,1>>^ And Jehovah proceeded to speak to Moses and Aaron, saying:
+
+[[v4-19-2]]
+
+^<<v4-19-2,2>>^ “This is a statute of the law that Jehovah has commanded, saying, ‘Speak to the sons of Israel that they should take for you a sound red cow^&#42;1^ in which there is no defect and upon which no yoke has come.
+
+[NOTE]
+====
+. Or, “red heifer,” that is, a young cow that has not produced offspring.
+====
+
+[[v4-19-3]]
+
+^<<v4-19-3,3>>^ And YOU must give it to El·e·aʹzar the priest, and he must lead it forth outside the camp, and it must be slaughtered^&#42;1^ before him.
+
+[NOTE]
+====
+. Lit., “and he (one) must slaughter it,” M; LXX, “and they will slaughter it.”
+====
+
+[[v4-19-4]]
+
+^<<v4-19-4,4>>^ Then El·e·aʹzar the priest must take some of its blood with his finger and spatter some of its blood straight toward the front of the tent of meeting seven times.
+
+[[v4-19-5]]
+
+^<<v4-19-5,5>>^ And the cow must be burned^&#42;1^ under his eyes. Its skin and its flesh and its blood together with its dung will be burned.^&#42;2^
+
+[NOTE]
+====
+. Lit., “And he (one) must burn the young cow,” M; LXX, “And they will burn it up.”
+. Lit., “with its dung he (one) will burn,” M; LXX, “with its dung will be burned.”
+====
+
+[[v4-19-6]]
+
+^<<v4-19-6,6>>^ And the priest must take cedarwood and hyssop and coccus scarlet material and throw it into the midst of the burning of the cow.
+
+[[v4-19-7]]
+
+^<<v4-19-7,7>>^ And the priest must wash his garments and bathe his flesh in water, and afterward he may come into the camp; but the priest must be unclean until the evening.
+
+[[v4-19-8]]
+
+^<<v4-19-8,8>>^ “‘And the one who burned it will wash his garments in water and must bathe his flesh in water, and he must be unclean until the evening.
+
+[[v4-19-9]]
+
+^<<v4-19-9,9>>^ “‘And a clean man must gather up the ashes of the cow and deposit them outside the camp in a clean place; and they must serve the assembly of the sons of Israel as something to be kept for the water for cleansing.^&#42;1^ It is a sin offering.
+
+[NOTE]
+====
+. Or, “water used in case of menstruation.”
+====
+
+[[v4-19-10]]
+
+^<<v4-19-10,10>>^ And the one gathering the ashes of the cow must wash his garments and be unclean until the evening.
+“‘And it must serve the sons of Israel and the alien resident who is residing as an alien in their midst as a statute to time indefinite.
+
+[[v4-19-11]]
+
+^<<v4-19-11,11>>^ Anyone touching the corpse of any human soul^&#42;1^ must also be unclean seven days.
+
+[NOTE]
+====
+. “Human soul.” Lit., “soul of an earthling man.” Heb., neʹphesh ʼa·dhamʹ; Gr., psy·khesʹ an·throʹpou.
+====
+
+[[v4-19-12]]
+
+^<<v4-19-12,12>>^ Such one should purify himself with it on the third day, and on the seventh day he will be clean. But if he will not purify himself on the third day, then on the seventh day he will not be clean.
+
+[[v4-19-13]]
+
+^<<v4-19-13,13>>^ Everyone touching a corpse, the soul^&#42;1^ of whatever man may die, and who will not purify himself, has defiled Jehovah’s tabernacle, and that soul^&#42;2^ must be cut off from Israel. Because the water for cleansing has not been sprinkled upon him, he continues unclean. His uncleanness is still upon him.
+
+[NOTE]
+====
+. “The soul of,” evidently a dead soul. Heb., beneʹphesh; Gr., psy·khesʹ; Lat., aʹni·mae.
+. “Soul,” evidently a live soul. Heb., han·neʹphesh; Gr., psy·kheʹ; Syr., naph·shaʼ.
+====
+
+[[v4-19-14]]
+
+^<<v4-19-14,14>>^ “‘This is the law in case a man should die in a tent: Everyone coming into the tent, and everyone who is in the tent, will be unclean seven days.
+
+[[v4-19-15]]
+
+^<<v4-19-15,15>>^ And every opened vessel upon which there is no lid tied down^&#42;1^ is unclean.
+
+[NOTE]
+====
+. “Tied down,” LXX; M, “with a string.”
+====
+
+[[v4-19-16]]
+
+^<<v4-19-16,16>>^ And everyone who on the open field may touch someone slain with the sword or a corpse or a bone of a man or a burial place will be unclean seven days.
+
+[[v4-19-17]]
+
+^<<v4-19-17,17>>^ And they must take for the unclean one some of the dust of the burning of the sin offering and put running water upon it in a vessel.
+
+[[v4-19-18]]
+
+^<<v4-19-18,18>>^ Then a clean man must take hyssop and dip it into the water and spatter it upon the tent and all the vessels and the souls that happened to be there and upon the one who touched the bone or the slain one or the corpse or the burial place.
+
+[[v4-19-19]]
+
+^<<v4-19-19,19>>^ And the clean person must spatter it upon the unclean one on the third day and on the seventh day and must purify him from sin on the seventh day; and he must wash his garments and bathe in water, and he must be clean in the evening.
+
+[[v4-19-20]]
+
+^<<v4-19-20,20>>^ “‘But the man who may be unclean and who will not purify himself, well, that soul must be cut off from the midst of the congregation, because it is Jehovah’s sanctuary that he has defiled. The water for cleansing was not sprinkled upon him. He is unclean.
+
+[[v4-19-21]]
+
+^<<v4-19-21,21>>^ “‘And it must serve as a statute to time indefinite for them, that the one spattering the water for cleansing should wash his garments, also the one touching the water for cleansing. He will be unclean until the evening.
+
+[[v4-19-22]]
+
+^<<v4-19-22,22>>^ And anything the unclean one may touch will be unclean, and the soul who touches it will be unclean until the evening.’”
+
+'''
+
+xref:004-numbers/004-numbers-018.adoc#v4-18-0[&#60; Capítulo Anterior] | <<v4-19-0,Topo>> | xref:004-numbers/004-numbers-020.adoc#v4-20-0[Próximo Capítulo &#62;]

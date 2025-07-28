@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v9-8-0]]
+=== The First of Samuel, 8
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+[[v9-8-1]]
+
+^<<v9-8-1,1>>^ And it came about that as soon as Samuel had grown old he made appointments of his sons as judges for Israel.
+
+[[v9-8-2]]
+
+^<<v9-8-2,2>>^ Now the name of his firstborn son happened to be Joel, and the name of his second A·biʹjah; they were judging in Beʹer-sheʹba.
+
+[[v9-8-3]]
+
+^<<v9-8-3,3>>^ And his sons did not walk in his ways, but they were inclined to follow unjust profit and would accept a bribe and pervert judgment.
+
+[[v9-8-4]]
+
+^<<v9-8-4,4>>^ In time all the older men of Israel collected themselves together and came to Samuel at Raʹmah
+
+[[v9-8-5]]
+
+^<<v9-8-5,5>>^ and said to him: “Look! You yourself have grown old, but your own sons have not walked in your ways. Now do appoint for us a king to judge us like all the nations.”
+
+[[v9-8-6]]
+
+^<<v9-8-6,6>>^ But the thing was bad in the eyes of Samuel inasmuch as they had said: “Do give us a king to judge us,” and Samuel began to pray to Jehovah.
+
+[[v9-8-7]]
+
+^<<v9-8-7,7>>^ Then Jehovah said to Samuel: “Listen to the voice of the people as respects all that they say to you; for it is not you whom they have rejected, but it is I whom they have rejected from being king over them.
+
+[[v9-8-8]]
+
+^<<v9-8-8,8>>^ In accord with all their doings that they have done from the day of my bringing them up out of Egypt until this day in that they kept leaving me and serving other gods, that is the way they are doing also to you.
+
+[[v9-8-9]]
+
+^<<v9-8-9,9>>^ And now listen to their voice. Only this, that you should solemnly warn them, and you must tell them the rightful due of the king who will reign over them.”
+
+[[v9-8-10]]
+
+^<<v9-8-10,10>>^ So Samuel said all the words of Jehovah to the people who were asking a king of him.
+
+[[v9-8-11]]
+
+^<<v9-8-11,11>>^ And he proceeded to say: “This will become the rightful due of the king that will reign over YOU: YOUR sons he will take and put them as his in his chariots and among his horsemen, and some will have to run before his chariots;
+
+[[v9-8-12]]
+
+^<<v9-8-12,12>>^ and to appoint for himself chiefs^&#42;1^ over thousands and chiefs over fifties, and &#91;some&#93; to do his plowing and to reap his harvest and to make his war instruments and his chariot instruments.
+
+[NOTE]
+====
+. Compare Ex 18:21 ftns.
+====
+
+[[v9-8-13]]
+
+^<<v9-8-13,13>>^ And YOUR daughters he will take for ointment mixers and cooks and bakers.
+
+[[v9-8-14]]
+
+^<<v9-8-14,14>>^ And YOUR fields and YOUR vineyards and YOUR olive groves, the best ones, he will take and actually give to his servants.
+
+[[v9-8-15]]
+
+^<<v9-8-15,15>>^ And of YOUR fields of seed and of YOUR vineyards he will take the tenth, and he will certainly give &#91;them&#93; to his court officials and his servants.
+
+[[v9-8-16]]
+
+^<<v9-8-16,16>>^ And YOUR menservants and YOUR maidservants and YOUR best herds,^&#42;1^ and YOUR asses he will take, and he will have to use them for his work.
+
+[NOTE]
+====
+. “Herds,” LXX; MSyVg, “young men.”
+====
+
+[[v9-8-17]]
+
+^<<v9-8-17,17>>^ Of YOUR flocks he will take the tenth, and YOU yourselves will become his as servants.
+
+[[v9-8-18]]
+
+^<<v9-8-18,18>>^ And YOU will certainly cry out in that day by reason of YOUR king, whom YOU have chosen for yourselves, but Jehovah will not answer YOU in that day.”
+
+[[v9-8-19]]
+
+^<<v9-8-19,19>>^ However, the people refused to listen to the voice of Samuel and said: “No, but a king is what will come to be over us.
+
+[[v9-8-20]]
+
+^<<v9-8-20,20>>^ And we must become, we also, like all the nations, and our king must judge us and go out before us and fight our battles.”
+
+[[v9-8-21]]
+
+^<<v9-8-21,21>>^ And Samuel gave a hearing to all the words of the people; then he spoke them in the ears of Jehovah.
+
+[[v9-8-22]]
+
+^<<v9-8-22,22>>^ And Jehovah proceeded to say to Samuel: “Listen to their voice, and you must cause a king to reign for them.” Accordingly Samuel said to the men of Israel: “Go each one to his city.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-007.adoc#v9-7-0[&#60; Capítulo Anterior] | <<v9-8-0,Topo>> | xref:009-1-samuel/009-1-samuel-009.adoc#v9-9-0[Próximo Capítulo &#62;]

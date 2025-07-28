@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-57-0]]
+=== Psalms, 57
+// Rbi8 1984, Rbi8 - New World Translation of the Holy Scriptures—With References
+
+_To the director. “Do not bring to ruin.” Of David. Mikʹtam.^&#42;1^ When he ran away because of Saul, into the cave._
+
+[[v19-57-1]]
+
+^<<v19-57-1,1>>^ Show me favor, O God, show me favor,
+For in you my soul has taken refuge;
+And in the shadow of your wings I take refuge until the adversities pass over.
+
+[[v19-57-2]]
+
+^<<v19-57-2,2>>^ I call to God the Most High, to the &#91;true&#93; God^&#42;1^ who is bringing &#91;them&#93; to an end on my account.
+
+[NOTE]
+====
+. “To the [true] God.” Heb., la·ʼElʹ. See App 1G.
+====
+
+[[v19-57-3]]
+
+^<<v19-57-3,3>>^ He will send from heaven and save me.
+He will certainly confuse the one snapping at me. Seʹlah.
+God will send his loving-kindness^&#42;1^ and his trueness.^&#42;2^
+
+[NOTE]
+====
+. Or, “loyal love.”
+. Or, “truth.”
+====
+
+[[v19-57-4]]
+
+^<<v19-57-4,4>>^ My soul is in the middle of lions;
+I cannot but lie down among devourers, &#91;even&#93; the sons of men,^&#42;1^
+Whose teeth are spears and arrows,
+And whose tongue is a sharp sword.
+
+[NOTE]
+====
+. Or, “earthling man.” Heb., ʼa·dhamʹ.
+====
+
+[[v19-57-5]]
+
+^<<v19-57-5,5>>^ O be exalted above the heavens, O God;
+Let your glory be above all the earth.
+
+[[v19-57-6]]
+
+^<<v19-57-6,6>>^ A net they have prepared for my steps;
+My soul has become bowed down.
+They excavated before me a pitfall;
+They have fallen into the midst of it. Seʹlah.
+
+[[v19-57-7]]
+
+^<<v19-57-7,7>>^ My heart is steadfast, O God,
+My heart is steadfast.
+I will sing and make melody.
+
+[[v19-57-8]]
+
+^<<v19-57-8,8>>^ Do awake, O my glory;
+Do awake, O stringed instrument; you too, O harp.
+I will awaken the dawn.
+
+[[v19-57-9]]
+
+^<<v19-57-9,9>>^ I shall laud you among the peoples, O Jehovah;^&#42;1^
+I shall make melody to you among the national groups.
+
+[NOTE]
+====
+. One of 134 scribal changes from YHWH to ʼAdho·naiʹ. See App 1B.
+====
+
+[[v19-57-10]]
+
+^<<v19-57-10,10>>^ For your loving-kindness^&#42;1^ is great up to the heavens,
+And your trueness^&#42;2^ up to the skies.
+
+[NOTE]
+====
+. Or, “loyal love.”
+. Or, “your truth.” Heb., ʼamit·teʹkha (from ʼemethʹ).
+====
+
+[[v19-57-11]]
+
+^<<v19-57-11,11>>^ Do be exalted above the heavens, O God;
+Let your glory be above all the earth.
+
+'''
+
+xref:019-psalm/019-psalm-056.adoc#v19-56-0[&#60; Capítulo Anterior] | <<v19-57-0,Topo>> | xref:019-psalm/019-psalm-058.adoc#v19-58-0[Próximo Capítulo &#62;]
