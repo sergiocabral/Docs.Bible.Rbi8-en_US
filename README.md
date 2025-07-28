@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: New World Translation of the Holy Scriptures — With References (Rbi8, en_US, 1984)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://rbi8-en-us.bible.raciocinios.com.br/
 
 ---
 
